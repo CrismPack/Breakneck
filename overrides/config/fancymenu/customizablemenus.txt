@@ -1,0 +1,14 @@
+type = customizablemenus
+
+com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu {
+}
+
+net.minecraftforge.fml.client.gui.screen.ModListScreen {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_418 {
+}
+
