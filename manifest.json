@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "fabric-0.14.9",
+        "id": "fabric-0.14.10",
         "primary": true
       }
     ]
