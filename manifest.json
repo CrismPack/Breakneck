@@ -1067,7 +1067,8 @@
       "fileID": 3908979,
       "required": true,
       "__meta": {
-        "name": "MemoryLeakFix"
+        "name": "MemoryLeakFix",
+        "pinned": true
       }
     },
     {
