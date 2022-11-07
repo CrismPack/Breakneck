@@ -126,16 +126,22 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   orientation = mid-centered
-  x = 2
+  x = 14
   action = movebutton
-  y = 24
+  y = 96
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  width = 98
+  width = 20
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = setbuttonlabel
+  value = 
 }
 
 customization {
@@ -143,8 +149,14 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  backgroundhovered = resources\mainmenu\realms_hover2.png
+  backgroundnormal = resources\mainmenu\realms_normal2.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = sethoverlabel
+  label = Minecraft Realms
 }
 
 customization {
@@ -172,9 +184,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
-  x = 104
+  x = -34
   action = movebutton
-  y = 24
+  y = 96
 }
 
 customization {
@@ -320,11 +332,11 @@ customization {
   label = 
   loopbackgroundanimations = true
   hoverlabel = Join our Discord!
-  x = 104
+  x = -10
   width = 20
   actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
   action = addbutton
-  y = 0
+  y = 96
   backgroundnormal = resources\mainmenu\discord_normal.png
   value = https://discord.com/invite/Kss5gBgeDA
   height = 20
@@ -384,5 +396,22 @@ customization {
   actionid = 6e74e51f-7a4e-4768-b6a0-91d06915dacc1658256280551
   action = addsplash
   y = -77
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  label = Need a server?
+  loopbackgroundanimations = true
+  x = 428
+  width = 98
+  actionid = 0282c88b-0463-41a9-a763-4e62febda2ee1667778762437
+  action = addbutton
+  y = 253
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  value = https://bisecthosting.com/CRISM
+  height = 20
 }
 
