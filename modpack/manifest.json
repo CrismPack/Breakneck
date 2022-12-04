@@ -264,14 +264,6 @@
       }
     },
     {
-      "projectID": 353890,
-      "fileID": 4081231,
-      "required": true,
-      "__meta": {
-        "name": "Not Enough Crashes (Fabric)"
-      }
-    },
-    {
       "projectID": 356643,
       "fileID": 4021907,
       "required": true,
@@ -570,6 +562,14 @@
       "required": true,
       "__meta": {
         "name": "Krypton"
+      }
+    },
+    {
+      "projectID": 433447,
+      "fileID": 3831043,
+      "required": true,
+      "__meta": {
+        "name": "MixinTrace"
       }
     },
     {
