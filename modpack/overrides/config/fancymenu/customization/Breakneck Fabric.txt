@@ -292,22 +292,6 @@ customization {
 }
 
 customization {
-  orientation = bottom-left
-  basecolor = aa0000
-  shadow = true
-  splashfilepath = resources\mainmenu\modpackversion.txt
-  rotation = 0.0
-  scale = 1.102
-  refresh = true
-  bouncing = false
-  vanilla-like = false
-  x = 60
-  actionid = 67f77779-f30c-4e11-8e34-473e04b93afc1626197500134
-  action = addsplash
-  y = -27
-}
-
-customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = opengui
@@ -386,7 +370,7 @@ customization {
   orientation = bottom-right
   basecolor = aa0000
   shadow = true
-  splashfilepath = resources\mainmenu\splashes.txt
+  splashfilepath = resources/mainmenu/splashes.txt
   rotation = -20.0
   scale = 1.0
   refresh = false
@@ -413,5 +397,17 @@ customization {
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
   value = https://bisecthosting.com/CRISM
   height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 6dd3a564-b776-4b19-930e-ec0d5a76c05b1670208137928
+  action = addtext
+  y = -27
+  scale = 0.8
+  alignment = left
+  value = §4Breakneck: Optimized - %randomtext:resources\mainmenu\modpackversion.txt:1%
 }
 
