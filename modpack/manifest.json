@@ -173,7 +173,7 @@
     {
       "projectID": 308892,
       "fileID": 4026753,
-      "required": true,
+      "required": false,
       "__meta": {
         "name": "Litematica",
         "dependencies": [
@@ -709,14 +709,6 @@
       }
     },
     {
-      "projectID": 473492,
-      "fileID": 3836941,
-      "required": true,
-      "__meta": {
-        "name": "Recipe Cache"
-      }
-    },
-    {
       "projectID": 477078,
       "fileID": 3821136,
       "required": true,
@@ -1093,6 +1085,14 @@
       "required": true,
       "__meta": {
         "name": "Recipe Book is Pain"
+      }
+    },
+    {
+      "projectID": 652113,
+      "fileID": 4010592,
+      "required": true,
+      "__meta": {
+        "name": "FastAnim"
       }
     },
     {
