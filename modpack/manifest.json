@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "1.19.2",
+    "version": "1.18.2",
     "modLoaders": [
       {
         "id": "fabric-0.14.10",
@@ -11,13 +11,13 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "2.1.5",
+  "version": "1.1.0",
   "author": "CrismPack",
   "name": "Breakneck",
   "files": [
     {
       "projectID": 60089,
-      "fileID": 3828448,
+      "fileID": 3601896,
       "required": true,
       "__meta": {
         "name": "Mouse Tweaks"
@@ -25,7 +25,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 4052855,
+      "fileID": 4064970,
       "required": true,
       "__meta": {
         "name": "Bookshelf"
@@ -33,7 +33,7 @@
     },
     {
       "projectID": 244260,
-      "fileID": 3923228,
+      "fileID": 3909308,
       "required": true,
       "__meta": {
         "name": "MiniHUD",
@@ -44,7 +44,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3927567,
+      "fileID": 3927566,
       "required": true,
       "__meta": {
         "name": "AppleSkin",
@@ -55,7 +55,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 4050342,
+      "fileID": 3950208,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -63,7 +63,7 @@
     },
     {
       "projectID": 250419,
-      "fileID": 4103617,
+      "fileID": 4102072,
       "required": true,
       "__meta": {
         "name": "Enchantment Descriptions",
@@ -74,7 +74,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3950215,
+      "fileID": 3913405,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -90,7 +90,7 @@
     },
     {
       "projectID": 272515,
-      "fileID": 3940455,
+      "fileID": 4111317,
       "required": true,
       "__meta": {
         "name": "Better Advancements"
@@ -98,7 +98,7 @@
     },
     {
       "projectID": 273279,
-      "fileID": 3907240,
+      "fileID": 3687749,
       "required": true,
       "__meta": {
         "name": "AntiGhost"
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 280294,
-      "fileID": 3931334,
+      "fileID": 3680785,
       "required": true,
       "__meta": {
         "name": "FPS Reducer",
@@ -117,7 +117,7 @@
     },
     {
       "projectID": 292908,
-      "fileID": 4073907,
+      "fileID": 3791214,
       "required": true,
       "__meta": {
         "name": "Illuminations 🔥",
@@ -128,7 +128,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 3923052,
+      "fileID": 3692220,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -136,7 +136,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 4123950,
+      "fileID": 4100443,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -144,7 +144,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 4100232,
+      "fileID": 4065495,
       "required": true,
       "__meta": {
         "name": "Mod Menu"
@@ -160,7 +160,7 @@
     },
     {
       "projectID": 308793,
-      "fileID": 4070162,
+      "fileID": 3682009,
       "required": true,
       "__meta": {
         "name": "Clear Despawn [Fabric]",
@@ -172,8 +172,8 @@
     },
     {
       "projectID": 308892,
-      "fileID": 4026753,
-      "required": false,
+      "fileID": 3783909,
+      "required": true,
       "__meta": {
         "name": "Litematica",
         "dependencies": [
@@ -183,7 +183,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 4126350,
+      "fileID": 4126354,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -196,7 +196,7 @@
     },
     {
       "projectID": 315811,
-      "fileID": 4054090,
+      "fileID": 4032072,
       "required": true,
       "__meta": {
         "name": "ShulkerBoxTooltip [Fabric/Forge]",
@@ -207,7 +207,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 4127339,
+      "fileID": 4127337,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
@@ -218,7 +218,7 @@
     },
     {
       "projectID": 320163,
-      "fileID": 3955823,
+      "fileID": 3757529,
       "required": true,
       "__meta": {
         "name": "Ambient Environment"
@@ -226,7 +226,7 @@
     },
     {
       "projectID": 325092,
-      "fileID": 3821958,
+      "fileID": 3709015,
       "required": true,
       "__meta": {
         "name": "Colormatic",
@@ -237,7 +237,7 @@
     },
     {
       "projectID": 325625,
-      "fileID": 3837336,
+      "fileID": 3736226,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Resources",
@@ -257,7 +257,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 3972420,
+      "fileID": 3972425,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)"
@@ -265,7 +265,7 @@
     },
     {
       "projectID": 356643,
-      "fileID": 4021907,
+      "fileID": 3764447,
       "required": true,
       "__meta": {
         "name": "Auth Me",
@@ -276,7 +276,7 @@
     },
     {
       "projectID": 359836,
-      "fileID": 4019976,
+      "fileID": 3673296,
       "required": true,
       "__meta": {
         "name": "MinecraftCapes Mod",
@@ -287,15 +287,26 @@
     },
     {
       "projectID": 360438,
-      "fileID": 4077220,
+      "fileID": 4081372,
       "required": true,
       "__meta": {
         "name": "Lithium (Fabric)"
       }
     },
     {
+      "projectID": 363126,
+      "fileID": 3540327,
+      "required": true,
+      "__meta": {
+        "name": "Boring Backgrounds",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 365727,
-      "fileID": 3845449,
+      "fileID": 3470993,
       "required": true,
       "__meta": {
         "name": "Dark Loading Screen"
@@ -303,7 +314,7 @@
     },
     {
       "projectID": 366263,
-      "fileID": 3821736,
+      "fileID": 3352348,
       "required": true,
       "__meta": {
         "name": "Name Pain",
@@ -311,14 +322,6 @@
           306612,
           348521
         ]
-      }
-    },
-    {
-      "projectID": 367561,
-      "fileID": 3939764,
-      "required": true,
-      "__meta": {
-        "name": "Chat Up!"
       }
     },
     {
@@ -331,7 +334,7 @@
     },
     {
       "projectID": 375465,
-      "fileID": 3920639,
+      "fileID": 3668269,
       "required": true,
       "__meta": {
         "name": "CleanView (Fabric)",
@@ -342,7 +345,7 @@
     },
     {
       "projectID": 384852,
-      "fileID": 3842621,
+      "fileID": 3649603,
       "required": true,
       "__meta": {
         "name": "Map Tooltip"
@@ -350,7 +353,7 @@
     },
     {
       "projectID": 387365,
-      "fileID": 3831957,
+      "fileID": 3831952,
       "required": true,
       "__meta": {
         "name": "Lan Server Properties"
@@ -366,7 +369,7 @@
     },
     {
       "projectID": 394468,
-      "fileID": 3957319,
+      "fileID": 3669187,
       "required": true,
       "__meta": {
         "name": "Sodium"
@@ -374,7 +377,7 @@
     },
     {
       "projectID": 396568,
-      "fileID": 3990788,
+      "fileID": 3987917,
       "required": true,
       "__meta": {
         "name": "BedrockWaters",
@@ -385,7 +388,7 @@
     },
     {
       "projectID": 398502,
-      "fileID": 3927554,
+      "fileID": 3855113,
       "required": true,
       "__meta": {
         "name": "Cherished Worlds (Fabric)",
@@ -396,7 +399,7 @@
     },
     {
       "projectID": 399798,
-      "fileID": 3854720,
+      "fileID": 3573935,
       "required": true,
       "__meta": {
         "name": "Item Model Fix (Fabric)"
@@ -404,7 +407,7 @@
     },
     {
       "projectID": 400322,
-      "fileID": 3834055,
+      "fileID": 3833479,
       "required": true,
       "__meta": {
         "name": "LambdaBetterGrass",
@@ -416,7 +419,7 @@
     },
     {
       "projectID": 401978,
-      "fileID": 3827588,
+      "fileID": 3677546,
       "required": true,
       "__meta": {
         "name": "[FABRIC/QUILT] Disable Custom Worlds Advice"
@@ -424,7 +427,7 @@
     },
     {
       "projectID": 404400,
-      "fileID": 3827052,
+      "fileID": 3710782,
       "required": true,
       "__meta": {
         "name": "Don't Clear Chat History"
@@ -432,7 +435,7 @@
     },
     {
       "projectID": 406343,
-      "fileID": 4018586,
+      "fileID": 3790832,
       "required": true,
       "__meta": {
         "name": "Better Ping Display [Fabric]"
@@ -440,7 +443,7 @@
     },
     {
       "projectID": 407206,
-      "fileID": 3923444,
+      "fileID": 3570678,
       "required": true,
       "__meta": {
         "name": "Chat Heads",
@@ -451,7 +454,7 @@
     },
     {
       "projectID": 409301,
-      "fileID": 4096481,
+      "fileID": 3686441,
       "required": true,
       "__meta": {
         "name": "Bobby"
@@ -459,7 +462,7 @@
     },
     {
       "projectID": 411705,
-      "fileID": 3841695,
+      "fileID": 3548092,
       "required": true,
       "__meta": {
         "name": "Damage Tilt",
@@ -470,7 +473,7 @@
     },
     {
       "projectID": 411816,
-      "fileID": 4082892,
+      "fileID": 4082888,
       "required": true,
       "__meta": {
         "name": "Simple Discord RPC [Forge/Fabric/Quilt]",
@@ -481,7 +484,7 @@
     },
     {
       "projectID": 416796,
-      "fileID": 4083362,
+      "fileID": 4083360,
       "required": true,
       "__meta": {
         "name": "FancyMenu [Fabric]",
@@ -493,7 +496,7 @@
     },
     {
       "projectID": 416797,
-      "fileID": 4031709,
+      "fileID": 4136411,
       "required": true,
       "__meta": {
         "name": "Konkrete [Fabric]",
@@ -504,7 +507,7 @@
     },
     {
       "projectID": 417510,
-      "fileID": 4101831,
+      "fileID": 3782712,
       "required": true,
       "__meta": {
         "name": "Falling Leaves (Fabric)",
@@ -516,7 +519,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 4104615,
+      "fileID": 4040965,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)",
@@ -527,7 +530,7 @@
     },
     {
       "projectID": 419938,
-      "fileID": 3845934,
+      "fileID": 3545270,
       "required": true,
       "__meta": {
         "name": "Simple Measuring",
@@ -538,7 +541,7 @@
     },
     {
       "projectID": 421897,
-      "fileID": 3845717,
+      "fileID": 3637514,
       "required": true,
       "__meta": {
         "name": "Particle Rain",
@@ -558,7 +561,7 @@
     },
     {
       "projectID": 428912,
-      "fileID": 3908028,
+      "fileID": 3682488,
       "required": true,
       "__meta": {
         "name": "Krypton"
@@ -574,7 +577,7 @@
     },
     {
       "projectID": 433518,
-      "fileID": 3821870,
+      "fileID": 3209972,
       "required": true,
       "__meta": {
         "name": "LazyDFU"
@@ -582,7 +585,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 4065548,
+      "fileID": 3739671,
       "required": true,
       "__meta": {
         "name": "Not Enough Animations"
@@ -590,7 +593,7 @@
     },
     {
       "projectID": 435044,
-      "fileID": 3834421,
+      "fileID": 3834418,
       "required": true,
       "__meta": {
         "name": "Better Third Person"
@@ -598,10 +601,18 @@
     },
     {
       "projectID": 437443,
-      "fileID": 3926121,
+      "fileID": 3769487,
       "required": true,
       "__meta": {
         "name": "Better Sodium Video Settings Button"
+      }
+    },
+    {
+      "projectID": 437779,
+      "fileID": 3734912,
+      "required": true,
+      "__meta": {
+        "name": "Dimension Fix (Some Forge Patches Ported)"
       }
     },
     {
@@ -617,7 +628,7 @@
     },
     {
       "projectID": 446253,
-      "fileID": 3832880,
+      "fileID": 3804087,
       "required": true,
       "__meta": {
         "name": "Better Biome Blend",
@@ -628,7 +639,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 4126062,
+      "fileID": 4126059,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -640,7 +651,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 3823508,
+      "fileID": 3743933,
       "required": true,
       "__meta": {
         "name": "Entity Culling Fabric/Forge"
@@ -648,7 +659,7 @@
     },
     {
       "projectID": 448311,
-      "fileID": 3920638,
+      "fileID": 3543360,
       "required": true,
       "__meta": {
         "name": "Drip Sounds (Fabric)",
@@ -660,7 +671,7 @@
     },
     {
       "projectID": 452046,
-      "fileID": 4046700,
+      "fileID": 3841822,
       "required": true,
       "__meta": {
         "name": "Enhanced Block Entities",
@@ -679,7 +690,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 4119878,
+      "fileID": 4119871,
       "required": true,
       "__meta": {
         "name": "Iris Shaders",
@@ -691,7 +702,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 3957480,
+      "fileID": 3911811,
       "required": true,
       "__meta": {
         "name": "Indium",
@@ -702,7 +713,7 @@
     },
     {
       "projectID": 459857,
-      "fileID": 4117902,
+      "fileID": 3767285,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
@@ -710,7 +721,7 @@
     },
     {
       "projectID": 477078,
-      "fileID": 3821136,
+      "fileID": 3709988,
       "required": true,
       "__meta": {
         "name": "Custom Entity Models (CEM)"
@@ -718,7 +729,7 @@
     },
     {
       "projectID": 480657,
-      "fileID": 3840178,
+      "fileID": 3840177,
       "required": true,
       "__meta": {
         "name": "Replanter"
@@ -726,7 +737,7 @@
     },
     {
       "projectID": 484738,
-      "fileID": 3832036,
+      "fileID": 3754930,
       "required": true,
       "__meta": {
         "name": "Status Effect Timer"
@@ -734,7 +745,7 @@
     },
     {
       "projectID": 486485,
-      "fileID": 3837129,
+      "fileID": 3764547,
       "required": true,
       "__meta": {
         "name": "Better Recipe Books (+ Brewing Stands)"
@@ -742,7 +753,7 @@
     },
     {
       "projectID": 488090,
-      "fileID": 4059589,
+      "fileID": 3821194,
       "required": true,
       "__meta": {
         "name": "MidnightLib",
@@ -753,7 +764,7 @@
     },
     {
       "projectID": 495267,
-      "fileID": 4131943,
+      "fileID": 4131942,
       "required": true,
       "__meta": {
         "name": "Inventory Profiles Next",
@@ -766,7 +777,7 @@
     },
     {
       "projectID": 500525,
-      "fileID": 3913965,
+      "fileID": 3914493,
       "required": true,
       "__meta": {
         "name": "Balm (Fabric Edition)",
@@ -778,7 +789,7 @@
     },
     {
       "projectID": 506898,
-      "fileID": 3823985,
+      "fileID": 3668091,
       "required": true,
       "__meta": {
         "name": "Detail Armor Bar [Fabric]",
@@ -788,8 +799,16 @@
       }
     },
     {
+      "projectID": 511733,
+      "fileID": 3791079,
+      "required": true,
+      "__meta": {
+        "name": "Clickable advancements[Forge/Fabric]"
+      }
+    },
+    {
       "projectID": 514882,
-      "fileID": 3949457,
+      "fileID": 3947980,
       "required": true,
       "__meta": {
         "name": "Advancement Plaques [Fabric]",
@@ -801,7 +820,7 @@
     },
     {
       "projectID": 521427,
-      "fileID": 3975969,
+      "fileID": 3855196,
       "required": true,
       "__meta": {
         "name": "CIT Resewn"
@@ -809,7 +828,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 4001981,
+      "fileID": 4001978,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -817,7 +836,7 @@
     },
     {
       "projectID": 521594,
-      "fileID": 4063121,
+      "fileID": 3743876,
       "required": true,
       "__meta": {
         "name": "Wavey Capes"
@@ -825,7 +844,7 @@
     },
     {
       "projectID": 521783,
-      "fileID": 3835973,
+      "fileID": 3667443,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
@@ -833,7 +852,7 @@
     },
     {
       "projectID": 527023,
-      "fileID": 3898689,
+      "fileID": 3808987,
       "required": true,
       "__meta": {
         "name": "Eating Animation [Fabric]"
@@ -841,7 +860,7 @@
     },
     {
       "projectID": 527334,
-      "fileID": 4127477,
+      "fileID": 3641052,
       "required": true,
       "__meta": {
         "name": "Language Reload",
@@ -852,7 +871,7 @@
     },
     {
       "projectID": 531351,
-      "fileID": 3927270,
+      "fileID": 3927269,
       "required": true,
       "__meta": {
         "name": "Continuity",
@@ -864,7 +883,7 @@
     },
     {
       "projectID": 532113,
-      "fileID": 4088203,
+      "fileID": 3683649,
       "required": true,
       "__meta": {
         "name": "TalkBubbles",
@@ -876,7 +895,7 @@
     },
     {
       "projectID": 533006,
-      "fileID": 3844732,
+      "fileID": 3844728,
       "required": true,
       "__meta": {
         "name": "Animatica",
@@ -896,7 +915,7 @@
     },
     {
       "projectID": 539382,
-      "fileID": 3922111,
+      "fileID": 3675784,
       "required": true,
       "__meta": {
         "name": "Iceberg [Fabric]"
@@ -904,7 +923,7 @@
     },
     {
       "projectID": 541329,
-      "fileID": 3848278,
+      "fileID": 3723542,
       "required": true,
       "__meta": {
         "name": "Equipment Compare [Fabric]",
@@ -917,7 +936,7 @@
     },
     {
       "projectID": 542478,
-      "fileID": 3998293,
+      "fileID": 3964264,
       "required": true,
       "__meta": {
         "name": "Legendary Tooltips [Fabric]",
@@ -930,8 +949,21 @@
       }
     },
     {
+      "projectID": 547429,
+      "fileID": 3804330,
+      "required": true,
+      "__meta": {
+        "name": "Puzzles Lib [Outdated]",
+        "explicit": false,
+        "dependencies": [
+          547434,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 547434,
-      "fileID": 4104948,
+      "fileID": 3943250,
       "required": true,
       "__meta": {
         "name": "Forge Config API Port",
@@ -941,8 +973,21 @@
       }
     },
     {
+      "projectID": 547474,
+      "fileID": 3671362,
+      "required": true,
+      "__meta": {
+        "name": "Pick Up Notifier [Outdated]",
+        "dependencies": [
+          306612,
+          547434,
+          547429
+        ]
+      }
+    },
+    {
       "projectID": 547692,
-      "fileID": 3901913,
+      "fileID": 3666466,
       "required": true,
       "__meta": {
         "name": "Client Tweaks (Fabric Edition)",
@@ -953,15 +998,31 @@
     },
     {
       "projectID": 548115,
-      "fileID": 3842540,
+      "fileID": 3842538,
       "required": true,
       "__meta": {
         "name": "Alternate Current"
       }
     },
     {
+      "projectID": 560323,
+      "fileID": 3665605,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone"
+      }
+    },
+    {
+      "projectID": 560957,
+      "fileID": 3625238,
+      "required": true,
+      "__meta": {
+        "name": "TieFix"
+      }
+    },
+    {
       "projectID": 563977,
-      "fileID": 3912555,
+      "fileID": 4013747,
       "required": true,
       "__meta": {
         "name": "Puzzle",
@@ -973,7 +1034,7 @@
     },
     {
       "projectID": 568563,
-      "fileID": 4090086,
+      "fileID": 4090082,
       "required": true,
       "__meta": {
         "name": "Entity Texture Features - [Fabric & Forge]"
@@ -981,7 +1042,7 @@
     },
     {
       "projectID": 570368,
-      "fileID": 4084122,
+      "fileID": 4084103,
       "required": true,
       "__meta": {
         "name": "Raised"
@@ -989,7 +1050,7 @@
     },
     {
       "projectID": 574741,
-      "fileID": 4027846,
+      "fileID": 3993437,
       "required": true,
       "__meta": {
         "name": "Zoomify",
@@ -1002,7 +1063,7 @@
     },
     {
       "projectID": 577919,
-      "fileID": 3923904,
+      "fileID": 3779525,
       "required": true,
       "__meta": {
         "name": "thorium"
@@ -1010,7 +1071,7 @@
     },
     {
       "projectID": 582327,
-      "fileID": 3912883,
+      "fileID": 3787100,
       "required": true,
       "__meta": {
         "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]"
@@ -1018,7 +1079,7 @@
     },
     {
       "projectID": 582640,
-      "fileID": 4075320,
+      "fileID": 3768225,
       "required": true,
       "__meta": {
         "name": "Better Fps - Render Distance[Fabric]"
@@ -1026,7 +1087,7 @@
     },
     {
       "projectID": 585548,
-      "fileID": 3836367,
+      "fileID": 3707430,
       "required": true,
       "__meta": {
         "name": "BisectHosting Server Integration Menu [FABRIC]"
@@ -1034,7 +1095,7 @@
     },
     {
       "projectID": 596224,
-      "fileID": 4060233,
+      "fileID": 3812300,
       "required": true,
       "__meta": {
         "name": "Debugify",
@@ -1045,7 +1106,7 @@
     },
     {
       "projectID": 597988,
-      "fileID": 4109337,
+      "fileID": 3958778,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Professions (REP)",
@@ -1056,27 +1117,18 @@
     },
     {
       "projectID": 627566,
-      "fileID": 3908979,
+      "fileID": 3910621,
       "required": true,
       "__meta": {
-        "name": "MemoryLeakFix",
-        "pinned": true
+        "name": "MemoryLeakFix"
       }
     },
     {
       "projectID": 630620,
-      "fileID": 4133039,
+      "fileID": 4133038,
       "required": true,
       "__meta": {
         "name": "Fastload"
-      }
-    },
-    {
-      "projectID": 634062,
-      "fileID": 4082460,
-      "required": true,
-      "__meta": {
-        "name": "No Chat Reports"
       }
     },
     {
@@ -1088,35 +1140,16 @@
       }
     },
     {
-      "projectID": 652113,
-      "fileID": 4010592,
-      "required": true,
-      "__meta": {
-        "name": "FastAnim"
-      }
-    },
-    {
       "projectID": 665526,
-      "fileID": 4030091,
+      "fileID": 4032511,
       "required": true,
       "__meta": {
         "name": "Prism [Fabric]"
       }
     },
     {
-      "projectID": 667299,
-      "fileID": 4087063,
-      "required": true,
-      "__meta": {
-        "name": "YetAnotherConfigLib",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 679177,
-      "fileID": 4128626,
+      "fileID": 4128627,
       "required": true,
       "__meta": {
         "name": "libIPN",
