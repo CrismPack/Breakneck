@@ -1,9 +1,9 @@
 {
   "minecraft": {
-    "version": "1.19.2",
+    "version": "1.19.3",
     "modLoaders": [
       {
-        "id": "fabric-0.14.10",
+        "id": "fabric-0.14.11",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "2.1.5",
+  "version": "1.19.3-pre1",
   "author": "CrismPack",
   "name": "Breakneck",
   "files": [
