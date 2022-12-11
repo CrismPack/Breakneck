@@ -1,15 +1,15 @@
 name = "Indium"
-filename = "indium-1.0.9+mc1.19.2.jar"
+filename = "indium-1.0.10+mc1.19.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+hash = "5a016a84c55a026286b25c8b3686c1acece6ca6f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3957480
+file-id = 4160278
 project-id = 459496
 
 [option]
