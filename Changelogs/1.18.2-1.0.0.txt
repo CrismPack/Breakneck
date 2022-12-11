@@ -1,0 +1,39 @@
+Breakneck - 1.18.2 - v1.0.0
+
+Fabric version: Fabric-0.13.3
+Update summary: First release version. Updated all mods, added some new ones and removed some problematic ones.
+
+
+Added Mods:
++ Inventory Profiles Next
++ Debugify
++ Enhanced Block Entities
++ Reese's Sodium Options
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> Auth Me
+> Equipment Compare
+> Wavey Capes
+> Architectury API
+> Bookshelf
+> Konkrete
+> Sodium Extra
+> Xaero's World Map
+
+
+Removed Mods: 
+- Ok Zoomer (Causes crash when used)
+- BetterF3 (Causes huge hit to the FPS when using the F3 menu)
+
+
+Config Changes: 
+= Disabled Profiles Switching GUI: [Inventory Profiles Next]
+= Disabled Overlay Editor Button: [Inventory Profiles Next]
+= Disabled Refill Armor Before It Breaks: [Inventory Profiles Next]
+= Disabled Replace Tools Before They Break: [Inventory Profiles Next]
+= Disabled Show Continuous Crafting Checkbox: [Inventory Profiles Next]

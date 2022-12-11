@@ -1,0 +1,32 @@
+Breakneck - 1.18.2 - pre4
+
+Fabric version: Fabric-0.13.3
+Update summary: Updated the modpack to 1.18.2
+
+
+Added Mods:
++ ViaFabric
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> All mods were updated.
+
+
+Removed Mods: 
+- Dashloader
+- Compact Status Effects
+- Better Fps - Render Distance
+- Dimension Fix (Outdated)
+- Illuminations (Outdated)
+- Roughly Enough Resources (Outdated)
+- Merchant Markers (Outdated)
+- Architectury API
+- Fabric Language Kotlin
+
+
+Config Changes: 
+= : [mod], [Client]

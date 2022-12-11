@@ -1,0 +1,37 @@
+Breakneck - 1.18.2 - v1.0.1
+
+Fabric version: Fabric-0.13.3
+Update summary: Added a few new mods. Fixed "Sodium Video Settings" button not working. Re-added 'Ok Zoomer' mod as the crashing issue has been addressed. And also updated all mods to their latest version.
+
+
+Added Mods:
++ Alternate Current
++ Advancements Debug
++ Better Ping Display
++ lazy-language-loader
++ Ok Zoomer (Re-added)
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> Architectury API
+> Better Third Person
+> Debugify
+> Entity Culling
+> Fabric API
+> Mod Menu
+> Not Enough Animations
+> Skin Layers 3D
+> Wavey Capes
+
+
+Removed Mods: 
+- Reese's Sodium Options
+
+
+Config Changes: 
+= Disabled startup message: [Sodium Extra]
+= Enabled FPS counter in the top right corner of the screen: [Sodium Extra]

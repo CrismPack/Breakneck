@@ -1,0 +1,32 @@
+Breakneck - 1.18.2 - v1.0.2
+
+Fabric version: Fabric-0.13.3
+Update summary: Chunks are now cached to disk when playing on servers. This allows for chunks beyond the view-distance of the server to stay loaded even after relogging or teleporting.
+Also re-added some mods that have been updated to 1.18.2.
+
+
+Added Mods:
++ Bobby
++ Roughly Enough Resources (Re-added)
++ Dimension Fix (Re-added)
++ Better Beds
++ Better Fps - Render Distance (Re-added)
+
+
+Added Resource Packs:
++ 
+
+
+Updated Mods: 
+> Bookshelf
+> Debugify
+> Eating Animation
+> Roughly Enough Items
+
+
+Removed Mods: 
+- Farsight
+
+
+Config Changes: 
+= Fixed the color of the "Copyright Mojang AB. Do not distribute!" text so that it is red again. Also made it smaller to match the size of the text on the left side. As a sideeffect of this change the credits menu no longer opens when clicked: [FancyMenu]

@@ -1,0 +1,58 @@
+Breakneck: Optimized - 1.19.2 - v2.1.5
+
+Fabric version: Fabric-0.14.10
+Update summary: Maintenance. Fixed a crash that would occur when going through portals. Updated all mods to the latest version.
+
+
+Detailed update description: 
+~ 
+
+
+Mods added:
++ MixinTrace
++ FastAnim
+
+
+Resource Packs added:
++ 
+
+
+Mods removed: 
+- Not Enough Crashes
+- Recipe Cache
+
+
+Mods updated: 
+> Enchantment Descriptions
+> Illuminations 🔥
+> Fabric API
+> Fabric Language Kotlin
+> Roughly Enough Items
+> Xaero's World Map
+> Not Enough Crashes
+> Lithium
+> Bobby
+> Simple Discord RPC
+> FancyMenu
+> Falling Leaves
+> Architectury API
+> Sodium Extra
+> Iris Shaders
+> FerriteCore
+> Inventory Profiles Next
+> Language Reload
+> TalkBubbles
+> Forge Config API Port
+> Entity Texture Features
+> Raised
+> Better Fps - Render Distance
+> Roughly Enough Professions (REP)
+> Fastload
+> No Chat Reports
+> YetAnotherConfigLib
+> libIPN
+
+
+Config changes: 
+= Changed how the modpack version in the bottom left corner is rendered: [FancyMenu]
+= Disabled "Litematica" mod by default due to causing the game to crash when going through portals. Can easily be re-enabled in the CurseForge launcher if desired.

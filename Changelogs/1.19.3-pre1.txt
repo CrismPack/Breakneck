@@ -1,0 +1,143 @@
+Breakneck: Optimized - 1.19.3 - pre1
+
+Fabric version: Fabric-0.14.11
+Update summary: First 1.19.3 pre-release. This is a quick and dirty first iteration with many mods missing. All incompatible mods have been disabled rather than removed to make reimplementing them faster and easier.
+
+
+Detailed update description: 
+~ 
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Mods disabled: 
+- Mouse Tweaks
+- Bookshelf
+- MiniHUD
+- AppleSkin
+- Controlling
+- Enchantment Descriptions
+- I Know What I'm Doing
+- Better Advancements
+- FPS Reducer
+- Illuminations 🔥
+- Clear Despawn
+- Litematica
+- ShulkerBoxTooltip
+- Colormatic
+- Roughly Enough Resources
+- Screenshot to Clipboard
+- Auth Me
+- MinecraftCapes Mod
+- Name Pain
+- Chat Up!
+- Lan Server Properties
+- ViaFabric
+- BedrockWaters
+- Cherished Worlds
+- Item Model Fix
+- LambdaBetterGrass
+- Don't Clear Chat History
+- Better Ping Display
+- Damage Tilt
+- FancyMenu
+- Konkrete
+- Simple Measuring
+- Particle Rain
+- Advancements Debug
+- Krypton
+- MixinTrace
+- LazyDFU
+- Better Third Person
+- Better Beds
+- Better Biome Blend
+- Drip Sounds
+- Enhanced Block Entities
+- No Fade
+- Indium
+- Custom Entity Models (CEM)
+- Replanter
+- Status Effect Timer
+- Better Recipe Books (+ Brewing Stands)
+- Balm
+- Advancement Plaques
+- CIT Resewn
+- Starlight
+- Eating Animation
+- Continuity
+- TalkBubbles
+- Animatica
+- Better Taskbar
+- Iceberg
+- Equipment Compare
+- Legendary Tooltips
+- Forge Config API Port
+- Client Tweaks
+- Alternate Current
+- Puzzle
+- Raised
+- thorium
+- Server Performance - Smooth Chunk Save
+- Better Fps - Render Distance
+- Roughly Enough Professions (REP)
+- MemoryLeakFix
+- FastAnim
+- Prism
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> Bookshelf
+> Clumps
+> AntiGhost
+> MaLiLib
+> Fabric API
+> Mod Menu
+> Roughly Enough Items
+> Xaero's World Map
+> Ambient Environment
+> Cloth Config API
+> Lithium
+> CleanView
+> ViaFabric
+> Sodium
+> Chat Heads
+> Bobby
+> Simple Discord RPC
+> FancyMenu
+> Konkrete
+> Falling Leaves
+> Architectury API
+> Not Enough Animations
+> Better Sodium Video Settings Button
+> Sodium Extra
+> Entity Culling
+> Iris Shaders
+> FerriteCore
+> MidnightLib
+> Inventory Profiles Next
+> Detail Armor Bar
+> Skin Layers 3D
+> Language Reload
+> Forge Config API Port
+> Entity Texture Features
+> Zoomify
+> Debugify
+> MemoryLeakFix
+> Fastload
+> No Chat Reports
+> Recipe Book is Pain
+> YetAnotherConfigLib
+> libIPN
+
+Config changes: 
+= : [mod]

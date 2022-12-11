@@ -1,0 +1,35 @@
+Breakneck - 1.19 - pre2
+
+Fabric version: Fabric-0.14.7
+Update summary: Re-added some mods that have been updated to 1.19 and made some changes to the main menu.
+
+
+Mods added:
++ Fastload
++ Don't Clear Chat History
++ Dark Loading Screen
++ FastOpenLinksAndFolders
++ Screenshot to Clipboard
++ Status Effect Bars
++ Language Reload
++ Your Options Shall Be Respected (YOSBR)
+
+
+Resource Packs added:
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> 
+
+
+Config changes: 
+= Rearranged the buttons on the main menu to accommodate the "Minecraft Realms" button: [FancyMenu]
+= Changed the "Changelog" button so that it now links to the CrismPack wiki instead if CurseForge: [FancyMenu]
+= Disabled fade-in on buttons: [FancyMenu]
+= Configured YOSBR to use the same default options as used in the 1.18.2 versions of the pack: [Your Options Shall Be Respected]
+= Disabled "defaultguiscale" as it would conflict with YOSBR: [FancyMenu]

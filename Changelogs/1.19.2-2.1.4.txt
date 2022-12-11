@@ -1,0 +1,53 @@
+Breakneck: Optimized - 1.19.2 - v2.1.4
+
+Fabric version: Fabric-0.14.10
+Update summary: Maintenance. Updated all mods to the latest version and made some minor changes to the main menu.
+
+
+Detailed update description: 
+~ 
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> Bookshelf
+> Controlling
+> Enchantment Descriptions
+> Illuminations 🔥
+> Fabric API
+> Mod Menu
+> Clear Despawn
+> Roughly Enough Items
+> ShulkerBoxTooltip
+> Lithium
+> ViaFabric
+> FancyMenu
+> Falling Leaves
+> Architectury API
+> Not Enough Animations
+> Enhanced Block Entities
+> MidnightLib
+> Inventory Profiles Next
+> Wavey Capes
+> Better Fps - Render Distance
+> Debugify
+> No Chat Reports
+> Recipe Book is Pain
+> libIPN
+
+
+Config changes: 
+= Relocated the tiny buttons to now be below the large buttons: [FancyMenu]
+= Made the "Minecraft Realms" button much smaller, gave it a new icon and moved it together with the other tiny buttons: [FancyMenu]
+= Added new "Need a server?" button. (Parity with 'Insomnia: Hardcore'): [FancyMenu]

@@ -1,0 +1,59 @@
+Breakneck: Optimized - 1.19.2 - v2.1.2
+
+Fabric version: Fabric-0.14.9
+Update summary: Maintenance. Updated all mods to their latest version.
+
+
+Detailed update description: 
+~ 
+
+
+Mods added:
++ YetAnotherConfigLib (New dependency for Debugify and Zoomify)
++ BedrockWaters
+
+
+Resource Packs added:
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> Advancement Plaques
+> Ambient Environment
+> Architectury API
+> Auth Me
+> Bookshelf
+> CIT Resewn
+> Cloth Config API
+> Clumps
+> Controlling
+> Debugify
+> Enchantment Descriptions
+> Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> Falling Leaves
+> FancyMenu
+> Fastload
+> Forge Config API Port
+> Indium
+> Inventory Profiles Next
+> Iris Shaders
+> MidnightLib
+> No Chat Reports
+> Roughly Enough Items
+> Roughly Enough Professions
+> ShulkerBoxTooltip
+> Sodium
+> Sodium Extra
+> TalkBubbles
+> ViaFabric
+> Xaero's World Map
+
+
+Config changes: 
+= : [mod]

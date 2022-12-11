@@ -1,0 +1,36 @@
+Breakneck: Optimized - 1.18.2 - v1.1.0
+
+Fabric version: Fabric-0.14.10
+Update summary: Backports all changes made in the 1.19.2 versions of the modpack up until v2.1.5. Changelogs are in comparison to v2.1.5.
+
+
+Detailed update description: 
+~ 
+
+
+Mods added:
++ Boring Backgrounds
++ Clickable advancements
++ Dimension Fix (Some Forge Patches Ported)
++ Feature NBT Deadlock Be Gone
++ Pick Up Notifier
++ TieFix
+
+
+Resource Packs added:
++ 
+
+
+Mods removed: 
+- Chat Up! (Not available in 1.18.2)
+- No Chat Reports (Not available in 1.18.2)
+- FastAnim (Not available in 1.18.2)
+- YetAnotherConfigLib (Not available in 1.18.2)
+
+
+Mods updated: 
+> All mods updated to the latest version.
+
+
+Config changes: 
+= : [mod]

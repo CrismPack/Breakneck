@@ -1,0 +1,79 @@
+Breakneck - 1.19 - pre1
+
+Fabric version: Fabric-0.14.7
+Update summary: Initial pre-release for 1.19. Many mods are yet to be updated to the new version which is the reason for so many mods being removed.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Mods removed: 
+- Advancement Plaques
+- Advancements Debug
+- Advancements Enlarger
+- Animatica
+- AntiGhost
+- Balm
+- Better Beds
+- Better Biome Blend
+- Better Fps - Render Distance
+- Better Recipe Book
+- Better Third Person
+- Boring Backgrounds
+- Cherished Worlds
+- Clear Despawn
+- Clickable advancements
+- Client Tweaks
+- Cloth API
+- Damage Tilt
+- Dark Loading Screen
+- Default Options
+- Dimension Fix
+- Don't Clear Chat History
+- Drip Sounds
+- Eating Animation
+- Enhanced Block Entities
+- Entity Collision FPS Fix Refabricated
+- Entity Texture Features
+- Equipment Compare
+- FastOpenLinksAndFolders
+- Feature NBT Deadlock Be Gone
+- Flytre Lib
+- I Know What I'm Doing (IKWID)
+- Item Model Fix
+- Ksyxis
+- LambdaBetterGrass
+- Lan Server Properties
+- Legendary Tooltips
+- Mouse Tweaks
+- No Angled Brackets
+- No Null Processors
+- No Telemetry
+- Pick Up Notifier
+- Pling
+- Puzzle
+- Puzzles Lib
+- Roughly Enough Resources
+- Screenshot to Clipboard
+- Server Performance - Smooth Chunk Save
+- Simple Discord RPC
+- Status Effect Timer
+- TieFix
+- TipTheScales
+- Window Title Changer
+- Disable Custom Worlds Advice
+- lazy-language-loader
+
+
+Mods updated: 
+> 
+
+
+Config changes: 
+= : [mod], [Client]
+
