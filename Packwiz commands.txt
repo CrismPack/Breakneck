@@ -1,0 +1,38 @@
+Export pack that only includes mods for the client:
+
+packwiz curseforge export
+
+
+
+
+Export pack that only includes mods for the server:
+
+packwiz curseforge export -s server
+
+
+
+
+Update all mods:
+
+packwiz update --all
+
+
+
+
+Refresh the index:
+
+packwiz refresh
+
+
+
+
+Install a CurseForge mod:
+
+packwiz curseforge install
+
+
+
+
+Detect changes in the folders. (Can be used to drag 'n drop mods into the mods folder and it automatically adds it to the index)
+
+packwiz curseforge
