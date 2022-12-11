@@ -1,4 +1,4 @@
-Breakneck: Optimized - 1.19.3 - 2.2.0-pre1
+Breakneck: Optimized - 1.19.3 - 2.2.0-pre2
 
 Fabric version: Fabric-0.14.11
 Update summary: 
@@ -16,12 +16,21 @@ Resource Packs added:
 
 
 Mods re-enabled: 
-+
-
++ Better Taskbar
++ Bookshelf
++ Controlling
++ Enchantment Descriptions
++ FPS Reducer
++ Indium
++ MinecraftCapes Mod
++ MiniHUD
++ Name Pain
++ Raised
++ thorium
 
 
 Mods removed: 
-- 
+- Recipe Book is Pain
 
 
 Mods updated: 
