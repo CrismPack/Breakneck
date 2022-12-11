@@ -1,0 +1,13 @@
+name = "Breakneck"
+author = "CrismPack"
+version = "1.19.3-pre1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5093511e0b9d9f20770278b3f2b2cecc5c0dae3e906e2a31de11cc6ab5e9183"
+
+[versions]
+fabric = "0.14.11"
+minecraft = "1.19.3"

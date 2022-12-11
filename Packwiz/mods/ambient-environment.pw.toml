@@ -1,0 +1,13 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-fabric-1.19.3-8.0+4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4caddcd43ce0d31dee274c930a3cdc90d4dc1e5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4152990
+project-id = 320163

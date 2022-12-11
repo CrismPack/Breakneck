@@ -1,0 +1,13 @@
+name = "Recipe Book is Pain"
+filename = "recipe-book-is-pain-0.7-1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8645e8a1144fba621d11167632fd78db276e64b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4058438
+project-id = 643246

@@ -1,0 +1,16 @@
+name = "Raised"
+filename = "raised-fabric-1.19.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e542bd322d42ceac68b306ccbf19eb216638c6e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4084122
+project-id = 570368
+
+[option]
+optional = true
