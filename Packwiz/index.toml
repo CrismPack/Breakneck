@@ -581,11 +581,6 @@ hash = "04737261edea92fe78a8e3d99be0fd191a9f15fc4cb1b0f354316961f0dc14b8"
 metafile = true
 
 [[files]]
-file = "mods/recipe-book-is-pain.pw.toml"
-hash = "71b74c7cc90949fa1bf7cf2a4c955d3eca985e37b3769ce235a5dae48e5e1491"
-metafile = true
-
-[[files]]
 file = "mods/replanter.pw.toml"
 hash = "67cfa237694ec79c122b96db408f49556bcb79b64c65aa7490f59cab06a0d998"
 metafile = true
@@ -729,7 +724,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "26c6f38948e37d53ed178985c1b722d05fb277d3eda6705885bff76063786a11"
+hash = "39fca35d05020547529b1166c06bfb4e55685627eb48a17166b02295f02db6a0"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
