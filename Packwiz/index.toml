@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-taskbar.pw.toml"
-hash = "8b64f85ab7bd043f10b962e406db9132c4f7b432aad27fff6be8a5023b599f7f"
+hash = "8992080b56d94470a39cb6586a30ee89aee02d5c1baa8de0fb3122f1cd2c87e8"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "0a0934393381bf3bf066a7375ed6dea3dc1d4e2ba011e10a2d869ef53566dd6f"
+hash = "7f8b839ce32c82389a1cd0703c1a853b62d1f7d3fc0d4726b624669c2e9dd538"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "7c55ab53407f00f3ba880b5bd3ca9d24b398620de551ac03b0160153a852e49b"
+hash = "fbebf55436e400183c7ed6c916637d0ac01764d58019c2b5eacc7d4654d8f412"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f4918677e7b305cd810081b835c134e9a34095c4e75044c8b2c88869dc5bb7ab"
+hash = "828565f07227f9bf4e6de8f03c606605b4b1904a7887fdf02b6be32474477eef"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "05ac9250352608a1ebe903ced6b318191d60632ede83bbf04bbfdd864bd8b9df"
+hash = "3eacf1e28bb85ac5e86e8865981e7df7a4445dae84ffc2d9c3527294f1b3e142"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "f9a4ef04e1e325337ad8bc86a2537fa23141c17cac43908eae051086321d19ca"
+hash = "995030e601bf8ab8fa4ce0ebcb5de9d1630777c8e3891989d1e63431ee5631e0"
 metafile = true
 
 [[files]]
@@ -517,12 +517,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
-hash = "52febba8560405b762ed442aa54bebee05fd3ce396681410d4b3a803e03dfcae"
+hash = "00ac1040673d43e3045d7c3221200215a8a93fa8fb36693508a7d9d6038c8190"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "80594544d11a8674824614e08bdbe8c353fb52e5c43c8beb50fac34a9263cacc"
+hash = "101a2ab9996c06b53c2995052b905f2e5cf7bf8dd73d32f6616bbd449bf7580a"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "25e020b85b39835d366372dc8908a3d38d611111085611a5cc6209d2b8b9e98a"
+hash = "8bc1c0c4bdb8060850d4acb1371c72915db7c9880264e3650b6210d3cd32cb69"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "f97a78ed487ec483511a3dd4d505a1813d6a4f9460592a31dee77737001ae3fb"
+hash = "04737261edea92fe78a8e3d99be0fd191a9f15fc4cb1b0f354316961f0dc14b8"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/thorium.pw.toml"
-hash = "9ad886b01eefa545cb3100b46e076b7e28ee36066c1da3aa027a42b9f5d00584"
+hash = "ca4570a2294b34cc91dbe6699dbb08cfc588f58928d24329c84c9e702db3250c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,72 @@
+Breakneck: Optimized - 1.19.3 - 2.2.0-pre1
+
+Fabric version: Fabric-0.14.11
+Update summary: 
+~ Fixed crashing when loading into worlds.
+~ Updated all mods to their latest versions.
+~ Re-enabled updated mods.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++
+
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> Bookshelf
+> Clumps
+> AntiGhost
+> MaLiLib
+> Fabric API
+> Mod Menu
+> Roughly Enough Items
+> Xaero's World Map
+> Ambient Environment
+> Cloth Config API
+> Lithium
+> CleanView
+> ViaFabric
+> Sodium
+> Chat Heads
+> Bobby
+> Simple Discord RPC
+> FancyMenu
+> Konkrete
+> Falling Leaves
+> Architectury API
+> Not Enough Animations
+> Better Sodium Video Settings Button
+> Sodium Extra
+> Entity Culling
+> Iris Shaders
+> FerriteCore
+> MidnightLib
+> Inventory Profiles Next
+> Detail Armor Bar
+> Skin Layers 3D
+> Language Reload
+> Forge Config API Port
+> Entity Texture Features
+> Zoomify
+> Debugify
+> MemoryLeakFix
+> Fastload
+> No Chat Reports
+> Recipe Book is Pain
+> YetAnotherConfigLib
+> libIPN
+
+Config changes: 
+= : [mod]
