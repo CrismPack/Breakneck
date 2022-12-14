@@ -724,7 +724,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "39fca35d05020547529b1166c06bfb4e55685627eb48a17166b02295f02db6a0"
+hash = "4ab8fa202ce4b0da1965f04fd9ed6caf51f6093eb81ed3393b09da39df5ba920"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

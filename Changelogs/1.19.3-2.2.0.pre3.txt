@@ -1,0 +1,45 @@
+Breakneck: Optimized - 1.19.3 - 2.2.0-pre3
+
+Fabric version: Fabric-0.14.11
+Update summary: 
+~ Updated all mods
+~ Re-enabled mods that have been updated.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++ AppleSkin
++ AuthMe
++ Custom Entity Models
++ ShulkerBoxTooltip
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> AppleSkin
+> Auth Me
+> Bobby
+> Custom Entity Models
+> Fabric API
+> Fastload
+> Inventory Profiles Next
+> libIPN
+> No Chat Reports
+> Roughly Enough Items
+> ShulkerBoxTooltip
+> Xaero's World Map
+> YetAnotherConfigLib
+
+
+Config changes: 
+= : [mod]
