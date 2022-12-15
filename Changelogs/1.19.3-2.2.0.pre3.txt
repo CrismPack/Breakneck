@@ -41,6 +41,7 @@ Mods re-enabled:
 + Don't Clear Chat History
 + I Know What I'm Doing
 + Better Third Person
++ Drip Sounds
 
 
 Mods removed: 
@@ -61,6 +62,7 @@ Mods updated:
 > ShulkerBoxTooltip
 > Xaero's World Map
 > YetAnotherConfigLib
+> Drip Sounds
 
 
 Config changes: 

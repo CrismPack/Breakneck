@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
-hash = "c334fc02c6b8244894093bd9c073c60b5147c16ecaa341ed93ea31211c16bce6"
+hash = "555fe397adf627ff6462b8d82533fdf6584e58fc5aa489a81f0f169c0b20f19b"
 metafile = true
 
 [[files]]
