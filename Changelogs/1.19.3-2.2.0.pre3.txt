@@ -2,12 +2,12 @@ Breakneck: Optimized - 1.19.3 - 2.2.0-pre3
 
 Fabric version: Fabric-0.14.11
 Update summary: 
-~ Updated all mods
-~ Re-enabled mods that have been updated.
+~ Updated all mods.
+~ Re-enabled mods that have either been updated or confirmed to work.
 
 
 Mods added:
-+ 
++ Clickable advancements
 
 
 Resource Packs added:
@@ -19,6 +19,28 @@ Mods re-enabled:
 + AuthMe
 + Custom Entity Models
 + ShulkerBoxTooltip
++ Starlight
++ Clear Despawn
++ Damage Tilt
++ ViaFabric
++ Simple Measuring
++ Screenshot to Clipboard
++ Mouse Tweaks
++ MixinTrace
++ LazyDFU
++ MemoryLeakFix
++ Krypton
++ Status Effect Timer
++ TalkBubbles
++ Smooth Chunk Save
++ Replanter
++ Alternate Current
++ Better Advancements
++ Better Fps - Render Distance
++ Cherished Worlds
++ Don't Clear Chat History
++ I Know What I'm Doing
++ Better Third Person
 
 
 Mods removed: 

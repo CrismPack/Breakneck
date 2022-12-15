@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "a7ff0e8f5671f9be7c32ab01d32c6c17b31913f327184cd9729b255877710fef"
+hash = "df9af6b17ed49a45d4c10a39cc4830461241ba420e276b366c387a14faad7e55"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "ab63a352619771d31e366933d37ca7706cd17ce2cd3730ab1c8045c6fcef0417"
+hash = "6288099dd304d6010138f6bd521b2ce172c2c61c48763ff55b10dc57fbc9e6fe"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "9996c69fe3db0f661c3b458042cf606f9d651d15d9be674ca7643db64658a4ff"
+hash = "19ef397a187a5548db795188456838838de11d257d68c2852f21498dd6f97128"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "827a5d1c3c603e704f27b8e724b50aa4d3750a635d2cdc610cf273937f305482"
+hash = "f86d16104b855de638c80bdc27364e14b99e3264b42623a6bc5023c4327d01b4"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds-fabric.pw.toml"
-hash = "33379876f0f1c83b0ac255e653565a81cafd63ec9da2ead82eeeebaa1363fd2e"
+hash = "554e39f63a45ef1741706cceca3781c31d5d51505abcb19a68b6dc9e41852a0b"
 metafile = true
 
 [[files]]
@@ -262,7 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.pw.toml"
-hash = "7fc546e69363a55eae717ded1dd4b4d2f6b6fce94f2e398725c51105a89d668f"
+hash = "0feae38b0f6bb931729ce56ed6e97ad10215b9c73ded49ba7cafa3785cb4f2b5"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "b79bfed62fd682a2b08c1a40eeb5a7a20375330df504d9393d2782aab5191051"
 metafile = true
 
 [[files]]
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/damage-tilt.pw.toml"
-hash = "dca224fbf029e524d6c3f50f8eb2cda108f1ef0fadd79b30c05e4e94719ecf4c"
+hash = "04c07ac8e2e6df8ead5c92b507c7e3fd59295419922e0a89401bebd9e894022b"
 metafile = true
 
 [[files]]
@@ -322,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
-hash = "7745b35594cb16348dd9de974d5128357fa22c8aeb3504d072050d6d36f563aa"
+hash = "2d3696ca95a75785818b63dbe95816f09cce00e4537484b8555c7219c37ed3ec"
 metafile = true
 
 [[files]]
@@ -412,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "1a545a40f4f5b90114aeff6b7e5fe42c3190556e1fef2db08ebed9027cca2905"
+hash = "96f7ed4de86940c6d82810ef72ee4cdde3684a23375aeeb7c4eb150d1e8395d0"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "7c656bb7fa08dc55e72713c600492ecb326301b8b5ac0713ccbf281ea7b38ff0"
+hash = "fa140e66ae8ffe67bff293223b6a45d5450bad05f16bcddbc171f33d3f11c6b0"
 metafile = true
 
 [[files]]
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "bbc6ce95877764b1582b259a6ecb34c79274e1a7362272e6e6c6654208ca9151"
+hash = "1151d052243aa69632febdfe154e5facf3d82d22d23e6c0bf3762b2bbb919938"
 metafile = true
 
 [[files]]
@@ -507,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "860ae0ef3f70df1fe1a9e62392fe65241ba16f64304fa93e9b7ae7f98efebb27"
+hash = "832fca7ebfcabd68f826e249aa89a42fc568b3bcf4fc9c758b976e618e27b6e8"
 metafile = true
 
 [[files]]
@@ -527,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "f729b6046091bee1cfcb58d85cec5b14e23ed68270cdd59914a0fafd63d74f34"
+hash = "07d5408bc1df13c7580425fe706cf65505e58e11346066b3a5eaaa7078d9593b"
 metafile = true
 
 [[files]]
@@ -537,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c46496a0b3936419b896c19260e259379fc5621ad8d02fd45cedb2808eeb9da0"
+hash = "4a1ca6865d5db1888fd16fff0b024959461d06aec86ac3530a8b75c896b995d5"
 metafile = true
 
 [[files]]
@@ -582,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/replanter.pw.toml"
-hash = "67cfa237694ec79c122b96db408f49556bcb79b64c65aa7490f59cab06a0d998"
+hash = "aa2bed45411bc721a320f7c57d56de808cdca9850efea7e812396051cad2f5cd"
 metafile = true
 
 [[files]]
@@ -602,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
-hash = "c0080b6377b7edd577db2cf6bbb5ab1b8fd440a8ec085df719a15891123eed88"
+hash = "536f5c9b4bb59e0812f4291cde1d89940324cf5d14d57fe77a66e818422ba486"
 metafile = true
 
 [[files]]
@@ -617,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-measuring.pw.toml"
-hash = "0b3cc307c45e60c422d2c5477dc6c903ed145fce71c4a8794295f5aa7adb9fbc"
+hash = "cdaf45cd1300b888d459b6ca65ce1efb50d67ad47b3c9327c0d82c2a8b52c4a9"
 metafile = true
 
 [[files]]
@@ -627,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "26a319ae4284beae6ed4ce5c438511561c0d5824b043f8e3a7411bb486b427f6"
+hash = "f9c0912743ba6c7c0e88826028836a31636622a2477b92d85f1f93c04f20de42"
 metafile = true
 
 [[files]]
@@ -642,17 +647,17 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "295a8c3e63e2fdef8014f5722c3d3b16074fc8ce21a1cf7a1766f1303c367ec0"
+hash = "85d8ad88f117c81bf77bb9d26ce853546c989cde12d9e866b7468a3a97fe2d5a"
 metafile = true
 
 [[files]]
 file = "mods/status-effect-timer.pw.toml"
-hash = "15def8f6b88d900192873415e867043909fbe530f207bab0a68465b2d1d6ee1e"
+hash = "df9b067ee5220c15195adcb39ddcf61e63e1536def86f2534a4775e7b650cdb9"
 metafile = true
 
 [[files]]
 file = "mods/talkbubbles.pw.toml"
-hash = "7fae90be9f9fb4f751f4a80c6fa299c3c4018d220859718188ef79242464bb7b"
+hash = "6a17b682b5c333ad98f166ca1f2113d568a510bbb784a28a316ba8e7e2db101d"
 metafile = true
 
 [[files]]
@@ -662,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "7b87cc47784f9470439d3a064cea01aa78d73e0af16c05d682737e88c26e92e6"
+hash = "c244bbf5748c8e4b7a33f3b2ef45d29fc22588ac757ef423c9ddaa739cbf53f4"
 metafile = true
 
 [[files]]
