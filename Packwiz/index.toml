@@ -451,6 +451,11 @@ hash = "1cb4189a22e9a75f5c66c3ee5276c3c52ce043e5f67a5e35c662cb1aeab3ce1e"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "08546b8eeb1ef0ab5b782c3dd68f4629890703c184655d4afd2ed4da3f45b5cf"
+metafile = true
+
+[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "149b3d147e233d3fec95b36e57dae6199453ef512976402a703c7de2bc5f8021"
 metafile = true
