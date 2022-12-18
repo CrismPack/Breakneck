@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "5953b7e962ec6868b0eb78981aef005aa09e6d188f766bdba32f847b6e9492ce"
+hash = "f8f0b3303e3bf87e99ad6adcfd7452f5cee5544639d97e9fb40685dfc9b914c4"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "f86d16104b855de638c80bdc27364e14b99e3264b42623a6bc5023c4327d01b4"
+hash = "6f6e2bccca803244a7796aed8d62eec6681dd24e871f0e7bd672059853c179af"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "e328f925d81e8d4cf8c486e1eb51f275294985ac3a040b600de511364b8ee302"
+hash = "c1fe42a53f1eaa61908e4de6dbe4f1293b72f7c2bb4ebe6f4b5fa0ec5253aaff"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "828565f07227f9bf4e6de8f03c606605b4b1904a7887fdf02b6be32474477eef"
+hash = "a195e3e909b55f139f343f943abee9c47d34a52240cdf05e0f0377adbe84d60b"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "69cb97d16200135c7ff23649a73aeac3cc66b03236df8feb38c08f2322a63729"
+hash = "9e5aa6dd7e58c43594eaefdc1dcd7dc218b86513bffaa7c1de99ef698c08c586"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/talkbubbles.pw.toml"
-hash = "6a17b682b5c333ad98f166ca1f2113d568a510bbb784a28a316ba8e7e2db101d"
+hash = "b5b3e29aa53523f5c02209dd8501e745e39ad6d60da222495442241c9131debf"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5cd8d209bd8e41db87a72bf1e5890ba34e3d2017bb6ddbdff5182588a3fc4e93"
+hash = "8f4a9ceaf87a4aefd3a3671491d35c0549171c7fb9c9b9193f928e9cdc1abe2b"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "3543c9a638c6bed71990a51f9e894abe9d1a3713b2a885f13111ba8603e55adf"
+hash = "ae446098e5d170fa6266995de90837aeef42a357550ca1135a078eb12acf9536"
 metafile = true
 
 [[files]]

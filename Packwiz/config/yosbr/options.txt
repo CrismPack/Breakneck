@@ -7,3 +7,5 @@ soundCategory_music:0.25
 skipMultiplayerWarning:true
 key_gui.xaero_open_map:key.keyboard.m
 key_zoomify.key.zoom:key.keyboard.z
+key_key.itemswapper.itemswitcher:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
