@@ -1,4 +1,4 @@
-Breakneck: Optimized - 1.19.3 - 2.2.0-pre4
+1.19.3 - 2.2.0-pre4
 
 Fabric version: Fabric-0.14.11
 Update summary: 
@@ -9,6 +9,8 @@ Update summary:
 
 Mods added:
 + ItemSwapper
++ CompleteConfig
++ OptiGUI
 
 
 Resource Packs added:
