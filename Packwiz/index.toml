@@ -291,6 +291,11 @@ hash = "958ba1a40f883d59e08b572b0f5586588f3a20fd4c0280e2806c441caa962f71"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "8fa8f676f86932fa17d8b3360a03440745919e9892342e1313af9e45b5444cc6"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "a27d69bb97c4707cfb39c24720c02b9c6a839c8e8f341f9451b615cbb2050a64"
 metafile = true
@@ -568,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f5939415f7659ce46749f9c28fc8b130ca589cafb7831cb88dc19686abf17db6"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "c6fb1583ff1d8ad9bec68679f655e595bbf7a62dc155dc9c28c643d5b80467da"
 metafile = true
 
 [[files]]
