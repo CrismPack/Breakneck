@@ -2,8 +2,9 @@ Breakneck: Optimized - 1.19.3 - 2.2.0-pre4
 
 Fabric version: Fabric-0.14.11
 Update summary: 
+~ Added 'ItemSwapper' mod.
 ~ Updated all mods.
-~ Re-enabled mods that have either been updated or confirmed to work.
+~ Re-enabled mods that have gotten updated to work with 1.19.3.
 
 
 Mods added:
@@ -16,6 +17,7 @@ Resource Packs added:
 
 Mods re-enabled: 
 + Balm
++ Client Tweaks
 
 
 Mods removed: 
@@ -25,6 +27,7 @@ Mods removed:
 Mods updated: 
 > Balm
 > Better Third Person
+> Client Tweaks
 > Debugify
 > Enchantment Descriptions
 > Fastload
