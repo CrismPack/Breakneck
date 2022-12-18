@@ -1,16 +1,16 @@
 name = "Client Tweaks (Fabric Edition)"
-filename = "clienttweaks-fabric-1.19-8.1.0.jar"
+filename = "clienttweaks-fabric-1.19.3-9.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "14cb22dc1fabfc168eec8e67d6574ac2bc6233c8"
+hash = "6c346d4b333f04e161932f4a223ec5981b786255"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3901913
+file-id = 4191539
 project-id = 547692
 
 [option]
-optional = true
+optional = false
