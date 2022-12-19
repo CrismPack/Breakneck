@@ -9,9 +9,9 @@ Update summary:
 
 
 Mods added:
-+ ItemSwapper
-+ CompleteConfig
-+ OptiGUI
++ItemSwapper
++CompleteConfig
++OptiGUI
 
 
 Resource Packs added:
