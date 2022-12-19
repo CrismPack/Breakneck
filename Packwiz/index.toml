@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "1142605190ad4b9d83698846b5a8dda1ec9aa90ad349cb8507b9ab9a6d9bf651"
+hash = "7e5eaf8d2d47237bc388e017db7e8183767d8bce67298dadb7f203d1d8fc047d"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "b317d8a1594778fda379141badb9516ed92e5142367c1b5ff9817101fea4d6aa"
+hash = "617160ed6341fa7a4edf49f248d8720eae476a68f2118df681f9ec6b377b29fa"
 metafile = true
 
 [[files]]
