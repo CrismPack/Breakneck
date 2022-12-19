@@ -1,9 +1,10 @@
-1.19.3 - 2.2.0-pre4
+1.19.3 - 2.2.0
 
 Fabric version: Fabric-0.14.11
 Update summary: 
-~ Added 'ItemSwapper' mod.
-~ Updated all mods.
+~ Release version of 1.19.3.
+~ Added 'ItemSwapper' & 'OptiGUI' mods.
+~ Updated all mods to the latest version.
 ~ Re-enabled mods that have gotten updated to work with 1.19.3.
 
 
@@ -20,6 +21,8 @@ Resource Packs added:
 Mods re-enabled: 
 + Balm
 + Client Tweaks
++ FancyMenu
++ Konkrete
 
 
 Mods removed: 
@@ -32,11 +35,13 @@ Mods updated:
 > Client Tweaks
 > Debugify
 > Enchantment Descriptions
+> FancyMenu
 > Fastload
+> Konkrete
 > TalkBubbles
 > Xaero's World Map
 > Zoomify
 
 
 Config changes: 
-= Unbound Iris's shader reload keybind as it conficts with ItemSwapper: [Your Options Shall Be Respected]
+= Unbound Iris's shader reload keybind by default as it conflicts with ItemSwapper: [Your Options Shall Be Respected]
