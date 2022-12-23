@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/bedrockwaters.pw.toml"
-hash = "08a7ecb2e7d0339c80bcf54117586d3529fd5f64d2b56d577700435a3a6614a3"
+hash = "5987f92311ab2a8ef9e005afd5524c5a1a577661932469a7f585ecb575b4a54e"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "9f2020866fcc56956e36b1b1c7dfcae5dea0dd2d56adbdee293feb214b801072"
+hash = "b39004a834202122a70bf0dc41cd61634d9281637cc027a447f50c3f45cc5000"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "87d15b4c19a576c07e1ad64e4ecd635bf979b78877f68dcabbf8a8bf20d8b80b"
+hash = "084de12a00aabfc8623bc9700e9d055da5ddbd3b4e8554fb439b0b225d44c7d4"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "edc8e395a5182e3b231816e191b303407d511f70c1d9cb6d532927cc559c507c"
+hash = "c0971f4f1c8c7843a3b5a47b2acfa665756cef9834be691a99dfd758588f9539"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
