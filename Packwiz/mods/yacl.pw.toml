@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "YetAnotherConfigLib-2.1.1.jar"
+filename = "YetAnotherConfigLib-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d3f9e0d1e0f23d99126a54fbab239d4bd0423ddc"
+hash = "62158cf974075dfd896540191e4ae108e6ec67b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4174920
+file-id = 4260308
 project-id = 667299

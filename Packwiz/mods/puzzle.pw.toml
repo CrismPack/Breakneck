@@ -1,16 +1,16 @@
 name = "Puzzle"
-filename = "puzzle-1.4.0-1.19.jar"
+filename = "puzzle-1.4.2-1.19.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c265b7ecda0588febe0a723ccf6bf34bc6f31a56"
+hash = "74f5f358acde66b3ac9347f4d659598fbaae4e11"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3912555
+file-id = 4259422
 project-id = 563977
 
 [option]
-optional = true
+optional = false
