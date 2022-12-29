@@ -1,0 +1,48 @@
+1.19.3 - 2.2.2
+
+Fabric version: Fabric-0.14.12
+Update summary: 
+~ Updated all mods to the latest version.
+~ Re-enabled a few mods that have gotten updated.
+
+
+Mods added:
++
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++ Eating Animation
++ Litematica
++ Puzzle
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> Architectury API
+> Better Taskbar
+> Clickable advancements
+> Eating Animation
+> Enchantment Descriptions
+> Fabric API
+> Fabric Language Kotlin
+> Falling Leaves
+> FancyMenu
+> Fastload
+> Forge Config API Port
+> Inventory Profiles Next
+> Language Reload
+> libIPN
+> Litematica
+> Puzzle
+> YetAnotherConfigLib
+
+
+Config changes: 
+= : [mod]
