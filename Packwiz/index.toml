@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "ec569e253704600eaac8eeb77ef16537b31859cbe0f8c07b83b8beec501115f4"
+hash = "173adb8dda86b9a7a45c227ed7954b2b5ac8e049aa5d85f2e733cd7949b77780"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "aaec03a2938c1437e7fb359f9012479a3bb66f2800ca4fadc8934fcb47d3c465"
+hash = "d35bc54aaf27e2ba0d20f4d44edd3e242c1de8e2de25062780ecff7c34e4f6c8"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "5b96984b3f6a9c054c71e56c244476446c00e5075a39baea249a7e2f5ad10be4"
+hash = "231c845487bc1314e8320e51830b728490e4769c49942f973fc17ea7a2e9d2aa"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "c0971f4f1c8c7843a3b5a47b2acfa665756cef9834be691a99dfd758588f9539"
+hash = "b81293bdb253e510ccb9e7a82164aede167ce8f46f82c861561b6a62b33f6cec"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
