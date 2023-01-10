@@ -4,6 +4,7 @@ Fabric version: Fabric-0.14.12
 Update summary: 
 ~ Updated all mods to the latest version.
 ~ Re-enabled a few mods that have gotten updated.
+~ Reworked the title screen to improve scaling.
 
 
 Mods added:
@@ -18,6 +19,9 @@ Mods re-enabled:
 + Eating Animation
 + Litematica
 + Puzzle
++ Better Ping Display
++ CIT Resewn
++ FastAnim
 
 
 Mods removed: 
@@ -26,23 +30,36 @@ Mods removed:
 
 Mods updated: 
 > Architectury API
+> Better Ping Display
 > Better Taskbar
+> Bookshelf
+> CIT Resewn
+> Chat Heads
 > Clickable advancements
+> Clumps
+> Dark Loading Screen
 > Eating Animation
 > Enchantment Descriptions
+> Entity Texture Features
 > Fabric API
 > Fabric Language Kotlin
 > Falling Leaves
 > FancyMenu
+> FastAnim
 > Fastload
 > Forge Config API Port
+> Indium
 > Inventory Profiles Next
+> Iris Shaders
 > Language Reload
-> libIPN
 > Litematica
 > Puzzle
+> Sodium
+> Sodium Extra
+> ViaFabric
 > YetAnotherConfigLib
+> libIPN
 
 
 Config changes: 
-= : [mod]
+= Reworked title screen with improved scaling: [FancyMenu]

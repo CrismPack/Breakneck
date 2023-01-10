@@ -17,8 +17,28 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "19dcfdbd8d20ee57a3fd434cebe3aabdb2f51b4874185b7a06706e5fb029bfc3"
 
 [[files]]
+file = "config/fancymenu/customization/Breakneck Fabric - 1.txt"
+hash = "7286286b821fd191cdec8d861580003d20adebc3d9565fbc598b9af87a267a6e"
+
+[[files]]
+file = "config/fancymenu/customization/Breakneck Fabric - 2.txt"
+hash = "f783966cd304e2c210f6481ccd33e093bf037cedf03fd0d3536a20e01390e726"
+
+[[files]]
+file = "config/fancymenu/customization/Breakneck Fabric - 3.txt"
+hash = "8564012df1dd19061eafc58284526e60093c138500f06ea6e037a5c1ca129b69"
+
+[[files]]
+file = "config/fancymenu/customization/Breakneck Fabric - 4.txt"
+hash = "1bf9814f595949d10395b2fcced9e189fde10053dea16ede695f89447b239bec"
+
+[[files]]
+file = "config/fancymenu/customization/Breakneck Fabric - 5.txt"
+hash = "3d24723d8849266ed5c04ee6d3103992a08c1e0f4dcafa6f649b6062cc54b3a9"
+
+[[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "a8cff85c051e61219bd758dd13e49ca723c6859efa1704589fb9a8473a9272ef"
+hash = "6fec4a70350f2e6dac181a22a08281a55f4401388dc19b67023f360aebb8fed4"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -715,12 +735,28 @@ file = "resources/mainmenu/breakneck.png"
 hash = "183567ff9aed779a13bd66cf56cf1cde2a2179e4d3be6e3d3e4e411d36126d62"
 
 [[files]]
+file = "resources/mainmenu/changelog_hover.png"
+hash = "237f74e7ba42fc932ba5d91aab097966c3c664b7a6727447a583788dcbe168f7"
+
+[[files]]
+file = "resources/mainmenu/changelog_normal.png"
+hash = "f90bc7f1535704045e5c82fb87c6dc7d7ebcd12d2a0c21d501038bb443960a26"
+
+[[files]]
+file = "resources/mainmenu/crism_hover.png"
+hash = "0b640c1e990686bae7540e60400a91f3dca8048ba6b9bc2cdc8ffa56c4244c5c"
+
+[[files]]
+file = "resources/mainmenu/crism_normal.png"
+hash = "3090f605334a6f4abda728c32475761a08eb017ba3c99b2650f4d0bb3c47e556"
+
+[[files]]
 file = "resources/mainmenu/discord_hover.png"
-hash = "6a34a9acf0540e139dd376da6ba26dcf6c82f34b75d6f4f8101e6e618d40702b"
+hash = "1f4a68a170f530b019745a731822d6f3d3fc145e7d0b153b7861e32c9fdf7045"
 
 [[files]]
 file = "resources/mainmenu/discord_normal.png"
-hash = "c7c6c342e470adcc5c7502bbd9fe6ebf9edacb61398af7ec65f4b20f0411598f"
+hash = "768af9bb01213050c9fcbfeb48adad93c617330b456d0ef6a84df2dffa50af6e"
 
 [[files]]
 file = "resources/mainmenu/empty.png"
