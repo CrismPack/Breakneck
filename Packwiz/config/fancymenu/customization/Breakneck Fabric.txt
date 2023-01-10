@@ -3,7 +3,7 @@ type = menu
 customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
-  renderorder = background
+  renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
 }
@@ -14,27 +14,22 @@ customization {
 }
 
 customization {
-  action = setscale
-  scale = 3
-}
-
-customization {
-  baseheight = 1361
-  action = autoscale
-  basewidth = 2560
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -100
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
   action = movebutton
-  y = 0
+  y = 24
 }
 
 customization {
@@ -101,70 +96,68 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 24
+  action = hidebutton
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   width = 98
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  orientation = mid-centered
-  x = 14
-  action = movebutton
-  y = 96
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  width = 20
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = setbuttonlabel
-  value = 
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources\mainmenu\realms_hover2.png
-  backgroundnormal = resources\mainmenu\realms_normal2.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = sethoverlabel
-  label = Minecraft Realms
+  backgroundhovered = resources/mainmenu/shortbutton_hover.png
+  backgroundnormal = resources/mainmenu/shortbutton_normal.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-centered
-  x = -100
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
   action = movebutton
-  y = 48
+  y = 72
 }
 
 customization {
@@ -177,7 +170,7 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
 
@@ -229,7 +222,7 @@ customization {
 customization {
   orientation = top-left
   hidden = true
-  x = 289
+  x = 290
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = ffda6f45-2801-4786-9bfe-9849d48f7d0f1658255764501
@@ -251,20 +244,15 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
-  restartbackgroundanimations = true
-  buttonaction = openlink
-  backgroundhovered = resources\mainmenu\longbutton_hover.png
-  label = Changelogs
-  loopbackgroundanimations = true
-  x = -100
-  width = 200
-  actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
-  action = addbutton
-  y = 72
-  backgroundnormal = resources\mainmenu\longbutton_normal.png
-  value = https://wiki.crismpack.net/modpacks/breakneck/changelog
-  height = 20
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 8663d83c-9bf9-4fe9-8ad9-f208ce759a221626192362071
+  action = addtext
+  y = -11
+  scale = 0.8
+  alignment = left
+  value = §4%totalmods% Mods Loaded
 }
 
 customization {
@@ -283,46 +271,60 @@ customization {
   orientation = bottom-left
   shadow = true
   x = 3
-  actionid = 8663d83c-9bf9-4fe9-8ad9-f208ce759a221626192362071
+  actionid = 6dd3a564-b776-4b19-930e-ec0d5a76c05b1670208137928
   action = addtext
-  y = -11
+  y = -27
   scale = 0.8
   alignment = left
-  value = §4%totalmods% Mods Loaded
+  value = §4Breakneck: Optimized - %randomtext:resources\mainmenu\modpackversion.txt:1%
 }
 
 customization {
-  orientation = mid-centered
+  orientation = bottom-right
+  shadow = true
+  x = -3
+  actionid = f800bdbc-c9cc-4c78-afc9-9c2d5fe78a3c1649947251368
+  action = addtext
+  y = -11
+  scale = 0.8
+  alignment = right
+  value = §4Copyright Mojang AB. Do not distribute!
+}
+
+customization {
+  orientation = element
   restartbackgroundanimations = true
   buttonaction = opengui
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Mods
   loopbackgroundanimations = true
-  x = 2
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 102
   width = 98
   actionid = 609d582a-4470-464e-808c-2afcfed905951640212186992
   action = addbutton
-  y = 48
+  y = 72
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
   value = com.terraformersmc.modmenu.gui.ModsScreen
   height = 20
 }
 
 customization {
-  orientation = mid-centered
+  orientation = element
   restartbackgroundanimations = true
   buttonaction = openlink
-  backgroundhovered = resources\mainmenu\discord_hover.png
+  backgroundhovered = resources/mainmenu/crism_hover.png
   label = 
   loopbackgroundanimations = true
-  hoverlabel = Join our Discord!
-  x = -10
+  hoverlabel = Wiki
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 90
   width = 20
   actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
   action = addbutton
   y = 96
-  backgroundnormal = resources\mainmenu\discord_normal.png
-  value = https://discord.com/invite/Kss5gBgeDA
+  backgroundnormal = resources/mainmenu/crism_normal.png
+  value = https://wiki.crismpack.net/modpacks/breakneck-optimized
   height = 20
 }
 
@@ -344,26 +346,59 @@ customization {
 }
 
 customization {
-  path = resources/mainmenu/breakneck.png
-  orientation = mid-centered
-  x = -166
-  width = 333
-  action = addtexture
-  actionid = 8678c5e3-bd3d-4311-88cf-2df0eaebf0a81645432847939
-  y = -157
-  height = 100
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  label = Need a server?
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 102
+  width = 98
+  actionid = 0282c88b-0463-41a9-a763-4e62febda2ee1667778762437
+  action = addbutton
+  y = 48
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  value = https://bisecthosting.com/CRISM
+  height = 20
 }
 
 customization {
-  orientation = bottom-right
-  shadow = true
-  x = -3
-  actionid = f800bdbc-c9cc-4c78-afc9-9c2d5fe78a3c1649947251368
-  action = addtext
-  y = -11
-  scale = 0.8
-  alignment = right
-  value = §4Copyright Mojang AB. Do not distribute!
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources/mainmenu/changelog_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Changelogs
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 66
+  width = 20
+  actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
+  action = addbutton
+  y = 96
+  backgroundnormal = resources/mainmenu/changelog_normal.png
+  value = https://wiki.crismpack.net/modpacks/breakneck/changelog
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\mainmenu\discord_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Join our Discord!
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 114
+  width = 20
+  actionid = ef9532ed-46f3-41a8-8a17-2050d4af7fd51672348859399
+  action = addbutton
+  y = 96
+  backgroundnormal = resources\mainmenu\discord_normal.png
+  value = https://discord.com/invite/Kss5gBgeDA
+  height = 20
 }
 
 customization {
@@ -383,31 +418,79 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink
-  backgroundhovered = resources\mainmenu\shortbutton_hover.png
-  label = Need a server?
+  buttonaction = opengui
+  backgroundhovered = resources/mainmenu/shortbutton_hover.png
+  label = Minecraft Realms
   loopbackgroundanimations = true
-  x = 2
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
   width = 98
-  actionid = 0282c88b-0463-41a9-a763-4e62febda2ee1667778762437
+  actionid = f4bd6f2e-f65e-4324-ad63-0228824a46101673391672014
   action = addbutton
-  y = 24
-  backgroundnormal = resources\mainmenu\shortbutton_normal.png
-  value = https://bisecthosting.com/CRISM
+  y = 48
+  backgroundnormal = resources/mainmenu/shortbutton_normal.png
+  value = net.minecraft.class_4325
   height = 20
 }
 
 customization {
-  orientation = bottom-left
-  shadow = true
-  x = 3
-  actionid = 6dd3a564-b776-4b19-930e-ec0d5a76c05b1670208137928
-  action = addtext
-  y = -27
-  scale = 0.8
-  alignment = left
-  value = §4Breakneck: Optimized - %randomtext:resources\mainmenu\modpackversion.txt:1%
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources/mainmenu/shortbutton_hover.png
+  label = Options...
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  width = 98
+  actionid = 17ed1fd1-5450-4b7a-b01a-800ee9de55381673391796256
+  action = addbutton
+  y = 72
+  backgroundnormal = resources/mainmenu/shortbutton_normal.png
+  value = net.minecraft.class_429
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  label = Multiplayer
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  width = 200
+  actionid = 9abf7901-3a82-4d0b-bc97-a766a6b8eb141673391843752
+  action = addbutton
+  y = 24
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+  value = com.bisecthosting.mods.bhmenu.BHMultiplayerScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  label = Singleplayer
+  loopbackgroundanimations = true
+  x = -100
+  width = 200
+  actionid = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  action = addbutton
+  y = -20
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+  value = net.minecraft.class_526
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  vr:showif:worldloaded = true
+  action = vanilla_button_visibility_requirements
 }
 
