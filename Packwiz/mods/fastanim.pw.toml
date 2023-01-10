@@ -1,15 +1,15 @@
 name = "FastAnim"
-filename = "lunade-fastanim-1.5.6-1.19.jar"
+filename = "lunade-fastanim-1.5.7-1.19.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f58a9ac34f60c6b64b4f0bacf2f861609a97a790"
+hash = "a2e3ab50b6c182065d214591e8c66b2f3c9d935f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4010592
+file-id = 4291668
 project-id = 652113
 
 [option]
