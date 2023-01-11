@@ -402,22 +402,6 @@ customization {
 }
 
 customization {
-  orientation = bottom-right
-  basecolor = aa0000
-  shadow = true
-  splashfilepath = resources/mainmenu/splashes.txt
-  rotation = -20.0
-  scale = 1.0
-  refresh = false
-  bouncing = true
-  vanilla-like = false
-  x = -119
-  actionid = 6e74e51f-7a4e-4768-b6a0-91d06915dacc1658256280551
-  action = addsplash
-  y = -77
-}
-
-customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = opengui
@@ -482,7 +466,7 @@ customization {
   width = 200
   actionid = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
   action = addbutton
-  y = -10
+  y = -20
   backgroundnormal = resources/mainmenu/longbutton_normal.png
   value = net.minecraft.class_526
   height = 20
@@ -491,14 +475,30 @@ customization {
 customization {
   path = resources/mainmenu/breakneck.png
   orientation = top-left
-  x = 1
+  x = 0
   width = 333
   action = addtexture
   actionid = e5d70788-0770-49e5-a3a5-604f3a948b741673396720514
   y = 0
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-166","decimal":"true"}}
-  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/4-50","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/4-50-10","decimal":"true"}}
   height = 100
+}
+
+customization {
+  orientation = bottom-right
+  basecolor = aa0000
+  shadow = true
+  splashfilepath = resources/mainmenu/splashes.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = -119
+  actionid = 6e74e51f-7a4e-4768-b6a0-91d06915dacc1658256280551
+  action = addsplash
+  y = -77
 }
 
 customization {
