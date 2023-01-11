@@ -482,10 +482,23 @@ customization {
   width = 200
   actionid = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
   action = addbutton
-  y = -20
+  y = -10
   backgroundnormal = resources/mainmenu/longbutton_normal.png
   value = net.minecraft.class_526
   height = 20
+}
+
+customization {
+  path = resources/mainmenu/breakneck.png
+  orientation = top-left
+  x = 1
+  width = 333
+  action = addtexture
+  actionid = e5d70788-0770-49e5-a3a5-604f3a948b741673396720514
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-166","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/4-50","decimal":"true"}}
+  height = 100
 }
 
 customization {

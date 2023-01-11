@@ -17,28 +17,8 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "19dcfdbd8d20ee57a3fd434cebe3aabdb2f51b4874185b7a06706e5fb029bfc3"
 
 [[files]]
-file = "config/fancymenu/customization/Breakneck Fabric - 1.txt"
-hash = "7286286b821fd191cdec8d861580003d20adebc3d9565fbc598b9af87a267a6e"
-
-[[files]]
-file = "config/fancymenu/customization/Breakneck Fabric - 2.txt"
-hash = "f783966cd304e2c210f6481ccd33e093bf037cedf03fd0d3536a20e01390e726"
-
-[[files]]
-file = "config/fancymenu/customization/Breakneck Fabric - 3.txt"
-hash = "8564012df1dd19061eafc58284526e60093c138500f06ea6e037a5c1ca129b69"
-
-[[files]]
-file = "config/fancymenu/customization/Breakneck Fabric - 4.txt"
-hash = "1bf9814f595949d10395b2fcced9e189fde10053dea16ede695f89447b239bec"
-
-[[files]]
-file = "config/fancymenu/customization/Breakneck Fabric - 5.txt"
-hash = "3d24723d8849266ed5c04ee6d3103992a08c1e0f4dcafa6f649b6062cc54b3a9"
-
-[[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "6fec4a70350f2e6dac181a22a08281a55f4401388dc19b67023f360aebb8fed4"
+hash = "19aa0c43b3a1b106c9eff26e4d7bf2a6b435c58afe5e6e90bdf30f50aa997ed3"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -217,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "2d45af81ac097c416269246293b75ce35b9b93c160d9156fb37f7d89b0d92ce0"
+hash = "710bf70e882175d80cb70574e01924350f4a97a3956bb4f6b518fa3d92886491"
 metafile = true
 
 [[files]]
@@ -272,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "5ca459930a032f0030a8db3d76037e347260c57c34d0e6d7edce1abbbef6215b"
+hash = "bfa70cfdab710acaf4c7ea0759bfd142d2fd9dd1a38dce625c8b9f5cd3cde085"
 metafile = true
 
 [[files]]
@@ -417,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "8cc7a1e3518c0bc5bcda314f287c8aa94a45f30c920a11f625b5629b72323571"
+hash = "99699e9a86b3ef5510635694a7e12bb7e3e2deb92e4a0d383ded1f766c3e3236"
 metafile = true
 
 [[files]]

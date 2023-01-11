@@ -17,7 +17,7 @@ Resource Packs added:
 
 Mods re-enabled: 
 + Eating Animation
-+ Litematica
++ Litematica (Crashing issue has been resolved)
 + Puzzle
 + Better Ping Display
 + CIT Resewn
