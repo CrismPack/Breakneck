@@ -1,0 +1,31 @@
+1.19.3 - 2.2.3
+
+Fabric version: Fabric-0.14.14
+Update summary: 
+~ Updated all mods to the latest version.
+~ Re-enabled a few mods that have gotten updated.
+~ Reworked the title screen to improve scaling.
+
+
+Mods added:
++
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> 
+
+
+Config changes: 
+= : [mod]
