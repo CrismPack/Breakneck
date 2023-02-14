@@ -122,7 +122,7 @@ hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "a534023ee0e1cc44b9f3605ed7df6ad52fc402fb4eb236953c81972f76c25f66"
+hash = "36ba6afb65da52238229b960d33f45f6b88ffa0e7c92bb456212a61331c0694c"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-beds.pw.toml"
-hash = "b90da62da0fc62ff1cf8c2ea2f69ab675cc7e7e37c249ae7d27b4dde6022e7f2"
+hash = "a7aae85e5fc32134fa8a6401ea0c1e69102ebb5cf779099878eb4bcf548211b8"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "fde712be33ca6b6f06d1f3ade4d7097a290c5d3da507b0edfcb8f75e0e775909"
+hash = "5a8b10400e0f3d3313a772fda41058370e5151dcd9ac5cefbbb3d17c4719e283"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "370cadb229f763360c707d461f5d937375adb68747d20b9d64161be5e036c6db"
+hash = "c9f7fc56f07de865b932f66c577a1016ea57c7cb86e52d39dfd6aa83380879f1"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "7ed6e5ecb10de5febd6599c1409944232c80e892eb9361d72b1057ebf900ca0e"
+hash = "cdc9dfe2f6c3717af6cbd381150eab23e398b79bc125c6db791f0acc2c8f6e19"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "62f5b5c352f67a836275257e8f9a073defb6b44c1dca38ac31822b213b78c94c"
+hash = "42a1aadce8457058f365a13864eb9e3e6bae0f75880691ec03983317d18b7ae2"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "b81293bdb253e510ccb9e7a82164aede167ce8f46f82c861561b6a62b33f6cec"
+hash = "85818ac57d06d9b7899a4aaaadfd1be21e0f8053ca72943497b639b5176cbb92"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

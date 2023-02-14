@@ -4,7 +4,6 @@ Fabric version: Fabric-0.14.14
 Update summary: 
 ~ Updated all mods to the latest version.
 ~ Re-enabled a few mods that have gotten updated.
-~ Reworked the title screen to improve scaling.
 
 
 Mods added:
@@ -16,7 +15,12 @@ Resource Packs added:
 
 
 Mods re-enabled: 
-+ 
++ Advancement Plaques
++ Better Beds
++ Equipment Compare
++ Iceberg
++ Legendary Tooltips
++ Prism
 
 
 Mods removed: 
@@ -24,7 +28,39 @@ Mods removed:
 
 
 Mods updated: 
-> 
+> Advancement Plaques
+> Architectury API
+> Balm
+> Better Advancements
+> Better Beds
+> Better Fps - Render Distance
+> CompleteConfig
+> Custom Entity Models
+> Equipment Compare
+> Fabric API
+> Fabric Language Kotlin
+> Falling Leaves
+> FancyMenu
+> Fastload
+> Forge Config API Port
+> I Know What I'm Doing (IKWID)
+> Iceberg
+> Indium
+> Inventory Profiles Next
+> Iris Shaders
+> Language Reload
+> Legendary Tooltips
+> libIPN
+> No Chat Reports
+> OptiGUI
+> Prism
+> Raised
+> Roughly Enough Items (REI)
+> Sodium Extra
+> Sodium
+> ViaFabric
+> Wavey Capes
+> Xaero's World Map
 
 
 Config changes: 
