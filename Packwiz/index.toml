@@ -81,6 +81,10 @@ file = "config/fancymenu/panoramas/breakneckpanorama/properties.txt"
 hash = "6086396bd750f68c960d564889547d20a5ac44e4b1f807736d0fb6ebad39d34a"
 
 [[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
+
+[[files]]
 file = "config/simple-rpc.toml"
 hash = "960a9beb88e3e61e0d2b07a13006aba6324b563ef49076a51de41da9f4b4e393"
 
