@@ -22,7 +22,16 @@ Mods removed:
 
 
 Mods updated: 
-> 
+> Bookshelf
+> Chat Heads
+> Entity Texture Features
+> Entity Culling
+> Fabric API
+> Falling Leaves
+> Mod Menu
+> Raised
+> Roughly Enough Items
+> ViaFabric
 
 
 Config changes: 
