@@ -665,6 +665,11 @@ hash = "eff920d5dbfcfeff7a999eb4f4bfe0600646fa8389f83e94bfee014ea0181109"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3617a3bb4edb0c1059496da54bcf644c4e2fcc67371b0fc81e0330846c64beeb"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "85d8ad88f117c81bf77bb9d26ce853546c989cde12d9e866b7468a3a97fe2d5a"
 metafile = true
