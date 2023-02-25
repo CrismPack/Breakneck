@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "df9af6b17ed49a45d4c10a39cc4830461241ba420e276b366c387a14faad7e55"
+hash = "a79d11400fe8ff901ad57e4ea1cfb5faaccf641a92269a7277a81c68ef8d121a"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "eef91937b4a2e2efcdf114772523624d9b5fb4ead511fab589aa8b031a61afd4"
+hash = "103acb5129c054315ab457c1f4e11d088380d4c3652fa9a53482ad256d8de487"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "eb58a44dd2eeac9c7b6b9a5eb1fc8742998455ccb29ef57b32320bfd56b4f1ac"
+hash = "efa23f8e86646968ed4940c13ce10018a8658e452755240d58d09595146aa013"
 metafile = true
 
 [[files]]
@@ -361,12 +361,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "769fdddb4e5e1bd61650522434e65bf6b5e3bb7fd77a9b922be91b22f0fb5fc0"
+hash = "08ca5d0ab0525788dd489cd8190db88c48a9aa39e10c5a1e763de8bcbd0bc7fd"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "96a32d3c2a7f972278de482b6963f8f92f1169a1e8e565ffa2faf5446c32cd6a"
+hash = "59f431343871d38b1627cdd210b4dc510bb8f235f37c63a61d526665c2eb0af0"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8f33640b2745881bffbfb270f62c2e5cdfc758dfeec4202a5c3878a55f984fbc"
+hash = "8727cf93f4bcf0681f6c9e7c3fe3a5c59a3ddcec9db7621e40303e31e163a077"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "cc5a8a8464a89814a0580e9263f2bc196a8e2a62cfcbbf13cc0e7601b327c255"
+hash = "a54f5619b32af9add811128b8ccac568436338ae39a1debe822af22531294324"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "08aece78a5798df191a937e932eeb4d27bcbd100085f1416fcdf3cd37bef8443"
+hash = "84339769b7f476417a54bace02301654b382fe4c61de706a449a34b34bb3beee"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "bccbf2cfb36b213295d04f88c0bc1a4dacbbf4ed22dbe1db1dea9bab646c03cc"
+hash = "506eb52eb080ed56a15713c3b06d2cf44dbab71a1a63f107cdcd13cae3e82a9e"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "52f4ec685f7a52b0a9043f82a8db293ff3130246602fd1ff84b54d09268c1e29"
+hash = "7a7449d2c061ff1afdd59e5ce308bbdf4110f656b94888a0cd177c50ebda9bb9"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "0151197389df8fc6e2b55b5264f9d99453d20fa87b75b046f94e5e64fcaf9139"
+hash = "aa918d1e5ceb6276efec00921469113f055de03c70726a8a310b46ba0998596a"
 metafile = true
 
 [[files]]
