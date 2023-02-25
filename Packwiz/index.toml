@@ -135,11 +135,6 @@ hash = "b10b3b4267a82dd4a9f7e522f48a0c6684b2c8681fbb3c99d43fa233fb4c3173"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "a79d11400fe8ff901ad57e4ea1cfb5faaccf641a92269a7277a81c68ef8d121a"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "7a681648702ad4df45b7c6fad1916eb3bed5bb5cdfdefb54118e90ce928d5b3e"
 metafile = true

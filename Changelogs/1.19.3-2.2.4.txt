@@ -1,6 +1,6 @@
-1.19.3 - 2.2.3
+1.19.3 - 2.2.4
 
-Fabric version: Fabric-0.14.14
+Fabric version: Fabric-0.14.15
 Update summary: 
 ~ 
 
@@ -18,7 +18,7 @@ Mods re-enabled:
 
 
 Mods removed: 
-- 
+- Alternate Current
 
 
 Mods updated: 
