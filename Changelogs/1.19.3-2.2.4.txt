@@ -6,7 +6,7 @@ Update summary:
 
 
 Mods added:
-+
++ Simple Voice Chat
 
 
 Resource Packs added:
