@@ -1,0 +1,29 @@
+1.19.3 - 2.2.3
+
+Fabric version: Fabric-0.14.14
+Update summary: 
+~ 
+
+
+Mods added:
++
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods updated: 
+> 
+
+
+Config changes: 
+= Disabled the stick tool by default: [Litematica]

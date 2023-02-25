@@ -47,7 +47,7 @@
     "placementRestrictionWarn": "actionbar",
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
-    "toolItemEnabled": true,
+    "toolItemEnabled": false,
     "unhideSchematicVCS": false,
     "pasteReplaceBehavior": "none",
     "selectionCornersMode": "corners",
