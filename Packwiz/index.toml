@@ -98,7 +98,7 @@ hash = "fd7f6d208aa1717f7ccd3a1d2e4e00a3dc35b510b883163ad214651dd08436f5"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "3158340df232b62772e5039bba1a2b4efbd72dc0768156552c21a9109faec1e5"
+hash = "53d973bb2b12bccfc41fd04a8d82c429283eb09a0857e608c9329654a290cb68"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
@@ -118,7 +118,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "aef54070412e9bae72d4517bae25711c1cd5572276125b8575b31d8d8c6b2176"
+hash = "dbe35b8729d7052802880e07270680ebecc73a59edc8c8a1940dcc0c10da206c"
 
 [[files]]
 file = "config/zoomify.json"
@@ -764,7 +764,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "85818ac57d06d9b7899a4aaaadfd1be21e0f8053ca72943497b639b5176cbb92"
+hash = "015a230fdae83e0097c45d669b604bf6d44e6984befbf446c276021c6825b913"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
