@@ -39,3 +39,4 @@ Config changes:
 = Disabled the stick tool by default: [Litematica]
 = Disabled reload keybind from 'FancyMenu' as it conflicts with 'ItemSwapper': [YOSBR]
 = Fixed default settings not applying correctly: [YOSBR]
+= Disabled voice chat icons by default: [Simple Voice Chat]
