@@ -10,3 +10,4 @@ key_zoomify.key.zoom:key.keyboard.z
 key_key.itemswapper.itemswitcher:key.keyboard.r
 key_iris.keybind.reload:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
