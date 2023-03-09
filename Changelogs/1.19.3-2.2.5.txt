@@ -3,15 +3,19 @@
 Fabric version: Fabric-0.14.15
 Update summary: 
 ~ Fixed F3 menu crash.
+~ Fixed underwater visibility.
+~ Added support for 'Fresh Animations' resourcepack.
 ~ Updated all mods to the latest version.
 
 
 Mods added:
-+ 
++ Custom Entity Models Fork (This fork provides better compatibility compared to the standard mod)
++ Multiconnect (Replacement for ViaFabric)
 
 
 Resource Packs added:
-+ 
++ Fresh Animations CEM Fork (Is not enabled by default)
++ Fresh Animations (Not actually selectable by default as the normal version is incompatible with CEM)
 
 
 Mods re-enabled: 
@@ -19,7 +23,12 @@ Mods re-enabled:
 
 
 Mods removed: 
-- ViaFabric (Crashes the game when opening F3 menu)
+- ViaFabric (Crashes the game when opening F3 menu. Can be re-enabled if you need its functionality)
+- BedrockWaters (Causes ugly white fog when diving under water)
+
+
+Mods disabled: 
+- Custom Entity Models
 
 
 Mods updated: 

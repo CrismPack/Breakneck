@@ -1,0 +1,13 @@
+name = "multiconnect"
+filename = "multiconnect-1.6-beta.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97a8e87c70a25f3aee7538faa7b8df8512ff67bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4409374
+project-id = 336018

@@ -5,10 +5,6 @@ file = "config/bhmenu/bhmenu-client.properties"
 hash = "00f6bffa030dfab3221fb1a00ce1ba5876c12c68f08abfafbb63e353d6032a8d"
 
 [[files]]
-file = "config/cem.conf"
-hash = "1f6c406790c04431adfa22c1e10e4c6bff0bdae50b6716566a10e87057a918d0"
-
-[[files]]
 file = "config/fancymenu/config.txt"
 hash = "381da90c3346cf2a202c474b9d96cafc1b5985d7a06fd1179e489f40ad998b7e"
 
@@ -89,6 +85,10 @@ file = "config/simple-rpc.toml"
 hash = "960a9beb88e3e61e0d2b07a13006aba6324b563ef49076a51de41da9f4b4e393"
 
 [[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
+
+[[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
 hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
@@ -122,7 +122,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "dbe35b8729d7052802880e07270680ebecc73a59edc8c8a1940dcc0c10da206c"
+hash = "1a561f26f621e51d8f7ec00d673911d38b42e698543d74637c4c767cfb22da4e"
 
 [[files]]
 file = "config/zoomify.json"
@@ -171,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "a602b1dda1ad05a84bee77afc3576c9c8118ed1133f99c48ba5ef7caf58eec69"
-metafile = true
-
-[[files]]
-file = "mods/bedrockwaters.pw.toml"
-hash = "5987f92311ab2a8ef9e005afd5524c5a1a577661932469a7f585ecb575b4a54e"
 metafile = true
 
 [[files]]
@@ -237,6 +232,10 @@ metafile = true
 file = "mods/brb.pw.toml"
 hash = "6cfc6558fa450373b3a860cd5cfff84b73f9201487cd6c0e427c41265303225e"
 metafile = true
+
+[[files]]
+file = "mods/cem-0.7.3_S10_1.19.3.jar"
+hash = "973eaea1a6957b6161e2b664b7f937df69c02688b5d5cc8295df20050fa85b7f"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
@@ -310,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
-hash = "0d5c3f429fef1bcff9f113c4411a747c467b569f0916633531d0ea0864ef0d26"
+hash = "738629f7634d517ae193014d564ac7742c6bd9959aa6741a0808e4710f2560e9"
 metafile = true
 
 [[files]]
@@ -559,6 +558,11 @@ hash = "ac43e5a44e1ba0e36c8014d44e0b784b2246e99dc878b4a955e6102a116edac8"
 metafile = true
 
 [[files]]
+file = "mods/multiconnect.pw.toml"
+hash = "253c11dba4785ed35c0d776b1fb69f3d4357def356ebee3bb156c544617599ec"
+metafile = true
+
+[[files]]
 file = "mods/name-pain.pw.toml"
 hash = "8bc1c0c4bdb8060850d4acb1371c72915db7c9880264e3650b6210d3cd32cb69"
 metafile = true
@@ -689,11 +693,6 @@ hash = "ca4570a2294b34cc91dbe6699dbb08cfc588f58928d24329c84c9e702db3250c"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.pw.toml"
-hash = "aa918d1e5ceb6276efec00921469113f055de03c70726a8a310b46ba0998596a"
-metafile = true
-
-[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "d989b4e851c577d6fd271c7d8cbd6859f8960d556d9b562fbb6c145c94581a0b"
 metafile = true
@@ -716,6 +715,15 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ae446098e5d170fa6266995de90837aeef42a357550ca1135a078eb12acf9536"
+metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.7_S10.zip"
+hash = "f2e372fec6c8fad1a733cc4acd0bebc2e60c9afde039f887a4ce20a918283cdd"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "651976f090091975bee1623c1675fc02967309679b5879429a168ec5a9adaf04"
 metafile = true
 
 [[files]]
@@ -768,7 +776,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "015a230fdae83e0097c45d669b604bf6d44e6984befbf446c276021c6825b913"
+hash = "b87970f5edb09b85c19d0948e08daa4027ed26dd149f050ec2eae21d4f31d007"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
