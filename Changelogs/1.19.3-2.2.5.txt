@@ -1,6 +1,6 @@
 1.19.3 - 2.2.5
 
-Fabric version: Fabric-0.14.15
+Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Fixed F3 menu crash.
 ~ Fixed underwater visibility.
