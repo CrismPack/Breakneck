@@ -15,11 +15,11 @@ Mods added:
 
 Resource Packs added:
 + Fresh Animations CEM Fork (Is not enabled by default)
-+ Fresh Animations (Not selectable as the normal version is incompatible with CEM)
++ Fresh Animations (Not selectable since the normal version is incompatible with CEM)
 
 
 Mods re-enabled: 
-+ 
++ Enhanced Block Entities
 
 
 Mods removed: 
@@ -32,7 +32,16 @@ Mods disabled:
 
 
 Mods updated: 
-> 
+> Balm
+> Custom Entity Models
+> Eating Animation
+> Enchantment Descriptions
+> Enhanced Block Entities
+> Entity Texture Features
+> Lithium
+> MemoryLeakFix
+> Roughly Enough Professions
+> Xaero's World Map
 
 
 Config changes: 

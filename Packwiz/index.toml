@@ -122,7 +122,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1a561f26f621e51d8f7ec00d673911d38b42e698543d74637c4c767cfb22da4e"
+hash = "698ad0052353b01f6c1d9337923bc92ba475676e00ffecf68513d7020436fc4a"
 
 [[files]]
 file = "config/zoomify.json"
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "96c657c94d63e6404e9082ad706fd386b115b512b2ea70dc3c4069fd3fb5660a"
+hash = "e9b5f6e9d0e95ffa0eb45e783c3c95bddb98af91cba3cffbbf7ca08e5e062ae2"
 metafile = true
 
 [[files]]
