@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "a602b1dda1ad05a84bee77afc3576c9c8118ed1133f99c48ba5ef7caf58eec69"
+hash = "1ce2428ae8bd46fab18c13ce1574a07039db8c30a2bc1e5a9d09c63242284318"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
-hash = "738629f7634d517ae193014d564ac7742c6bd9959aa6741a0808e4710f2560e9"
+hash = "c6609cb8ffd2d20ee21b684e4afa6e4cd0a383474a987798a5345d1c31ce85dc"
 metafile = true
 
 [[files]]
@@ -344,22 +344,22 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "173adb8dda86b9a7a45c227ed7954b2b5ac8e049aa5d85f2e733cd7949b77780"
+hash = "b05cabf1cb7cfe985633de243229b7f4c443d65505725af4af74d988c120b47e"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "6bf24b201837a6ca2e5256aed0b6f6d9be2f793aca90725b0fb76e6d6834fc97"
+hash = "38acb9417298f389badcf6f785254ac60d68147f88f6f930496134060b6efd2c"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "96a0c1df19c5e58e9123c3bf164bac102cf06f2f0eff5c26911997bf78291520"
+hash = "96c657c94d63e6404e9082ad706fd386b115b512b2ea70dc3c4069fd3fb5660a"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "08ca5d0ab0525788dd489cd8190db88c48a9aa39e10c5a1e763de8bcbd0bc7fd"
+hash = "f8bd74911585fd9ae1f8ce9f43318d98e81ae10bf379f4efcaee244d3882a48c"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "13c01e730b4ac48724be93066e553ca58309c120ba83d88b4e0549c5f8342e3d"
+hash = "ded1eb5896b0d0f1a0e13addb48fff54d05d88f3517630e9c8ccbb52afed63ff"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "832fca7ebfcabd68f826e249aa89a42fc568b3bcf4fc9c758b976e618e27b6e8"
+hash = "cdf37a4b721b36a102af84b5da6870ebf8f6d93763ba3f1048c0c1fb90765000"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "084de12a00aabfc8623bc9700e9d055da5ddbd3b4e8554fb439b0b225d44c7d4"
+hash = "5a77d82ace0f512d0f9be617e549f5dbb9b0ebe704445fdace3bb95b5af1eb9a"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2b4cb9091f5c4b70abb3f6d80d3da9567e0bb405f728b8efb9e4396268b814d5"
+hash = "8462ae74da8fece2acfc8b29da2bace60affab815ecb319736d71e3c17cf32b0"
 metafile = true
 
 [[files]]
