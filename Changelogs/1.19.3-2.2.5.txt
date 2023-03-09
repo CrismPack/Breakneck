@@ -15,7 +15,7 @@ Mods added:
 
 Resource Packs added:
 + Fresh Animations CEM Fork (Is not enabled by default)
-+ Fresh Animations (Not actually selectable by default as the normal version is incompatible with CEM)
++ Fresh Animations (Not selectable as the normal version is incompatible with CEM)
 
 
 Mods re-enabled: 
@@ -36,5 +36,6 @@ Mods updated:
 
 
 Config changes: 
-Disabled the disable_voice_chat keybind by default as it conflicts with 'Litematica': [Simple Voice Chat]
-'Custom Entity Models' config now only gets overwritten on the first startup: [YOSBR]
+= Disabled the disable_voice_chat keybind by default as it conflicts with 'Litematica': [Simple Voice Chat]
+= 'Custom Entity Models' config now only gets overwritten on the first startup: [YOSBR]
+= Disabled conflicting keybinds from 'Simple Voice Chat': [YOSBR]
