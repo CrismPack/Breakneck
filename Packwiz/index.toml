@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "710bf70e882175d80cb70574e01924350f4a97a3956bb4f6b518fa3d92886491"
+hash = "2d45af81ac097c416269246293b75ce35b9b93c160d9156fb37f7d89b0d92ce0"
 metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "e0461212812c20bbff3b1c86dba113bc8c9619409ca2926a98a593ed4cd7cfc6"
+hash = "e1549c0a83714c85e80d3d9b9b1fb11cdd3c92581bdab0f95b27185a8ed84c0b"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "d35bc54aaf27e2ba0d20f4d44edd3e242c1de8e2de25062780ecff7c34e4f6c8"
+hash = "aaec03a2938c1437e7fb359f9012479a3bb66f2800ca4fadc8934fcb47d3c465"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.pw.toml"
-hash = "253c11dba4785ed35c0d776b1fb69f3d4357def356ebee3bb156c544617599ec"
+hash = "56b5332784d0934924772a254aa5baec3c2a5717cfc6f167077a686b68da2621"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "cc4bb8acde220867a69f4b612adfaeba53c3b351ece53797966e13ec266947e7"
+hash = "af32d48b0dea84c36580c296ead8823e259e365f272d2dd007682843f9ae3c58"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/thorium.pw.toml"
-hash = "ca4570a2294b34cc91dbe6699dbb08cfc588f58928d24329c84c9e702db3250c"
+hash = "9ad886b01eefa545cb3100b46e076b7e28ee36066c1da3aa027a42b9f5d00584"
 metafile = true
 
 [[files]]
