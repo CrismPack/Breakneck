@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-up.pw.toml"
-hash = "beeda50533dab377b3579cb8ed70f4d59b92c565ce1365549d90d1125acb3d7c"
+hash = "c390476a31460fc581f96f23c36086948a57a720a98251d22cbdd2b50bc2285f"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "b87970f5edb09b85c19d0948e08daa4027ed26dd149f050ec2eae21d4f31d007"
+hash = "e36088db53831c6f871a75ce63c48fa100558ee9295b02bf0b80e3d35657ce84"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

@@ -22,7 +22,12 @@ Mods removed:
 
 
 Mods disabled: 
-- 
+- Better Ping Display
+- Better Sodium Video Settings Button
+- Litematica
+- multiconnect
+- Server Performance - Smooth Chunk Save
+- thorium
 
 
 Mods updated: 
