@@ -1,16 +1,16 @@
 name = "Chat Up!"
-filename = "chat-up-2.1.0.jar"
+filename = "chat-up-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e1b1fc1e108c43d5b447146540f4666f73a4bec1"
+hash = "87cd3e4b0af1680e17fdc3d4baa02bc6b8168df8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3939764
+file-id = 4442134
 project-id = 367561
 
 [option]
-optional = true
+optional = false

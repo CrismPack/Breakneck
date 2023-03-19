@@ -1,0 +1,86 @@
+1.19.4 - 2.3.0
+
+Fabric version: Fabric-0.14.17
+Update summary: 
+~ Initial 1.19.4 release
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++ Chat Up!
+
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+
+Mods updated: 
+> Ambient Environment
+> AppleSkin
+> Architectury API
+> Balm
+> Bookshelf
+> Chat Heads
+> Chat Up!
+> CleanView
+> Client Tweaks
+> Cloth Config API
+> Clumps
+> CompleteConfig
+> Controlling
+> Debugify
+> Detail Armor Bar
+> Eating Animation
+> Enchantment Descriptions
+> Entity Texture Features
+> Entity Culling
+> Fabric API
+> Disable Custom Worlds Advice
+> Fabric Language Kotlin
+> Falling Leaves
+> FancyMenu
+> FerriteCore
+> Forge Config API Port
+> FPS Reducer
+> Indium
+> Inventory Profiles Next
+> Iris Shaders
+> Konkrete
+> Krypton
+> Language Reload
+> libIPN
+> Lithium
+> MaLiLib
+> MidnightLib
+> MiniHUD
+> Mod Menu
+> Mouse Tweaks
+> Name Pain
+> No Chat Reports
+> Not Enough Animations
+> OptiGUI
+> Puzzle
+> Raised
+> Roughly Enough Items
+> Simple Discord RPC
+> Simple Voice Chat
+> Skin Layers 3D
+> Sodium Extra
+> Sodium
+> Xaero's World Map
+> YetAnotherConfigLib
+
+
+Config changes: 
+= : [mod]

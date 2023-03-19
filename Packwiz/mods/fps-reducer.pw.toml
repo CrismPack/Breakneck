@@ -1,15 +1,15 @@
 name = "FPS Reducer"
-filename = "FpsReducer2-fabric-1.19.3-2.2.jar"
+filename = "FpsReducer2-fabric-1.19.4-2.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "af4be5c197a6d45cef87cc8c56a9d3374952fe2e"
+hash = "7b33ea733a7a629040a64787f3044c4c471713d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4160319
+file-id = 4439026
 project-id = 280294
 
 [option]

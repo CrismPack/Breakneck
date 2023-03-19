@@ -1,15 +1,15 @@
 name = "Puzzle"
-filename = "puzzle-1.4.2-1.19.3.jar"
+filename = "puzzle-1.5.0+1.19.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "74f5f358acde66b3ac9347f4d659598fbaae4e11"
+hash = "ae662e1c765f9f561afc8aae942b24901d24f77e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4259422
+file-id = 4439191
 project-id = 563977
 
 [option]
