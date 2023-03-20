@@ -28,6 +28,8 @@ Mods disabled:
 - multiconnect
 - Server Performance - Smooth Chunk Save
 - thorium
+- MemoryLeakFix
+- ShulkerBoxTooltip
 
 
 Mods updated: 

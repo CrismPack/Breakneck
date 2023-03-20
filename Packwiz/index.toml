@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiconnect.pw.toml"
-hash = "56b5332784d0934924772a254aa5baec3c2a5717cfc6f167077a686b68da2621"
+hash = "7e1cd5456858c5e493735485a63f17c12ccf91d81fbe109fcbb54f3783a4c734"
 metafile = true
 
 [[files]]
