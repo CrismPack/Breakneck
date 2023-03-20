@@ -6,7 +6,7 @@ hash = "00f6bffa030dfab3221fb1a00ce1ba5876c12c68f08abfafbb63e353d6032a8d"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "381da90c3346cf2a202c474b9d96cafc1b5985d7a06fd1179e489f40ad998b7e"
+hash = "4e997f118f5ec59a4f98007d7ba484e7809bf7569a722646b98c233a27a0c160"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -344,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "dae92adbe52bb6b6691abbe0bc8a135a8bb212a8d6216fb5f5f69866b1877039"
+metafile = true
+
+[[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "0ea014b7afc581160bcfb4ebfbd24876ce39db66778dbc4d154bd28c019dcd42"
 metafile = true
 
 [[files]]

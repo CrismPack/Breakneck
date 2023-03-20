@@ -1,0 +1,33 @@
+1.19.4 - 2.3.0.pre2
+
+Fabric version: Fabric-0.14.17
+Update summary: 
+~ Updated all mods to their latest version.
+~ Menu backgrounds now use the deepslate texture.
+
+Mods added:
++ Global Packs
+
+
+Resource Packs added:
++ 
+
+
+Mods re-enabled: 
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+
+Mods updated: 
+> 
+
+
+Config changes: 
+= Created a global texturepack that changes the background textures to deepslate: [Global Packs]
