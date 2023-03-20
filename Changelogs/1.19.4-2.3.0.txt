@@ -1,9 +1,10 @@
-1.19.4 - 2.3.0
+1.19.4 - 2.3.0-pre1
 
 Fabric version: Fabric-0.14.17
 Update summary: 
-~ Initial 1.19.4 release
-
+~ Initial 1.19.4 release.
+~ Updated all mods to their latest version.
+~ Disabled mods that are incompatible with the new version.
 
 Mods added:
 + 
@@ -15,6 +16,7 @@ Resource Packs added:
 
 Mods re-enabled: 
 + Chat Up!
++ Custom Entity Models
 
 
 Mods removed: 
@@ -58,6 +60,7 @@ Mods disabled:
 - Roughly Enough Professions
 - Simple Measuring
 - TalkBubbles
+- Custom Entity Models Fork
 
 
 Mods updated: 
@@ -120,4 +123,5 @@ Mods updated:
 
 
 Config changes: 
-= : [mod]
+= Disabled additional "Mods" button on the title screen as there already is one: [Mod Menu]
+= Disabled text from 'Puzzle' mod: [FancyMenu]

@@ -14,7 +14,7 @@ hash = "19dcfdbd8d20ee57a3fd434cebe3aabdb2f51b4874185b7a06706e5fb029bfc3"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "0ada6291b705d9ea00867a5fbbd83a8adf44be922ff797aa268b00255e66f999"
+hash = "6d89328dac8d2d528c9922fdfde29074d6f9385505c5ad6372078a170a623dea"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -79,6 +79,10 @@ hash = "6086396bd750f68c960d564889547d20a5ac44e4b1f807736d0fb6ebad39d34a"
 [[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "aab2e012c94c628068a4bbb6517c5a1dafdfd5298b9ecee8e0ab4e285257025d"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -234,7 +238,7 @@ hash = "6cfc6558fa450373b3a860cd5cfff84b73f9201487cd6c0e427c41265303225e"
 metafile = true
 
 [[files]]
-file = "mods/cem-0.7.3_S10_1.19.3.jar"
+file = "mods/cem-0.7.3_S10_1.19.3.jar.disabled"
 hash = "973eaea1a6957b6161e2b664b7f937df69c02688b5d5cc8295df20050fa85b7f"
 
 [[files]]
@@ -309,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
-hash = "c396159778d4ff6f4027765f78ea60d16c36a0eb3f0426b47a0cf6c2e7e539a7"
+hash = "923e8b888f8b44018c7472f20aa2feee0120ab668de7e6ed9f736d9f42baae0b"
 metafile = true
 
 [[files]]
@@ -776,7 +780,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "e36088db53831c6f871a75ce63c48fa100558ee9295b02bf0b80e3d35657ce84"
+hash = "581afd1b68cdcc808a51f3d1c794d12ea0673b7b7d95ffafcc307729776fb7c8"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
