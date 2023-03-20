@@ -4,7 +4,7 @@ Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Updated all mods to their latest version.
 ~ Menu backgrounds now use the "Polished Blackstone Bricks" texture.
-~ Ability to toggle between a day/night version of the title screen panorama.
+~ Added ability to toggle between a day/night version of the title screen panorama.
 
 Mods added:
 + Global Packs
