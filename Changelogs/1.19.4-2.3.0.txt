@@ -30,6 +30,34 @@ Mods disabled:
 - thorium
 - MemoryLeakFix
 - ShulkerBoxTooltip
+- Advancement Plaques
+- AntiGhost
+- Auth Me
+- Better Advancements
+- Better Beds
+- Better Fps - Render Distance
+- Better Taskbar
+- Better Third Person
+- CIT Resewn
+- Clear Despawn
+- Clickable advancements
+- Damage Tilt
+- Don't Clear Chat History
+- Drip Sounds
+- Equipment Compare
+- FastAnim
+- Fastload
+- I Know What I'm Doing
+- Iceberg
+- ItemSwapper
+- LazyDFU
+- Legendary Tooltips
+- Map Tooltip
+- MinecraftCapes Mod
+- Prism
+- Roughly Enough Professions
+- Simple Measuring
+- TalkBubbles
 
 
 Mods updated: 
@@ -37,6 +65,7 @@ Mods updated:
 > AppleSkin
 > Architectury API
 > Balm
+> Bobby
 > Bookshelf
 > Chat Heads
 > Chat Up!
@@ -46,6 +75,7 @@ Mods updated:
 > Clumps
 > CompleteConfig
 > Controlling
+> Custom Entity Models
 > Debugify
 > Detail Armor Bar
 > Eating Animation
