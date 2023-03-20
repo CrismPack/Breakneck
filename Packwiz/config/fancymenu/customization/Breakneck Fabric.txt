@@ -77,6 +77,33 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+}
+
+customization {
+  identifier = %id=44%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
@@ -105,6 +132,11 @@ customization {
 }
 
 customization {
+  identifier = %id=2968%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -130,28 +162,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\lang_hover.png
   backgroundnormal = resources\mainmenu\lang_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -21
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources/mainmenu/longbutton_hover.png
-  backgroundnormal = resources/mainmenu/longbutton_normal.png
 }
 
 customization {
@@ -472,8 +482,20 @@ customization {
 }
 
 customization {
-  identifier = %id=2968%
-  action = hidebutton
+  orientation = top-right
+  restartbackgroundanimations = true
+  buttonaction = toggle_layout
+  backgroundhovered = resources/mainmenu/lightdark_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = -20
+  width = 20
+  actionid = 73ca2911-82cd-4da1-a28d-b612f154079a1679332506182
+  action = addbutton
+  y = 0
+  backgroundnormal = resources/mainmenu/lightdark_normal.png
+  value = BreakneckPanorama_Dark
+  height = 20
 }
 
 customization {

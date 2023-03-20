@@ -13,8 +13,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "19dcfdbd8d20ee57a3fd434cebe3aabdb2f51b4874185b7a06706e5fb029bfc3"
 
 [[files]]
+file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
+hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
+
+[[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "6d89328dac8d2d528c9922fdfde29074d6f9385505c5ad6372078a170a623dea"
+hash = "5a02bb9be89133a5178986a0d04e9728f10d85a7b0e8d0e14a5ac4a682b9938f"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -77,6 +81,34 @@ file = "config/fancymenu/panoramas/breakneckpanorama/properties.txt"
 hash = "6086396bd750f68c960d564889547d20a5ac44e4b1f807736d0fb6ebad39d34a"
 
 [[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_0.png"
+hash = "14dce277cc54e344885a4289d4e8a4b670e7c5d2ffe4e444df8a5c4fad69c75f"
+
+[[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_1.png"
+hash = "c3daeca8cfd24b3cb727261b66a670fb34b4982e20150a94eccfd6ec6842bd01"
+
+[[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_2.png"
+hash = "7b5537d7b65f3e4a4219c106616afebe284061c80dfc6641ea018d69fee05429"
+
+[[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_3.png"
+hash = "5a1b7f2abb21fe10e2023c2e8a759dcfaaa554bb57d27575808378c61c55e206"
+
+[[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_4.png"
+hash = "392bcf2f818cf7334b905973c3d087a61c6b0d2140c951e532910b6d77a931f1"
+
+[[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_5.png"
+hash = "0e569893701b574c61af28ca311c68c2233f5d14c1e3a67541b5347450aa31cf"
+
+[[files]]
+file = "config/fancymenu/panoramas/breakneckpanorama_dark/properties.txt"
+hash = "3abb43eddace178e8baa6e623bd7e73021e713f25996383125884b209f343381"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 
@@ -131,6 +163,14 @@ hash = "698ad0052353b01f6c1d9337923bc92ba475676e00ffecf68513d7020436fc4a"
 [[files]]
 file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
+
+[[files]]
+file = "global_packs/required_resources/Breakneck Textures/assets/minecraft/textures/gui/options_background.png"
+hash = "f491807fe030f744eaf7e49b391ceba1efa2e05f786f29de6bea77712e340818"
+
+[[files]]
+file = "global_packs/required_resources/Breakneck Textures/pack.mcmeta"
+hash = "17832e2e7d40bfca8c68f52e49022f09de29fb9afc8fe27912493ce8f801e3cb"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
@@ -776,6 +816,14 @@ file = "resources/mainmenu/lang_normal.png"
 hash = "3a2521c3313e4b5894df4315900a48dd7f3236e4bde6e63de2f87258ac07afdb"
 
 [[files]]
+file = "resources/mainmenu/lightdark_hover.png"
+hash = "599c4f58ecab57f7a98b75707390f1eb6886a6bf9b2876a438e2711f6912f923"
+
+[[files]]
+file = "resources/mainmenu/lightdark_normal.png"
+hash = "cfcb58e2509ddb7b2527f80d981e50551ebe71b1411194749799428704ad2680"
+
+[[files]]
 file = "resources/mainmenu/longbutton_hover.png"
 hash = "f1129824f24614f51521028764d407d6b77d901f132f52faa47a8917cd9bd23a"
 
@@ -785,7 +833,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "581afd1b68cdcc808a51f3d1c794d12ea0673b7b7d95ffafcc307729776fb7c8"
+hash = "d006ac2ec3d1fdaf66a774b8ab6b0f29f6203e9b6119ddca53b6bc4e59babd77"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

@@ -3,7 +3,8 @@
 Fabric version: Fabric-0.14.17
 Update summary: 
 ~ Updated all mods to their latest version.
-~ Menu backgrounds now use the deepslate texture.
+~ Menu backgrounds now use the "Polished Blackstone Bricks" texture.
+~ Ability to toggle between a day/night version of the title screen panorama.
 
 Mods added:
 + Global Packs
@@ -30,4 +31,6 @@ Mods updated:
 
 
 Config changes: 
-= Created a global texturepack that changes the background textures to deepslate: [Global Packs]
+= Created a global texturepack that changes the menu background textures to "Polished Blackstone Bricks": [Global Packs]
+= Added new panorama that takes place at night: [FancyMenu]
+= Added new button to toggle between the day/night panoramas on the title screen: [FancyMenu]
