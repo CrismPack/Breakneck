@@ -21,6 +21,7 @@ Mods re-enabled:
 + MinecraftCapes Mod
 + ShulkerBoxTooltip
 + Better Taskbar
++ Custom Entity Models Fork
 
 Mods removed: 
 - Simple Measuring
@@ -28,7 +29,7 @@ Mods removed:
 - Clickable advancements
 
 Mods disabled: 
-- 
+- Custom Entity Models
 
 Mods updated: 
 > Architectury API
@@ -48,6 +49,7 @@ Mods updated:
 > OptiGUI
 > ShulkerBoxTooltip
 > Xaero's World Map
+> Custom Entity Models Fork
 
 Config changes: 
 = Created a global texturepack that changes the menu background textures to "Polished Blackstone Bricks": [Global Packs]
