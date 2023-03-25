@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "bcc4a6462c13393865cb4fb7609bbd284752843d73ceb53c137296e4398cc87d"
+hash = "4542a3f06bb5dc67ca817cb63de0a7457c5635d653b11c9e5caa468429ea087d"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "a14785de25dbaf4ad436f30480a99f4c953df161ec47afb3f24ad60aa69f8785"
+hash = "2185c2c40578155a5e0e2e4b600962ca123108bdd53369f27446f313628d260e"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "7ddc9e71f46ff380747510e2c11e251d1a0822caa56f4141e0c60f2ff429521c"
+hash = "403b0c920f1836fde5d65e9789177f3cd3e1e5502a5af781183acdc86c3d66f3"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1488052fb2840513adb2a19ae16d40d74253b4c99d4df05366d3808138f22ab2"
+hash = "a07be5d0869fc599a4b0acb80ab7e623e1d07f249fb3be680ac780fb3d719adc"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
-hash = "e62e6043a72be93dbf1961085dec0148ef31ddf2a91131c957baba827e830f25"
+hash = "f96c5dae58e39d0b8635284b8ff10c929a3753b901cbf74c3f284729af46e71c"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "66c6bd1766ed432ffaac5e68fe0e276ef37e958e9e18223651f9409da3d7772c"
+hash = "1ef370a34d603ecbe8848e8aeb612bf87d8455dbadcd312f19c2312ba38c494c"
 metafile = true
 
 [[files]]
