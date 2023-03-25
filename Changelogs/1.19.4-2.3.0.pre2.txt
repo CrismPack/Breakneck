@@ -1,6 +1,6 @@
 1.19.4 - 2.3.0.pre2
 
-Fabric version: Fabric-0.14.17
+Fabric version: Fabric-0.14.18
 Update summary: 
 ~ Updated all mods to their latest version.
 ~ Menu backgrounds now use the "Polished Blackstone Bricks" texture.
@@ -9,26 +9,41 @@ Update summary:
 Mods added:
 + Global Packs
 
-
 Resource Packs added:
 + 
 
-
 Mods re-enabled: 
-+ 
-
++ Better Recipe Books
++ CIT Resewn
++ Continuity
++ Litematica
++ MinecraftCapes Mod
++ ShulkerBoxTooltip
 
 Mods removed: 
 - 
 
-
 Mods disabled: 
 - 
 
-
 Mods updated: 
-> 
-
+> Architectury API
+> Bobby
+> Bookshelf
+> Better Recipe Books
+> CIT Resewn
+> Continuity
+> Controlling
+> Entity Texture Features
+> Forge Config API Port
+> Inventory Profiles Next
+> libIPN
+> Litematica
+> MinecraftCapes Mod
+> No Chat Reports
+> OptiGUI
+> ShulkerBoxTooltip
+> Xaero's World Map
 
 Config changes: 
 = Created a global texturepack that changes the menu background textures to "Polished Blackstone Bricks": [Global Packs]
