@@ -82,27 +82,27 @@ hash = "6086396bd750f68c960d564889547d20a5ac44e4b1f807736d0fb6ebad39d34a"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_0.png"
-hash = "b55d388aaa54ef97075e8542fe5f57b1c8f4fc1a2f64d96937d14b64f2c270fc"
+hash = "a0df4e47f35ebb6f8b3d4cf5c12cfc82d0407dbeb105dbd8df02fce2b628aedf"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_1.png"
-hash = "12d6c6a6116830de364c35fa989cd20b83c3f4792a84be454cafc2a4c6ac3890"
+hash = "c38de230aa1c3fbf13605692340287f8a8c45e06326815ca61705e7734292889"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_2.png"
-hash = "a70958dbe36335e4bd43adade1c9443aa28434391d26451066cf6c45849d566f"
+hash = "23b050e22006d56949f6a3e14e2bf2383c977ae97401c01684b82fc4edb93002"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_3.png"
-hash = "e9aac6dc8628202042e02962acf20a75891806d263cecbe177d742fdcdd5aed9"
+hash = "c7beae4131dcf271c1373d145bb327183f31f65779458f951889aacb1296d6f9"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_4.png"
-hash = "a19396f89f88f8252a489d253c98ee46d244272edfc5f2676aef81c76cbdadc0"
+hash = "4ef8ec0a984ba61ac78106182f4a8c57f8fb71359bce827272daaea2fe117a06"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_5.png"
-hash = "282a2f53f44f139bb983ae88544b7b26cfe158cf9545ce922704c4bff0a75342"
+hash = "1809a07ccf728f0d591aab420bd7c5f5d75209598f7fe3179de3bc1fa11803c6"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/properties.txt"
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-taskbar.pw.toml"
-hash = "e11cced6a9a8e311502d0f2d40a88d26c79d7651eb4f4a9841bc67f25ba70ae2"
+hash = "69dcc8be4be730cd51401e733311d002504a4df33db9ed51c7e75d630c0e2f0e"
 metafile = true
 
 [[files]]
