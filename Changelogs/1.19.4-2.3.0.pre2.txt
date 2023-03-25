@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.14.18
 Update summary: 
 ~ Updated all mods to their latest version.
+~ Re-enabled mods that have been updated.
 ~ Menu backgrounds now use the "Polished Blackstone Bricks" texture.
 ~ Added ability to toggle between a day/night version of the title screen panorama.
 
@@ -19,9 +20,12 @@ Mods re-enabled:
 + Litematica
 + MinecraftCapes Mod
 + ShulkerBoxTooltip
++ Better Taskbar
 
 Mods removed: 
-- 
+- Simple Measuring
+- Particle Rain
+- Clickable advancements
 
 Mods disabled: 
 - 

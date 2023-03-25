@@ -312,11 +312,6 @@ hash = "7fc546e69363a55eae717ded1dd4b4d2f6b6fce94f2e398725c51105a89d668f"
 metafile = true
 
 [[files]]
-file = "mods/clickable-advancements.pw.toml"
-hash = "5ededb62acb30d7e95498371931764847a31a83d4e2d77c80beccb24626a37f1"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
 hash = "d339c15beaa3f92c3e4afccd939ed0c9b10ab3fb87ef7ffbac31ecdcf246a77d"
 metafile = true
@@ -637,11 +632,6 @@ hash = "6c0cff17fdbccd1eaa2491a3bd41ccc1820513c8dcfad6ce1420a945adfff678"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "b3e2f86d76fe757b53a2fc78a954f2f0edcd7be40956b4481f0f5e51d0ae6a21"
-metafile = true
-
-[[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "62f5b5c352f67a836275257e8f9a073defb6b44c1dca38ac31822b213b78c94c"
 metafile = true
@@ -689,11 +679,6 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "d887ee02f79df1d847e9cb190475a3b7304350025ec83dc677bfc0ab16a08261"
-metafile = true
-
-[[files]]
-file = "mods/simple-measuring.pw.toml"
-hash = "0b3cc307c45e60c422d2c5477dc6c903ed145fce71c4a8794295f5aa7adb9fbc"
 metafile = true
 
 [[files]]
