@@ -1,16 +1,16 @@
 name = "MinecraftCapes Mod"
-filename = "MinecraftCapes Fabric 1.19.3-12.2.2.jar"
+filename = "MinecraftCapes Fabric 1.19.4-12.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "798a7af310433392eca638a0a36c2e069e2ba589"
+hash = "237642e1e8c383e1a9b3b98524ad211225a3c472"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4165183
+file-id = 4446900
 project-id = 359836
 
 [option]
-optional = true
+optional = false

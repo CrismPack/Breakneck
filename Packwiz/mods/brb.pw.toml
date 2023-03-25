@@ -1,16 +1,16 @@
 name = "Better Recipe Books (+ Brewing Stands)"
-filename = "brb-1.6.0-fabric.jar"
+filename = "brb-1.7.2-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e85d51a0291051947e78995f069c2a610ebe0c89"
+hash = "2e403ddc18937f9e919948c0b61a055f8bf4def0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3837129
+file-id = 4454807
 project-id = 486485
 
 [option]
-optional = true
+optional = false
