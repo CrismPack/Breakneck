@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "e04afe09d4607d7dd7c6813bd268126f43a60237411128fefc77520c2dd00ea4"
+hash = "fc5b4d6eb6aaa1ef1e70e59152767b15df2a91118c0afc4cf46b2086730c6890"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "bc2c27a2e3393752b350320be260a43d5322fcd159d451ac230b40f0029177de"
+hash = "56638c2626f52994705d9debe8a2b8fe9eed90048e4b5e4241d5a3a46ff08154"
 metafile = true
 
 [[files]]

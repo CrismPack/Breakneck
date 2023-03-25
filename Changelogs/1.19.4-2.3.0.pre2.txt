@@ -22,6 +22,7 @@ Mods re-enabled:
 + ShulkerBoxTooltip
 + Better Taskbar
 + Custom Entity Models Fork
++ MemoryLeakFix
 
 Mods removed: 
 - Simple Measuring
@@ -50,6 +51,8 @@ Mods updated:
 > ShulkerBoxTooltip
 > Xaero's World Map
 > Custom Entity Models Fork
+> Raised
+> MemoryLeakFix
 
 Config changes: 
 = Created a global texturepack that changes the menu background textures to "Polished Blackstone Bricks": [Global Packs]
