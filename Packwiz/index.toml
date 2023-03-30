@@ -297,6 +297,11 @@ hash = "554e39f63a45ef1741706cceca3781c31d5d51505abcb19a68b6dc9e41852a0b"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "fe9809232561faaa957f9962a8dd54e6a330b4b7e72a5e021b06bd74b5590f15"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2185c2c40578155a5e0e2e4b600962ca123108bdd53369f27446f313628d260e"
 metafile = true
