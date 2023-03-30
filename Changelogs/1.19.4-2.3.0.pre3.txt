@@ -1,0 +1,27 @@
+1.19.4 - 2.3.0.pre3
+
+Fabric version: Fabric-0.14.18
+Update summary: 
+~ Updated all mods to their latest version.
+~ Re-enabled mods that have been updated.
+
+Mods added:
++ Exordium
+
+Resource Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Mods updated: 
+> 
+
+Config changes: 
+= : [mod]

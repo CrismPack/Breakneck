@@ -417,6 +417,11 @@ hash = "fde712be33ca6b6f06d1f3ade4d7097a290c5d3da507b0edfcb8f75e0e775909"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "cca6620a5be9a2338e7450b1b3cfa574325bd9c8fc2a68d7f0e43e385d47b525"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "28cd746df1f2c4faa3581bbce645483938d4691945441d97679f53eb20f12379"
 metafile = true
@@ -818,7 +823,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "d006ac2ec3d1fdaf66a774b8ab6b0f29f6203e9b6119ddca53b6bc4e59babd77"
+hash = "779d93a4f0da0c74c13a214f0e02be1b2fb44b0517a2b46de6e10d1a97b1289e"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
