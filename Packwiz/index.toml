@@ -297,11 +297,6 @@ hash = "554e39f63a45ef1741706cceca3781c31d5d51505abcb19a68b6dc9e41852a0b"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "fe9809232561faaa957f9962a8dd54e6a330b4b7e72a5e021b06bd74b5590f15"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2185c2c40578155a5e0e2e4b600962ca123108bdd53369f27446f313628d260e"
 metafile = true
@@ -492,6 +487,11 @@ hash = "df6cd30d5f8800d23fcec89e690bf344f70c4721276a968936482e23fec8d3ea"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "6e20212c17e66af05904711c5ea1763cde131b1ad3e1975076611bbc443561e6"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "1e9eb3caca3b31ae3c39ba3c04ee957a80e90efb5c915ccbdd1673dc99a3f0d0"
 metafile = true
@@ -624,11 +624,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "009ca1a951bc5a226998d9186d5d61dc180d4afd82d237b3804e415e71102871"
-metafile = true
-
-[[files]]
-file = "mods/no-fade.pw.toml"
-hash = "29e02c91aabd5a7f8c4965e0a517a020ea086b67ee53fb4e6fcff7f1b71ca7ee"
 metafile = true
 
 [[files]]
