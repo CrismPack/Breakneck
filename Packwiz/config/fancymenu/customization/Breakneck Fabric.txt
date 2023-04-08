@@ -61,7 +61,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = element
-  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
   x = 0
   action = movebutton
   y = 24
@@ -74,33 +74,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\longbutton_hover.png
   backgroundnormal = resources\mainmenu\longbutton_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -21
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources/mainmenu/longbutton_hover.png
-  backgroundnormal = resources/mainmenu/longbutton_normal.png
-}
-
-customization {
-  identifier = %id=44%
-  action = hidebutton
 }
 
 customization {
@@ -137,6 +110,17 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  vr:showif:worldloaded = true
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -165,6 +149,33 @@ customization {
 }
 
 customization {
+  identifier = %id=352382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = hidebutton
 }
@@ -175,6 +186,11 @@ customization {
   x = -100
   action = movebutton
   y = 0
+}
+
+customization {
+  identifier = %id=44%
+  action = hidebutton
 }
 
 customization {
@@ -328,7 +344,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = opengui
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Need a server?
   loopbackgroundanimations = true
@@ -339,7 +355,7 @@ customization {
   action = addbutton
   y = 48
   backgroundnormal = resources\mainmenu\shortbutton_normal.png
-  value = https://bisecthosting.com/CRISM
+  value = com.bisecthosting.mods.bhmenu.screens.BHOrderScreen
   height = 20
 }
 
@@ -418,24 +434,6 @@ customization {
 }
 
 customization {
-  orientation = element
-  restartbackgroundanimations = true
-  buttonaction = opengui
-  backgroundhovered = resources/mainmenu/longbutton_hover.png
-  label = Multiplayer
-  loopbackgroundanimations = true
-  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
-  x = 0
-  width = 200
-  actionid = 9abf7901-3a82-4d0b-bc97-a766a6b8eb141673391843752
-  action = addbutton
-  y = 24
-  backgroundnormal = resources/mainmenu/longbutton_normal.png
-  value = com.bisecthosting.mods.bhmenu.BHMultiplayerScreen
-  height = 20
-}
-
-customization {
   orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = opengui
@@ -499,8 +497,20 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  vr:showif:worldloaded = true
-  action = vanilla_button_visibility_requirements
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  label = Multiplayer
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  width = 200
+  actionid = 2444c472-7160-4af8-9410-fa630d3756991680967756939
+  action = addbutton
+  y = 24
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+  value = com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen
+  height = 20
 }
 

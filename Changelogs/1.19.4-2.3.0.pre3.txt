@@ -26,3 +26,5 @@ Mods updated:
 
 Config changes: 
 = Disabled button_update_badge: [Mod Menu]
+= Fixed "Multiplayer" button not working: [FancyMenu]
+= Disabled button from 'BisectHosting Integration': [FancyMenu]
