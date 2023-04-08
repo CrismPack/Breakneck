@@ -13,7 +13,6 @@ Resource Packs added:
 + 
 
 Mods re-enabled: 
-+ Auth Me
 + Better Advancements
 + Better Sodium Video Settings Button
 + Fastload
@@ -23,6 +22,7 @@ Mods re-enabled:
 
 Mods removed: 
 - No Fade
+- Auth Me (Prevents from joining multiplayer servers)
 
 Mods disabled: 
 - 
