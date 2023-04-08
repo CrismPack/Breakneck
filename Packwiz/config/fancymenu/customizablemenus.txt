@@ -12,3 +12,6 @@ net.minecraft.class_442 {
 net.minecraft.class_418 {
 }
 
+com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHMultiplayerScreen {
+}
+

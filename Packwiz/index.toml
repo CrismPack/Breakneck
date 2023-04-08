@@ -10,7 +10,7 @@ hash = "4e997f118f5ec59a4f98007d7ba484e7809bf7569a722646b98c233a27a0c160"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "19dcfdbd8d20ee57a3fd434cebe3aabdb2f51b4874185b7a06706e5fb029bfc3"
+hash = "03ca40c6053502c3ebcf4298deab193015b9cf92a347ba2e2ae6173b6625a4d0"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
@@ -18,7 +18,11 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "5a02bb9be89133a5178986a0d04e9728f10d85a7b0e8d0e14a5ac4a682b9938f"
+hash = "1fc0d9752515bd8934d4d313914799dd29fcb778bcf7750ab0f802d597a61cec"
+
+[[files]]
+file = "config/fancymenu/customization/mpfix.txt"
+hash = "6ef5dd03d74b08001034dd1d4702da080644ea1e128c74d955cb1d2c9b3a84bc"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -114,7 +118,7 @@ hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "aab2e012c94c628068a4bbb6517c5a1dafdfd5298b9ecee8e0ab4e285257025d"
+hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
 
 [[files]]
 file = "config/simple-rpc.toml"
@@ -209,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "edbf2e4f45ae75ef70fbf18625cc64bc33fdd5cdad1edec82b3f5bd8fa631b5a"
+hash = "4bbd1f8dd3b1fbdbbc74571ca9824e374b14d7beef62dedc295b75681888b25e"
 metafile = true
 
 [[files]]
@@ -219,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "ce0321c5183149be267b80d6288564ae9d98ceb91c9062b6fe2688af7acdb4b5"
+hash = "478deebdbf5db0ea004d1354603869bd02da975d468765ffaf439574c9faca7b"
 metafile = true
 
 [[files]]
@@ -244,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "576944863ba1e70269a871eead46b727840eef02376942b720203cb899d0df31"
+hash = "97afcc1522c0a7f691cba828dd9e6eb50c757896f5df850c8b9d3610bab8daf5"
 metafile = true
 
 [[files]]
@@ -453,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0f1ab9c132f4d5f4fd089ffc511b1e82a072e86e1933d0eb60203763bd0f5846"
+hash = "2745ce0ad7a524f4c4ff3dd66c7eb80dc1646cfcf50dfaedd4fc7307daeaf02e"
 metafile = true
 
 [[files]]
@@ -533,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "df40e3468301f9c20bdfec2d7f7c658bc79800b19da797bfb66b769d78f763ed"
+hash = "2bd182b95f3cbb304f20014737f1d957e64a6791236e4c4943e323dd5bd4e57b"
 metafile = true
 
 [[files]]
@@ -663,12 +667,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "254cd6d0798332ede068618fdf54846c26b96e96ace08b756304990e56f25b75"
+hash = "627455fafcd0662ffd87a023c7930f9aadd2b948621dbfe01d273c103f9f5656"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "9649fcd98ca2aa4762695c6cd46c696069029d8429ff9181070572c1fcce5cac"
+hash = "cb5fd5e62590f38736e61b5563f83840e6ec182767098d01b1c08bb16d478487"
 metafile = true
 
 [[files]]
@@ -823,7 +827,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "779d93a4f0da0c74c13a214f0e02be1b2fb44b0517a2b46de6e10d1a97b1289e"
+hash = "e36088db53831c6f871a75ce63c48fa100558ee9295b02bf0b80e3d35657ce84"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
