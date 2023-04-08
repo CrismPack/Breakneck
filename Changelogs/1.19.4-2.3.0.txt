@@ -1,4 +1,4 @@
-1.19.4 - 2.3.0.pre3
+1.19.4 - 2.3.0
 
 Fabric version: Fabric-0.14.19
 Update summary: 
