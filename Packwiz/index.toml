@@ -204,12 +204,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "12e605bcf3422f44c146a552443bd1e2649b8a9aaab702e31f1af09c6d2ec290"
+hash = "c792983c177714b8b333f6926f16ddcd274cedc202e97de705e9f9b5bb5281dd"
 metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "b00ae8989fc0f0772c095c0f8fdaff2131c6378186626a2a4377bd0aa97cc59e"
+hash = "edbf2e4f45ae75ef70fbf18625cc64bc33fdd5cdad1edec82b3f5bd8fa631b5a"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "e32f7233202dd3e532518a9d79d8295de81ad5c6d940a5c20e5ee06bc4bcb801"
+hash = "ce0321c5183149be267b80d6288564ae9d98ceb91c9062b6fe2688af7acdb4b5"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "e1549c0a83714c85e80d3d9b9b1fb11cdd3c92581bdab0f95b27185a8ed84c0b"
+hash = "576944863ba1e70269a871eead46b727840eef02376942b720203cb899d0df31"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "4ee4b06f94ca526baf6f0c71e1ba6ceab61824aedc0b4a95fd3b17c053c28294"
+hash = "4d30c73b4f784a7f60b122d0a16349b64c25e897d6f017d780f7750bae03dc48"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ hash = "a4346a2ee2fdf8443f080069692d2ce55beb173bd4ca1ac683e3c006420be27d"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3baf0480f4158d5740ed662dd80aa84243e213862bec351d949fdad9556112dd"
+hash = "633efdb3a30ba519eb7712b73f191b6f831fc27d4ca82ada291f30d26553e868"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.pw.toml"
-hash = "bfb46d9d0f8c3ab14a32568d79001207905ab8c17a91d8a56a1a40ab8e6d9300"
+hash = "325d46856a1008394a971483902b75ea3307f97149095971d57c3300b2bf0874"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "28cd746df1f2c4faa3581bbce645483938d4691945441d97679f53eb20f12379"
+hash = "01d49deb339e7ef258683beda7a193b0bc5f6cf07520582b2ec8a7e83577d189"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "137389e46b618054ded159cfc1698bd45526eba12b49a1f927e9c1464c48bcf5"
+hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "8b8813e33fe87e423de232e35411875ba7a2fa0d6f455bd6f0b41e9742e20bd2"
+hash = "5be73d7a72a9b98aa87cc43ffb684cd0bbc6215001d7486885d3ee4f83eacf31"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "2ec812ec56af07e5177888506b030ea886343e688195cb774d3fe06424da1291"
+hash = "0f1ab9c132f4d5f4fd089ffc511b1e82a072e86e1933d0eb60203763bd0f5846"
 metafile = true
 
 [[files]]
@@ -498,12 +498,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "c836ed781ca585bf94103e12b7cd1fb5dbeda7ae3d2931827f2799c20f79aba5"
+hash = "010512d71d03ef63eebecf7235d40cb839c526835fd8e90090e7358fa9dcb8e8"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "b2979fbf2ee1b313a118b549f89d8991a7560f393b25c2f5c4f3d3dcdfbe046e"
+hash = "505a762070ffb7b6948b1206895f1eebb2bf5066e8f0943fb494720592e150d0"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "62e5e1b0ea9dedfb5d251938ae7f289f20cb939d189e9faa89b39d316eef3103"
+hash = "df40e3468301f9c20bdfec2d7f7c658bc79800b19da797bfb66b769d78f763ed"
 metafile = true
 
 [[files]]
@@ -578,12 +578,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "40e02b8a833d94813402a266c9b5702ccb241a9b2e8dc4f9538b39485117215f"
+hash = "bd83ed887b441d3777c8b0e82a6c0f03ce2a8a173e202c070fa4493d3e03041f"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "2753d64ac7e730aad6b85f44786ac887f2fd2c9a8d9dfd3533aa0f08f0facbdc"
+hash = "c9b9c98835f825813390710a31542b510920bdc9428ff2fee0e04aa9bd1f9f93"
 metafile = true
 
 [[files]]
@@ -663,12 +663,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "698d8c8aa4d9a95247abf1ade3ec700ea9ab3ac389af90b5d2868e6957f13f6e"
+hash = "254cd6d0798332ede068618fdf54846c26b96e96ace08b756304990e56f25b75"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "7d9f3599a1b8f67d1803bb4db4605d872a4d35d0a554a7104dc9c7b9d3ea6c05"
+hash = "9649fcd98ca2aa4762695c6cd46c696069029d8429ff9181070572c1fcce5cac"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d5af365ed50e1973a140cfc759253893242148058ca889c2a6b422a92f71b4be"
+hash = "62c6dea608ecd5fb5678861fbe761aab0048960f300e27f13de1dfbb11ff7f86"
 metafile = true
 
 [[files]]
@@ -738,12 +738,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "45d36b82d1444a3f8459e195a35c64f6e1be8a3024684f9feec00c6902f48f3d"
+hash = "32a20f527f7de281607cd8bbc74d16d569af47541d92e8300b7ef6716b838d0f"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6e07af643d51da6a17a2cd3de081e15e1760db7ed5ec6955651adce34a6c6e08"
+hash = "526a050918611384c4edd7647d997bb6906a4b6a4d7531132835ff567f31fc39"
 metafile = true
 
 [[files]]

@@ -13,7 +13,13 @@ Resource Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Auth Me
++ Better Advancements
++ Better Sodium Video Settings Button
++ Fastload
++ Lan Server Properties
++ Roughly Enough Professions
++ Roughly Enough Resources
 
 Mods removed: 
 - No Fade
@@ -22,7 +28,27 @@ Mods disabled:
 - 
 
 Mods updated: 
-> 
+> Architectury API
+> Auth Me
+> Better Advancements
+> Better Sodium Video Settings Button
+> BisectHosting Server Integration Menu
+> Chat Heads
+> Custom Entity Models
+> Fabric API
+> Fabric Language Kotlin
+> FancyMenu
+> Fastload
+> Inventory Profiles Next
+> Iris Shaders
+> Lan Server Properties
+> MemoryLeakFix
+> MidnightLib
+> Roughly Enough Professions
+> Roughly Enough Resources
+> Simple Voice Chat
+> Xaero's World Map
+> YetAnotherConfigLib
 
 Config changes: 
 = Disabled button_update_badge: [Mod Menu]
