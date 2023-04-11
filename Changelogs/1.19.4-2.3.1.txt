@@ -6,7 +6,7 @@ Update summary:
 ~ Re-enabled mods that have been updated.
 
 Mods added:
-+ 
++ Xaero's Minimap (Fair-play Edition)
 
 Resource Packs added:
 + 
@@ -29,4 +29,5 @@ Mods updated:
 > Simple Voice Chat
 
 Config changes: 
-= : [Mod]
+= Changed the framerate of the buffered HUD to 60 fps: [Exordium]
+= Made the minimap be disabled by default. This way the waypoint functionality is available to players, with the option of enabling the minimap if desired: [Xaero's Minimap]
