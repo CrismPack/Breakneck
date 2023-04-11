@@ -21,7 +21,12 @@ Mods disabled:
 - 
 
 Mods updated: 
-> 
+> Fabric API
+> FancyMenu
+> Fastload
+> ImmediatelyFast
+> ItemSwapper
+> Simple Voice Chat
 
 Config changes: 
 = : [Mod]
