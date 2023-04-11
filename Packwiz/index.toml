@@ -129,6 +129,10 @@ file = "config/yosbr/config/cem.conf"
 hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
 
 [[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "e3c906619582a6ec984ab964e889bccb43583686c47f30b9b44542e1921f6744"
+
+[[files]]
 file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
 hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
@@ -155,6 +159,10 @@ hash = "b6b48c45b24b9077c91073e035e5a5680b28cbd59a9c19af4f178850cebd7ff2"
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "16d7cbfc1d27090d2658085ae7574defe2f617c8943269806bd2090ce0d12784"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
