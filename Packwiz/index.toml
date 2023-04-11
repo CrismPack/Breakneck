@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "01d49deb339e7ef258683beda7a193b0bc5f6cf07520582b2ec8a7e83577d189"
+hash = "8ef713f0cb58e98bb8455ae9c067bb985a250b9391381ab627d50806a0631d28"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "5be73d7a72a9b98aa87cc43ffb684cd0bbc6215001d7486885d3ee4f83eacf31"
+hash = "417cb292c84138aac961a984049f14d1aefd7e8156b3e56df5b10fdb97e7716f"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "2745ce0ad7a524f4c4ff3dd66c7eb80dc1646cfcf50dfaedd4fc7307daeaf02e"
+hash = "f20a38122a44599eece3f11858019520b8d88f1b8631795642bd56b2ee0a6b38"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6e20212c17e66af05904711c5ea1763cde131b1ad3e1975076611bbc443561e6"
+hash = "2b79b3e67734ce1c38e30a7d29f20a9fabf1022e13a67b044700ebfd22207c8f"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "408e355097593a2df41c5a51cad8107f9396fd9a1d9dd454a3e6e9ea72c12600"
+hash = "8875c61ca58a179215321cdab534f484ac78977bf4247a6b12f0913dc5307503"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "62c6dea608ecd5fb5678861fbe761aab0048960f300e27f13de1dfbb11ff7f86"
+hash = "ba27e9c4d06f0c52238614fb97f82ae1e083bfa7c58bcbf5564ba7dc27c19933"
 metafile = true
 
 [[files]]

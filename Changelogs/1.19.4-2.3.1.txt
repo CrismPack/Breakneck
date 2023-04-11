@@ -1,0 +1,27 @@
+1.19.4 - 2.3.1
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Updated all mods to their latest version.
+~ Re-enabled mods that have been updated.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Mods re-enabled: 
++ ItemSwapper
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Mods updated: 
+> 
+
+Config changes: 
+= : [Mod]
