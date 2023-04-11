@@ -29,5 +29,5 @@ Mods updated:
 > Simple Voice Chat
 
 Config changes: 
-= Changed the framerate of the buffered HUD to 60 fps: [Exordium]
+= Changed the framerate of the buffered HUD to 60 fps by default: [Exordium]
 = Made the minimap be disabled by default. This way the waypoint functionality is available to players, with the option of enabling the minimap if desired: [Xaero's Minimap]
