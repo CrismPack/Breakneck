@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "8875c61ca58a179215321cdab534f484ac78977bf4247a6b12f0913dc5307503"
+hash = "092496cf473645629659c93293bbb33bab8d391fe355cf6e7c0b843e1cb8ec6e"
 metafile = true
 
 [[files]]
@@ -736,6 +736,11 @@ hash = "d989b4e851c577d6fd271c7d8cbd6859f8960d556d9b562fbb6c145c94581a0b"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "8aefb38adec16d0fe14e8cf11bf469af6c583a0890b4d4cd063eabdf80eeb429"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "32a20f527f7de281607cd8bbc74d16d569af47541d92e8300b7ef6716b838d0f"
 metafile = true
@@ -822,7 +827,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "e36088db53831c6f871a75ce63c48fa100558ee9295b02bf0b80e3d35657ce84"
+hash = "aa4cb1a452083afd58a38d444586828dc18fab360540e65bfb5d811c8d0f99df"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
