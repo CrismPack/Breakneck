@@ -757,6 +757,11 @@ hash = "7aac71a3f2ebf3ed9101aa40fa0c35261c6dbc74fcf635dec3ab647c00196fac"
 metafile = true
 
 [[files]]
+file = "mods/viafabric.pw.toml"
+hash = "8b781733f93cfcf65637d70a7c0ce09c459395c4ae64784a71d2c709d34d6250"
+metafile = true
+
+[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "d989b4e851c577d6fd271c7d8cbd6859f8960d556d9b562fbb6c145c94581a0b"
 metafile = true

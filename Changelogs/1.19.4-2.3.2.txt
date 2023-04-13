@@ -3,12 +3,13 @@
 Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Updated all mods to their latest version.
-~ Fixed buttons from 'No Chat Reports' not being at the same height as the others in the multiplayer menu.
+~ Added a few new mods.
 
 Mods added:
 + Better Statistics Screen
 + Model Gap Fix
 + Tool Stats
++ ViaFabric
 
 Resource Packs added:
 + 
