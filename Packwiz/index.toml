@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bhmenu/bhmenu-client.properties"
-hash = "00f6bffa030dfab3221fb1a00ce1ba5876c12c68f08abfafbb63e353d6032a8d"
+file = "config/bhmenu/bhmenu-general.properties"
+hash = "63bbcbf91584e9f2a31d36af1d96a214fb1c7138fa9682e63a51fb93173ea8fa"
+
+[[files]]
+file = "config/bhmenu/bhmenu-public_server_list.properties"
+hash = "3abdaf4809f784063f9f9eca1e75fa54e121755882ccbcd9233399dba9e6856c"
+
+[[files]]
+file = "config/bhmenu/bhmenu-server_creator_banner.properties"
+hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -22,7 +30,7 @@ hash = "1fc0d9752515bd8934d4d313914799dd29fcb778bcf7750ab0f802d597a61cec"
 
 [[files]]
 file = "config/fancymenu/customization/mpfix.txt"
-hash = "6ef5dd03d74b08001034dd1d4702da080644ea1e128c74d955cb1d2c9b3a84bc"
+hash = "4138814321bc3c7bc89f6e4ef06f64463549425727459b911e1d03fc7987c8a0"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -519,11 +527,6 @@ hash = "505a762070ffb7b6948b1206895f1eebb2bf5066e8f0943fb494720592e150d0"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "1cb4189a22e9a75f5c66c3ee5276c3c52ce043e5f67a5e35c662cb1aeab3ce1e"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "092496cf473645629659c93293bbb33bab8d391fe355cf6e7c0b843e1cb8ec6e"
 metafile = true
@@ -611,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "07d5408bc1df13c7580425fe706cf65505e58e11346066b3a5eaaa7078d9593b"
+metafile = true
+
+[[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "b5f1cc6a8284c142cc1a03396dc5f17f658e27613a46a646e8b0179859cc829e"
 metafile = true
 
 [[files]]
@@ -840,7 +848,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "aa4cb1a452083afd58a38d444586828dc18fab360540e65bfb5d811c8d0f99df"
+hash = "51f8c7893e3536eace225317acf661c5e9169e7e9050a8a5b0177ce8a6b0b958"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
