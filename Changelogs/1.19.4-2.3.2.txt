@@ -2,8 +2,8 @@
 
 Fabric version: Fabric-0.14.19
 Update summary: 
-~ Updated all mods to their latest version.
 ~ Added a few new mods.
+~ Updated mods to their latest version.
 
 Mods added:
 + Better Statistics Screen
