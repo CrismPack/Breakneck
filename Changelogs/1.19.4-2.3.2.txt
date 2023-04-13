@@ -8,6 +8,7 @@ Update summary:
 Mods added:
 + Better Statistics Screen
 + Model Gap Fix
++ Tool Stats
 
 Resource Packs added:
 + 

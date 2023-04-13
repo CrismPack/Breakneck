@@ -752,6 +752,11 @@ hash = "9ad886b01eefa545cb3100b46e076b7e28ee36066c1da3aa027a42b9f5d00584"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "7aac71a3f2ebf3ed9101aa40fa0c35261c6dbc74fcf635dec3ab647c00196fac"
+metafile = true
+
+[[files]]
 file = "mods/waveycapes.pw.toml"
 hash = "d989b4e851c577d6fd271c7d8cbd6859f8960d556d9b562fbb6c145c94581a0b"
 metafile = true
