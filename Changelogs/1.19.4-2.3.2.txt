@@ -28,4 +28,4 @@ Mods updated:
 Config changes: 
 = Fixed BHMenu configs to match the new format: [BisectHosting Server Integration Menu]
 = Disabled public_server_list: [BisectHosting Server Integration Menu]
-= Removed "mpfix" menu customization as it is no longer needed: [FancyMenu]
+= Moved 'No Chat Reports' buttons to be on the same height as the others in the multiplayer menu: [FancyMenu]
