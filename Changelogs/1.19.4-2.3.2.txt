@@ -26,4 +26,6 @@ Mods updated:
 > MaLiLib
 
 Config changes: 
-= Fixed BHMenu configs: [BisectHosting Server Integration Menu]
+= Fixed BHMenu configs to match the new format: [BisectHosting Server Integration Menu]
+= Disabled public_server_list: [BisectHosting Server Integration Menu]
+= Removed "mpfix" menu customization as it is no longer needed: [FancyMenu]
