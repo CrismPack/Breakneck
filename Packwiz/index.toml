@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "4d30c73b4f784a7f60b122d0a16349b64c25e897d6f017d780f7750bae03dc48"
+hash = "6f830fc53e0bf7da1cd2cdc824689649fd66a4c42200d9fdad802f0be4c4657f"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "f20a38122a44599eece3f11858019520b8d88f1b8631795642bd56b2ee0a6b38"
+hash = "ebc1c9b352afd56769ff0a065812006b8389786f1588338d4460c49dc07b6acd"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "985c7e59f8f3fc2aaa7f6d4fe27b97a426e8056577f298aa0749a11164ed5730"
+hash = "808d9c0a6ccd0259bdd4fbb7d154a7257fccb63a9c0df95054a811ceea614ba5"
 metafile = true
 
 [[files]]

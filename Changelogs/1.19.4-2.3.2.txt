@@ -1,0 +1,29 @@
+1.19.4 - 2.3.2
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Updated all mods to their latest version.
+~ Re-enabled mods that have been updated.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Mods updated: 
+> BisectHosting Server Integration Menu
+> Fastload
+> MaLiLib
+
+Config changes: 
+= Fixed BHMenu configs: [BisectHosting Server Integration Menu]
