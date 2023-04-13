@@ -3,10 +3,10 @@
 Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Updated all mods to their latest version.
-~ Re-enabled mods that have been updated.
+~ Fixed buttons from 'No Chat Reports' not being at the same height as the others in the multiplayer menu.
 
 Mods added:
-+ 
++ Better Statistics Screen
 
 Resource Packs added:
 + 

@@ -255,6 +255,11 @@ hash = "97afcc1522c0a7f691cba828dd9e6eb50c757896f5df850c8b9d3610bab8daf5"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "4202eb308d1fe8ec5e83c6f14c91cf767f74d09533e12dbf64682bfedef1b3cd"
+metafile = true
+
+[[files]]
 file = "mods/better-taskbar.pw.toml"
 hash = "69dcc8be4be730cd51401e733311d002504a4df33db9ed51c7e75d630c0e2f0e"
 metafile = true
