@@ -18,7 +18,7 @@ hash = "4e997f118f5ec59a4f98007d7ba484e7809bf7569a722646b98c233a27a0c160"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "03ca40c6053502c3ebcf4298deab193015b9cf92a347ba2e2ae6173b6625a4d0"
+hash = "e7a3adb5e9ec8b49322deb89d99a90a27b87d61ded7d3ef7e6434a7f401fb209"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
@@ -31,6 +31,10 @@ hash = "1fc0d9752515bd8934d4d313914799dd29fcb778bcf7750ab0f802d597a61cec"
 [[files]]
 file = "config/fancymenu/customization/mpfix.txt"
 hash = "4138814321bc3c7bc89f6e4ef06f64463549425727459b911e1d03fc7987c8a0"
+
+[[files]]
+file = "config/fancymenu/customization/optionsmenu.txt"
+hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
