@@ -32,3 +32,5 @@ Config changes:
 = Fixed BHMenu configs to match the new format: [BisectHosting Server Integration Menu]
 = Disabled public_server_list: [BisectHosting Server Integration Menu]
 = Moved 'No Chat Reports' buttons to be on the same height as the others in the multiplayer menu: [FancyMenu]
+= Disabled FPS counter in the HUD by default: [Sodium Extra Options]
+= Disabled tutorial toasts by default: [Sodium Extra Options]
