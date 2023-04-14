@@ -34,4 +34,4 @@ Config changes:
 = Moved 'No Chat Reports' buttons to be on the same height as the others in the multiplayer menu: [FancyMenu]
 = Disabled FPS counter in the HUD by default: [Sodium Extra Options]
 = Disabled tutorial toasts by default: [Sodium Extra Options]
-= Disabled BHMenu settings button in the options menu: [FancyMenu]
+= Removed BHMenu settings button from the options menu: [FancyMenu]
