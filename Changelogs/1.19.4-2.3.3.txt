@@ -3,7 +3,8 @@
 Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Bundled a Shader Pack with both a Quality and Performance configuration to choose from.
-~ Updated mods to their latest version.
+~ Fixed Zoom button not working with default keybinds.
+~ Updated all mods to their latest version.
 
 Mods added:
 + 
