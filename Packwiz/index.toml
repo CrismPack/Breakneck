@@ -182,7 +182,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "698ad0052353b01f6c1d9337923bc92ba475676e00ffecf68513d7020436fc4a"
+hash = "bc879c0fb49573dda6b500eea6d36f260be14c224a772754a4022e877c59e9a3"
 
 [[files]]
 file = "config/zoomify.json"
@@ -862,7 +862,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "51f8c7893e3536eace225317acf661c5e9169e7e9050a8a5b0177ce8a6b0b958"
+hash = "935d9ed14702373ae44f6b35309dbcf03da73bffce9fd2e8240cfd78ffb4388f"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
@@ -883,3 +883,19 @@ hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
 [[files]]
 file = "resources/mainmenu/splashes.txt"
 hash = "adc12b0c6a697f5085c0c4d69ee2c8ed2202216b2cf7309a63c98a1dc9fc0869"
+
+[[files]]
+file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
+hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
+
+[[files]]
+file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip.txt"
+hash = "85c87b1f550d6b28f793b67ffd6d43a971fe8721cbab553b8125f90877eb57e0"
+
+[[files]]
+file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip"
+hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
+
+[[files]]
+file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip.txt"
+hash = "efe59109a001c1a87b4d1819013ba556df3f3c232e7d2a6383931a4b3b58ffa7"

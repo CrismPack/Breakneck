@@ -5,6 +5,7 @@ Update summary:
 ~ Bundled 'Complementary Reimagined' shaderpack with a quality and performance configuration to choose from.
 ~ Fixed Zoom button not working with default keybinds.
 ~ Updated all mods to their latest version.
+~ Re-enabled mods that have been updated.
 
 Mods added:
 + 
@@ -16,7 +17,9 @@ Shader Packs added:
 + Complementary Reimagined 2.0
 
 Mods re-enabled: 
-+ 
++ Advancement Plaques
++ Legendary Tooltips
++ Iceberg
 
 Mods removed: 
 - 
