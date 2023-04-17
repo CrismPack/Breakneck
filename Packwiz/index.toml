@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "f0d03362b48514ba0ab9335947638265c1db6afdafbde49d6967581178641e1d"
+hash = "b5b5b05e7aa50c651e2720d61c72d948d0b153c619525181bc0a188fa225b368"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "62f5b5c352f67a836275257e8f9a073defb6b44c1dca38ac31822b213b78c94c"
+hash = "42a1aadce8457058f365a13864eb9e3e6bae0f75880691ec03983317d18b7ae2"
 metafile = true
 
 [[files]]
