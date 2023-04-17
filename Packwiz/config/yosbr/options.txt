@@ -1,4 +1,4 @@
-version:3218
+version:3337
 guiScale:3
 autoJump:false
 enableVsync:false
@@ -20,3 +20,4 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
