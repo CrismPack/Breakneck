@@ -5,6 +5,7 @@ enableVsync:false
 soundCategory_master:0.50
 soundCategory_music:0.25
 skipMultiplayerWarning:true
+key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_zoomify.key.zoom:key.keyboard.z
 key_key.itemswapper.itemswitcher:key.keyboard.r
@@ -20,8 +21,7 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.unknown
-key_key.raised.hud.down:key.keyboard.keypad.unknown
-key_key.raised.hud.up:key.keyboard.keypad.unknown
-key_key.raised.chat.down:key.keyboard.keypad.unknown
-key_key.raised.chat.up:key.keyboard.keypad.unknown
+key_key.raised.hud.down:key.keyboard.unknown
+key_key.raised.hud.up:key.keyboard.unknown
+key_key.raised.chat.down:key.keyboard.unknown
+key_key.raised.chat.up:key.keyboard.unknown
