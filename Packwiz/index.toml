@@ -198,7 +198,7 @@ hash = "17832e2e7d40bfca8c68f52e49022f09de29fb9afc8fe27912493ce8f801e3cb"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "70c79f396dd6b17091e19ee763f3d93aa600ffe81b29601c61657859d0df46af"
+hash = "999f67f9957f4af2adbb02ca8d0ce64aae9069e10570287485d72913fa4fac27"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "7000becdfa43083cbfb6563e5fb92a93316d615f5bf7e0ac6d9f888304d8ae32"
+hash = "28a250d6a0d72bcf3a1f2216c2520c9a9f2c558fd31143f2b50b939a39939b3b"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "67ffb4380ecc5f65c135b89aafe9f0457b1da74355a5ef4752ecb2d3893f904f"
+hash = "f0d03362b48514ba0ab9335947638265c1db6afdafbde49d6967581178641e1d"
 metafile = true
 
 [[files]]
