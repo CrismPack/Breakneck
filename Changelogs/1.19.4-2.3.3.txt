@@ -25,7 +25,14 @@ Mods disabled:
 - 
 
 Mods updated: 
-> 
+> Advancement Plaques
+> Debugify
+> Iceberg
+> Legendary Tooltips
+> Litematica
+> Xaero's World Map
+> YetAnotherConfigLib
+> Zoomify
 
 Config changes: 
 = Disabled "Z" keybind for Xaero Minimap by default as it conflits with 'Zoomify': [YOSBR]

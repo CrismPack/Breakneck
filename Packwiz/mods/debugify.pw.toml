@@ -1,13 +1,13 @@
 name = "Debugify"
-filename = "Debugify-1.19.4+1.0.jar"
+filename = "Debugify-1.19.4+2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b41c76e5556b68913e80b660c8ec4d08716d43cf"
+hash = "ef7613c361111547508574a7315dce7c13d8cfe8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4439242
+file-id = 4495395
 project-id = 596224
