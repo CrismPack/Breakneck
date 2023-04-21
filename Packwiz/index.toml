@@ -302,10 +302,6 @@ hash = "4542a3f06bb5dc67ca817cb63de0a7457c5635d653b11c9e5caa468429ea087d"
 metafile = true
 
 [[files]]
-file = "mods/cem-0.7.3_S10_1.19.4.jar"
-hash = "a4346a2ee2fdf8443f080069692d2ce55beb173bd4ca1ac683e3c006420be27d"
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "54281d4ca83d38a82c1c065e592333450c82783d29634cc0781cd72df27a125a"
 metafile = true
@@ -363,11 +359,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "4b81d764821e27c0a5478966bcd4bd64aa00e2fe93879271b5bd0015a5415c98"
-metafile = true
-
-[[files]]
-file = "mods/custom-entity-models-cem.pw.toml"
-hash = "325d46856a1008394a971483902b75ea3307f97149095971d57c3300b2bf0874"
 metafile = true
 
 [[files]]
@@ -527,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "5fd49061b502c0e8ab7842c1858d083ab48aa3d952cf606dc72381efe72dd960"
+hash = "505a762070ffb7b6948b1206895f1eebb2bf5066e8f0943fb494720592e150d0"
 metafile = true
 
 [[files]]
@@ -796,12 +787,8 @@ hash = "3038329c1774bdb52bc4f55b246decccb630a58e1c9c244d6cfbde8d32ed4f40"
 metafile = true
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.7_S10.zip"
-hash = "f2e372fec6c8fad1a733cc4acd0bebc2e60c9afde039f887a4ce20a918283cdd"
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "651976f090091975bee1623c1675fc02967309679b5879429a168ec5a9adaf04"
+hash = "20c62b34e1fb8f1950fe8cb3e31cf5c087313e822f3a7391a0d32520b8ed38d0"
 metafile = true
 
 [[files]]
@@ -862,7 +849,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "935d9ed14702373ae44f6b35309dbcf03da73bffce9fd2e8240cfd78ffb4388f"
+hash = "a7e441e23f3dc31046c8a2072a180b85a5778fbf440665ab9cffd8195f7726f0"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
