@@ -27,6 +27,7 @@ Resource Packs re-enabled:
 Mods removed: 
 - Custom Entity Models Fork
 - Custom Entity Models
+- CompleteConfig
 
 Mods disabled: 
 -
