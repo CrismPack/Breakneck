@@ -1,0 +1,41 @@
+1.19.4 - 2.3.4
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Updated all mods to their latest version.
+~ Re-enabled mods that have been updated.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Don't Clear Chat History
++ Map Tooltip
++ Equipment Compare
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Mods updated: 
+> Chat Heads
+> Debugify
+> Don't Clear Chat History
+> Equipment Compare
+> FancyMenu
+> Fastload
+> Iceberg
+> Map Tooltip
+> Simple Voice Chat
+> YetAnotherConfigLib
+
+Config changes: 
+= : [mod]

@@ -1,15 +1,15 @@
 name = "Don't Clear Chat History"
-filename = "dcch-1.2.jar"
+filename = "DCCH-1.19.4-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "741a45d6a5e63f6d3febe3209a0f6e22bb03f7f1"
+hash = "45cea0c8c0671310ba0746da08c0b00195c74a96"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3827052
+file-id = 4496942
 project-id = 404400
 
 [option]

@@ -307,7 +307,7 @@ hash = "a4346a2ee2fdf8443f080069692d2ce55beb173bd4ca1ac683e3c006420be27d"
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "633efdb3a30ba519eb7712b73f191b6f831fc27d4ca82ada291f30d26553e868"
+hash = "54281d4ca83d38a82c1c065e592333450c82783d29634cc0781cd72df27a125a"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "16c0c17e058778357ab0b70fce77c024aac95c3b069762d29fc22612e16a5b06"
+hash = "3cc33c346c2055010c81ab233497ab69569b2d3cb5c38c6023e5c674777ba451"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
-hash = "7745b35594cb16348dd9de974d5128357fa22c8aeb3504d072050d6d36f563aa"
+hash = "b1012d3b8d5ca7b4e23200cb1a6c7f0388e246760fa7facbd448166811f4adeb"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "fde712be33ca6b6f06d1f3ade4d7097a290c5d3da507b0edfcb8f75e0e775909"
+hash = "0ce8d2335616a8841531a4ce9d4b95305a32133c467d321c18e0476d7b195cf9"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "417cb292c84138aac961a984049f14d1aefd7e8156b3e56df5b10fdb97e7716f"
+hash = "e71dcd53f2047c44e1fbde1a1d2bb5883e36af554e686be0265a55b7fdf117c7"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "ebc1c9b352afd56769ff0a065812006b8389786f1588338d4460c49dc07b6acd"
+hash = "96da2811b1266e78e73703c62749d7309c1da8b46f673c5c9ebc51f341581512"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "28a250d6a0d72bcf3a1f2216c2520c9a9f2c558fd31143f2b50b939a39939b3b"
+hash = "343f71bb5dd80f2f95b870283dce52887cacc28deae768cd136ee53022591a47"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "505a762070ffb7b6948b1206895f1eebb2bf5066e8f0943fb494720592e150d0"
+hash = "5fd49061b502c0e8ab7842c1858d083ab48aa3d952cf606dc72381efe72dd960"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-tooltip.pw.toml"
-hash = "d7cdfd8ce8b9074044494575d41b207c55fc40587343886709d17268937f4887"
+hash = "2874ef27baf560d56ccbc939be0d9d445f6663e62b8235cab61c65021b97b06c"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ba27e9c4d06f0c52238614fb97f82ae1e083bfa7c58bcbf5564ba7dc27c19933"
+hash = "dfac60a72ff0b5edf23565408ca77a3d25f7cce870f9ee2fca9bf66ddda9d016"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c272a0b4dcf61874e44c767fae3719be413d1c234d858e97fa23ed1047f50dae"
+hash = "939d6db2e6e8eaedf567479d95bbe75ed44565b8df1b24001fc8c5e03db23fab"
 metafile = true
 
 [[files]]
