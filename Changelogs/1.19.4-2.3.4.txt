@@ -6,7 +6,7 @@ Update summary:
 ~ Re-enabled mods that have been updated.
 
 Mods added:
-+ 
++ Entity Model Features
 
 Resource Packs added:
 + 
@@ -19,11 +19,18 @@ Mods re-enabled:
 + Map Tooltip
 + Equipment Compare
 
+Resource Packs re-enabled:
++ FreshAnimations
+
 Mods removed: 
-- 
+- Custom Entity Models Fork
+- Custom Entity Models
 
 Mods disabled: 
-- 
+-
+
+Resource Packs removed:
+- FreshAnimations CEM Fork
 
 Mods updated: 
 > Chat Heads
