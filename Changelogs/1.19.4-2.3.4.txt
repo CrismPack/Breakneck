@@ -2,6 +2,8 @@
 
 Fabric version: Fabric-0.14.19
 Update summary: 
+~ Replaced fork of 'Custom Entity Models' with 'Entity Model Features'.
+~ Replaced fork of 'FreshAnimations' with the regular version.
 ~ Updated all mods to their latest version.
 ~ Re-enabled mods that have been updated.
 
