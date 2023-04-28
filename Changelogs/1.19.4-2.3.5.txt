@@ -1,8 +1,9 @@
-1.19.4 - 2.3.4
+1.19.4 - 2.3.5
 
 Fabric version: Fabric-0.14.19
 Update summary: 
 ~ Updated all mods to their latest version.
+~ Fixed Modrinth version missing 'Iceberg' dependency.
 
 Mods added:
 + 
@@ -17,7 +18,7 @@ Mods re-enabled:
 + 
 
 Resource Packs re-enabled:
-+ FreshAnimations
++ 
 
 Mods removed: 
 - 
