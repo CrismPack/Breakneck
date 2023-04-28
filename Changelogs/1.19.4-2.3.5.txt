@@ -1,0 +1,49 @@
+1.19.4 - 2.3.4
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Updated all mods to their latest version.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Resource Packs re-enabled:
++ FreshAnimations
+
+Mods removed: 
+- 
+
+Mods disabled: 
+-
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Better Statistics Screen
+> Chat Heads
+> Entity Model Features [CEM]
+> Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> FancyMenu
+> Inventory Profiles Next
+> Iris Shaders
+> libIPN
+> Xaero's Minimap (Fair-play Edition)
+> YetAnotherConfigLib
+
+Resource Packs updated:
+> Fresh Animations
+
+Config changes: 
+= : [mod]
