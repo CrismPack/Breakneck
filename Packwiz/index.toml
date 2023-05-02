@@ -257,6 +257,11 @@ hash = "221dd681be6d8e423c6ead3273d2dd7f8fa8b1c5fe01d45f1ff1d8be15952d0d"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric-fork.pw.toml"
+hash = "ad4d26d1c33e6bed3b73d4d5c5c50384c6384373bdf5cd161edf92dff7797f2b"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "2d45af81ac097c416269246293b75ce35b9b93c160d9156fb37f7d89b0d92ce0"
 metafile = true
@@ -394,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "0ea014b7afc581160bcfb4ebfbd24876ce39db66778dbc4d154bd28c019dcd42"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
@@ -709,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "a1688fb1a33db2f9962b351ca91cc14f146f9080145842c543ccb7f672f1c1c9"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "21749d96923c04571769031996ef649c790e796172060c7a027e2fabcad26c05"
 metafile = true
 
 [[files]]
