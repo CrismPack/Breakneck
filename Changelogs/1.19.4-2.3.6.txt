@@ -2,7 +2,7 @@
 
 Fabric version: Fabric-0.14.19
 Update summary: 
-~ Added a few mods.
+~ "Open To LAN" now gives a shareable link that allows friends to join your singleplayer world without portforwarding.
 ~ Removed, replaced and re-enabled some mods.
 ~ Updated all mods to their latest version (Except ones that depend on Sodium).
 
@@ -44,7 +44,7 @@ Resource Packs removed:
 Mods updated: 
 > 
 
-Resource Packs updated:
+Resource Packs updated: 
 > 
 
 Config changes: 
