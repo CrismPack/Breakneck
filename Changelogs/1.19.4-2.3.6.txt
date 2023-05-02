@@ -1,0 +1,47 @@
+1.19.4 - 2.3.6
+
+Fabric version: Fabric-0.14.19
+Update summary: 
+~ Updated all mods to their latest version.
+~ Removed, replaced and re-enabled some mods.
+
+Mods added:
++ Better Ping Display - Updated Fork
++ Dynamic FPS
++ Smooth Boot
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Don't Clear Chat History
++ Equipment Compare
++ Map Tooltip
+
+Mods removed: 
+- Advancements Debug
+- AntiGhost
+- Better Fps - Render Distance
+- Better Ping Display (Replaced with an updated fork)
+- FPS Reducer (Replaced with 'Dynamic FPS' since that mod is also available on Modrinth)
+- LambdaBetterGrass (No longer compatible with Fabric modloader)
+- LazyDFU (Replaced by 'Smooth Boot' since this mod is not available on 1.19.4)
+- TalkBubbles
+
+Mods disabled: 
+-
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Resource Packs updated:
+> 
+
+Config changes: 
+= Disabled "updates_check": [Inventory Profiles Next]

@@ -1,16 +1,29 @@
 {
     "ModSettings": {
-        "highlight_foused_items": false,
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_updates_check": false,
         "first_run": false
     },
     "GuiSettings": {
-        "enable_profiles_ui": false,
-        "enable_inventory_editor_button": false,
-        "show_continuous_crafting_checkbox": false,
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "show_continuous_crafting_checkbox": {
+            "value": false
+        },
         "continuous_crafting_saved_value": false
     },
     "AutoRefillSettings": {
-        "refill_armor": false,
-        "refill_before_tool_break": false
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        }
     }
 }
