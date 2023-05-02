@@ -2,13 +2,17 @@
 
 Fabric version: Fabric-0.14.19
 Update summary: 
-~ Updated all mods to their latest version.
+~ Added a few mods.
 ~ Removed, replaced and re-enabled some mods.
+~ Updated all mods to their latest version (Except ones that depend on Sodium).
 
 Mods added:
 + Better Ping Display - Updated Fork
 + Dynamic FPS
 + Smooth Boot
++ e4mc
++ FabricSkyboxes
++ FastQuit
 
 Resource Packs added:
 + 
