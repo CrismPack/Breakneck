@@ -768,12 +768,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "514236f7c7f6e55773fad8ed59c80dc5247e88d219b1043142d2a21df24a5caa"
+hash = "a2bd582877eaad688083ef778e2069ac2486f10e53d1ab8cbd372a06f64344de"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d90e7a7d14b8ecca7ae7785a5b0f54da2075b0029361ab15cd599aa516bacbef"
+hash = "25106d8f740e72b52777f6e1d704b3d4b2b3047f2276c90955925de4ab4a4703"
 metafile = true
 
 [[files]]

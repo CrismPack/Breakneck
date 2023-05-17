@@ -1,5 +1,5 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.30.2_Fabric_1.19.4.jar"
+filename = "XaerosWorldMap_1.30.1_Fabric_1.19.4.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4536628
+file-id = 4516869
 project-id = 317780
