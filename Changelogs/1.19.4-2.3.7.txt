@@ -5,7 +5,7 @@ Update summary:
 ~ Updated all mods to their latest version (Except ones that depend on Sodium).
 
 Mods added:
-+ 
++ Connectivity
 
 Resource Packs added:
 + 

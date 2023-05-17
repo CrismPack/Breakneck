@@ -337,6 +337,11 @@ hash = "958ba1a40f883d59e08b572b0f5586588f3a20fd4c0280e2806c441caa962f71"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "06f993843bad8a8a1ee4fe593fb14589337b833b9b4d8e6de5ffb0bf539d8e4f"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "403b0c920f1836fde5d65e9789177f3cd3e1e5502a5af781183acdc86c3d66f3"
 metafile = true
@@ -839,7 +844,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "49687c5f16875e30f265039130dbcfe8270710c682832c725013450a513bd785"
+hash = "216d6bf8bc698877eb2f50295acb834e2b4ca75aba9d6f545c878d5798708947"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
