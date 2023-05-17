@@ -687,6 +687,11 @@ hash = "536f5c9b4bb59e0812f4291cde1d89940324cf5d14d57fe77a66e818422ba486"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "1ef370a34d603ecbe8848e8aeb612bf87d8455dbadcd312f19c2312ba38c494c"
 metafile = true

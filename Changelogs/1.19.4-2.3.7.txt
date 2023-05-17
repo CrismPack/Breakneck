@@ -2,7 +2,7 @@
 
 Fabric version: Fabric-0.14.19
 Update summary: 
-~ Updated all mods to their latest version (Except ones that depend on Sodium).
+~ Updated all mods to their latest version.
 
 Mods added:
 + Connectivity

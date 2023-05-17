@@ -1,5 +1,5 @@
 name = "YetAnotherConfigLib"
-filename = "yet-another-config-lib-forge-2.5.1+1.19.4.jar"
+filename = "yet-another-config-lib-fabric-2.5.1+1.19.4.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4523736
+file-id = 4523734
 project-id = 667299
