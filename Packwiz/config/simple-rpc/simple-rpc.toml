@@ -33,7 +33,7 @@
 
 	#The buttons to display on Discord
 	[[init.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Main Menu event
@@ -43,7 +43,7 @@
 	#The first line of text under the app name
 	description = "Currently chilling"
 	#The seconds line of text under the app name
-	state = "In the Main Menu"
+	state = "Main Menu"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["breakneck2"]
 	#The text that gets displayed when the large image is hovered
@@ -55,7 +55,7 @@
 
 	#The buttons to display on Discord
 	[[main_menu.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Server List event
@@ -65,7 +65,7 @@
 	#The first line of text under the app name
 	description = "Looking for a server"
 	#The second line of text under the app name
-	state = "In the Multiplayer Menu"
+	state = "Multiplayer Menu"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["breakneck2"]
 	#The text that gets displayed when the large image is hovered
@@ -77,7 +77,7 @@
 
 	#The buttons to display on Discord
 	[[server_list.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Realms Screen event
@@ -87,7 +87,7 @@
 	#The first line of text under the app name
 	description = "Looking for a Realm"
 	#The second line of text under the app name
-	state = "Browsing Realms"
+	state = "Realms Menu"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["breakneck2"]
 	#The text that gets displayed when the large image is hovered
@@ -99,7 +99,7 @@
 
 	#The buttons to display on Discord
 	[[realms_list.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Join Game Event
@@ -121,7 +121,7 @@
 
 	#The buttons to display on Discord
 	[[join_game.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Single Player Event
@@ -143,7 +143,7 @@
 
 	#The buttons to display on Discord
 	[[single_player.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Multi Player Event
@@ -153,7 +153,7 @@
 	#The first line of text under the app name
 	description = "Currently In %world%"
 	#The second line of text under the app name
-	state = "Playing on %servername% with %players% players"
+	state = "Playing on '%servername%' with %players% players"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["breakneck2"]
 	#The text that gets displayed when the large image is hovered
@@ -165,7 +165,7 @@
 
 	#The buttons to display on Discord
 	[[multi_player.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #The Realms Game Event
@@ -173,7 +173,7 @@
 	#Enable/Disable the Realms Game Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Playing on %realmname%"
+	description = "Playing on '%realmname%'"
 	#The second line of text under the app name
 	state = "Playing on a Realm"
 	#The Asset ID of the image to display as the large image
@@ -187,7 +187,7 @@
 
 	#The buttons to display on Discord
 	[[realms.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #Fallback event for disabled events
@@ -207,7 +207,7 @@
 
 	#The buttons to display on Discord
 	[[generic.buttons]]
-		label = "Download Modpack"
+		label = "Download 'Breakneck: Optimized'"
 		url = "https://www.curseforge.com/minecraft/modpacks/breakneck"
 
 #Custom Config Variables that you can use
