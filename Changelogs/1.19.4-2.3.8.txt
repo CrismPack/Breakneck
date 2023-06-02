@@ -3,7 +3,9 @@
 Fabric version: Fabric-0.14.21
 Update summary: 
 ~ Updated all mods to their latest version.
+~ Re-enabled a few mods that have been updated.
 ~ Minor Discord RPC overhaul.
+~ Bundled mods from CF version that allows for destribution in their license. [Modrinth]
 
 Mods added:
 + Capes

@@ -1,0 +1,9 @@
+Mods without distribution license:
+
+Balm
+Better Third Person
+Client Tweaks
+Connectivity
+Don't Clear Chat History
+Name Pain
+Smooth Chunk Save
