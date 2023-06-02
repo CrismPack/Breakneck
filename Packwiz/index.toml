@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-beds.pw.toml"
-hash = "b90da62da0fc62ff1cf8c2ea2f69ab675cc7e7e37c249ae7d27b4dde6022e7f2"
+hash = "a7aae85e5fc32134fa8a6401ea0c1e69102ebb5cf779099878eb4bcf548211b8"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "d412404487c3072aa9d8bac041035936ce87e290cbbd2032838b181a5112a442"
+hash = "6f6e2bccca803244a7796aed8d62eec6681dd24e871f0e7bd672059853c179af"
 metafile = true
 
 [[files]]

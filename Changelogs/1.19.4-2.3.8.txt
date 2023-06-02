@@ -17,6 +17,8 @@ Shader Packs added:
 Mods re-enabled: 
 + FastAnim
 + Smooth Chunk Save
++ Better Third Person
++ Better Beds
 
 Mods removed: 
 - MinecraftCapes
