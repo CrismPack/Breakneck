@@ -18,7 +18,7 @@ hash = "4e997f118f5ec59a4f98007d7ba484e7809bf7569a722646b98c233a27a0c160"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "e7a3adb5e9ec8b49322deb89d99a90a27b87d61ded7d3ef7e6434a7f401fb209"
+hash = "0707dac951bbf2ac76e182decc256c6283ed5e84480d4ab4689f138e537d0fdf"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
@@ -125,8 +125,12 @@ file = "config/modmenu.json"
 hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
 
 [[files]]
-file = "config/simple-rpc.toml"
-hash = "960a9beb88e3e61e0d2b07a13006aba6324b563ef49076a51de41da9f4b4e393"
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "9f497445041af7bbd5b7ee0a7bab994994d08786eaa7399172078246c954ad8c"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
@@ -279,6 +283,11 @@ hash = "4542a3f06bb5dc67ca817cb63de0a7457c5635d653b11c9e5caa468429ea087d"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "ead5d9ec317da61b4b54ed5a5e08deddbf5ab7804eb1795b68807e9e7cece022"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "b81931c5a9934351886d5b7109f90c239fcb8e0b8b69f93c9fa48b875a6cd762"
 metafile = true
@@ -425,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "c0d3b06cfb7c43016a82da85b5fa8b35f8670262e9b291c9ad2503ebfa7c20e6"
+hash = "132fda905bbc3e8f6b2efe0ffdf8411318cd9143b7d6f5a66eb08e54a1dd252c"
 metafile = true
 
 [[files]]
@@ -581,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "c9b9c98835f825813390710a31542b510920bdc9428ff2fee0e04aa9bd1f9f93"
-metafile = true
-
-[[files]]
-file = "mods/minecraftcapes-mod.pw.toml"
-hash = "98b079d72f6d57b3ed6f0042ca30d64835af035756bc1f5e4db4ceba24c92b0c"
 metafile = true
 
 [[files]]
@@ -760,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "969504d8363beecb38609d78d91618084512e510a4dd3aa55ef1215eaff4c788"
+hash = "b520393d9e84b56e5058b3c0f26a36b597d6cc3c8e012bc15ae4fe71d5519ed3"
 metafile = true
 
 [[files]]

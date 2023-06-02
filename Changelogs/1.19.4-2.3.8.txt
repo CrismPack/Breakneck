@@ -6,7 +6,7 @@ Update summary:
 ~ Minor Discord RPC overhaul.
 
 Mods added:
-+ 
++ Capes
 
 Resource Packs added:
 + 
@@ -19,7 +19,7 @@ Mods re-enabled:
 + Smooth Chunk Save
 
 Mods removed: 
-- 
+- MinecraftCapes
 
 Mods disabled: 
 -
@@ -63,4 +63,5 @@ Resource Packs updated:
 
 Config changes: 
 = Fixed "Need a server" button: [FancyMenu]
-= Minor Discord RPC overhaul: [Simple Discord RPC]
+= Changes to most text elements: [Simple Discord RPC]
+= Configured to use the capes from 'MinecraftCapes' by default: [Capes]
