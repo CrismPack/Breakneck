@@ -61,4 +61,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= : [mod]
+= Fixed "Need a server" button: [FancyMenu]

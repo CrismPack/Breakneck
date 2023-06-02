@@ -26,15 +26,7 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "1fc0d9752515bd8934d4d313914799dd29fcb778bcf7750ab0f802d597a61cec"
-
-[[files]]
-file = "config/fancymenu/customization/mpfix.txt"
-hash = "4138814321bc3c7bc89f6e4ef06f64463549425727459b911e1d03fc7987c8a0"
-
-[[files]]
-file = "config/fancymenu/customization/optionsmenu.txt"
-hash = "65ba6886ecf23ec324a59c1f3e86460cf970a32790b916fc853ad85b578db2fc"
+hash = "8fe6084958e0f903b5c58c38a2f5337c5477f56c68ea3cd516509bb2f8e2f3e7"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -182,7 +174,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "29274222aa51b865cd668ed4fe6a21a74ae09025c10fb6eac4033043669ec934"
+hash = "bc879c0fb49573dda6b500eea6d36f260be14c224a772754a4022e877c59e9a3"
 
 [[files]]
 file = "config/zoomify.json"
@@ -649,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "42a1aadce8457058f365a13864eb9e3e6bae0f75880691ec03983317d18b7ae2"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "b02d88aaccbe2f50c649d78c0ee5502a1b3f0500481e80f61e444e18b7891ccd"
 metafile = true
 
 [[files]]
