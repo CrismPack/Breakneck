@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.14.21
 Update summary: 
 ~ Updated all mods to their latest version.
+~ Minor Discord RPC overhaul.
 
 Mods added:
 + 
@@ -62,3 +63,4 @@ Resource Packs updated:
 
 Config changes: 
 = Fixed "Need a server" button: [FancyMenu]
+= Minor Discord RPC overhaul: [Simple Discord RPC]
