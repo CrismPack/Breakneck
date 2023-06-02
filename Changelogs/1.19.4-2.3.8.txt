@@ -1,0 +1,64 @@
+1.19.4 - 2.3.8
+
+Fabric version: Fabric-0.14.21
+Update summary: 
+~ Updated all mods to their latest version.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ FastAnim
++ Smooth Chunk Save
+
+Mods removed: 
+- 
+
+Mods disabled: 
+-
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Architectury API
+> Better Advancements
+> Better Statistics Screen
+> BisectHosting Server Integration Menu
+> Bobby
+> Clumps
+> Connectivity
+> Controlling
+> Debugify
+> Exordium
+> Fabric API
+> FabricSkyboxes
+> FastAnim
+> Forge Config API Port
+> Iceberg
+> ImmediatelyFast
+> Inventory Profiles Next
+> libIPN
+> MinecraftCapes Mod
+> No Chat Reports
+> Not Enough Animations
+> OptiGUI
+> Roughly Enough Items
+> ShulkerBoxTooltip
+> Simple Voice Chat
+> Smooth Chunk Save
+> ViaFabric
+> Xaero's World Map
+> YetAnotherConfigLib
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]

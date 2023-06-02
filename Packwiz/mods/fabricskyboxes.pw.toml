@@ -1,13 +1,13 @@
 name = "FabricSkyboxes"
-filename = "fabricskyboxes-0.6.4+mc1.19.4.jar"
+filename = "fabricskyboxes-0.7.1+mc1.19.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "748dd368cf9ed66f5014250dd2196ab8ff24b9b1"
+hash = "74715a2f09283d9400322944830c3b88bcc0b4c8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4438750
+file-id = 4563704
 project-id = 408209

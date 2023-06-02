@@ -182,7 +182,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bc879c0fb49573dda6b500eea6d36f260be14c224a772754a4022e877c59e9a3"
+hash = "29274222aa51b865cd668ed4fe6a21a74ae09025c10fb6eac4033043669ec934"
 
 [[files]]
 file = "config/zoomify.json"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5960aa8214c3a2c4f82398ce7f08b9c00b36a84da72a76ce88c81f15fd6ae7dc"
+hash = "fd75c8701f108cb4929f2ec322305e4a86d5cf88c20e8a116e2e7c0154d9f31c"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "478deebdbf5db0ea004d1354603869bd02da975d468765ffaf439574c9faca7b"
+hash = "2bbd941e1acbfc9c01b9a36d55e446fa12d50c98e25023292cb270fb036f61cf"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "65595dac116351b642db45c88a5a651c2e8db20030deffeda7df1da8fec4e3ab"
+hash = "8d233e9fead2f0786b5656b900b05168ba066d61507896894e0bad67e369c59d"
 metafile = true
 
 [[files]]
@@ -268,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "6f830fc53e0bf7da1cd2cdc824689649fd66a4c42200d9fdad802f0be4c4657f"
+hash = "343f36aee3b60c8864a1af54877fb18286e80ac14ee3c57d8ad4fe152139129f"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "dd9ac8b02be5af1100bd74d193d8ad87d1459c19b19ef09e960ac58f54bc9638"
+hash = "f9498b74c4baeb841751cc5764625293862663ad1f5a71b4112ab401e5bfea76"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "1d3df7d19d92fa1d69a97625990cc78cd0dd0acba8fdbf04ff6faa8d7b2ad2d6"
+hash = "8036d91b7d7f58542b19c59b0640b7772237d110209273c0c4d9ba3d99c607e4"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "06f993843bad8a8a1ee4fe593fb14589337b833b9b4d8e6de5ffb0bf539d8e4f"
+hash = "f37a451a86823fa47768c28e69a685e57284e3273976eeb4e9409f6a319179bb"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ff275a1d58a5f84222a25e60d118d2b5e179a79b89dea32ef8df0ccd6ccbf86c"
+hash = "160c3d857c4f40cc124f9e89f1fe436dd8babea23bdc9e4b096803deaeda9263"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "a9720fd49344992901e386bac87ede702ea445cd2c25aa5aa600c65338a045bd"
+hash = "3cc33c346c2055010c81ab233497ab69569b2d3cb5c38c6023e5c674777ba451"
 metafile = true
 
 [[files]]
@@ -433,12 +433,12 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "cca6620a5be9a2338e7450b1b3cfa574325bd9c8fc2a68d7f0e43e385d47b525"
+hash = "c0d3b06cfb7c43016a82da85b5fa8b35f8670262e9b291c9ad2503ebfa7c20e6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ddd251888a0ed854a8307f57dd0640252c9f8141fa2480e8ac7f24176cdca27"
+hash = "e3441cb2e0219c0a959c010bc73e5a29354de8b6055db5359eb41f0ced473ef4"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "2dd04f832db92cd6f0cd5e14f93ea570aee37574195e59e56100279c74fe4f36"
+hash = "0741c673e7045aa6fc327dcc42183754d92f68e2dd9df4bd8cddc20fa52e1109"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "8cc7a1e3518c0bc5bcda314f287c8aa94a45f30c920a11f625b5629b72323571"
+hash = "7ddab515bca54ca012c0d14f69095974976e66f11eb6f5e8816fb357534f1261"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "547f8d753200d16be0ee1a1e57773ffc3d6277f5e1cb0a948936ecd4b59d1223"
+hash = "cfa2cbd200e091015bed6456362100e6ff40001e8be8ada86494434f3c215784"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "aa50a99461c33cfc89cc172119a7053ad8addf38dcc35a4fd0017f08f97f2665"
+hash = "6841ef108883ca6f81c08f328ef42ceaefd5684a0c4b851b5e7c5254ec3fbe74"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a23c90df828bc45321d0da39c90dfb268a0bf405d1b8c0c5119213395c275f5f"
+hash = "2b79b3e67734ce1c38e30a7d29f20a9fabf1022e13a67b044700ebfd22207c8f"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "c836ed781ca585bf94103e12b7cd1fb5dbeda7ae3d2931827f2799c20f79aba5"
+hash = "e4c856106fd92d2c195f2831bd6c57597d9c02c9fccff796206603093d4bde01"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "6adcfad82ed5b9a9950ffe884a66db7983628b0b18186dd9826b2728de1862d4"
+hash = "a8a9ae7264d3e3a4edfd5704ebe1711c595901e70dfbbfa71bc32ef88153af3d"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
-hash = "f96c5dae58e39d0b8635284b8ff10c929a3753b901cbf74c3f284729af46e71c"
+hash = "98b079d72f6d57b3ed6f0042ca30d64835af035756bc1f5e4db4ceba24c92b0c"
 metafile = true
 
 [[files]]
@@ -633,17 +633,17 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "009ca1a951bc5a226998d9186d5d61dc180d4afd82d237b3804e415e71102871"
+hash = "bfec205c34e7f07aa169d996cf7097f49b987738d0c6b7b29df262e0087e21a0"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1008b77fa9edd6781691471271e1b948ebb7009e1b82554ac33c0a5863eba55e"
+hash = "031e22624a407085bda44e3e043d626458467aa4d9bb1f7b7efb9340d156cc77"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6c0cff17fdbccd1eaa2491a3bd41ccc1820513c8dcfad6ce1420a945adfff678"
+hash = "195a9c0560556059203afdb82f818904765db4a40a1fe5dd016a40286262cdbd"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "1afa7b76a43554690f31d752f67f2d5868aff1236b97cfc59eeb90c8ced50ba1"
+hash = "6de80897b67749da185f4c367588fa16fbeda3e9e26ad3b3ed6f1406d477c2e9"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "1ef370a34d603ecbe8848e8aeb612bf87d8455dbadcd312f19c2312ba38c494c"
+hash = "3ee7977cb31bbafba645433eac70fab66acaa2428e0cc8f295beaf1c7431be2a"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "154a3a9924a1ce8e20a6d9811f0ff7a74669d343d2066c3ed499ac6cb3955d5e"
+hash = "75ff89cc401b9dd569ea86665ca0a184f186e8530b24bec56e1ab180e844dd6f"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "af32d48b0dea84c36580c296ead8823e259e365f272d2dd007682843f9ae3c58"
+hash = "3d750ae0af19e441f2c8531682ac8670830ae7073c7b0d28ef771e299d08e46e"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "7f55a98f9ced31a74a1b7081b7fb0b85f8d3ab4dcb8085ef6f5ff8f9ec98fe7e"
+hash = "ad0f8b73d0a29bf19f12167067a9b0b66002a3abc59f97bd6b7fa714caafb0e6"
 metafile = true
 
 [[files]]
@@ -768,12 +768,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a2bd582877eaad688083ef778e2069ac2486f10e53d1ab8cbd372a06f64344de"
+hash = "8b8384e9ae8abac6961072ed022dec53f9e08c364e4e91ce47f784ee1826b90c"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "25106d8f740e72b52777f6e1d704b3d4b2b3047f2276c90955925de4ab4a4703"
+hash = "969504d8363beecb38609d78d91618084512e510a4dd3aa55ef1215eaff4c788"
 metafile = true
 
 [[files]]
@@ -849,7 +849,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "216d6bf8bc698877eb2f50295acb834e2b4ca75aba9d6f545c878d5798708947"
+hash = "5c436c146b3bf653d0d9e59b7d47f0bd2efebb4e7043b3356443ee37bce47461"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

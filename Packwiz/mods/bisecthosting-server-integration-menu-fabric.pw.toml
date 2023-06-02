@@ -1,13 +1,13 @@
 name = "BisectHosting Server Integration Menu [FABRIC]"
-filename = "BHMenu-Fabric-1.19.4-2.2.jar"
+filename = "BHMenu-Fabric-1.19.4-2.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f0c717d42ec7cdefe80e7c45eb491899ee224d07"
+hash = "2bf2c173e58b0565368c98326a875cf18a94f06a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4487724
+file-id = 4528927
 project-id = 585548
