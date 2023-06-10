@@ -353,6 +353,11 @@ hash = "9412ed266b190e30354e41c10b4c5b5697798816beae1312b55058b1c8207b2b"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "a72f327064509089a82623b2c6a54e93c1bb699aa517f1df6f0f42c39cdf8fc6"
+metafile = true
+
+[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "dca224fbf029e524d6c3f50f8eb2cda108f1ef0fadd79b30c05e4e94719ecf4c"
 metafile = true
@@ -523,6 +528,11 @@ hash = "dfc4010474fb5ff9549ed3573fc1417380f42afa753b52cf9548390e7b1634f5"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "bb94262e31dad914b4203295f435ce4a86f0b0b3d2706f31f17bfb1e4c6e36d3"
 metafile = true
@@ -569,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9a3fafec368402c8b9b6904071db9038c56b11f6ed836e88bce4b7824cc68d11"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
 
 [[files]]
@@ -719,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "31959b508dd95d54311c9604825121d0a76af76e179c53780c2b7676d21ec95e"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
@@ -764,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f5e7499015edb456ac4e6f316592bd8a919f1a0b02b2af98ab23f2ed189561f2"
+hash = "c4bdc257ef563e527f6503b1844d69001f5e83a3a957fca9a6624805aaa43326"
 metafile = true
 
 [[files]]
@@ -840,7 +850,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "5c436c146b3bf653d0d9e59b7d47f0bd2efebb4e7043b3356443ee37bce47461"
+hash = "958b72a761798d59be950ca81995562af2e9d888d375e0ed70b3bcd5832c8791"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
