@@ -1,0 +1,80 @@
+1.20 - 2.4.0.pre1
+
+Fabric version: Fabric-0.14.21
+Update summary: 
+~ Migrated to 1.20
+~ Disabled mods that are not yet updated.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Mods removed: 
+- 
+
+Mods disabled: 
+-
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> AppleSkin
+> Architectury API
+> Chat Heads
+> CIT Resewn
+> CleanView
+> Cloth Config API
+> Debugify
+> Global Packs
+> Dynamic FPS
+> e4mc
+> Eating Animation
+> Entity Model Features
+> Entity Texture Features
+> Entity Culling
+> Fabric API
+> Fabric Language Kotlin
+> FabricSkyboxes
+> FastAnim
+> FerriteCore
+> Forge Config API Port
+> ImmediatelyFast
+> Indium
+> Inventory Profiles Next
+> ItemSwapper
+> Krypton
+> Language Reload
+> libIPN
+> Map Tooltip
+> MidnightLib
+> No Chat Reports
+> Not Enough Animations
+> OptiGUI
+> Raised
+> Roughly Enough Items
+> ShulkerBoxTooltip
+> Simple Discord RPC
+> Simple Voice Chat
+> Skin Layers 3D
+> Sodium Extra
+> Starlight
+> ViaFabric
+> Wavey Capes
+> Xaero's World Map
+> YetAnotherConfigLib
+> Zoomify
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]

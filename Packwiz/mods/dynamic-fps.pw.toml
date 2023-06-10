@@ -1,13 +1,13 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-2.2.0.jar"
+filename = "dynamic-fps-2.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8d264374dc08df87777fb51b94c781476c315bb5"
+hash = "5aa5c98b9cc47dae201733d9c8fb86f8e9ac3a81"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3829250
+file-id = 4578571
 project-id = 335493
