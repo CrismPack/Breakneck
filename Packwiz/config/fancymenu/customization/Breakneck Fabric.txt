@@ -138,11 +138,6 @@ customization {
 }
 
 customization {
-  identifier = %id=2968%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -168,19 +163,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources\mainmenu\lang_hover.png
   backgroundnormal = resources\mainmenu\lang_normal.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 0
 }
 
 customization {
@@ -491,5 +473,10 @@ customization {
   y = 24
   backgroundnormal = resources/mainmenu/longbutton_normal.png
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
 }
 
