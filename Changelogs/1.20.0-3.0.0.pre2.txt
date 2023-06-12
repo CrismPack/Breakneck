@@ -1,0 +1,62 @@
+1.20.0 - 3.0.0.pre2
+
+Fabric version: Fabric-0.14.21
+Update summary: 
+~ Re-enabled mods that have been updated.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Ambient Environment
++ Bookshelf
++ Capes
++ Clumps
++ Continuity
++ Controlling
++ Drip Sounds
++ FancyMenu
++ Konkrete
++ Mouse Tweaks
++ Searchables
++ Your Options Shall Be Respected (YOSBR)
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Ambient Environment
+> Architectury API
+> Bookshelf
+> Capes
+> Clumps
+> Continuity
+> Controlling
+> Drip Sounds
+> FancyMenu
+> ImmediatelyFast
+> Konkrete
+> Roughly Enough Items
+> Searchables
+> Simple Voice Chat
+> Xaero's World Map
+> YetAnotherConfigLib
+> Your Options Shall Be Respected (YOSBR)
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
