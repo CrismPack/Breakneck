@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.14.21
 Update summary: 
 ~ Re-enabled mods that have been updated.
+~ Replaced panoramas with new 1.20 themed ones.
 
 Mods added:
 + 
