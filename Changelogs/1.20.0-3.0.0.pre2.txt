@@ -60,4 +60,5 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= : [mod]
+= Replaced panoramas with new 1.20 themed ones: [FancyMenu]
+= Changed angle on the panoramas from 0 to 20: [FancyMenu]
