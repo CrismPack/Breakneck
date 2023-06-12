@@ -26,7 +26,7 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "8fe6084958e0f903b5c58c38a2f5337c5477f56c68ea3cd516509bb2f8e2f3e7"
+hash = "714f014578a10a4ed67e27bb9448dc6bc42fb240a97aa7da617da5a321ce774e"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -62,59 +62,59 @@ hash = "98d175ea7536fa1765e53cbc4a81edebf0d5dd511e6b4fe3aa299db1afb37b71"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_0.png"
-hash = "522b2ae0d4e3a146b832854402d93cd37c65fb3b1c3452f9ff7c2aae5be5dae5"
+hash = "137997ebe5b047fa166eff2e80b653e006c4f83e38e5a23c147db448d47c804c"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_1.png"
-hash = "55a4f750fc48d36c6749c262d17e980c05080e00a09a2ed58f4ac0c3afd46071"
+hash = "6e7a896558a16fcc3087f06b3be6ef4b72939a697a01d3ead93e5efe1b60fdfa"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_2.png"
-hash = "e8534ffbf23740a15e4f82d0645d6d9a14f25de45d4394a0a1e647d56621745d"
+hash = "510b1debc1192e785d3e5a7f74b67832f067622e46d76a2332dd404066ea6f15"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_3.png"
-hash = "778b7c891a0c0805c29a505912dd984436477514b83d289a740ae84620a4066e"
+hash = "91b95098a6a07439c57421fb7d17c8e71b1f2eb2cd28e9ca52a6ecace6e31ae0"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_4.png"
-hash = "51cdce0a6a983d55b77f9ee77ec4792aa4b573632d82ab8f84da4ae395873e78"
+hash = "407f1b7409adaa6b0a35312e03048ff9c91a3798764c5e35ab97eeff423f6366"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_5.png"
-hash = "01170ca87e9fbe36dfa78fe29cb8f9c6eb47240c676b5c888d97bf34a3b56ffc"
+hash = "3957cc0d931029c8f22644a4f8e98b7a90e225a5d9511583a750262197ecfd08"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/properties.txt"
-hash = "6086396bd750f68c960d564889547d20a5ac44e4b1f807736d0fb6ebad39d34a"
+hash = "c2ffb0ddec1aab33335c126553d0e208a3857d5490144248bb00e98d6c1c08aa"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_0.png"
-hash = "aa59e2acbecade216f86c5c44a1a2627db7fc43f93968b31a97bb520858af75c"
+hash = "683d664255a20f613de2983d2aea3df074aab1cfd9f866d4552e1edd9db47654"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_1.png"
-hash = "5f6b3529e7f3aa910d66fb80218aa56655a221cb879b1a50f64ea777842da16a"
+hash = "353134657b0bdc972fc9bc420bf0b5a33c57ad56429eff7be52ac96ce6ed2568"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_2.png"
-hash = "99760df5080e70eaa273e4e789d06ec9143c4338e7c8a3584536cfdc6d2e6be1"
+hash = "62ffe1233d42882a508e763495fdd9de3b8023c4f9a4cf5916ab0a4332286693"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_3.png"
-hash = "f2ac6c629a5ca0d62852859cabb97acd7686829cfc78963c04b96251bba5dcc6"
+hash = "81a2a92d3aec94c274aa65195fd1bfeaea51d294f825df6e027b00c78b62a36a"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_4.png"
-hash = "e76a74f3a16d02a9a7e84197339fdb377ac072e41968d4c89cd5c262c69ed74a"
+hash = "eb00145786ebb04948f26a728c1befd37d2dc3ccf23a741cebc87265a2f41641"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_5.png"
-hash = "acbd82fe82e9d26452ff559cc0cb020303ec32375696a4b989020e854f6dbc25"
+hash = "1e45768ba44ddfe2a067d823622c4996ac08f43f14ff54228d933af91c6d03df"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama_dark/properties.txt"
-hash = "3abb43eddace178e8baa6e623bd7e73021e713f25996383125884b209f343381"
+hash = "0dc6dbc9863a40224ee8bcf7a10cecd0bb6970aae9dc070f416fe45503fc7f78"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f7b3aca652bac0b7f6aebd6572b5e4d99e69d44bafe05c5789041bc76543189a"
+hash = "14c8fc5464e449372e4fbf782af5f99e803783a44d8a406a1495955a816c47cf"
 metafile = true
 
 [[files]]
