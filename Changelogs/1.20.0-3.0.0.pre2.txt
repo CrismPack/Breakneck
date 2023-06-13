@@ -4,9 +4,10 @@ Fabric version: Fabric-0.14.21
 Update summary: 
 ~ Re-enabled mods that have been updated.
 ~ Replaced panoramas with new 1.20 themed ones.
+~ Fixed certain mods being disabled when they shouldn't be.
 
 Mods added:
-+ 
++ Mod Menu [MR]
 
 Resource Packs added:
 + 
@@ -29,7 +30,7 @@ Mods re-enabled:
 + Your Options Shall Be Respected (YOSBR)
 
 Mods removed: 
-- 
+- Mod Menu [CF]
 
 Mods disabled: 
 - 
@@ -62,3 +63,4 @@ Resource Packs updated:
 Config changes: 
 = Replaced panoramas with new 1.20 themed ones: [FancyMenu]
 = Changed angle on the panoramas from 0 to 20: [FancyMenu]
+= Changed the MC version in the window title to "1.20": [FancyMenu]

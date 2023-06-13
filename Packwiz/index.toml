@@ -14,7 +14,7 @@ hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "4e997f118f5ec59a4f98007d7ba484e7809bf7569a722646b98c233a27a0c160"
+hash = "f461a602aeea9e9c316fae5a5d6543231dbfb4dcfc79ad43a36b1f65a921d0e5"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -26,7 +26,7 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "714f014578a10a4ed67e27bb9448dc6bc42fb240a97aa7da617da5a321ce774e"
+hash = "bc2efd54b0dc61bb7c050e5fd6941db0f056383fcd4f21afe4229bcba3fc39cc"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -62,27 +62,27 @@ hash = "98d175ea7536fa1765e53cbc4a81edebf0d5dd511e6b4fe3aa299db1afb37b71"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_0.png"
-hash = "137997ebe5b047fa166eff2e80b653e006c4f83e38e5a23c147db448d47c804c"
+hash = "0c0837f95286a83fe9beab8f8815764eaffdf8de3a74f31c16508f17b38848a8"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_1.png"
-hash = "6e7a896558a16fcc3087f06b3be6ef4b72939a697a01d3ead93e5efe1b60fdfa"
+hash = "9f6fc4fefec70d9b24c0ecfa669ad87e7258da1eade1a4416d4ca1afe7f0dfd5"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_2.png"
-hash = "510b1debc1192e785d3e5a7f74b67832f067622e46d76a2332dd404066ea6f15"
+hash = "5d9ea76d2f392288f31758eff2c8b0bb4ac312bb33e563596b1f4d1f0040c1f4"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_3.png"
-hash = "91b95098a6a07439c57421fb7d17c8e71b1f2eb2cd28e9ca52a6ecace6e31ae0"
+hash = "e4f737295ab134e731a55b530030f7face63a1deccf702f54e71a7b14fceee75"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_4.png"
-hash = "407f1b7409adaa6b0a35312e03048ff9c91a3798764c5e35ab97eeff423f6366"
+hash = "d144d9e91285cb2d22ef5783adf2e2da1840339770636501cda0af4bbb5b4cb5"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_5.png"
-hash = "3957cc0d931029c8f22644a4f8e98b7a90e225a5d9511583a750262197ecfd08"
+hash = "e92f9fe9bb417cfb6128b9c5d12e1fac2bca2087a563bf23f6048bbeec6c82c9"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/properties.txt"
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "6bfb3a3ee7f0fe3f4c1c66db828c2829315d225daf0e976798f7c3c9802a6298"
+hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
-hash = "6cdeddc07a140655a6516f281454f6913101b0c065a435e1f43324fbf384c380"
+hash = "989be22a02ab5267995a3ac0f8dfd831bbfaf6d4083301921b8617b9e454543e"
 metafile = true
 
 [[files]]
@@ -533,11 +533,6 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "bb94262e31dad914b4203295f435ce4a86f0b0b3d2706f31f17bfb1e4c6e36d3"
-metafile = true
-
-[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "d995eb14807ba2705a2f8683df691339abdd87a313b587d61bc754e9a5b78c45"
 metafile = true
@@ -619,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "bf8469de03d182f3c8ff440c2ed78880ca51baece74309b2d18f23b11acc05d7"
+hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
 metafile = true
 
 [[files]]

@@ -1,16 +1,13 @@
 name = "Mod Menu"
-filename = "modmenu-6.1.0-rc.4.jar"
-side = "both"
+filename = "modmenu-7.0.1.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/RTFDnTKf/modmenu-7.0.1.jar"
 hash-format = "sha1"
-hash = "d3ec07e6358e95b5ed775ea5a8b1ea938f108a53"
-mode = "metadata:curseforge"
+hash = "7210fab34b5ffe9f43207e2a74c7d4b8cdf5b165"
 
 [update]
-[update.curseforge]
-file-id = 4441645
-project-id = 308702
-
-[option]
-optional = true
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "RTFDnTKf"
