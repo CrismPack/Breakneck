@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "46dd65fa7bf72a6fc427b47b5266741d48750aef6b786833ff7f441dfc5864c3"
+hash = "ba3f2729350e920671f0db2397090f4a6fc0c0f811c678c58203af315ab141d8"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "2d14fd8ea878d7f37770210ac1ef34c6efc0482f894d4ebea216c93421334000"
+hash = "bd5e30b7859eb38065e5573ee9b564a0c004cae7fc98a32f36664147ef1d3285"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "dd3b4d1cb5b13b48b8b21e8629d81346ba14fea611b71da91f27f2a98cbff7a1"
+hash = "5d62f929cbc50ec7cb8d23ba51ac217803b95d2aa1a6c8d17bed4213e22ef18c"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "e01dc8ce332613af31baf9a25a45fd8404d824abb5539d12ecae212f4a81bde4"
+hash = "8b35d76055c431705faca9383567688b1354a8dbecec36a19b59c6df115b15f3"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "24982d1771b81dc1c3953fca281d9c26efcc2eb70e499fa984139ff9b52acbdc"
+hash = "4e904404198dc983a2ba370f7c5ddb1427ded89a8f2676165f305cdfbdadfecc"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "dc73c3d9b397cd55139882a738e7803366001f85bd8cb64e57cfcba3049df856"
+hash = "862ac8c84a94692adf8c5866807c1568db76d6041c71df26baebf7534c1e3c63"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "fdc0edb7e01aad3aefe65cb435713832e0b06010ae0eaf092338bbfaa2c738e2"
+hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ab7da430f75e30d1bf88b16f8cf510e072309c66de11a3ddad1bf2a7c5ba9975"
+hash = "d82800d948590fa8ed49ce31b2eeb638cd865bf050a61ad6a0bfd7927234db9a"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e9b4be0d3d7dedaef2255501d8e096826c55d96fff888e94817e3e09fdfad44e"
+hash = "995f5dbffe2e92dc3a1de0540b30acd937de9c0a6851b1ed5b36cdb3bc0c184e"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8d0f3a6ec3beb45f9dd19a01aaef1ca63e991fee7050625b3aaeb8274e46bc5"
+hash = "b7c9d52147d26fc193c1f5792090d82eac35dd3fb6009d8d7ef4a992d99a99b6"
 metafile = true
 
 [[files]]
