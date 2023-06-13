@@ -14,7 +14,7 @@ hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "f461a602aeea9e9c316fae5a5d6543231dbfb4dcfc79ad43a36b1f65a921d0e5"
+hash = "d8235e5c976b7485796ed31432403984d37f12742f050d6b16aae9be1417fb48"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "128ce4cf6e2e72d85158223784f727ddfa8b55d9ce083f1b4144f966e789b69d"
+hash = "3a3d05a93ee53f93c25536cab619927ec54599391ab1da3bbc4778f03fc7a99d"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d13aba6df2810eea0ddc9f710fb5caf2b385c71e9ac734f3aff469a861ccc01b"
+hash = "0922f2394392c00719e760557a455edc8fc90eedaa41a176430dd880cf3f8879"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "047fc9ce5e6406309f034fce45c879110f7d8c6792bace0b3d7e94e421a9902c"
+hash = "7dd2c216a3e1968e1e12660a7d02e7e3df9d3f27135e83fbefc3326bbf40f60d"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "869dc77d80886294231d09f3722b61dd4f0d3197da2d128cb79a9d441b398d10"
+hash = "39d0ee53a1b3681d4d1abc5da1b4e9f4b708772abc95ce35f26424bcc571683e"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "8b35d76055c431705faca9383567688b1354a8dbecec36a19b59c6df115b15f3"
+hash = "ee494769f4cfab5aa852d0032685b3cbf0df85e78a1fafc3af4ec0d83247f55b"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6292445a4950b2ce57aaf416f1aedcbbca57092b973c96b942d7eb60f1792a0f"
+hash = "d0821fce4e1e2a7a262ccefbcb212f7442f281287dd841599827b9344830ccde"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "282f511abfc950dd06cc12a438dba81f9d4f8d22c7df8a618b4891382b2ceb89"
+hash = "cb2b564bdf4b9d7f6d715cf5c7bea067f223123b63d21b6c8d661ee18f4e60f0"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
