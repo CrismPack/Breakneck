@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.14.21
 Update summary: 
 ~ Updated all mods to their latest version.
+~ Disabled picking up items straight into inventory as it could get you kicked/banned on some servers.
 
 Mods added:
 + 
@@ -58,4 +59,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= : [mod]
+= Disabled picking up items straight into inventory by default: [Inventory Profiles Next]

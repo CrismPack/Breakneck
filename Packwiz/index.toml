@@ -146,7 +146,7 @@ hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2458641c5989308b83c58bb08a3b4632c8016a800cb0e110f9b1af2e6dd1dd34"
+hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
-hash = "4075222e7ccccc3a1ee095398f702f02ace660d16c4a5e194d483db04782e26d"
+hash = "6cdeddc07a140655a6516f281454f6913101b0c065a435e1f43324fbf384c380"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "d995eb14807ba2705a2f8683df691339abdd87a313b587d61bc754e9a5b78c45"
+hash = "d799514da5ff96ba3428bf223beeaff46962fe1783a98fc6a3848bbde7d38ba5"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f5e7499015edb456ac4e6f316592bd8a919f1a0b02b2af98ab23f2ed189561f2"
+hash = "60c3c8cebc4142900b7c25faa14ff08947b1a57902bfa9ee73fd57ad3a3d8b65"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "5c436c146b3bf653d0d9e59b7d47f0bd2efebb4e7043b3356443ee37bce47461"
+hash = "46210e0d25fcb0833ce4372efa75328cff36aa2eb79b6ea6248bbcefd2de5112"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
