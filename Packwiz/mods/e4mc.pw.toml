@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc-3.1.0.jar"
+filename = "e4mc-3.2.0+1.19.4-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "223c73a3da0ea515c10ca10b03d0b282cf6fafec"
+hash = "601600a3977a9a60b1eb4fb293e5252467922bfa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4536965
+file-id = 4569792
 project-id = 849519

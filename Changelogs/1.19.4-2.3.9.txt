@@ -1,0 +1,61 @@
+1.19.4 - 2.3.9
+
+Fabric version: Fabric-0.14.21
+Update summary: 
+~ Updated all mods to their latest version.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Drip Sounds
+
+Mods removed: 
+- 
+
+Mods disabled: 
+-
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Ambient Environment
+> AppleSkin
+> Better Statistics Screen
+> Bobby
+> Bookshelf
+> Drip Sounds
+> Global Packs
+> e4mc
+> Enchantment Descriptions
+> Fabric Language Kotlin
+> Iceberg
+> ImmediatelyFast
+> Indium
+> Inventory Profiles Next
+> ItemSwapper
+> Language Reload
+> libIPN
+> No Chat Reports
+> OptiGUI
+> Roughly Enough Items
+> ShulkerBoxTooltip
+> Simple Voice Chat
+> Tool Stats
+> ViaFabric
+> Wavey Capes
+> YetAnotherConfigLib
+> Your Options Shall Be Respected (YOSBR)
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
