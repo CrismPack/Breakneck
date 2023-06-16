@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "3f3e4c8aaeefb293c224c411f398fed240c41fbe5b886690daf4ab1e7edfab58"
+hash = "3d19114ec306b45bc22b4125c697c834c846d6d977205cc68152b4ead7a9081d"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "f5f573c1174804006a36c51edf03b3cbf5a32efb3f140ccb82b3afd6d5e9fd7d"
+hash = "ed839b744eaa66b9cde5701514154e581a3029d23cf601e8bdfe9133bab7d8af"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
