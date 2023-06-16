@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "ca2dee56bda3447903dfe459dd480ad85e6f5d28232a6f0358fb25e071a3e2b6"
+hash = "514725078cc714ce62042f3f8476956807a9618f6790d012c7fa1f5cef7a58e5"
 metafile = true
 
 [[files]]
@@ -298,8 +298,8 @@ hash = "bc58761f1ebfb3ad8960c74aed842cc8d8b4f23b2fbb5061a97b3f162c68a935"
 metafile = true
 
 [[files]]
-file = "mods/cherished-worlds-fabric.pw.toml"
-hash = "b3e97123d4d104bb2704e06ce913b89cb5e838319816b0dd730c9b96f443d8ef"
+file = "mods/cherished-worlds.pw.toml"
+hash = "d69318dec842eee0abe4301fd1e93c397377f12e5d6e1220c3ae87f84584ed2a"
 metafile = true
 
 [[files]]
@@ -325,11 +325,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "88eecbb9eafdf2eb226c594a714f305e71186acdc79a2fa2deb78cd91b74d92a"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "7dd2c216a3e1968e1e12660a7d02e7e3df9d3f27135e83fbefc3326bbf40f60d"
 metafile = true
 
 [[files]]
@@ -505,11 +500,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "4fd3392351abf6cb3284726baec69292c7de081b3731caffbd0a9c5657a6a9fe"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.pw.toml"
-hash = "df6cd30d5f8800d23fcec89e690bf344f70c4721276a968936482e23fec8d3ea"
 metafile = true
 
 [[files]]
@@ -845,7 +835,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "cb2b564bdf4b9d7f6d715cf5c7bea067f223123b63d21b6c8d661ee18f4e60f0"
+hash = "f5f573c1174804006a36c51edf03b3cbf5a32efb3f140ccb82b3afd6d5e9fd7d"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

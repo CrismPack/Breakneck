@@ -20,10 +20,13 @@ Mods re-enabled:
 + Debugify
 + Detail Armor Bar
 + Falling Leaves
-+ Xaero's Minimap (Fair-play Edition)
++ Xaero's Minimap Fair-play Edition
++ Better Sodium Video Settings Button
++ Cherished Worlds
 
 Mods removed: 
-- 
+- Clumps
+- Illuminations (Discontinued)
 
 Mods disabled: 
 - 
@@ -42,7 +45,8 @@ Mods updated:
 > Roughly Enough Items
 > ShulkerBoxTooltip
 > Simple Voice Chat
-> Xaero's Minimap (Fair-play Edition)
+> Xaero's Minimap Fair-play Edition
+> Cherished Worlds
 
 Resource Packs updated: 
 > 
