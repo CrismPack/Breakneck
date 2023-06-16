@@ -2,9 +2,10 @@
 
 Fabric version: Fabric-0.14.21
 Update overview: 
+~ Updated all mods to their latest version.
 ~ Re-enabled a few mods that have been updated.
 ~ Disabled picking up items straight into inventory as it could get you kicked/banned on some servers.
-~ Replaced modpack icons with new 1.20 variant.
+~ Replaced modpack icon with new 1.20 variant.
 
 Mods added:
 + 
