@@ -15,7 +15,12 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Better Statistics Screen
++ Dark Loading Screen
++ Debugify
++ Detail Armor Bar
++ Falling Leaves
++ Xaero's Minimap (Fair-play Edition)
 
 Mods removed: 
 - 
@@ -26,7 +31,18 @@ Resource Packs removed:
 - 
 
 Mods updated: 
-> 
+> Balm
+> Better Statistics Screen
+> Chat Heads
+> Dark Loading Screen
+> Debugify
+> Detail Armor Bar
+> Fabric API
+> Falling Leaves
+> Roughly Enough Items
+> ShulkerBoxTooltip
+> Simple Voice Chat
+> Xaero's Minimap (Fair-play Edition)
 
 Resource Packs updated: 
 > 
