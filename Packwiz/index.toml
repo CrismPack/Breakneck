@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b81931c5a9934351886d5b7109f90c239fcb8e0b8b69f93c9fa48b875a6cd762"
+hash = "e76a658b37be237d3f14db8ca67cd7f8ee1d473cdc57ceeef2972ad2a6ce3fab"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "132fda905bbc3e8f6b2efe0ffdf8411318cd9143b7d6f5a66eb08e54a1dd252c"
+hash = "9c6c12506e2daa48ca2ed0f7e6bb26ed70d6f491f29d0cff9d8c7c5e22e99c33"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "bfcc2d6d8436625abf16b153847f214261e9c556409789707af6a323506853bb"
+hash = "8195845262159e01b43fcfe986e866595f832630dc01983ff0702c33602b1cba"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "46210e0d25fcb0833ce4372efa75328cff36aa2eb79b6ea6248bbcefd2de5112"
+hash = "bdaa16e5e588814e6eb344854b7254322e9e4a78f94003fdbe3171fa4dd356eb"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"
