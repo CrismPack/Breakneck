@@ -4,6 +4,7 @@ Fabric version: Fabric-0.14.21
 Update overview: 
 ~ Re-enabled a few mods that have been updated.
 ~ Disabled picking up items straight into inventory as it could get you kicked/banned on some servers.
+~ Replaced modpack icons with new 1.20 variant.
 
 Mods added:
 + 
@@ -53,3 +54,5 @@ Resource Packs updated:
 
 Config changes: 
 = Disabled picking up items straight to inventory by default: [Inventory Profiles Next]
+= Changed window icon to new 1.20 variant: [FancyMenu]
+= Changed Discord RPC logo to new 1.20 variant: [Simple Discord RPC]

@@ -23,7 +23,7 @@
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -45,7 +45,7 @@
 	#The seconds line of text under the app name
 	state = "Main Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -67,7 +67,7 @@
 	#The second line of text under the app name
 	state = "Multiplayer Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -89,7 +89,7 @@
 	#The second line of text under the app name
 	state = "Realms Menu"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -111,7 +111,7 @@
 	#The second line of text under the app name
 	state = "Loading..."
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -133,7 +133,7 @@
 	#The second line of text under the app name
 	state = "Playing Singleplayer"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -155,7 +155,7 @@
 	#The second line of text under the app name
 	state = "Playing on '%servername%' with %players% players"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -177,7 +177,7 @@
 	#The second line of text under the app name
 	state = "Playing on a Realm"
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -197,7 +197,7 @@
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
-	largeImageKey = ["breakneck2"]
+	largeImageKey = ["breakneck3"]
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "Breakneck: Optimized - Minecraft %mcver%"
 	#The Asset ID of the image to display as the small image
@@ -229,7 +229,7 @@
 		state = ""
 		largeImageKey = ["overworld"]
 		largeImageText = "In the Overworld"
-		smallImageKey = ["breakneck2"]
+		smallImageKey = ["breakneck3"]
 		smallImageText = "%mods% mods installed"
 		buttons = []
 
@@ -239,7 +239,7 @@
 		state = ""
 		largeImageKey = ["nether"]
 		largeImageText = "In the Nether"
-		smallImageKey = ["breakneck2"]
+		smallImageKey = ["breakneck3"]
 		smallImageText = "%mods% mods installed"
 		buttons = []
 
@@ -249,7 +249,7 @@
 		state = ""
 		largeImageKey = ["end"]
 		largeImageText = "In the End"
-		smallImageKey = ["breakneck2"]
+		smallImageKey = ["breakneck3"]
 		smallImageText = "%mods% mods installed"
 		buttons = []
 

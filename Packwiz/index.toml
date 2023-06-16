@@ -54,11 +54,11 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "e6263e8ea5dd1ad9ddde2c6cac6efbf38d8505746e57ce7d6cc4e609f9147a47"
+hash = "cb28f3da7c8c164a157d3cb017ad1c17ff0816a44f63705e0cccad17a2454e50"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "98d175ea7536fa1765e53cbc4a81edebf0d5dd511e6b4fe3aa299db1afb37b71"
+hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
 file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_0.png"
@@ -126,7 +126,7 @@ hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "9f497445041af7bbd5b7ee0a7bab994994d08786eaa7399172078246c954ad8c"
+hash = "13b6c2e87ce0cb7529cb5a476afffa59cf12c1f6757bef0c49b13a44a0b30169"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
