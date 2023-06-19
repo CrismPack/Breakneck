@@ -668,6 +668,11 @@ hash = "08474f8c3c32fccc674ff01aa52eeb0914ed29c1bed5bf00dfe213d8971ef183"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "9166ce3b35906804eb3d25868268c130b93394721cffea22277cf06939d07e14"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
 hash = "81b2e39d3b19bc2cc254034a79fbb1be429480422c70960878babc5cee58d7c4"
 metafile = true
