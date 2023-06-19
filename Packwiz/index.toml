@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "528b5df1ec8616c8dcd87fe58478c38c735c770a06ffc37b5167356a41fb8f45"
+hash = "d63d5ee4a3c31b5b40424de192616c72c89da3ecaa0eb5307442c1811067bc88"
 metafile = true
 
 [[files]]
@@ -254,12 +254,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-taskbar.pw.toml"
-hash = "e86530ed8ee0a9b9f97ad616ff7c082536ac3394cfe5bac0ae4f4916f9595fe5"
+hash = "eda6c85701ad78a7877fd2bf51270d781f085e6e8c00a021fe1c10b6d4eb9630"
 metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "2222d0e2bdbb04231231573f0cf586f3f4c6ad0d62994ef240e065f73a342348"
+hash = "86b5c8992274a24b3b812cbd7c22da0a4894511c44423881d40964f3d5dcd28b"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "375495ce6d11b7c41730e4f1817446cb969f91c47c1de883d3f9a2e49810e878"
+hash = "c281301de5ec88eaba148195d5a79f5e9fb676510e8fd545bd03f07cf81abe85"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "4ff8bcab3a9da6439d76c304eab46d97a65fdccff2bc1f54fa96e5b83d9b171a"
+hash = "9e6b0c134bdef207ccbc5dff183b759f1864f206c8b3e9b6f7d4927726eacc4e"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "849f261a500078ff440982f3315a813e154452f36badc18d572e150311704ad9"
+hash = "94ff3fcbb63145a7c6daeb3c136786fba065375e8cfd935f77615713ad64d32b"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d1837fad49ae495a17a47e4d7c44aa7b10ed732315d17144130b48469056ab61"
+hash = "f0e87e849cebe09cbb1f3ba6c5c858c772db15e6098d3f532e993806eb40759f"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "4b76361697fd133111973d56d7604a23c6dc1adacbcb4defc466352ebf3929d6"
+hash = "752b644f14c7adee9a198c874628ee31f1e249df34ec635df7a71ddb0b1d20bb"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "2b014ac0770a2ba528a0c285f3d68daa07878d21a65f160fdb7e610f1b81c957"
+hash = "557a5ffeb03f728692c3e2cd244958d2f6cc367d2a19bdda68e83b8b942d9599"
 metafile = true
 
 [[files]]
