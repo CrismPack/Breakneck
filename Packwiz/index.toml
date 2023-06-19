@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "51d0e43b8116d3c27018ce88fdbbea42e784f104a9effe91b8b4f26cf25efbe5"
+hash = "528b5df1ec8616c8dcd87fe58478c38c735c770a06ffc37b5167356a41fb8f45"
 metafile = true
 
 [[files]]
@@ -249,17 +249,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3c556fd5ccd4e8d1a0bee81ae6b4e3dba5450159f86a495625c121d542c40774"
+hash = "9d2672ef4d4149d47134c0972e73a3f8a238b0c28f2e8b391ab2398d13e1f8c3"
 metafile = true
 
 [[files]]
 file = "mods/better-taskbar.pw.toml"
-hash = "e11cced6a9a8e311502d0f2d40a88d26c79d7651eb4f4a9841bc67f25ba70ae2"
+hash = "e86530ed8ee0a9b9f97ad616ff7c082536ac3394cfe5bac0ae4f4916f9595fe5"
 metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "d412404487c3072aa9d8bac041035936ce87e290cbbd2032838b181a5112a442"
+hash = "2222d0e2bdbb04231231573f0cf586f3f4c6ad0d62994ef240e065f73a342348"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.pw.toml"
-hash = "bec0b963ed6a19071042cf07dfd7739b013cefa9f9bc26675a49c53991599421"
+hash = "c496ffc74d0e3cc91f8c1463c89d17e2ba01cf77a22b257b3ce410573f11fe2f"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "da55147ae2b429549e65aba2679bfed8106bc7100e8ab90b6683128866fabf21"
+hash = "375495ce6d11b7c41730e4f1817446cb969f91c47c1de883d3f9a2e49810e878"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "dfc4010474fb5ff9549ed3573fc1417380f42afa753b52cf9548390e7b1634f5"
+hash = "e3d823da22c769cee9511e1f8f3c58660e703cae425a59b0bb9949995493e80b"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "775400fef9dfe63570d52957f07541031d876f2687863441676f38dd40c71c41"
+hash = "849f261a500078ff440982f3315a813e154452f36badc18d572e150311704ad9"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "bb2b222c2fc8d0e22d5264a29039639e934ecc65578b4ff65ea1f67aa73ace20"
+hash = "d1837fad49ae495a17a47e4d7c44aa7b10ed732315d17144130b48469056ab61"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ad8336b3f4eb456b0632419178500446d52ba03b4c16b5dc0ba328748210c8e1"
+hash = "4b76361697fd133111973d56d7604a23c6dc1adacbcb4defc466352ebf3929d6"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "4b2ed9af51ff104395188348f60de60d1a38ca68dc1755a67e67cac0e577ef52"
+hash = "2b014ac0770a2ba528a0c285f3d68daa07878d21a65f160fdb7e610f1b81c957"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5f7cf747eb947a5b14198e82c28b1850ef6fef421b3b766133cbf76ba33b7034"
+hash = "b7babc04b87a2a2edd7e34a0463f0a332549cbd6f00699142335019007251e2e"
 metafile = true
 
 [[files]]

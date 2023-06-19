@@ -14,7 +14,14 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Better Advancements
++ Better Taskbar
++ Better Third Person
++ Connectivity
++ Litematica
++ MaLiLib
++ MiniHUD
++ Smooth Chunk Save
 
 Mods removed: 
 - 
@@ -26,7 +33,19 @@ Resource Packs removed:
 - 
 
 Mods updated: 
-> 
+> Better Advancements
+> Better Statistics Screen
+> Better Taskbar
+> Better Third Person
+> CleanView
+> Connectivity
+> Inventory Profiles Next
+> Litematica
+> MaLiLib
+> MiniHUD
+> Mod Menu
+> Smooth Chunk Save
+> Xaero's World Map
 
 Resource Packs updated: 
 > 
