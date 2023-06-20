@@ -6,6 +6,7 @@ Update overview:
 
 Mods added:
 + Remove Reloading Screen
++ LambDynamicLights
 
 Resource Packs added:
 + 
