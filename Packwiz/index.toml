@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "3a3d05a93ee53f93c25536cab619927ec54599391ab1da3bbc4778f03fc7a99d"
+hash = "45563575b86dd6335891da57b1c432b9324fb35fe207ba5f6d6e1d1d57ea6909"
 metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "15d02cf51c7bb27a59e3535d96328d562fa860a1c34c3eb3a6ea28cecab9432d"
+hash = "795cbcf405106d77f58ed3a39ead019c3cf7ad3f769381b47930ba3f54e7392d"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "44e85d5a5a6d25ce03f6192390ae365899b6c81eaaf3ed10dbd3ea74e7e5417c"
+hash = "9be6a9214aabdea3357e9e76d92ee507fa71370269b69e62edc720f3d4a33c47"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9d2672ef4d4149d47134c0972e73a3f8a238b0c28f2e8b391ab2398d13e1f8c3"
+hash = "4dde631d3d98a5b31e321e54a11967f796ecc8cf1bd68c9c5bc4cc607bbba884"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.pw.toml"
-hash = "7fc546e69363a55eae717ded1dd4b4d2f6b6fce94f2e398725c51105a89d668f"
+hash = "e52ee928265bcf3d82a5ee02ba20b07c0863cec4f5062fd64d14ef2d1a8a22f0"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "39d0ee53a1b3681d4d1abc5da1b4e9f4b708772abc95ce35f26424bcc571683e"
+hash = "9b1ce74e7d86815e6bbde2a57d91c7a0b34b9b1431d19dea6ec9b510eb557112"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
-hash = "7fa3bd3651bc56786cda7efcd510e7e9480294c2900aff6ada356576587e7e3d"
+hash = "a1a50694bcdb48b939b94cff6cb51af5f9b60460056b16154e561d879e5b07df"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "aa0012711b556e6f61a25a4a57a73ddddac3003606a976c8ea832872271af77e"
+hash = "854b2b6a51bf4f2be03f7703ea28b804354c7776d4902e4c27c001b60a7fab1b"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b8ce07ae162a777342f78dea4bf0b49180111913112e96373b838f810d0ed27b"
+hash = "4e52038f9c42521eab0b462130a96a6a9bb2bed199f80e19e3ef953112a7fcc7"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7d834331f4b6f4f39bba0ff3777dcde8d9ba0be3193f2a53a8c8befa3cbd79ba"
+hash = "edceb4f1caea66e9bd4d26b775f5ab4f01542c6564a2806286c06ddb316eaca6"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "fdf9fcb6b28364ac569976ace4adcd7f4297ef1e0a37bd5652d4cbebe38faced"
+hash = "e180b1c8800020c8cef0731d9a6f4a2cd6e832e4b961693a69fcd83c584c3b2f"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "bd71db61f9bc142bd3fd9f79c1c3394061e5435241686a182037a497a45160a8"
+hash = "19d9dcfe90f17fe1f6f5c966a64826d980a02beadec4b5e69f469bf2816da8ac"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "e3d823da22c769cee9511e1f8f3c58660e703cae425a59b0bb9949995493e80b"
+hash = "2b2faf8313ba26229364e1aa9293986f207df96ccc93d77863fe35adc0d7662a"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "bf6dc772edaa6d33894be9a9032bf57550b9359ee4336f7ae68726368cf1d6f8"
+hash = "b851e1670040af1d3b1684bf524fa5b61740e99ddfc10ea5c2c46afbde62f7f8"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "c82be7c1ff12e9de05d4afacdd41e877db9194eabdb5bd0924b2ea756df6d4b8"
+hash = "b6ffcdd05ab3829427f0bc0885ade64ce5d7e83203a903edffb8ee279ea5a294"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "d0821fce4e1e2a7a262ccefbcb212f7442f281287dd841599827b9344830ccde"
+hash = "2daba37e7e3d5124a24b2502733fc4c5b94a8c75e4f6775973a5929ad8a43090"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7e29e32f1885b026bb077de4c1275b63453502a4a17fc6fc02111ac8640423fe"
+hash = "545ced53894d6f262c54de26c1c2aa2db744a8930233cdfd9df927f2393108a4"
 metafile = true
 
 [[files]]
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "14c8fc5464e449372e4fbf782af5f99e803783a44d8a406a1495955a816c47cf"
+hash = "ddf0378e426f6543befb276e954efb006826693b4bd0d8be37f8300360d388ae"
 metafile = true
 
 [[files]]
