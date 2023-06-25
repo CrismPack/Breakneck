@@ -2,7 +2,8 @@
 
 Fabric version: Fabric-0.14.21
 Update overview: 
-~ Added dynamic lights.
+~ First proper 1.20.1 release.
+~ Added Dynamic Lights.
 ~ Fixed option menu texture not working.
 ~ Updated mods to their latest version.
 ~ Re-enabled mods that have been updated to 1.20.1
