@@ -383,11 +383,6 @@ hash = "989be22a02ab5267995a3ac0f8dfd831bbfaf6d4083301921b8617b9e454543e"
 metafile = true
 
 [[files]]
-file = "mods/drp-global-datapack.pw.toml"
-hash = "8d161602869090c5a8221a51c5c7fb023574e59f40e118267fbf707ed83587cc"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "854b2b6a51bf4f2be03f7703ea28b804354c7776d4902e4c27c001b60a7fab1b"
 metafile = true
@@ -570,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources-fabric.pw.toml"
+hash = "9cabb780d582531e26756092be3de8b64b487866cb1e2ae7611190fc0b22240e"
 metafile = true
 
 [[files]]

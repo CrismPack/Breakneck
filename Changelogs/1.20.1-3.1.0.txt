@@ -7,6 +7,7 @@ Update overview:
 Mods added:
 + Remove Reloading Screen
 + LambDynamicLights
++ Load My Resources
 
 Resource Packs added:
 + 
