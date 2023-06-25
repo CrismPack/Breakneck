@@ -2,10 +2,12 @@
 
 Fabric version: Fabric-0.14.21
 Update overview: 
-~ 
+~ Added dynamic lights.
+~ Fixed option menu texture not working.
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated to 1.20.1
 
 Mods added:
-+ Remove Reloading Screen
 + LambDynamicLights
 + Load My Resources
 
@@ -35,7 +37,7 @@ Mods re-enabled:
 + e4mc
 
 Mods removed: 
-- 
+- Global Packs (Replaced by 'Load My Resources')
 
 Mods disabled: 
 - 
@@ -79,3 +81,4 @@ Resource Packs updated:
 
 Config changes: 
 = Changed "Need a server?" button so that it opens our BisectHosting affiliate link: [FancyMenu]
+= Moved "options_background.png" into the resources folder: [Load My Resources]

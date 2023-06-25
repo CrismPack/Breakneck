@@ -26,7 +26,7 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "b0f2032c843f51d48c6c8cc03b4743a97dc6d8599dd0c0dad0d66f74f9d916a3"
+hash = "30a329c2b0e47f6200fc4239da9994d1b518daaa740b908c624d3f982353865f"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -183,14 +183,6 @@ hash = "bc879c0fb49573dda6b500eea6d36f260be14c224a772754a4022e877c59e9a3"
 [[files]]
 file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
-
-[[files]]
-file = "global_packs/required_resources/Breakneck Textures/assets/minecraft/textures/gui/options_background.png"
-hash = "f491807fe030f744eaf7e49b391ceba1efa2e05f786f29de6bea77712e340818"
-
-[[files]]
-file = "global_packs/required_resources/Breakneck Textures/pack.mcmeta"
-hash = "17832e2e7d40bfca8c68f52e49022f09de29fb9afc8fe27912493ce8f801e3cb"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
@@ -673,11 +665,6 @@ hash = "08474f8c3c32fccc674ff01aa52eeb0914ed29c1bed5bf00dfe213d8971ef183"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "9166ce3b35906804eb3d25868268c130b93394721cffea22277cf06939d07e14"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
 hash = "81b2e39d3b19bc2cc254034a79fbb1be429480422c70960878babc5cee58d7c4"
 metafile = true
@@ -866,6 +853,10 @@ hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
 [[files]]
 file = "resources/mainmenu/splashes.txt"
 hash = "adc12b0c6a697f5085c0c4d69ee2c8ed2202216b2cf7309a63c98a1dc9fc0869"
+
+[[files]]
+file = "resources/minecraft/textures/gui/options_background.png"
+hash = "f491807fe030f744eaf7e49b391ceba1efa2e05f786f29de6bea77712e340818"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
