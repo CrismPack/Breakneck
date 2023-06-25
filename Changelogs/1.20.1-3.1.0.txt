@@ -82,3 +82,4 @@ Resource Packs updated:
 Config changes: 
 = Changed "Need a server?" button so that it opens our BisectHosting affiliate link: [FancyMenu]
 = Moved "options_background.png" into the resources folder: [Load My Resources]
+= Disabled "Dynamic Lights" by default: [LambDynamicLights]

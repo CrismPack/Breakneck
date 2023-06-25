@@ -149,6 +149,10 @@ file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
 
 [[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "a042d5b8dde8b2dd43085690d5a15025d78268fc6fdecaf452c4c229baeaaee9"
+
+[[files]]
 file = "config/yosbr/config/litematica.json"
 hash = "53d973bb2b12bccfc41fd04a8d82c429283eb09a0857e608c9329654a290cb68"
 
