@@ -161,6 +161,11 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
   orientation = top-left
   hidden = true
   x = 2
@@ -308,7 +313,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHOrderScreen%btnaction_splitter_fm%
+  buttonaction = openlink;https://www.bisecthosting.com/CRISM%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Need a server?
   loopbackgroundanimations = true
@@ -468,10 +473,5 @@ customization {
   y = 24
   backgroundnormal = resources/mainmenu/longbutton_normal.png
   height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = hidebutton
 }
 

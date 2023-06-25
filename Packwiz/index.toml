@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "45563575b86dd6335891da57b1c432b9324fb35fe207ba5f6d6e1d1d57ea6909"
+hash = "edd269eb26e28482106aa9cd3310b377f644a77fc0e05721a04fa31a7735929c"
 metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "795cbcf405106d77f58ed3a39ead019c3cf7ad3f769381b47930ba3f54e7392d"
+hash = "9e88ea459f5acc25f51a79dafaa44eb6ec9619a893b677128233759b0350c435"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.pw.toml"
-hash = "e52ee928265bcf3d82a5ee02ba20b07c0863cec4f5062fd64d14ef2d1a8a22f0"
+hash = "89419ccddfa0dc6bc6f8b7e8e002eaed16c835bb9c503bbfa65909bf6ec3dc54"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9b1ce74e7d86815e6bbde2a57d91c7a0b34b9b1431d19dea6ec9b510eb557112"
+hash = "824253f32ac1ab04f020c264000c0d1fe7f21c4531bfa36ff09df105ad9aea2c"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
-hash = "a1a50694bcdb48b939b94cff6cb51af5f9b60460056b16154e561d879e5b07df"
+hash = "f168d7659621261859312c0ea1adef76c9351f49e73101fdeecfdcd4e1fe14d6"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "19d9dcfe90f17fe1f6f5c966a64826d980a02beadec4b5e69f469bf2816da8ac"
+hash = "8113f2d4b628d4ce1a807cd457db38117e19b3b2699dd104a7f9398923e5f807"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "b6ffcdd05ab3829427f0bc0885ade64ce5d7e83203a903edffb8ee279ea5a294"
+hash = "7a9e444b339c575ed5fe9877ea7c2c198c9db19580876ae3ea3835c37910b9a7"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2daba37e7e3d5124a24b2502733fc4c5b94a8c75e4f6775973a5929ad8a43090"
+hash = "ab505023bbea3cf500ed3f67fde0549795ff764ec7b32d855c162f5f35b2604a"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
 file = "resources/mainmenu/modpackversion.txt"
-hash = "ed839b744eaa66b9cde5701514154e581a3029d23cf601e8bdfe9133bab7d8af"
+hash = "761493b7c06be53ab28dbbcbbefba9bf890e3bb68434a7ce9bc7368c1b711661"
 
 [[files]]
 file = "resources/mainmenu/realms_hover2.png"

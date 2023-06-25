@@ -77,4 +77,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= : [mod]
+= Changed "Need a server?" button so that it opens our BisectHosting affiliate link: [FancyMenu]
