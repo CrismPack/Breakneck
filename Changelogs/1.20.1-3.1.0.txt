@@ -44,7 +44,7 @@ Mods disabled:
 - 
 
 Resource Packs removed:
-- 
+- Disable Custom Worlds Advice
 
 Mods updated: 
 > Ambient Environment

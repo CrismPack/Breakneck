@@ -38,4 +38,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= : [mod]
+= Marked disabled mods as server-side only. This effectively ensures that they are not being downloaded by the client at all: [PackWiz]

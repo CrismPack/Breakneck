@@ -1,6 +1,6 @@
 name = "Damage Tilt"
 filename = "DamageTilt-1.19-fabric-0.1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

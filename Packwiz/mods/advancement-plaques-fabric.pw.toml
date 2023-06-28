@@ -1,6 +1,6 @@
 name = "Advancement Plaques [Fabric]"
 filename = "AdvancementPlaques-1.19.4-fabric-1.4.9.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

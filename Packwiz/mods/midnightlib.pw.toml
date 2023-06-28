@@ -1,6 +1,6 @@
 name = "MidnightLib"
 filename = "midnightlib-fabric-1.4.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

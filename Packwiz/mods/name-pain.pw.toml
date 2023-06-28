@@ -1,6 +1,6 @@
 name = "Name Pain"
 filename = "namepain-1.4.0 fabric-1.19.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

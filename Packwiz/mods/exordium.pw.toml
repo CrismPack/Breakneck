@@ -1,6 +1,6 @@
 name = "Exordium"
 filename = "exordium-fabric-1.1.1-mc1.19.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

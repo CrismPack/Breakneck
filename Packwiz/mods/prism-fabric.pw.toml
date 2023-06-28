@@ -1,6 +1,6 @@
 name = "Prism [Fabric]"
 filename = "Prism-1.19.3-fabric-1.0.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Smooth Boot (Fabric)"
 filename = "smoothboot-fabric-1.19.4-1.7.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

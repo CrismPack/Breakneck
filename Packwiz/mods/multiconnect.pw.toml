@@ -1,6 +1,6 @@
 name = "multiconnect"
 filename = "multiconnect-1.6-beta.26.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
