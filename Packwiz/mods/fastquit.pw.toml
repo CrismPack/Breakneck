@@ -1,16 +1,13 @@
 name = "FastQuit"
-filename = "fastquit-3.0.0-beta.1+1.20+.jar"
+filename = "fastquit-3.0.0-beta.2+1.20+.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "901d58f437f7585e4e805d30457d72ce7543fe03"
+hash = "961cadca4754f38fa8e810b960bf8b435ef63eb3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4602955
+file-id = 4609515
 project-id = 708967
-
-[option]
-optional = false

@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.pw.toml"
-hash = "89419ccddfa0dc6bc6f8b7e8e002eaed16c835bb9c503bbfa65909bf6ec3dc54"
+hash = "130ffc9ccfa9ddb1ce82b6afeb78e7b9844f73896c43b660fc5e63cacc6daa36"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "a72f327064509089a82623b2c6a54e93c1bb699aa517f1df6f0f42c39cdf8fc6"
+hash = "206cd8ec4b36d14beefd66665d15c74caf058f3fd2ca190107e4f16242fb3fb7"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "96c657c94d63e6404e9082ad706fd386b115b512b2ea70dc3c4069fd3fb5660a"
+hash = "3b42b08ee4f364334ee3c6c159a0f2046dc861f46ccc4a97b7d3bbf4ff850fc1"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "8113f2d4b628d4ce1a807cd457db38117e19b3b2699dd104a7f9398923e5f807"
+hash = "a9718a405a69a9c6f41778e7e007d3f4c2c10f35dceddca1fa70877188dad37a"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d82800d948590fa8ed49ce31b2eeb638cd865bf050a61ad6a0bfd7927234db9a"
+hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "b397bdfbd51f2b8fbc22bacfc2d6ba18596f943f9c8f92add2e3390d6b3d9fd3"
+hash = "029f075e70876c276c95f0a300219c14656eac6e436e8f31bf34bbfc77abf56b"
 metafile = true
 
 [[files]]
