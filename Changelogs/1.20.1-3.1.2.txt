@@ -2,7 +2,8 @@
 
 Fabric version: Fabric-0.14.21
 Update overview: 
-~ 
+~ Logs now includes additional information to help with troubleshooting.
+~ Updated mods.
 
 Mods added:
 + Branded Logs
@@ -14,19 +15,31 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Roughly Enough Professions
 
 Mods removed: 
 - 
 
 Mods disabled: 
-- 
+- Krypton (Currently incompatible with Viafabric)
 
 Resource Packs removed:
 - 
 
 Mods updated: 
-> 
+> Better Statistics Screen
+> Connectivity
+> Fabric API
+> Fabric Language Kotlin
+> Indium
+> Inventory Profiles Next
+> Litematica
+> MaLiLib
+> Roughly Enough Items
+> Roughly Enough Professions
+> Simple Voice Chat
+> ViaFabric
+> YetAnotherConfigLib
 
 Resource Packs updated: 
 > 

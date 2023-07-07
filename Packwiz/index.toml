@@ -26,7 +26,7 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "30a329c2b0e47f6200fc4239da9994d1b518daaa740b908c624d3f982353865f"
+hash = "bf24333b3bf166a1cb67539d2085839c0f161eab846f36d422c37e970b3de195"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+hash = "d0042fd33b7ba0cec2c8110b623e91345d877261bb809d2b9c2278a817a937b2"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "65062e1747fcbcb397477353805b1d18ec9ec96949645647a535fb52f8a9793e"
+hash = "e0fa77b0059e552684b5c55b85ad81751924ac6a16546437ad13b40328d8fb08"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "69057f2f313d77d0580609f2f9b49832af1ab5922828e438e922618ab6c86ca3"
+hash = "cc841dcfd7d4cd294bf52c9666976856e11cc9e84b11bfc6332f8869fc79be8f"
 metafile = true
 
 [[files]]
@@ -835,10 +835,6 @@ file = "resources/mainmenu/longbutton_normal.png"
 hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
 
 [[files]]
-file = "resources/mainmenu/modpackversion.txt"
-hash = "5c4613bf279e4f68070f189353b8099cd814232c475f1641e1b9a5c544b9d77e"
-
-[[files]]
 file = "resources/mainmenu/realms_hover2.png"
 hash = "89bb5b7a8a52a765822aa2e530d0a3cb3670de01ed5b155c9c0b34487d698881"
 
@@ -861,6 +857,14 @@ hash = "adc12b0c6a697f5085c0c4d69ee2c8ed2202216b2cf7309a63c98a1dc9fc0869"
 [[files]]
 file = "resources/minecraft/textures/gui/options_background.png"
 hash = "f491807fe030f744eaf7e49b391ceba1efa2e05f786f29de6bea77712e340818"
+
+[[files]]
+file = "resources/modpack/modpackname.txt"
+hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
+
+[[files]]
+file = "resources/modpack/modpackversion.txt"
+hash = "eb9a85e89a8fdd648d786c01932438404ff906c6c8f389572ecb4315d573afff"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

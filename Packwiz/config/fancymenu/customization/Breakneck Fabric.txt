@@ -244,7 +244,7 @@ customization {
   y = -27
   scale = 0.8
   alignment = left
-  value = §4Breakneck: Optimized - %randomtext:resources\mainmenu\modpackversion.txt:1%
+  value = §4Breakneck: Optimized - %randomtext:resources\modpack\modpackversion.txt:1%
 }
 
 customization {
