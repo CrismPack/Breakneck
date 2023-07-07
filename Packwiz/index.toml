@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4dde631d3d98a5b31e321e54a11967f796ecc8cf1bd68c9c5bc4cc607bbba884"
+hash = "20aa2bd62a81cfeeda5507921ccce149575285a5567591e5a2a4da3dc8d9d23d"
 metafile = true
 
 [[files]]
@@ -271,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "e0823556ee5314efbf83497c3f6c745ce0537f2939d6cac31bfff58107af853c"
+metafile = true
+
+[[files]]
+file = "mods/branded-logs-fabric.pw.toml"
+hash = "2b861b951fe9615cae6b3eda4f7ea8abca5c03c51ac0f254e66e55c9b14bebd3"
 metafile = true
 
 [[files]]
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "c281301de5ec88eaba148195d5a79f5e9fb676510e8fd545bd03f07cf81abe85"
+hash = "bf0250f6553c85c2a77cb85e4877021a0e0438e8db9608ff8962c2184ae4a98a"
 metafile = true
 
 [[files]]
@@ -430,12 +435,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "edceb4f1caea66e9bd4d26b775f5ab4f01542c6564a2806286c06ddb316eaca6"
+hash = "3e44d2d79ec00732cfe3ffaa37d4de19ee6642e48915a5bc75d7c77f75d94757"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e180b1c8800020c8cef0731d9a6f4a2cd6e832e4b961693a69fcd83c584c3b2f"
+hash = "67c29ef6f322a11055a415ace1b54f415bf78fe73bdc3566ad5223d5622f14bf"
 metafile = true
 
 [[files]]
@@ -495,12 +500,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "d6eef51cc3499820a2e3880bad07d3c99b1e2bf32a26a820a124ed50ad700563"
+hash = "7305ca8eb8c0fa29710b96e46f98a8b4037afa12bdd217e877dab5a92f1f104e"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "2b2faf8313ba26229364e1aa9293986f207df96ccc93d77863fe35adc0d7662a"
+hash = "c67b8d7447b02ef48f6bb100e02fe3f855e5779a18959872e74c30af2decb50a"
 metafile = true
 
 [[files]]
@@ -550,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "94ff3fcbb63145a7c6daeb3c136786fba065375e8cfd935f77615713ad64d32b"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
 
 [[files]]
@@ -565,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "f0e87e849cebe09cbb1f3ba6c5c858c772db15e6098d3f532e993806eb40759f"
+hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
 metafile = true
 
 [[files]]
@@ -650,12 +655,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "7d55ec5b0241cba49582fdcf3334952bf238eecc7045ec7730beaa6f0833bf5e"
+hash = "3da869ab76a5c7a06bf598bc03a3aa851ffdc2cf585bc6ac1ed218f59021bfae"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "a1eef15afeb39fd30392747d58936c9da0b0c2f560dd4b0b8d957dac45fbc723"
+hash = "65062e1747fcbcb397477353805b1d18ec9ec96949645647a535fb52f8a9793e"
 metafile = true
 
 [[files]]
@@ -685,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "545ced53894d6f262c54de26c1c2aa2db744a8930233cdfd9df927f2393108a4"
+hash = "b6b2fe5740b1db89bb6b9058e5637b3b5dc21c280fa34daec6377c3e5fef6a79"
 metafile = true
 
 [[files]]
@@ -735,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "7fd3c43dba71f7eaafb81347dcf07ab3208378786b0e685c699214e7b0d3a2f5"
+hash = "9574a38049fb4d5cd4c86369b9a50b5573863ace10fcbc175b3680c0c0bd91e4"
 metafile = true
 
 [[files]]
@@ -755,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ddf0378e426f6543befb276e954efb006826693b4bd0d8be37f8300360d388ae"
+hash = "69057f2f313d77d0580609f2f9b49832af1ab5922828e438e922618ab6c86ca3"
 metafile = true
 
 [[files]]

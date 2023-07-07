@@ -1,16 +1,16 @@
 name = "Roughly Enough Professions (REP)"
-filename = "RoughlyEnoughProfessions-fabric-1.19.4-1.2.1.jar"
-side = "server"
+filename = "RoughlyEnoughProfessions-fabric-1.20.1-2.0.1.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32eaa8a06e7718a4e39301ceb87147b2e410a5c0"
+hash = "a87ff119b419de99bb908ea8f68f54289875eada"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4467433
+file-id = 4614612
 project-id = 597988
 
 [option]
-optional = true
+optional = false
