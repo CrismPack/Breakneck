@@ -1,16 +1,13 @@
 name = "Advancement Plaques [Fabric]"
-filename = "AdvancementPlaques-1.19.4-fabric-1.4.9.jar"
-side = "server"
+filename = "AdvancementPlaques-1.20.1-fabric-1.4.9.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c3651f0f2476818761d873719e243017a49c442"
+hash = "bf06e951ec4e09c481fa6071a14c2a9a76dda632"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4494150
+file-id = 4638430
 project-id = 514882
-
-[option]
-optional = true

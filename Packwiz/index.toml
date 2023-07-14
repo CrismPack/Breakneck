@@ -190,7 +190,7 @@ hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "7c582293b3ec2c1049a8a33bd00dd5db52e753d0c1058483e419134659088395"
+hash = "37f8b518c76981fb834e0d184f23ff215563d79dab693f3c19d73bb489cc2152"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
+hash = "28e70f09e53039ed93618487ed8cac23327fd588b6bae8105d1e15797794f1cf"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d63d5ee4a3c31b5b40424de192616c72c89da3ecaa0eb5307442c1811067bc88"
+hash = "8c1afd08f9ae6716649612ddf8c59e995cb9047f29ffe64a31f3f4e32bc881b7"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "3358ad363cb4468bab72877fbdf867f267bf3fb2ba56a0315d1439e87fe504e1"
+hash = "9cdd86012e4eed1d42eeefaadae100dfcac3ab81cfe55a6f5ff08ce050c31b9e"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "d69318dec842eee0abe4301fd1e93c397377f12e5d6e1220c3ae87f84584ed2a"
+hash = "b626363a39019b5234a27be401efe08f5d6cb023c6c92b5dd9e33aca941f426d"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "88eecbb9eafdf2eb226c594a714f305e71186acdc79a2fa2deb78cd91b74d92a"
+hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "1c078b6477fe6aa567bc14e2b782e66e467ead5a6b8a5d0938e93f705fff1795"
+hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4e52038f9c42521eab0b462130a96a6a9bb2bed199f80e19e3ef953112a7fcc7"
+hash = "edc3176453e7bca22ee163dd23e6fbc98a826e148622f0c009f0d36f70320259"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "393e7bac7fae96d934beaf4bb85b0e5827b09a58877940e96f43bd9e18e794eb"
+hash = "8675cac070cd144df4eece031a1104c4bbcd51a4f6e2225e017b7439a70ab058"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "f87fe8712ccc86422496633d36d8da5dde835a14240044d337504e6203ecc2ef"
+hash = "3e3ea3fdf91d5c2ef0b1e6249a620b403f26e9ea64a23390725fc58415c918c2"
 metafile = true
 
 [[files]]
@@ -490,17 +490,17 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "3404d8bb07b4cdcf0fdbbba489b5d31a091d41dea4fd18adbc38467c97a841ce"
+hash = "37d21014386e8cb4aa0cd6e67b6452f5de8936384616d86eed0b1d719c0a69ee"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8eae8f79df14f90dca19932f8d7a7f1645b6e67750df307c390b10fe15f3cf3d"
+hash = "2a6c67cc4488d589191a22463a453cdceec6381ee6be07c34b36983ae9f8dcec"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "7305ca8eb8c0fa29710b96e46f98a8b4037afa12bdd217e877dab5a92f1f104e"
+hash = "a9596b9e05443344005d44825b4ccb7189dd8de908d078c93a4055b6f3be4dd1"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "d995eb14807ba2705a2f8683df691339abdd87a313b587d61bc754e9a5b78c45"
+hash = "f752e1c15e3cece9e84179aab893359b73150d5673d712d54ea888ddbd021642"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "23ff25aa1a86bc9da5cf01ff5651850b7770976b41d4a3bafb73c69f53096cf0"
+hash = "fec41ade8adaf533f6a8eebb30232b85fa68d76781c6a30ed5f9bc09430bfb1d"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "3a7bb604a24db4d1530051cb307d9611fbda8ce1c3e0e6215244fcbce1696544"
+hash = "e5a4c24924a7e255cb7cd5ec70f54f089fb958498a8951c4f685ddb3fe881d2d"
 metafile = true
 
 [[files]]
@@ -640,12 +640,12 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "afdc081bb0093012b136308a880dd1244b3e70e27c72b139effad5fc76761a30"
+hash = "e2531fd8f00d04d5fb87e284c9d38a8db0d51b48fc9e9ec04044807dfb04943f"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "e18b9f76d88cf9b21be0191ccf4ff3b43acc6f54867377cdeb0e23e34fa080c0"
+hash = "8d549db045c4dd2ff9f470b122dbbdfbafbbeb1c8fbb712dbfab2a5eddb48410"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "1610d0f452a85a69e3cf65ac6a363dd7d1801439cdc96b5f20e1279eac8fb6fc"
+hash = "c7779da4fc55cd62dd3941717e857458b38c0fbbfc0221b6f265c8c6a7498cb6"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "cc841dcfd7d4cd294bf52c9666976856e11cc9e84b11bfc6332f8869fc79be8f"
+hash = "69057f2f313d77d0580609f2f9b49832af1ab5922828e438e922618ab6c86ca3"
 metafile = true
 
 [[files]]

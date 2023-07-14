@@ -1,0 +1,60 @@
+1.20.1 - 3.1.3
+
+Fabric version: Fabric-0.14.21
+Update overview: 
+~ Updated mods.
+~ Re-enabled mods that have been updated.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Advancement Plaques
++ BisectHosting Server Integration Menu
++ Equipment Compare
++ Iceberg
++ Legendary Tooltips
++ Name Pain
++ Prism
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Advancement Plaques
+> Architectury API
+> Better Advancements
+> BisectHosting Server Integration Menu
+> Cherished Worlds
+> Cloth Config API
+> Debugify
+> Entity Model Features
+> Equipment Compare
+> FabricSkyboxes
+> Iceberg
+> ImmediatelyFast
+> Indium
+> ItemSwapper
+> Legendary Tooltips
+> Name Pain
+> Prism
+> Raised
+> Skin Layers 3D
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]

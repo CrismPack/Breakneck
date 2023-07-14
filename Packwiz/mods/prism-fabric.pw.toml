@@ -1,16 +1,13 @@
 name = "Prism [Fabric]"
-filename = "Prism-1.19.3-fabric-1.0.4.jar"
-side = "server"
+filename = "Prism-1.20.1-fabric-1.0.4.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "387f3a6b680ee516715e5147248fb86a6e483fa2"
+hash = "a85319b5129630e627653d5130143cb5aa8fb8ff"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4334099
+file-id = 4638421
 project-id = 665526
-
-[option]
-optional = true
