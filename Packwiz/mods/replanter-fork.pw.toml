@@ -1,0 +1,13 @@
+name = "Replanter Fork [Fabric]"
+filename = "replanterfork-fabric-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de37c147cc0a768ab21090adb60fd8bec1bc4432"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4646162
+project-id = 889170

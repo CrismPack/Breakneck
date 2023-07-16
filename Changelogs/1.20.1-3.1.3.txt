@@ -2,11 +2,13 @@
 
 Fabric version: Fabric-0.14.21
 Update overview: 
+~ Replaced 'Replanter' with an updated fork.
 ~ Updated mods.
 ~ Re-enabled mods that have been updated.
+~ Fixed a mixin error being thrown in the logs.
 
 Mods added:
-+ 
++ Replanter Fork
 
 Resource Packs added:
 + 
@@ -24,10 +26,10 @@ Mods re-enabled:
 + Prism
 
 Mods removed: 
-- 
+- Replanter
 
 Mods disabled: 
-- 
+- FastAnim (Some incompatibility causes it to throw errors in the logs)
 
 Resource Packs removed:
 - 
@@ -37,8 +39,10 @@ Mods updated:
 > Architectury API
 > Better Advancements
 > BisectHosting Server Integration Menu
+> Chat Heads
 > Cherished Worlds
 > Cloth Config API
+> Controlling
 > Debugify
 > Entity Model Features
 > Equipment Compare
@@ -49,9 +53,14 @@ Mods updated:
 > ItemSwapper
 > Legendary Tooltips
 > Name Pain
+> OptiGUI
 > Prism
 > Raised
+> Roughly Enough Items
+> Simple Voice Chat
 > Skin Layers 3D
+> e4mc
+
 
 Resource Packs updated: 
 > 

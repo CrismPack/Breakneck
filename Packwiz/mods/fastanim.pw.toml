@@ -1,6 +1,6 @@
 name = "FastAnim"
 filename = "lunade-fastanim-1.6-1.20.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
