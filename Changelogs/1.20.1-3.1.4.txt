@@ -1,0 +1,37 @@
+1.20.1 - 3.1.4
+
+Fabric version: Fabric-0.14.21
+Update overview: 
+~ Reverted update to 'Raised' and pinned it. Fixing misaligned elements on the hotbar.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Raised [Pin]
+
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
