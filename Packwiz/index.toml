@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "25de487fbc9ff5917109603322a7b2fe560fbb5294447e0ff7bb67575f755005"
+hash = "3a714ab08159391de33cbacf86dd9378ec77752d30576ec910bc42082601820a"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "cbcf36d6fe9ff46d7f137f257e3594919fd0366a2d6174685f465f742c26e658"
+hash = "65f3bb845c98500d5a64aabf2aa27851c7879b8fabdf81db4bdbe7add759d968"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "a6b166cc74e930bf492c969589c2a91096d262df54f8f35fa8a65a341ecd7947"
+hash = "c17d794578cf61922f755c24a84314448bb6ae761f3fd9c4c858d915414b268e"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "1c0eb033fce5321af43f5cd7fd2d0100a57a5b3f08eefd4e55f327a4f256172c"
+hash = "1fe60c49c527bba08b60778b047bd9f03d6ddd84d6272e2d2966b39582bd8246"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-stats.pw.toml"
-hash = "bc15d7535d14471dd9f6a84ba23d6f6f78d7c9bbbc1588347b343c23b41e31b8"
+hash = "85d7549f8bed1da8bf55384f7a8498d6d55d2392f52ba5fc4e216c5127121be2"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "2097cdeb0dcadac588e3d8c174acae6f3eee98af7b0c49fe623b0d19a9d86f72"
+hash = "56e7143b42138ea234b374f761751db25a3a74281bf718580baddd0ebbc1c8d0"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
