@@ -2,7 +2,9 @@
 
 Fabric version: Fabric-0.14.21
 Update overview: 
-~ 
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated.
+~ Fixed compatibility issue with Apple M1 Macs. [https://github.com/hypherionmc/simple-rpc-public/issues/66]
 
 Mods added:
 + 
@@ -57,6 +59,8 @@ Mods updated:
 > Xaero's World Map
 > YetAnotherConfigLib
 > Zoomify
+> CraterLib
+> Simple Discord RPC
 
 
 Mod updates reverted:
