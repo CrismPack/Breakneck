@@ -13,6 +13,10 @@ file = "config/bhmenu/bhmenu-server_creator_banner.properties"
 hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
+file = "config/exordium.json"
+hash = "0fb05433a657efcb20b85cb7f61ecced6290aadd0a277e7736b46c2073674935"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "d8235e5c976b7485796ed31432403984d37f12742f050d6b16aae9be1417fb48"
 
@@ -685,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "65bb2305dd0180aff773970a7f298028eeb3b8a2dc30b76f4095b90aea1749d6"
+hash = "2f16f73c881d8943791b1a7423f071fe34fff3a590ed7f5ae962833963a11d75"
 metafile = true
 
 [[files]]
@@ -864,7 +868,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "56e7143b42138ea234b374f761751db25a3a74281bf718580baddd0ebbc1c8d0"
+hash = "671d0031687eef8f2329041525b1640297de74bf52b32be9dfce432c7d3aa33a"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
