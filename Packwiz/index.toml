@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1d31b37864afe35044d90413b8a97b1238bef5194f4cd2358448570de08ed826"
+hash = "38775881c765f4855f0ce4d44f31567fa065515457563272c6c1d36028fb8aa3"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "2f16f73c881d8943791b1a7423f071fe34fff3a590ed7f5ae962833963a11d75"
+hash = "65bb2305dd0180aff773970a7f298028eeb3b8a2dc30b76f4095b90aea1749d6"
 metafile = true
 
 [[files]]
