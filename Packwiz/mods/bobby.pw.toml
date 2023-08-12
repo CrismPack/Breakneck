@@ -1,6 +1,6 @@
 name = "Bobby"
 filename = "bobby-5.0.0.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"
