@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "bd5e30b7859eb38065e5573ee9b564a0c004cae7fc98a32f36664147ef1d3285"
+hash = "d7255889c832072601ab0a3878f5cbeb056d3bc903146074e22c5850433ee747"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "10a6735b79a84353f1620b561ea9fd584140b9a32e084172e74d383875eefa39"
+hash = "225410600e96c40a7b2a712803dcf4d4a51885b8f4932c96b3d537bd263c3e5b"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c97ac6ec3937a70ee8b4fd2e1c9926c7ca7c8e980a5b0ba5a07a10484be07686"
+hash = "b684b16ae2594bf990c54fde25a55887ced75a9f5ca867fb221d8304595c4de2"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "483d209bb61491ec72c5f20c4a3e9d37ac2a1e67516f9f1886448c76d940ba31"
+hash = "b2d4fc6561d2627ebd5f20c262934507b67490b9b882fd75ea89a4d7ca791f77"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "91732b5b59cb8659a46c0075a35f0156407d093f8a75174f55764c925e3aca76"
+hash = "de9cfaa8151ac2cd13d31de94f5547cdadce66a9bf5d80a753292c0a833da2cf"
 metafile = true
 
 [[files]]
@@ -519,12 +519,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "f752e1c15e3cece9e84179aab893359b73150d5673d712d54ea888ddbd021642"
+hash = "2e9c8f73f2c1df453abda79e6d73d13ded3bde66fe12ba84435b97adc835028f"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "03b418cc577476be3284aa2e03a5120471ef25b37808901367adfaf94b822828"
+hash = "71629964f4fca33fc48fbdea8a458824984f48e8ec1b84772fc62b44015e19fa"
 metafile = true
 
 [[files]]
@@ -719,12 +719,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "64cfd1fe282bb1251467ad6310abc10f32d58e259182a16e0fa2505d899391e4"
+hash = "d22e4ecce53a5c207e7894f59ed1f5af46aa2ed8e6daa2d46b17e637371dfe71"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
+hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "498a370883342bb984c8b14cf726fe276acde0b0696c23328dda74b6d80a83c7"
+hash = "93bf0d318625e4f2bdd08fd50fb35c96c40cded179db35b794c3a90af2a9ddb9"
 metafile = true
 
 [[files]]

@@ -3,7 +3,7 @@
 Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Updated mods to their latest version.
-~ Improved performance, thanks to Sodium 5.0.0 [https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.20.1-0.5.0]
+~ Greatly improved performance, thanks to the new version of Sodium [https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.20.1-0.5.0]
 
 Mods added:
 + Sodium [MR]
@@ -23,20 +23,24 @@ Mods removed:
 
 
 Mods disabled: 
-- Bobby [https://github.com/Johni0702/bobby/issues/197]
+- 
 
 Resource Packs removed:
 - 
 
 Mods updated: 
+> Bobby
 > Chat Heads
 > Connectivity
+> Cupboard
 > Entity Texture Features
 > Exordium
+> Fabric API
 > Iceberg
 > ImmediatelyFast
 > Indium
 > Iris Shaders
+> ItemSwapper
 > Name Pain
 > Roughly Enough Items
 > Simple Discord RPC
