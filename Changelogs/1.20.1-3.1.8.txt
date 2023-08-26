@@ -3,7 +3,8 @@
 Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Updated mods to their latest version.
-~ 
+~ Replaced 'Replanter Fork' with the original 'Replanter' mod.
+
 
 Mods added:
 + Replanter

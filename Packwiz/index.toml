@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "a55b5aa13c66971b7e78ac34759b05e8ade363c1c65f034ed420f367520cdefa"
+hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "8623d5bfe9aff2295a10e81d1be511fabfbbbe386d8dd13892a43d2aff4026c1"
+hash = "cf6904d097feae108600fb178f207044bef6e89cb92b637d1a76345b5c1932e0"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
