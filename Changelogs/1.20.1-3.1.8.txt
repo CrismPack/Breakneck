@@ -16,7 +16,8 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Roughly Enough Resources
+
 
 Mods removed: 
 - Replanter Fork
