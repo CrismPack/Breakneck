@@ -658,8 +658,8 @@ hash = "5d74612815f808fbf4774103574ea188e93c546aea75bcf0dec0e5994aabc878"
 metafile = true
 
 [[files]]
-file = "mods/replanter-fork.pw.toml"
-hash = "ae5d843a3a0924950a1c9d0b63fa04f0cbb7f82d786ac164fa29e0c550b368e9"
+file = "mods/replanter.pw.toml"
+hash = "3f40334ed8078559406d5faaa755fbd686e31d4e43bf6c43594377c815ed1c0a"
 metafile = true
 
 [[files]]
