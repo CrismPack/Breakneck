@@ -1,0 +1,62 @@
+1.20.1 - 3.1.7
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ Updated mods to their latest version.
+~ Greatly improved performance, thanks to the new version of Sodium [https://github.com/CaffeineMC/sodium-fabric/releases/tag/mc1.20.1-0.5.0]
+
+Mods added:
++ Sodium [MR]
++ Cupboard [New Dependency]
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Mods removed: 
+- Sodium [CF]
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Bobby
+> Chat Heads
+> Connectivity
+> Cupboard
+> Entity Texture Features
+> Exordium
+> Fabric API
+> Iceberg
+> ImmediatelyFast
+> Indium
+> Iris Shaders
+> ItemSwapper
+> Name Pain
+> Roughly Enough Items
+> Simple Discord RPC
+> Simple Voice Chat
+> Smooth Chunk Save
+> Sodium
+> Sodium Extra
+> Xaero's World Map
+
+
+Mod updates reverted:
+> 
+
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
