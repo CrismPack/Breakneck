@@ -2,7 +2,7 @@
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ Minor changes to the Discord Rich Presence.
+~ Multiple changes to the Discord Rich Presence.
 ~ Updated mods to their latest version.
 
 
@@ -17,11 +17,11 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ Roughly Enough Resources
++ 
 
 
 Mods removed: 
-- Replanter Fork
+- 
 
 
 Mods disabled: 
