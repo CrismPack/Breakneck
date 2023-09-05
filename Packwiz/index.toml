@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/branded-logs-fabric.pw.toml"
-hash = "2b861b951fe9615cae6b3eda4f7ea8abca5c03c51ac0f254e66e55c9b14bebd3"
+hash = "4f42de83f5f66e05d3ecd1300a0f0da0a8658fb9237c5cc496e7ab6169e2703e"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "5efaaf43fc63fe29948cb48504338d23deaa0c9c611fdcbe6f868583841f61ee"
+hash = "4bd30270e79455b8b2cbc381a376b11042283c376aed755637c3564611efd046"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "854b2b6a51bf4f2be03f7703ea28b804354c7776d4902e4c27c001b60a7fab1b"
+hash = "377d2e2948804861c617734271202f0de25c33739a06fd8cb52fabf8d4bf420e"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "36a3c93b473c2a015a2183ec9f9180da9109006784e1cdb5138038de6e8eabbd"
+hash = "dc2288183a96b2d2c14e776b90d1be94dc85dc2138cf6029d50f6b0ed4d74870"
 metafile = true
 
 [[files]]
@@ -439,17 +439,17 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "8172f4524b0ee1f5706337f0c0bf655bc82a73fd81d296833cf366fffe337086"
+hash = "40f9694af640cba6788c459b40918d2de4bb3cb464d61c2245bd87d937e457bd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b684b16ae2594bf990c54fde25a55887ced75a9f5ca867fb221d8304595c4de2"
+hash = "1d0bce63ab8bb1d0d3a114befacb75cb6bac43d1c36c5a827592af8bb98b5696"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "07048e5b3b88feb43dfe6ec83ed7bc8669bbee1b60e6814ac5b243e252442e3e"
+hash = "470e5bf7c8d228158620d00e9da85b094002cce7d4429ce1403f3829feef2ba5"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "5b6785c48a7336bcabd2b3465ad64a89f61fbdc114bd3a86d9a4b6880acb1991"
+hash = "eecbba226b53f58c9eaa168babb102a496912024babc8715dbb4969ed8e54bcd"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0778678da68164164f427ce40a06576d97bab9fc4ef5e9c51f76605e814d2a53"
+hash = "218df70f59aae5894d09db3857d8a02575b9df33ad5425ffe3ac1ceeb8798329"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "bbb5295f893cf4e84c400325a6c0033d755d6a2773ed4e2861fe2a438aac8222"
+hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "c710980d28dcd7d99d480ab7d8626380771ce01e033bde0992bb2ce41b9821da"
+hash = "d95ff4ec846840345afd1f37429c4ee4bac23ce8d4f13f64b7982eba2862615e"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "15d35a0152b78210f389ba2282226bb34300d06cd502a164bb02b7ffe1d59c5f"
+hash = "0878fd4f4f1bc7c5f03165891e370e9919be005615869fa17e7ba02b91c97575"
 metafile = true
 
 [[files]]
@@ -759,17 +759,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "60105f3969d93ba86117787b88765933c56f95e73113d5eb00df1e9ad33cdda3"
+hash = "869a97a6ceb7484e12730cb4faa27df8728d67ea6a98c7227d5a7d8c62a3c45b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3f5f5c71abeb7e9b97daf200d38db2e2cf7fa0e1c47c7eea5c9c6f2246b3c05e"
+hash = "248141b35223ae0cab3386189cd79dd15159f8c671d19d888662937b5964d945"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "50fe5399dc0cf5c3c976b7ccbe58daf115f17a647b73bfb3776ba97581e2b3ed"
+hash = "1e6bf1e960e7287ecc4c6062d3da617ab49f9db0142b65bcbb400f72f2873051"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c647b415b2c578e3871d3b4a5a06799d5a31ab9b0f35ad7b855075d97795cacf"
+hash = "2d3583018b07595c2af66d006b04e408ae324a6a85adef5c454fd4507df0e195"
 metafile = true
 
 [[files]]
