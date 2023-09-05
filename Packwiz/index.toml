@@ -130,7 +130,7 @@ hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "865cc140faddc4856f1a08c981ce00d078f1ee821ae7b3e4bf05bac31d9460c6"
+hash = "cb6003479ceeb0b32ea991eb316e25937e12bb642376c63ebbea864824871e9c"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
