@@ -1,0 +1,68 @@
+1.20.1 - 3.1.9
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ Minor changes to the Discord Rich Presence.
+~ Updated mods to their latest version.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Roughly Enough Resources
+
+
+Mods removed: 
+- Replanter Fork
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Bookshelf
+> Cupboard
+> e4mc
+> Enchantment Descriptions
+> Entity Texture Features
+> Fabric Language Kotlin
+> FastQuit
+> ImmediatelyFast
+> Indium
+> Inventory Profiles Next
+> Iris Shaders
+> ItemSwapper
+> libIPN
+> Roughly Enough Resources
+> Simple Voice Chat
+> Sodium
+> Tool Stats
+> Xaero's World Map
+
+
+Mod updates reverted:
+> 
+
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= Replaced LargeImageKey with its GIF variant: [Simple Discord RPC]
+= Replaced SmallImageKey with an image of the Crism Modpacks logo: [Simple Discord RPC]
+= Hovering the mouse over the small icon will also no longer say the amount of mods installed. This is due to that number being heavily inflated and not very useful: [Simple Discord RPC]
+= Now just says "In %world%" instead of "Currently in %world%": [Simple Discord RPC]
+= Now overwrites the description when in the Overworld to say "In the Overworld": [Simple Discord RPC]
+= Button now links to the Breakneck wiki page, which has links to both the CurseForge and Modrinth edition: [Simple Discord RPC]
+= : [mod]

@@ -130,7 +130,7 @@ hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "13b6c2e87ce0cb7529cb5a476afffa59cf12c1f6757bef0c49b13a44a0b30169"
+hash = "865cc140faddc4856f1a08c981ce00d078f1ee821ae7b3e4bf05bac31d9460c6"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "a9718a405a69a9c6f41778e7e007d3f4c2c10f35dceddca1fa70877188dad37a"
+hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "cf6904d097feae108600fb178f207044bef6e89cb92b637d1a76345b5c1932e0"
+hash = "5a669294b33d062eb085dace559a148636348603fd18be6234a01a3fee79c167"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
