@@ -63,5 +63,4 @@ Resource Packs updated:
 Config changes: 
 = Set "narrator" to 0 by default. Disabling the popup when opening the modpack for the first time: [YOSBR]
 = Set "tutorialStep" to "none" by default. Effectively disabling the tutorial: [YOSBR]
-= "Need a server?" button now opens the BHMenu screen: [FancyMenu]
 = : [mod]
