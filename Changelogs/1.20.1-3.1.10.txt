@@ -1,0 +1,64 @@
+1.20.1 - 3.1.10
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ Fixed 'LambDynamicLights' not working [https://github.com/LambdAurora/LambDynamicLights/issues/175]
+~ Updated mods to their latest version.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Balm
+> Better Statistics Screen
+> BisectHosting Server Integration Menu
+> Bookshelf
+> Cherished Worlds
+> Client Tweaks
+> Cupboard
+> Dynamic FPS
+> Enchantment Descriptions
+> Entity Model Features
+> Exordium
+> FancyMenu
+> ImmediatelyFast
+> Iris Shaders
+> LambDynamicLights
+> Mod Menu
+> OptiGUI
+> Smooth Chunk Save
+> Sodium
+> Xaero's World Map
+
+
+Mod updates reverted:
+> 
+
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
