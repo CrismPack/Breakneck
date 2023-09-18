@@ -186,7 +186,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bc879c0fb49573dda6b500eea6d36f260be14c224a772754a4022e877c59e9a3"
+hash = "54b5ecbcaeaa04e43c99a76229c2b51cf934870c30d798c86fdbce287d3212d4"
 
 [[files]]
 file = "config/zoomify.json"
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
 
 [[files]]
@@ -560,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "1480b9f9b4f82942fa31e669db180b6686858a64282211203c02ea7dfc276607"
+metafile = true
+
+[[files]]
+file = "mods/lilac.pw.toml"
+hash = "db2f3f3f705ef0de8687555e98a75424caee5f1d250217c3cf654aed529ce0e8"
 metafile = true
 
 [[files]]
@@ -724,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+hash = "6a741a79f595621416fa7e5834823f0465c49eec07bed56967937270821ee7d6"
 metafile = true
 
 [[files]]
@@ -873,7 +878,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "5a669294b33d062eb085dace559a148636348603fd18be6234a01a3fee79c167"
+hash = "d120e1d5f6c64feb8ebd9e36aa05f0f4c3578814df7f716ad8d61f3527fae2d8"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

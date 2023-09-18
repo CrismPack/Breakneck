@@ -1,10 +1,12 @@
-version:3337
+version:3465
 guiScale:3
 autoJump:false
 enableVsync:false
 soundCategory_master:0.50
 soundCategory_music:0.25
 skipMultiplayerWarning:true
+tutorialStep:none
+onboardAccessibility:false
 key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_zoomify.key.zoom:key.keyboard.z

@@ -3,11 +3,13 @@
 Fabric version: Fabric-0.14.22
 Update overview: 
 ~ Fixed 'LambDynamicLights' not working [https://github.com/LambdAurora/LambDynamicLights/issues/175]
+~ Disabled accessibility popup when launching the modpack for the first time.
+~ Disabled the tutorial.
 ~ Updated mods to their latest version.
 
 
 Mods added:
-+ 
++ LiLaC [New dependency of 'OptiGUI']
 
 
 Resource Packs added:
@@ -44,12 +46,10 @@ Mods updated:
 > Exordium
 > FancyMenu
 > ImmediatelyFast
-> Iris Shaders
 > LambDynamicLights
 > Mod Menu
 > OptiGUI
 > Smooth Chunk Save
-> Sodium
 > Xaero's World Map
 
 
@@ -61,4 +61,7 @@ Resource Packs updated:
 > 
 
 Config changes: 
+= Set "narrator" to 0 by default. Disabling the popup when opening the modpack for the first time: [YOSBR]
+= Set "tutorialStep" to "none" by default. Effectively disabling the tutorial: [YOSBR]
+= "Need a server?" button now opens the BHMenu screen: [FancyMenu]
 = : [mod]
