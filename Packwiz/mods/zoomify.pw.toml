@@ -1,6 +1,6 @@
 name = "Zoomify"
 filename = "Zoomify-2.11.2.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

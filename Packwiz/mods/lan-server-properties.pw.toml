@@ -1,6 +1,6 @@
 name = "Lan Server Properties"
 filename = "lanserverproperties-1.11-fabric.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

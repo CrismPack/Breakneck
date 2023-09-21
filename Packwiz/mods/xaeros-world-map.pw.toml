@@ -1,6 +1,6 @@
 name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.34.1_Fabric_1.20.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

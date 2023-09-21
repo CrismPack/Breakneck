@@ -1,6 +1,6 @@
 name = "Wavey Capes"
 filename = "waveycapes-fabric-1.4.0-mc1.20.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

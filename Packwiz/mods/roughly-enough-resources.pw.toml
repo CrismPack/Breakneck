@@ -1,6 +1,6 @@
 name = "Roughly Enough Resources"
 filename = "rer-2.9.0.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Chat Heads"
 filename = "chat_heads-0.10.20-fabric-1.20.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

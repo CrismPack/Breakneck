@@ -1,6 +1,6 @@
 name = "Load My Resources [Fabric]"
 filename = "loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

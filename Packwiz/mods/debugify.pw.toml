@@ -1,6 +1,6 @@
 name = "Debugify"
 filename = "Debugify-1.20.1+2.0.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

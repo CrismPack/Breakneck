@@ -1,6 +1,6 @@
 name = "Better Ping Display [Fabric] - Updated Fork"
 filename = "BetterPingDisplay-Fabric-1.19.4-2.0.3.jar"
-side = "server"
+side = "none"
 
 [download]
 hash-format = "sha1"

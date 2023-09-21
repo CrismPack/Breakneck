@@ -1,6 +1,6 @@
 name = "Better Beds"
 filename = "betterbeds-1.3.0-1.19.3.jar"
-side = "server"
+side = "none"
 
 [download]
 hash-format = "sha1"

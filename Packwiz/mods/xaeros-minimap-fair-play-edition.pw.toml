@@ -1,6 +1,6 @@
 name = "Xaero's Minimap (Fair-play Edition)"
 filename = "Xaeros_Minimap_FP23.6.3_Fabric_1.20.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

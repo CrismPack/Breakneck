@@ -1,6 +1,6 @@
 name = "Legendary Tooltips [Fabric]"
 filename = "LegendaryTooltips-1.20.1-fabric-1.4.4.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"
