@@ -19,38 +19,8 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  identifier = %id=802990%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  orientation = mid-centered
-  x = 226
-  action = movebutton
-  y = 194
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  width = 196
-  action = resizebutton
-  height = 13
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = setbuttonlabel
-  value = &4Copyright Mojang AB. Do not distribute!
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\empty.png
-  backgroundnormal = resources\mainmenu\empty.png
 }
 
 customization {
@@ -105,7 +75,7 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  identifier = %id=604382%
   action = hidebutton
 }
 
@@ -133,31 +103,8 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  identifier = %id=376382%
   action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-centered
-  x = -34
-  action = movebutton
-  y = 96
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = setbuttonlabel
-  value = 
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = resources\mainmenu\lang_hover.png
-  backgroundnormal = resources\mainmenu\lang_normal.png
 }
 
 customization {
@@ -248,18 +195,6 @@ customization {
 }
 
 customization {
-  orientation = bottom-right
-  shadow = true
-  x = -3
-  actionid = f800bdbc-c9cc-4c78-afc9-9c2d5fe78a3c1649947251368
-  action = addtext
-  y = -11
-  scale = 0.8
-  alignment = right
-  value = §4Copyright Mojang AB. Do not distribute!
-}
-
-customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = opengui;com.terraformersmc.modmenu.gui.ModsScreen%btnaction_splitter_fm%
@@ -313,7 +248,7 @@ customization {
 customization {
   orientation = element
   restartbackgroundanimations = true
-  buttonaction = opengui;com.bisecthosting.mods.bhmenu.modules.servercreatorbanner.screens.BHOrderScreen%btnaction_splitter_fm%
+  buttonaction = openlink;https://bisecthosting.com/CRISM%btnaction_splitter_fm%
   backgroundhovered = resources\mainmenu\shortbutton_hover.png
   label = Need a server?
   loopbackgroundanimations = true
@@ -473,5 +408,22 @@ customization {
   y = 24
   backgroundnormal = resources/mainmenu/longbutton_normal.png
   height = 20
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_8219%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/empty.png
+  label = §4Copyright Mojang AB. Do not distribute!
+  loopbackgroundanimations = true
+  hoverlabel = &4&nCopyright Mojang AB. Do not distribute!
+  x = -199
+  width = 199
+  action = addbutton
+  actionid = c0de9bfa-a871-4efb-96e6-8819d902751b1695480105375
+  y = -13
+  backgroundnormal = resources/mainmenu/empty.png
+  height = 12
 }
 

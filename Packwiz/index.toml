@@ -18,7 +18,7 @@ hash = "0fb05433a657efcb20b85cb7f61ecced6290aadd0a277e7736b46c2073674935"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "d8235e5c976b7485796ed31432403984d37f12742f050d6b16aae9be1417fb48"
+hash = "de2341b24dbd88e75bca9475972cedf14f4cb64bc878e26487d87968edd8d595"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -30,7 +30,7 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "41863a496738a8341dbdac0e2b2098bb0e901d6e7cf96c07c4adb6f9ad998585"
+hash = "cc48e83b0d899f3e4992fab632aac193eba6130033ad3059b12c0396477575b6"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"

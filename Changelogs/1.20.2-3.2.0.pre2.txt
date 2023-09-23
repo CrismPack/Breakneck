@@ -1,11 +1,12 @@
-1.20.2 - 3.2.0.pre1
+1.20.2 - 3.2.0.pre2
 
 #Notice: This is a pre-release. Here be dragons!
 
 Fabric version: Fabric-0.14.22
 Update overview: 
-~ Initial 1.20.2 migration.
-~ Mods that are not compatible with 1.20.2 have been disabled (Which is over half of them).
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated.
+~ Fixed Mojang copyright notice not being clickable.
 
 Mods added:
 + 
@@ -76,5 +77,5 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= "Need a server?" button now opens the BHMenu screen: [FancyMenu]
+= Made the "Copyright Mojang AB. Do not distribute!" text clickable: [FancyMenu]
 = : [mod]

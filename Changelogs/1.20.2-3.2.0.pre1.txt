@@ -106,5 +106,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= "Need a server?" button now opens the BHMenu screen: [FancyMenu]
 = : [mod]
