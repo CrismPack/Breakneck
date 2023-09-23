@@ -1,0 +1,80 @@
+1.20.2 - 3.2.0.pre1
+
+#Notice: This is a pre-release. Here be dragons!
+
+Fabric version: Fabric-0.14.22
+Update overview: 
+~ Initial 1.20.2 migration.
+~ Mods that are not compatible with 1.20.2 have been disabled (Which is over half of them).
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Ambient Environment
++ Chat Heads
++ Entity Model Features
++ Entity Texture Features
++ Exordium
++ FancyMenu
++ Forge Config API Port
++ Indium
++ Inventory Profiles Next
++ ItemSwapper
++ Konkrete
++ Name Pain
++ Searchables
++ Simple Voice Chat
++ Skin Layers 3D
++ ViaFabric
++ Wavey Capes
++ Roughly Enough Items
++ Architectury API
+
+Mods removed: 
+- 
+
+Mods disabled: 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Ambient Environment
+> Chat Heads
+> CleanView
+> Cloth Config API
+> Entity Model Features
+> Entity Texture Features
+> Entity Culling
+> Exordium
+> Fabric API
+> FancyMenu
+> Forge Config API Port
+> Indium
+> Inventory Profiles Next
+> ItemSwapper
+> Konkrete
+> Name Pain
+> Not Enough Animations
+> Searchables
+> Simple Voice Chat
+> Skin Layers 3D
+> ViaFabric
+> Wavey Capes
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= "Need a server?" button now opens the BHMenu screen: [FancyMenu]
+= : [mod]

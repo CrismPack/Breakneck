@@ -1,6 +1,6 @@
 name = "Architectury API (Fabric/Forge)"
 filename = "architectury-10.0.7-fabric.jar"
-side = "none"
+side = "both"
 
 [download]
 hash-format = "sha1"
