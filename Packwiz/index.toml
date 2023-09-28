@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "bad8aa7dbc63e4d41a73ab2a81e60b8b93fb3ad1d6ce8e252623f41bb35b0268"
+hash = "3b8f7c9783f3c0ce8322c94a1c813a9fe6e15ab5165efc4392da9a28de1f5744"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "c08176cde38805f3d5abfe3c14208f23548a98ea51306b38c1e1c400ea627ddc"
+hash = "bc8713e30597e6b1e9102de81159bcc8089b8d3fdc9ac2f19ff3c6c35c6605cf"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "c400313d469c07164c5d67cd17b994a6476adbf8e200818265d9e344c1595696"
+hash = "5c8269edbec3a9013aa93b51941f9decd01e4e9a1450c13347ada61ebfcae618"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "c39b9772749a4740cff1727a5a9b25c29d091f0b213550026c90afba3516c48f"
+hash = "d8ee369a497201e5302a96c9276dc95be8a7b346b5d29447712a4922fbd37196"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "acd4964a1b1de896fbd5ced132d50ff3b954f82b1c490b45adff0d4ee6008c4f"
+hash = "a9050946f53bdec43533fef8d1969957a0904731aec2b6cf9af744b390a156a9"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "7dc22573fcaa5678597b9573f546616b0bf2c64c627768842f3a945ab4644902"
+hash = "4ef6257afd3f1e0cf3f28dc135cd27aa2783dc43d273ef509666ac67c27a3719"
 metafile = true
 
 [[files]]
@@ -574,12 +574,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7081b925f30193157b4aa667ee75b916e4c1f550621c37f1195a9af1b18961f1"
+hash = "cbdd091647cf5e19fa57723001719e45b7eee9988567d5945a69986943370189"
 metafile = true
 
 [[files]]
 file = "mods/load-my-resources-fabric.pw.toml"
-hash = "2a60c04d3668dd9db3de03e25a5526fbf4992ebb8e19a5f9528f045928d59dc5"
+hash = "2461dab77289675ccfc0529930a56adc0fd01e4a5e47f33c2493b0e18085e1cd"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "9655c9505b4b93673c4920f5da7be5641bfd0755ee8fb7a54623d3661a010934"
+hash = "8067dbe8f56b427a5ea90a1b7c64d1ab18da6009a7dead569eaad08c3045210a"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "e56c273813c9e74f2b396e9227292e3d6b0653ad10308a99179513034902fb20"
+hash = "9d985a9f459c623a101e4f09c03ac2222dc56e1d3b214450e78912a46d4fed61"
 metafile = true
 
 [[files]]
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d5a9970b9fc2b93c048b528d6c6376b4a1ec6bf420537dc3b1a76ebb43d1e44c"
+hash = "94935b6b38b8732ca1971ce8b5217528c716dbae52d7b19a1984cd127ad57214"
 metafile = true
 
 [[files]]
@@ -878,7 +878,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "f293ce43069997dc3099edd48c4fd04b3f00edc57f9a1639945ff02dcf6907c0"
+hash = "d9c8ac0e48e8ff9c5c779879e7f3f5a609001d1faf895fc74a04093f877dcc89"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

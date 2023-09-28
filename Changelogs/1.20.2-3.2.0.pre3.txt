@@ -8,7 +8,7 @@ Update overview:
 ~ Re-enabled mods that have been updated.
 
 Mods added:
-+ 
++ Lithium [CF]
 
 Resource Packs added:
 + 
@@ -30,7 +30,7 @@ Mods re-enabled:
 + Xaero's World Map
 
 Mods removed: 
-- 
+- Lithium [MR]
 
 Mods disabled: 
 
