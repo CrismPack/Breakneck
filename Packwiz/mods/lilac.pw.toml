@@ -1,13 +1,13 @@
 name = "LiLaC"
-filename = "lilac-1.0.0-beta.2.jar"
+filename = "lilac-1.0.0-beta.3.jar"
 side = "none"
 
 [download]
 hash-format = "sha1"
-hash = "660881d5495a429f815094a52f189210f61bb033"
+hash = "e6d449b82261294fd36dd8059d78c521f30cc08d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4752080
+file-id = 4767108
 project-id = 891778

@@ -1,13 +1,13 @@
 name = "Krypton"
-filename = "krypton-0.2.3.jar"
-side = "server"
+filename = "krypton-0.2.4.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d499819effd8afe811e5d93952fcc46765a00df"
+hash = "cffdf89a438b83215ddbac2a29c56a2cd68b7d57"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4577300
+file-id = 4765591
 project-id = 428912
