@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "5b03ced79b2ecc4ad4d5d3ed4d297d4a0b4c56642f3bb241791ec33c3f24cb29"
+hash = "dd7e59a9f3c5de4134a1e54a8ccd02e229e1d6606bfc5984f2142935e7ac98e6"
 metafile = true
 
 [[files]]
@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d38274070d9776b57eb2414a52978386e8dcdc9bd1433cd201ae56c12dd07365"
+hash = "3a51e5ab96a9c246c3f701493a794cee74793587261f9fb07298353e9db8579a"
 metafile = true
 
 [[files]]

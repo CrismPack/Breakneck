@@ -22,8 +22,8 @@ Mods re-enabled:
 + Bobby
 + Client Tweaks
 + Controlling
++ Debugify
 + Krypton
-+ Lithium
 + Load My Resources
 + No Chat Reports
 + Shulker Box Tooltip
@@ -47,6 +47,7 @@ Mods updated:
 > Client Tweaks
 > Controlling
 > FancyMenu
+> Debugify
 > Krypton
 > Language Reload
 > LiLaC
