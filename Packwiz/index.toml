@@ -338,13 +338,8 @@ hash = "0edb74be74d9de3ecda2c0395aa38eca8e0bcf071db2bc5e268671c08c25d6e1"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "fe3fc44b8d661e0dd32412fe0d801a3a25ecb8fe650c8e7e9fbd60bf047c548f"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
-hash = "8b636fba55cfaa1c387e50173b16e2839e49ea23809b8883d0a8185b451e8d5a"
+hash = "d77919afaaccfa93c82d128438d3cf59a15242adf6bf725f2e49ffd6567eb6b9"
 metafile = true
 
 [[files]]
@@ -354,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "f1821d5876af5f992467d312f189f4f3c7f73d890d593a49b978f2d023ce7ff3"
+hash = "e3a582179571bd28ee63bd8f3f9a8ca5b7706062114ef2ea322e77e104a0bc5c"
 metafile = true
 
 [[files]]
@@ -544,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "af4d1ad7e5665f129213c906502681d01d3fef763e19e13e7eea51ca09185462"
+hash = "76ed7b219f95fb8145020176fc3eb63433a680e7fc988facd64e6ef60225ed51"
 metafile = true
 
 [[files]]
@@ -584,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4076b337045e58097dfadd4931fd727a60d4f8c6acb0cec76e2a22efdee22c44"
+hash = "aac087baa5cda20dea324cebd9076991e4802561702b11292d96bdbc6ed15472"
 metafile = true
 
 [[files]]
@@ -595,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5ce445150af55fd585ce27b44064ad1815aa9ee830733bca179189ef8b8933e4"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "c7596f053efa614fb8cac82e343969e0fe19edf9428d3a419d3434e38d08c7b8"
 metafile = true
 
 [[files]]
@@ -699,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "18fc96efb2296271b811735202774ad27132f02069faeeb6d9a476a7953d2674"
+hash = "658c36455bdf49afc0be8f86019d45ca12eba62c68f686ea64ef74dd93a1da06"
 metafile = true
 
 [[files]]
@@ -764,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "df8c5838879ee0a219a6a010df368da8f0990f993d02a6831a901f543b5713a7"
+hash = "79bbf228f925f0408a75a59c735cb07b86f8ce744e1de4946a24a7ceaff92559"
 metafile = true
 
 [[files]]
@@ -784,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "9e02709f9e76e204c84f154a75e98ab16b5a12133b8334372475b12b1b75a166"
+hash = "fcfc935e30bb959af09c4ab7d2dd7168886ebf732f98a85785eb18c631803401"
 metafile = true
 
 [[files]]
@@ -878,7 +868,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "d9c8ac0e48e8ff9c5c779879e7f3f5a609001d1faf895fc74a04093f877dcc89"
+hash = "5dfcc30937fcc143eb636efa5f535160f80bacb0028a74a5593a694f8045e298"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

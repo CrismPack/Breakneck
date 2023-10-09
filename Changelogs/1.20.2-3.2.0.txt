@@ -1,13 +1,13 @@
 1.20.2 - 3.2.0
 
-Fabric version: Fabric-0.14.22
+Fabric version: Fabric-0.14.23
 Update overview: 
 ~ First proper release version for 1.20.2.
 ~ Updated mods to their latest version.
 ~ Re-enabled mods that have been updated.
 
 Mods added:
-+ Lithium [CF]
++ 
 
 Resource Packs added:
 + 
