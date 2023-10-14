@@ -658,6 +658,11 @@ hash = "3f40334ed8078559406d5faaa755fbd686e31d4e43bf6c43594377c815ed1c0a"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "2f91deb9213dfad783bdcd6f67cefbaacc634feb70afd7d9ce8fca8cc94f512a"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "25a61eae381c1585216ce9ce593bc4daf09514064f901179d9034dd35863e2a7"
 metafile = true
