@@ -1,13 +1,13 @@
 name = "Litematica"
-filename = "litematica-fabric-1.20.1-0.15.3.jar"
-side = "none"
+filename = "litematica-fabric-1.20.2-0.16.0.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "427b04faee05fab436c52c3618e8e391a010b648"
+hash = "b7f08e806ca3c7558814398abd2ebf46b7146e24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4626718
+file-id = 4789765
 project-id = 308892

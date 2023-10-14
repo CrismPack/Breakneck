@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "2d7df41d843134d55fcf64c0e71299cf96f1f83e804e48fffe3eeba19483a132"
+hash = "226c508cc67072a53116e49efeeb1e53fe31ad28582b6896d9eb70ba0303afd9"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "c0ed5ad3c4f607ef0110c78e71f563a77bd654e3904ecab7cde7b22d579ab80d"
+hash = "2f07d9c05612217985f9afcf1d11a02dc00e22043274c2e5bc2989ea45b55c6a"
 metafile = true
 
 [[files]]
@@ -514,12 +514,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e60dfe0d44555b200e0ab643f7beaa90dde3d37c5e89fea7dcf11f94f581f5ae"
+hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
 metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "06a099243b695744807f7be100a4dda8be41558bdd47771efe536ddacf3a72e8"
+hash = "06dd51dd1e1a340ca0e02f930474b47e70157fbb0f12a0a9ffccf24f4433de85"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "97391be8023a0ef26525842432dcf381eb582e1df0a56525fc5a7ec1b8b1d2de"
+hash = "e9d7b50c93fde68d84ee20ec786a160eaf238dc69752a7fb332044f2cf53491f"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "01da6301a79d183dd80efcd5d5e1af9215a1ea7db9bc44f03aa793cec2622123"
+hash = "0efdedc2d58e886dea42697ec2d654a579cd5f628f8da2b2c3e5c1c202947a3e"
 metafile = true
 
 [[files]]

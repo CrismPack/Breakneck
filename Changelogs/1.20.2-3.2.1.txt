@@ -1,0 +1,45 @@
+1.20.2 - 3.2.1
+
+Fabric version: Fabric-0.14.23
+Update overview: 
+~ Updated mods to their latest version.
+~ Re-enabled 'Litematica' & 'MiniHUD'.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Litematica
++ MiniHUD
+
+Mods removed: 
+- Connectivity
+- MidnightLib
+
+Mods disabled: 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Better Statistics Screen
+> Cupboard
+> Iris Shaders
+> ItemSwapper
+> Litematica
+> MiniHUD
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
