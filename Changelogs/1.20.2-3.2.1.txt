@@ -2,8 +2,7 @@
 
 Fabric version: Fabric-0.14.23
 Update overview: 
-~ Updated mods to their latest version.
-~ Added ingame resourcepack installer.
+~ Added ingame resourcepack/shader installer.
 ~ Re-enabled 'Litematica' & 'MiniHUD'.
 
 Mods added:
@@ -20,10 +19,10 @@ Mods re-enabled:
 + MiniHUD
 
 Mods removed: 
-- Connectivity
-- MidnightLib
+- 
 
 Mods disabled: 
+-
 
 Resource Packs removed:
 - 

@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "e9d7b50c93fde68d84ee20ec786a160eaf238dc69752a7fb332044f2cf53491f"
+hash = "1519a933ad5d377cc6fbe75fa7f316b1989e00112dfc712d23af62b3d4a99a85"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "0efdedc2d58e886dea42697ec2d654a579cd5f628f8da2b2c3e5c1c202947a3e"
+hash = "8f3f8c035ba4edc388e01cd895ab2f2c1ee04ee76d05271d9ad142dc1ed397f5"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "5dfcc30937fcc143eb636efa5f535160f80bacb0028a74a5593a694f8045e298"
+hash = "2677d89dea3a3aa32e930e701c30bae30aeb64db23ff002feb06c42186fc7e72"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
