@@ -1,0 +1,50 @@
+1.20.2 - 3.2.2
+
+Fabric version: Fabric-0.14.23
+Update overview: 
+~ 
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Raised
++ Better Recipe Books
+
+Mods removed: 
+- 
+
+Mods disabled: 
+-
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Raised
+> Better Statistics Screen
+> Fabric API
+> FancyMenu
+> FerriteCore
+> Konkrete
+> Roughly Enough Items
+> Searchables
+> Simple Voice Chat
+> Starlight
+> ViaFabric
+> Xaero's World Map
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]

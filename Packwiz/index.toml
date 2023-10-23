@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "226c508cc67072a53116e49efeeb1e53fe31ad28582b6896d9eb70ba0303afd9"
+hash = "a15d71fd76b675412b73a36b9f6f889773459946f9d1c2b331c7fb63b833f0b8"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "80eb097fcbd2633c59fb855a6ffc08c57f8b7612e36b773f21944245275cec95"
+hash = "29ccd92e5bf69df5590168a7a8b571fa0ce26f1329298495d0f76280e62e78fd"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "94f424748177cb5872214b16b64f1268b865bdd595974b5ae07812fdd674c245"
+hash = "c880b82d64b2554b003625ab4fd32fb1e6d233e423da3e39ade7d50f5ca04956"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "1ca95826c2a7b04df3509c5dd0df346717ce09f59f6e5db36e816925fc214500"
+hash = "f546ab065267e5fe086dbb82192f78d2dff3ab617f4fc79783e63ccd5d6ceb64"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "298ebbb6d67fc63048f15a8102e763bda7652087ebbb0a460c9acd40c7b19ce0"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "13009d6b8b4fbb470a921198c1beb5e8985bf745851da713915efcd55ddde797"
+hash = "6d11113be7aba74ab80b47c94a962e81c49f9a627dbe6dc91ec27dc9f454e628"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "303413fb1d89629c6c23aac29e89fa756b6cbb36b2affcb8060b5f7163ab7286"
+hash = "768c023aef2e8555435afdcfe20a46199afb8c3f4584e94060e79e354fb13c13"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "25a61eae381c1585216ce9ce593bc4daf09514064f901179d9034dd35863e2a7"
+hash = "043a4490c72593313aba58e6e3e3fd0b3e20dfe4bb3d1e70f4f584779c512c87"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "c1c48b995e5392f1871caaab03d523e683d59143db87348168953e348871131a"
+hash = "fcbda13c79438e821eb722a5578f4d530364c02424dd420311db33dd0ea95937"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "71cc9d53d8b491ae2f6280ac94f55ea178a8af7febde41293ed6aa8fbc09038c"
+hash = "8ca11685d0ed8b4540d917ba315882f6a0bf76c3df1213d8b767dad1da44f67b"
 metafile = true
 
 [[files]]
@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "b8d98946df2a7004bdc22c952d2026585d21df7ccf439e956ffdaccde839566c"
+hash = "9a497c3ba90411709732f18ac959e93255c185cb1fe1c3a494cb84cbf4456395"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "450af61a0f9971228101b093ea63098293bdc0ba9ec2b1aa02aaa0a534d96d4a"
+hash = "7d46dde27141c3bfefa8cd442f95c9c785801df57c62b11db90a780501952328"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "94935b6b38b8732ca1971ce8b5217528c716dbae52d7b19a1984cd127ad57214"
+hash = "becdebd62cad60c0eb649a4bd56787beb4797a883a428c993461da891a1c5121"
 metafile = true
 
 [[files]]
