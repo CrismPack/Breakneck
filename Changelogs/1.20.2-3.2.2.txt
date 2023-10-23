@@ -2,10 +2,13 @@
 
 Fabric version: Fabric-0.14.23
 Update overview: 
-~ 
+~ Re-enabled 'Raised' & 'Better Recipe Books'.
+~ Added 'More Culling' for improved performance in areas with many particles.
+~ Updated mods to their latest version.
 
 Mods added:
-+ 
++ More Culling [MR]
++ True Darkness Fork
 
 Resource Packs added:
 + 
@@ -47,4 +50,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= : [mod]
+= Disabled darkOverworld, darkDefault, darkNether, darkEnd & darkSkyless by default: [True Darkness Fork]

@@ -1,0 +1,13 @@
+name = "True Darkness Fork [Fabric]"
+filename = "TrueDarknessFork-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "722800a26efac3a48fddccebae942dcb9588ff31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4756878
+project-id = 906926

@@ -133,6 +133,10 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "cb6003479ceeb0b32ea991eb316e25937e12bb642376c63ebbea864824871e9c"
 
 [[files]]
+file = "config/yosbr/config/TrueDarknessFork.json5"
+hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
@@ -284,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "29ccd92e5bf69df5590168a7a8b571fa0ce26f1329298495d0f76280e62e78fd"
+hash = "36c3161db492007e10ee55fb4820569f1c47339af53f0fb06748623b3d1a3483"
 metafile = true
 
 [[files]]
@@ -613,6 +617,11 @@ hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c5f65c4ab2edf8c6c13df9ac4b730611bb8a37fa7d34f1ab7577a3d41ef21e83"
 metafile = true
@@ -748,6 +757,11 @@ hash = "995b71effd8bc1f439ff5cf8234f373b43433493417c0c7f92c11f14bca1d626"
 metafile = true
 
 [[files]]
+file = "mods/true-darkness-fork-fabric.pw.toml"
+hash = "3a8f784f89f3f1867303ce48af2e225da561c26e85c2dd71a16c104506a1ed4a"
+metafile = true
+
+[[files]]
 file = "mods/viafabric.pw.toml"
 hash = "7d46dde27141c3bfefa8cd442f95c9c785801df57c62b11db90a780501952328"
 metafile = true
@@ -873,7 +887,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "2677d89dea3a3aa32e930e701c30bae30aeb64db23ff002feb06c42186fc7e72"
+hash = "5437cc464b14081f7afde5ad5bca184afeef981a9bda0375bf18ce175ca64edc"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
