@@ -1,13 +1,13 @@
 name = "Raised"
-filename = "raised-fabric-1.20.2-3.0.0.jar"
+filename = "raised-fabric-1.20.2-3.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "52e58729b48b3e0a9dad75a428f36099962e6437"
+hash = "e85fd0e6acc452d81af4082a732f771ca4d42c34"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4787102
+file-id = 4813525
 project-id = 570368
