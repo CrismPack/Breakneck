@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.14.24
 Update overview: 
 ~ Added 'Server Country Flags'.
+~ Re-enabled 'OptiGUI'.
 ~ Updated mods to their latest version.
 
 Mods added:
@@ -54,4 +55,4 @@ Resource Packs updated:
 > 
 
 Config changes: 
-= Moved the server location button on the multiplayer menu: [FancyMenu]
+= Moved the server location button in the multiplayer menu: [FancyMenu]

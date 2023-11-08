@@ -22,7 +22,7 @@ hash = "de2341b24dbd88e75bca9475972cedf14f4cb64bc878e26487d87968edd8d595"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "0707dac951bbf2ac76e182decc256c6283ed5e84480d4ab4689f138e537d0fdf"
+hash = "cd6d269ef154d53c6d54b28468ab81e5b4084ef9a62ce39890f7db8f881456a6"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
@@ -31,6 +31,10 @@ hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
 [[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
 hash = "cc48e83b0d899f3e4992fab632aac193eba6130033ad3059b12c0396477575b6"
+
+[[files]]
+file = "config/fancymenu/customization/mp.txt"
+hash = "b6b4b877d0d47110077f0a9a94080786e3830ccf2e799ced9ad44d459e503a43"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -278,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "1d5ab55811ba6a317cac3e599e0004e39dea33e8668211cd65dfa05724322c3c"
+hash = "65a5a269942c59c950631c74241518db1f420792521f8e73150cbfe27d3a8655"
 metafile = true
 
 [[files]]
@@ -648,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "7b2b37787a291ac6b52188fe0e4a3a0b9a623036eefccdb445e7e63b4e6fb1b4"
+hash = "f88f297590da8218c2b46bd93f0bffc8b5d0050bea269c0535d1db56a8acfdfc"
 metafile = true
 
 [[files]]
@@ -892,7 +896,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "5437cc464b14081f7afde5ad5bca184afeef981a9bda0375bf18ce175ca64edc"
+hash = "153488dfb4a64c8b0272c4e0c4f24067ee5392c4ded8408b0745f1e06a24fa37"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
