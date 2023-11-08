@@ -697,6 +697,11 @@ hash = "fcbda13c79438e821eb722a5578f4d530364c02424dd420311db33dd0ea95937"
 metafile = true
 
 [[files]]
+file = "mods/server-country-flags.pw.toml"
+hash = "86be1ad0f28705655ac43e118da42817134b10ebc708a251aedfb38d78278622"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "9d985a9f459c623a101e4f09c03ac2222dc56e1d3b214450e78912a46d4fed61"
 metafile = true
