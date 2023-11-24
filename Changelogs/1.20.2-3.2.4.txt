@@ -14,7 +14,8 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Roughly Enough Professions
++ Enchantment Descriptions
 
 Mods removed: 
 - 
@@ -26,7 +27,19 @@ Resource Packs removed:
 - 
 
 Mods updated: 
-> 
+> Architectury API
+> Better Statistics Screen
+> Chat Heads
+> Cloth Config API
+> Enchantment Descriptions
+> Fabric Language Kotlin
+> ImmediatelyFast
+> LambDynamicLights
+> Language Reload
+> libIPN
+> Roughly Enough Items
+> Roughly Enough Professions
+> ViaFabric
 
 Mod updates reverted:
 > 
