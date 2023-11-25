@@ -20,6 +20,10 @@ Mods re-enabled:
 + Enchantment Descriptions
 + Bookshelf
 
+Metadata Changes:
+= Iris Shaders [MR --> CF]
+= Sodium [MR --> CF]
+
 Mods removed: 
 - Better Ping Display Fork (Previously disabled)
 
