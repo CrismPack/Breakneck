@@ -2,6 +2,8 @@
 
 Fabric version: Fabric-0.14.24
 Update overview: 
+~ Added 'Better Ping Display'.
+~ Re-enabled 'Roughly Enough Professions' & 'Enchantment Descriptions'.
 ~ Updated mods to their latest version.
 
 Mods added:
