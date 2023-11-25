@@ -18,6 +18,7 @@ Shader Packs added:
 Mods re-enabled: 
 + Roughly Enough Professions
 + Enchantment Descriptions
++ Bookshelf
 
 Mods removed: 
 - Better Ping Display Fork (Previously disabled)
@@ -31,6 +32,7 @@ Resource Packs removed:
 Mods updated: 
 > Architectury API
 > Better Statistics Screen
+> Bookshelf
 > Chat Heads
 > Cloth Config API
 > Enchantment Descriptions
