@@ -28,7 +28,7 @@ Mods removed:
 - Better Ping Display Fork (Previously disabled)
 
 Mods disabled: 
--
+- 
 
 Resource Packs removed:
 - 
@@ -38,6 +38,7 @@ Mods updated:
 > Better Statistics Screen
 > Bookshelf
 > Chat Heads
+> Clear Despawn
 > Cloth Config API
 > Enchantment Descriptions
 > Fabric Language Kotlin

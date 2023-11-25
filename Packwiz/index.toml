@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.pw.toml"
-hash = "62678ad0b6afc1e09bcd1cf6c3f02bc6dd5fa3fcc7e461c78f40ae81d822407b"
+hash = "3543f3432af218c89564fea8ecd2ad7ed87d38307816cc43f9f259dd00136250"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "29674f0c9d599db602db2985a950ed20218d8563cab2254fb16beeffd1cc24ee"
+hash = "e5c046df51cdb7adf365c1ddbdc71e3c97c5d4009a7f8578e9069cee30620aa0"
 metafile = true
 
 [[files]]
