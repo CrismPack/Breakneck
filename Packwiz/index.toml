@@ -246,11 +246,6 @@ hash = "daebf0cd0f92a6a7ae988476231148b4bc830c7e9601857a4029efba99248377"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric-fork.pw.toml"
-hash = "ea4d361012e3a5e37f69d3c00cb055874134c32bf36772844e7ab9e17c5f4fef"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "3f398e72e212e5272421bad53ad260f68581c19c46b26b59b087f7e6744aa539"
 metafile = true
@@ -287,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "5467c7dab96cbabf5e544ee3555e7188872cf9f5e552fac337fc4a85501889a8"
+hash = "65a5a269942c59c950631c74241518db1f420792521f8e73150cbfe27d3a8655"
 metafile = true
 
 [[files]]
@@ -417,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "947fc65a720bec4ad6603e169afe0436b102e40869f8fa1c49e28f7715069b32"
+hash = "829785400b802bb10edef123adea8b59a5d279667060fb0d0b4c5c8337f7ca1e"
 metafile = true
 
 [[files]]
@@ -687,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "292f27f699ec293ec01b5251cbf4f5bb455bfdaa9f55989e9f02671a37c765a7"
+hash = "c7905a23aff188458046ee4d959eb810c4d516a1873e155077fa66908b72d3cd"
 metafile = true
 
 [[files]]
@@ -901,7 +896,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "153488dfb4a64c8b0272c4e0c4f24067ee5392c4ded8408b0745f1e06a24fa37"
+hash = "6e8bfe77d24b44fe4301ad89f67b58d505750d410a4314bf641189e6815c2b7e"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
