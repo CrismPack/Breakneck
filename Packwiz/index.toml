@@ -251,6 +251,11 @@ hash = "ea4d361012e3a5e37f69d3c00cb055874134c32bf36772844e7ab9e17c5f4fef"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3f398e72e212e5272421bad53ad260f68581c19c46b26b59b087f7e6744aa539"
+metafile = true
+
+[[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "514725078cc714ce62042f3f8476956807a9618f6790d012c7fa1f5cef7a58e5"
 metafile = true

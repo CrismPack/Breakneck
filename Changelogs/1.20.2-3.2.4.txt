@@ -5,7 +5,7 @@ Update overview:
 ~ Updated mods to their latest version.
 
 Mods added:
-+ 
++ Better Ping Display
 
 Resource Packs added:
 + 
@@ -18,7 +18,7 @@ Mods re-enabled:
 + Enchantment Descriptions
 
 Mods removed: 
-- 
+- Better Ping Display Fork (Previously disabled)
 
 Mods disabled: 
 -
