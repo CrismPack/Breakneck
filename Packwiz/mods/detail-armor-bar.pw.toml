@@ -1,15 +1,15 @@
 name = "Detail Armor Bar [Fabric]"
-filename = "DetailArmorBar-2.6.3+1.20.2-fabric.jar"
+filename = "DetailArmorBar-2.6.3+1.20.4-fabric.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "84170ffeb4df7d6f911f2fcf4d0cadc04d64b9c9"
+hash = "447b0868d47cbc88529e71799c6936d5020ff43c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4761926
+file-id = 4936710
 project-id = 506898
 
 [option]

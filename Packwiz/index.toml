@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4a3f7d458cf871b0a3fac8dd1ccf6de92e90be41c77c0b4232259d7881c969d0"
+hash = "519860cd7d7a21185e6fd1f0bc9ec6de60ac7790c778150bc1a80835f49ede3a"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3573c330ef44dfe1138c899d455f18142ff05cacde086aebd847b4f699f05f11"
+hash = "ba240aa6caa787631afa19cd31f7f51d8f81c3e2fcfb04e8ce99cb10e789e3a3"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.pw.toml"
-hash = "32b84aa9276a9136b9876eb00968a3beb7b9d080895de67641f2880a760d8436"
+hash = "6dd73b30277d905a90ee6158e49b1fa60f38f70f14030bf00cf1368a13d118ca"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "860e5dd3e8cd968f2e21bb1303ceeacd08a8b6b77e109d015db63024c8e685dc"
+hash = "21a94dd54960d2c7b69f207b2f09ef0a8f140cbb2561d7952ebbed04e8dd5b54"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "e69d202cbb90e8f6b23c59c3c2e7861fb38992d1081f0a0b00a544e825195717"
+hash = "73287d0f18e32e88968e598d537b370d154c77613c9dc18141b8d6188597d1b4"
 metafile = true
 
 [[files]]
@@ -422,12 +422,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a17d0e0bf477d398bdafabaeb3139ceca1d244249e97f1b6fd3e2f10a164932f"
+hash = "0e4d522a66fdb6646a3baf8dfb58302fb7a3cf0ea27e22e2925fa4353ef040cf"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "2e686edcebe4cefa0793fb6dbf949fd55e5272a1282285bab7031d4fda491193"
+hash = "f1a6e32b238793ab27e360d06e76e1d996477bb4b4a44dc40f62e9c4a62ce865"
 metafile = true
 
 [[files]]
@@ -447,12 +447,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "97d29741d0ad98180fbb0259458bbd340ae29727036989abc540572395201299"
+hash = "17471529292b79db87276c9e903251235fe2b76249983b38325c99fecffe4871"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "750598aa49027d797f2adc8a3be8c75a1221f0066f89bf604058d7005b7a51c8"
+hash = "2f4f744642f99b88f810f532a8d4b63717179e8c7acd3b367ca3d010149b958c"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b9de4aedeaef0cbd511652346c447f11edc26f0319807419648d3dd1481ca067"
+hash = "24ce4ba24398f4d0562d16be21b986df01f85e522d4046c0d10e76b8cb439f43"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "84838a3ebdc73b9c73a20d973c4b9b4d91db961057c7934ab9f1c9e1628c1faa"
+hash = "f48a0a4a071ca788ea22dbb53fd95dc6db8011b5dc5d5b84ad70f80148260535"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "303a3fb6b4c2e278e0aab005ea6ef45d56084796ec207c2686f4b8d87db29fdc"
+hash = "6c13c31aba27750dccaf140eee06cd1adbf5159829c2c1b7f38db5e38fdb25fc"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1519a933ad5d377cc6fbe75fa7f316b1989e00112dfc712d23af62b3d4a99a85"
+hash = "82823f8d324029f0893ab72639efb9fc7a43ca45653e8ea8f656692d0c7aab39"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "aac087baa5cda20dea324cebd9076991e4802561702b11292d96bdbc6ed15472"
+hash = "404aed5b1f0b409771dcd76f8f8f532ad5623d246c69c25e83c0148a79033e32"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8f3f8c035ba4edc388e01cd895ab2f2c1ee04ee76d05271d9ad142dc1ed397f5"
+hash = "7bf6c2c9ab897cf5187e4431ee15f9a74e7267e4eba2d38f37ccc14830cc03ab"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+hash = "331c6d89776fbf94b3208089d2f3f4c58b37835739b9f49b1249a8628f866cbe"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "8067dbe8f56b427a5ea90a1b7c64d1ab18da6009a7dead569eaad08c3045210a"
+hash = "0a489aead476db4a26fcf319ba442bd620c6c502d8c44a317193c31712ba04eb"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "aecf584392d79e293cb3e2222ca56742bd9a44d7d73e059b2a0b63ebadbb9ef1"
+hash = "699b2402492f07c5b20d190e1a985071a6ad1defd6ef4becfb493422724f0d27"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "597034fe93db0fad03da7eae36681c4c8f554d12b656562d275b42463461d560"
+hash = "bad33a68cf89977390df34c4242997608f1b978d87a5eb285c345265c50d1c10"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "9a497c3ba90411709732f18ac959e93255c185cb1fe1c3a494cb84cbf4456395"
+hash = "81dcaf6471b39e60612f29988aa57c21fcf02c50df1c4a4634ffd61ae24d007b"
 metafile = true
 
 [[files]]
@@ -772,12 +772,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "85ac278e241e66e3985ebc846a93aa1781c40c525f072a37f0cb5e3ad3ab7393"
+hash = "40a00081163bf69e9841d2775101848248cfd0f9aa4f72236d3b6e3d94988120"
 metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "92f35fb5e6a4317159ce49afe92e00861961201fe842c9572dc616f66b3151f9"
+hash = "7771a4c74ea9111db5d1149dc6c360c5d17abe426909800be0411dfe5e739a1e"
 metafile = true
 
 [[files]]
@@ -787,12 +787,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "becdebd62cad60c0eb649a4bd56787beb4797a883a428c993461da891a1c5121"
+hash = "5f9f3c3ba9294cc1a5c35d11b30cf34f116c8166383aafce29b5c4fa7991018b"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "fb31148005a33cbb36d9417d4cac674dbb6c8a0dc91f2787fcd41a2a2f83375a"
+hash = "f8e57ec1931d43bd7124683852548127d48eabd816acc9250b38d89e01c08dac"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "6e8bfe77d24b44fe4301ad89f67b58d505750d410a4314bf641189e6815c2b7e"
+hash = "94a8d332c6d4d6a70fc7157286c64b1cac704d59c1ae8de7335dde07862fe21b"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
