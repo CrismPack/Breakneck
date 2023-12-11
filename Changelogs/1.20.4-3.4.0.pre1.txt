@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.15.1
 Update overview: 
 ~ Initial migration to 1.20.4
+~ Incompatible mods have been disabled.
 
 Mods added:
 + 
@@ -61,8 +62,9 @@ Mods updated:
 > CleanView
 > Cloth Config API
 > Detail Armor Bar (Still disabled)
-> [EMF] Entity Model Features
-> [ETF] Entity Texture Features
+> Entity Culling
+> Entity Model Features
+> Entity Texture Features
 > Fabric API
 > Fabric Language Kotlin
 > ImmediatelyFast
