@@ -521,8 +521,8 @@ hash = "f48a0a4a071ca788ea22dbb53fd95dc6db8011b5dc5d5b84ad70f80148260535"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "e5c046df51cdb7adf365c1ddbdc71e3c97c5d4009a7f8578e9069cee30620aa0"
+file = "mods/iris.pw.toml"
+hash = "cd07ad0c8542eaac32215ae7e98772b9d9cc2b1df762b31a901b81b3a2c2d8b4"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1e8a1f50b46dff9a2978639e7478387d52b11db97b92b14355204e159fd2dd31"
+hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "94a8d332c6d4d6a70fc7157286c64b1cac704d59c1ae8de7335dde07862fe21b"
+hash = "c5306de8d736597097b67982af4cf88e4bf491c4894d61028ff0e3b5f8e83b5c"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

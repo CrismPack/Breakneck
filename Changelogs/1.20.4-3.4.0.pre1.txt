@@ -1,0 +1,65 @@
+1.20.4 - 3.4.0.pre1
+
+Fabric version: Fabric-0.15.1
+Update overview: 
+~ Initial migration to 1.20.4
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata Changes:
+= Sodium [CF --> MR]
+= Iris [CF --> MR]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Architectury API
+> Chat Heads
+> CleanView
+> Cloth Config API
+> Detail Armor Bar (Still disabled)
+> [EMF] Entity Model Features
+> [ETF] Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> ImmediatelyFast
+> Inventory Profiles Next
+> Language Reload
+> Litematica
+> MaLiLib
+> MiniHUD
+> Mod Menu
+> No Chat Reports
+> Roughly Enough Items
+> Simple Voice Chat
+> Starlight
+> ViaFabric
+> Wavey Capes
+> Xaero's World Map
+> YetAnotherConfigLib
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes: 
+= : [mod]
