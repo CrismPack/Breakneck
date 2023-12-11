@@ -52,6 +52,7 @@ Mods disabled:
 - Exordium
 - Continuity
 - Server Country Flags
+- Entity Culling [Crashes the game on startup]
 
 Resource Packs removed:
 - 
