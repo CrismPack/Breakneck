@@ -1,6 +1,6 @@
 name = "Lithium (Fabric)"
 filename = "lithium-fabric-mc1.20.2-0.12.0.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

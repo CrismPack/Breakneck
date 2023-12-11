@@ -1,6 +1,6 @@
 name = "OptiGUI"
 filename = "optigui-2.1.6.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

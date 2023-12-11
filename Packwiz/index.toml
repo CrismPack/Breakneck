@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "bbe5d645eab4ecbfacc6302f74fbf7fcdb0c5d7221acf77f44dc7dce7a5a3d7d"
+hash = "2e57362230bf237a1061db71c6623ccd743c6bb3c2f79976c209b0d4643edab4"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "3f398e72e212e5272421bad53ad260f68581c19c46b26b59b087f7e6744aa539"
+hash = "cb1a7a5529bdc0bfb55377191e15742fa5c5370f617d4ecf5c04e474ff90f6e8"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "32d7c91d50946065f85ea7871129945daecd2bf2670a6ff433b294d6d7a251af"
+hash = "5467c7dab96cbabf5e544ee3555e7188872cf9f5e552fac337fc4a85501889a8"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a9050946f53bdec43533fef8d1969957a0904731aec2b6cf9af744b390a156a9"
+hash = "acd4964a1b1de896fbd5ced132d50ff3b954f82b1c490b45adff0d4ee6008c4f"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "dd7e59a9f3c5de4134a1e54a8ccd02e229e1d6606bfc5984f2142935e7ac98e6"
+hash = "b8aeb3f5e5473dad5f28facb191521f19f076da77aa5c208194db808adc9ae28"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "829785400b802bb10edef123adea8b59a5d279667060fb0d0b4c5c8337f7ca1e"
+hash = "947fc65a720bec4ad6603e169afe0436b102e40869f8fa1c49e28f7715069b32"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "465389a21962d95fd5d67e6641aed700d8b802d2b2f0dc1c074638a514a168f0"
+hash = "79dee75f19e24a29dfc84c04512e2f4c93bbb5c9cc1ac99b976ce7cbf02dac0c"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "2e5c94e4f1bdfe8c9da4e987e9b3639599591575b3dc91ed0bb120adcee0ee85"
+hash = "4404793da35d46a05eacdb7aa6e33a6f564e07119908adf6d4a4ff4a34d9a5b1"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cbdd091647cf5e19fa57723001719e45b7eee9988567d5945a69986943370189"
+hash = "6c6cc5b4e7a55dd9980f73235140cdb694357ad85e41af5b4f1d4fcf14f544bb"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f88f297590da8218c2b46bd93f0bffc8b5d0050bea269c0535d1db56a8acfdfc"
+hash = "7b2b37787a291ac6b52188fe0e4a3a0b9a623036eefccdb445e7e63b4e6fb1b4"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "fcbda13c79438e821eb722a5578f4d530364c02424dd420311db33dd0ea95937"
+hash = "3bb60f815af5efd16aa2aba6b276f42b5091780cb5335b44d235412f57303085"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
+hash = "4d53e43de4f5db056ad158cc059aec3610f115521cbfa765366f2330cde52661"
 metafile = true
 
 [[files]]

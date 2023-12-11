@@ -1,6 +1,6 @@
 name = "Forge Config API Port [Fabric]"
 filename = "ForgeConfigAPIPort-v9.0.0-1.20.2-Fabric.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

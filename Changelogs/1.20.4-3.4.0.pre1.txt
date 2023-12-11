@@ -24,7 +24,17 @@ Mods removed:
 - 
 
 Mods disabled: 
-- 
+- Indium
+- Better Ping Display
+- Searchables
+- OptiGUI
+- Enchantment Descriptions
+- Debugify
+- Bookshelf
+- Lithium
+- Ambient Environment
+- Controlling
+- Forge Config API Port
 
 Resource Packs removed:
 - 
