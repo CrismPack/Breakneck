@@ -50,6 +50,7 @@ Mods disabled:
 - AppleSkin
 - Exordium
 - Continuity
+- Server Country Flags
 
 Resource Packs removed:
 - 

@@ -1,6 +1,6 @@
 name = "Server Country Flags"
 filename = "servercountryflags-1.9.0-1.20.2-FABRIC.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"
