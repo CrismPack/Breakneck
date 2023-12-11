@@ -1,6 +1,6 @@
 name = "Balm (Fabric Edition)"
 filename = "balm-fabric-1.20.2-8.0.1.jar"
-side = "both"
+side = "none"
 
 [download]
 hash-format = "sha1"

@@ -35,6 +35,21 @@ Mods disabled:
 - Ambient Environment
 - Controlling
 - Forge Config API Port
+- FastQuit
+- FerriteCore
+- Better Statistics Screen
+- Balm
+- Client Tweaks
+- ItemSwapper
+- Cherished Worlds
+- CIT Resewn
+- FancyMenu
+- Xaero's Minimap (Fair-play Edition)
+- LambDynamicLights
+- Bobby
+- AppleSkin
+- Exordium
+- Continuity
 
 Resource Packs removed:
 - 
