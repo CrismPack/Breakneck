@@ -18,7 +18,7 @@ hash = "0fb05433a657efcb20b85cb7f61ecced6290aadd0a277e7736b46c2073674935"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "de2341b24dbd88e75bca9475972cedf14f4cb64bc878e26487d87968edd8d595"
+hash = "5dc9a978048967e87295bacf8287ed99d28b587f4af93d3ecbbd4c2c1a249871"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -896,7 +896,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "c5306de8d736597097b67982af4cf88e4bf491c4894d61028ff0e3b5f8e83b5c"
+hash = "ba93bf5c52bdfb71aec95203ae21467222ef00adc2ee28bff9daff985267a2ae"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

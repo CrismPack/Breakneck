@@ -3,6 +3,7 @@
 Fabric version: Fabric-0.15.2
 Update overview: 
 ~ Re-enabled a few mods.
+~ Realms button is now also visible without the custom main menu.
 
 Mods added:
 + 
@@ -52,4 +53,5 @@ Resource Packs updated:
 
 Config changes:
 = Changed the MC version number in the custom window title to "1.20.4": [FancyMenu]
+= Changed mods_button_style from "replace_realms" to "classic": [ModMenu]
 = : [mod]
