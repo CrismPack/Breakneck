@@ -130,7 +130,7 @@ hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "f113015034da62d248d144ae962010b4fe195ea33b673fa9a73b06560dd44ec2"
+hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
