@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "c049e785188d0cb33f556874343f3f7c189df68956a5b4d61704d71b4ab66c5d"
+hash = "e8872bf4fa9129f93b9703a4287710cb03620037f90ef3bc7fe2752f0d065aec"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "6dd32feda8a3e52e7a399025ca5f7bcb92be33a034358fb5985207cb7f6a269d"
+hash = "dff9b5c0a71a5387442a15ae6eab7ecdfa6dd898d74ad60778281c7ee53346e6"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "f0c59b07041b9ca3abb8902b770fd3e1d55a73738dedb7c40181959b56fa9a33"
+hash = "5f2a9e9bfc91ec3806d7f3b090afa97ca4f629419cf39426d60fac2554b1b984"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bafb18bede3e0e29da67f2285cca232d96e9755d7b6e295386e5726bc6a5d879"
+hash = "37ecb4a19c2cc81fc9eef12745ab3817c3ab4dd9ca1070b4defd090ce7d6b277"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "61ecf0ebe226261d80af6702cf1b674814c28fffcae9ce84ab6dd1503a6d67d2"
+hash = "48f8ca009db92b23ea56c3699e1939dbba14d85f99e11a36c6fec1afc4f5df14"
 metafile = true
 
 [[files]]

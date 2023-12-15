@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Breakneck: Optimized - Minecraft 1.20.2';
+S:customwindowtitle = 'Breakneck: Optimized - Minecraft 1.20.4';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

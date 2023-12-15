@@ -1,0 +1,55 @@
+1.20.4 - 3.4.0.pre2
+
+Fabric version: Fabric-0.15.2
+Update overview: 
+~ Re-enabled a few mods.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ AppleSkin
++ Better Statistics Screen
++ Bobby
++ Entity Culling
++ FerriteCore
+
+Metadata Changes:
+=  [CF --> MR]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> AppleSkin
+> Better Statistics Screen
+> Bobby
+> Eating Animation
+> Entity Culling
+> FerriteCore
+> Iris Shaders
+> Simple Voice Chat
+> Sodium
+> Xaero's World Map
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes:
+= Changed the MC version number in the custom window title to "1.20.4": [FancyMenu]
+= : [mod]
