@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "bad8aa7dbc63e4d41a73ab2a81e60b8b93fb3ad1d6ce8e252623f41bb35b0268"
+hash = "c049e785188d0cb33f556874343f3f7c189df68956a5b4d61704d71b4ab66c5d"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1e32e24ced1ef46f33a8da98328f8dcbd4bd074143d34a713db280d3f711f8ab"
+hash = "6dd32feda8a3e52e7a399025ca5f7bcb92be33a034358fb5985207cb7f6a269d"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "c400313d469c07164c5d67cd17b994a6476adbf8e200818265d9e344c1595696"
+hash = "f0c59b07041b9ca3abb8902b770fd3e1d55a73738dedb7c40181959b56fa9a33"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "477b59137a5a421b67df55ee57cb2a31b6bc52ef1fd1c0b43ff268152fd61bff"
+hash = "de28a74154a27290b70031126479c1fd520ac560ff4e861fbfaab8b01e2b1c69"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d4cf2a91ed2bb7f20673187408df0a9ff2ab437ad05f93e34e55b147b7f1a18a"
+hash = "bafb18bede3e0e29da67f2285cca232d96e9755d7b6e295386e5726bc6a5d879"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "b947e9ab758b716b1386e0b62a54311ea396359780e30dc9a8a2bd76ffcbcf12"
+hash = "61ecf0ebe226261d80af6702cf1b674814c28fffcae9ce84ab6dd1503a6d67d2"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "cd07ad0c8542eaac32215ae7e98772b9d9cc2b1df762b31a901b81b3a2c2d8b4"
+hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bad33a68cf89977390df34c4242997608f1b978d87a5eb285c345265c50d1c10"
+hash = "9a91b14f4fc7fe99853c79518bbc47b92808ff8c72566274c62b326642425fa2"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4d53e43de4f5db056ad158cc059aec3610f115521cbfa765366f2330cde52661"
+hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "5f9f3c3ba9294cc1a5c35d11b30cf34f116c8166383aafce29b5c4fa7991018b"
+hash = "43245a129c01053c4d1efa136a86b6a267d67294e614b25e462520f6f7416971"
 metafile = true
 
 [[files]]
