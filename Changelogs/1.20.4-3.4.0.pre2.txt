@@ -3,7 +3,7 @@
 Fabric version: Fabric-0.15.2
 Update overview: 
 ~ Re-enabled a few mods.
-~ Realms button is now also visible without the custom main menu.
+~ Fixed Realms button not being visible without the custom main menu.
 
 Mods added:
 + 
