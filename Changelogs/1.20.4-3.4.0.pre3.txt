@@ -17,8 +17,10 @@ Shader Packs added:
 Mods re-enabled: 
 + Advancement Plaques
 + Cherished Worlds
++ Equipment Compare
 + Forge Config API Port
 + Indium
++ Legendary Tooltips
 + Lithium
 + OptiGUI
 
@@ -40,9 +42,11 @@ Mods updated:
 > Cherished Worlds
 > Cloth Config API
 > Dynamic FPS
+> Equipment Compare
 > Fabric API
 > Forge Config API Port
 > Indium
+> Legendary Tooltips
 > Lithium
 > Mod Menu
 > OptiGUI
