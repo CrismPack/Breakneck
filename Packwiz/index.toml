@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "5dc7adf674dc607d4e7ebbde7e35b575072cf87f1b1cc74dc5369f02a0bdc89d"
+hash = "2ba257934464334b07747e4ac80d78f5cc9df30d07e189382805ef120ebdfcca"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "570949521f543903dba4b46921f7dfb634af0b92808e6ecaa12c84bff6809588"
+hash = "b3f165f30dfcd41601e3327902316be433b84bbba6ae03ac9348c4fcdbab0864"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "d1df90adf8089db08234a3e113e15635474b0848a796f37ed7298eca51e3a722"
+hash = "214ae2e27557f7174ee5aa17d9be19f28d4f5c5514266862fdd28f303fd2e499"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "acc578a99fb8407b5317e8c7b5501054d9b0889ef35f9feb9c60b6fdffc9f9be"
+hash = "f046dff0ab84a56660a5c101f6e0aba0a66f6563185e50e5512b344bac7e25c4"
 metafile = true
 
 [[files]]

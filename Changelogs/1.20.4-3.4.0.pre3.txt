@@ -3,7 +3,7 @@
 Fabric version: Fabric-0.15.3
 Update overview:
 ~ Updated mods to their latest version.
-~ Re-enabled a few mods that have been updated to 1.20.4.
+~ Re-enabled mods that have been updated to 1.20.4.
 
 Mods added:
 + 
@@ -19,10 +19,12 @@ Mods re-enabled:
 + Cherished Worlds
 + Equipment Compare
 + Forge Config API Port
++ Iceberg
 + Indium
 + Legendary Tooltips
 + Lithium
 + OptiGUI
++ Prism 
 
 Metadata Changes:
 =  [CF --> MR]
@@ -45,11 +47,13 @@ Mods updated:
 > Equipment Compare
 > Fabric API
 > Forge Config API Port
+> Iceberg
 > Indium
 > Legendary Tooltips
 > Lithium
 > Mod Menu
 > OptiGUI
+> Prism 
 > Roughly Enough Items
 > Simple Voice Chat
 > ViaFabric
