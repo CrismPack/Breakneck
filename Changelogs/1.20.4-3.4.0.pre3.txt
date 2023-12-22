@@ -1,0 +1,61 @@
+1.20.4 - 3.4.0.pre3
+
+Fabric version: Fabric-0.15.3
+Update overview:
+~ Updated mods to their latest version.
+~ Re-enabled a few mods that have been updated to 1.20.4.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Advancement Plaques
++ Cherished Worlds
++ Forge Config API Port
++ Indium
++ Lithium
++ OptiGUI
+
+Metadata Changes:
+=  [CF --> MR]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> Advancement Plaques
+> Architectury API
+> Cherished Worlds
+> Cloth Config API
+> Dynamic FPS
+> Fabric API
+> Forge Config API Port
+> Indium
+> Lithium
+> Mod Menu
+> OptiGUI
+> Roughly Enough Items
+> Simple Voice Chat
+> ViaFabric
+> Xaero's World Map
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes:
+= : [mod]
