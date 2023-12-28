@@ -331,6 +331,11 @@ hash = "3543f3432af218c89564fea8ecd2ad7ed87d38307816cc43f9f259dd00136250"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "8d109026188bb193ac73ddcc9b0134991a68d296dd6340a5c5847cc8980f2cec"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
 hash = "c39b9772749a4740cff1727a5a9b25c29d091f0b213550026c90afba3516c48f"
 metafile = true

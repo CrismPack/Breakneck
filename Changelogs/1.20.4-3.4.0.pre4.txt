@@ -1,0 +1,43 @@
+1.20.4 - 3.4.0.pre4
+
+Fabric version: Fabric-0.15.3
+Update overview:
+~ Added 'ClickThrough' mod.
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated to 1.20.4.
+
+Mods added:
++ ClickThrough
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata Changes:
+=  [CF --> MR]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated: 
+> 
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes:
+= : [mod]
