@@ -2,7 +2,7 @@
 
 Fabric version: Fabric-0.15.3
 Update overview:
-~ Added 'ClickThrough' mod.
+~ Added 'ClickThrough'.
 ~ Updated mods to their latest version.
 ~ Re-enabled mods that have been updated to 1.20.4.
 
@@ -16,7 +16,13 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Balm
++ Bookshelf
++ Client Tweaks
++ Debugify
++ Enchantment Descriptions
++ Server Country Flags
++ Xaero's Minimap
 
 Metadata Changes:
 =  [CF --> MR]
@@ -31,7 +37,22 @@ Resource Packs removed:
 - 
 
 Mods updated: 
-> 
+> Balm
+> Better Statistics Screen
+> Better Recipe Books
+> Bookshelf
+> Client Tweaks
+> Debugify
+> Dynamic FPS
+> Enchantment Descriptions
+> Entity Model Features
+> Entity Texture Features
+> Fabric API
+> Fabric Language Kotlin
+> Roughly Enough Professions
+> Server Country Flags
+> ViaFabric
+> Xaero's Minimap
 
 Mod updates reverted:
 > 

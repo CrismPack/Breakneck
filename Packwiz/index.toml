@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "c08176cde38805f3d5abfe3c14208f23548a98ea51306b38c1e1c400ea627ddc"
+hash = "55c7b32c27fed5fdf50ec6e098e7e9070e03c132b0f1df211f60deffffc2cc75"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "dff9b5c0a71a5387442a15ae6eab7ecdfa6dd898d74ad60778281c7ee53346e6"
+hash = "847d3a779251e15fbd78e3922d858e4817dbba81c7ca0bd770fb2fa594c7fbe6"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "5467c7dab96cbabf5e544ee3555e7188872cf9f5e552fac337fc4a85501889a8"
+hash = "db9825d681a6d2fba1c7e550c0e66801587955db919b7c4c5aaff35a4441323d"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "4aae6f0faba807c012ce65a86f0f38e5ba889fab3dac117ee10ee3dbe0c2e45e"
+hash = "5f81c01e5e04b726b46c0f01738ca389c51d983ac2161fb94599ecd5499093d6"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "c39b9772749a4740cff1727a5a9b25c29d091f0b213550026c90afba3516c48f"
+hash = "58fa9427c5c20cf635cba45cc3c1fa7d07f338263e35a264c7e167b4a6d1ddfd"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "b8aeb3f5e5473dad5f28facb191521f19f076da77aa5c208194db808adc9ae28"
+hash = "93db047ac5de048e5aa61957ddd29f95b591bc87f1685795f4a5a2e05c8b1ab2"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f2f3c262bc04f1e9526de02c4953eaf8e0be50421215dc5f3c67a9de2903ca59"
+hash = "f374228d3d8ac0ef3fb8aea514df7e7a0059389a0a4fbccb200b33651157b397"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "947fc65a720bec4ad6603e169afe0436b102e40869f8fa1c49e28f7715069b32"
+hash = "2efb3bd57de3cca97c3f085246bdd287fb701adf85da0be72244a07644e53f8e"
 metafile = true
 
 [[files]]
@@ -427,12 +427,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0e4d522a66fdb6646a3baf8dfb58302fb7a3cf0ea27e22e2925fa4353ef040cf"
+hash = "090701c8abe2622df8d1e9ce2668a7820906947d56788c854ded77b463ba7bca"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f1a6e32b238793ab27e360d06e76e1d996477bb4b4a44dc40f62e9c4a62ce865"
+hash = "4b0305e19e3decf5d19a27f966a19ef69df2f2e959cafd2a1440b37c08f600b3"
 metafile = true
 
 [[files]]
@@ -452,12 +452,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e34301a4d6a110243b8d707fc4e2cc4699a6c0741169b6ef4e3722f2a3c8f742"
+hash = "d9b58edd17b39ef13d41acc6dd01335b73fbd9abf4916ac4244379d77411ddcc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2f4f744642f99b88f810f532a8d4b63717179e8c7acd3b367ca3d010149b958c"
+hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "c7905a23aff188458046ee4d959eb810c4d516a1873e155077fa66908b72d3cd"
+hash = "c5d57f370bd03cced5ddd2d263cff82eca3f3023f28516fa7ed0b522ac5108d0"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "d07a297bf940678ed1020abd2fd8d33e37c1aad91e80b8d28f3ddd474e07983f"
+hash = "c72a281ff18fa41a24217aab5c32272722faee7c2ebcc37d8771ac38fcbf1fcf"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "6be1f6ef7f42b4ea71fe55641afe79992544c199a317226dfad8e1c42e3bc5f5"
+hash = "36ea2b8f6b66e54bf9af0fc716fad4efcf70500eab7bceb148f4269ef441a820"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "df8c5838879ee0a219a6a010df368da8f0990f993d02a6831a901f543b5713a7"
+hash = "46f5c14eaf0c810ef471bddc1aa03a9046bb61841efb1dbbd208a0e55164d60e"
 metafile = true
 
 [[files]]
