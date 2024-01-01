@@ -202,7 +202,7 @@ hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "2ad505935b86bd8027b8aa4c46ce342b384dd271fbd4e77c537ccd2c95bd32e1"
+hash = "250e07a5f6cc1025aec09004285d7487b6a09a2feeb8813af7b86650958cf1f3"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "55c7b32c27fed5fdf50ec6e098e7e9070e03c132b0f1df211f60deffffc2cc75"
+hash = "7addbc4b3e8d9087037ac00cf878a69364fe010b3963fb6b9dc3d76f26b804d2"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "db9825d681a6d2fba1c7e550c0e66801587955db919b7c4c5aaff35a4441323d"
+hash = "ed962b0825446bbbfb21eeaff9819f55516455b465b72f5d9ecf7b5cca6d0351"
 metafile = true
 
 [[files]]
@@ -293,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/brb.pw.toml"
 hash = "5f81c01e5e04b726b46c0f01738ca389c51d983ac2161fb94599ecd5499093d6"
+metafile = true
+
+[[files]]
+file = "mods/breakneck-menu.pw.toml"
+hash = "2e6dbc5e49a3e7b43390c30acf91e05a4f64e8a2037aa5262e579f1926f66ab4"
 metafile = true
 
 [[files]]
@@ -337,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "58fa9427c5c20cf635cba45cc3c1fa7d07f338263e35a264c7e167b4a6d1ddfd"
+hash = "9f97a942e104839bf49eb78761962cdbadd1644714e7cbf8e9ec46a0817ee071"
 metafile = true
 
 [[files]]
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "93db047ac5de048e5aa61957ddd29f95b591bc87f1685795f4a5a2e05c8b1ab2"
+hash = "e553a2efae45a3c439a67a323c9c439a408f585f9f8fc9eb3eb6865324fdadce"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "2efb3bd57de3cca97c3f085246bdd287fb701adf85da0be72244a07644e53f8e"
+hash = "01f4c900d666958ad267d3fb6d405bfa6e0ff35c13ad0c784f5ab77c5ca86089"
 metafile = true
 
 [[files]]
@@ -468,11 +473,6 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
 hash = "e651193b4394351dd5246cf112ccff75efd3053e152cd102fb42d0d7ae8aa018"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu-fabric.pw.toml"
-hash = "d87f7985f23be62716e9c5fb4b4e6cb57f4a950973859c07cee060599070c767"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "4ef6257afd3f1e0cf3f28dc135cd27aa2783dc43d273ef509666ac67c27a3719"
+hash = "df9e733d7a90e63af9db7952d9bfb13535da439b94d7cc369949ec6a963f6c84"
 metafile = true
 
 [[files]]
@@ -583,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "9524b64c1fbd34ed37d1872290b1bdd7fbbffee79cefb8a7b2a305befb5939ea"
-metafile = true
-
-[[files]]
-file = "mods/load-my-resources-fabric.pw.toml"
-hash = "2461dab77289675ccfc0529930a56adc0fd01e4a5e47f33c2493b0e18085e1cd"
 metafile = true
 
 [[files]]
@@ -707,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "c72a281ff18fa41a24217aab5c32272722faee7c2ebcc37d8771ac38fcbf1fcf"
+hash = "736a4010e34fc21cf508cb0e96d51f58abf1caa975a9871e75a1bdcd9a6cfa17"
 metafile = true
 
 [[files]]
@@ -727,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "8ce27fd4b446badb11363d985cb23c31ca789f8b589a1bd854bd004a48fc54e5"
+hash = "18252fa6e0983c9d7883affc93470a675231e8476a8929ed4c3c313b5e14ae98"
 metafile = true
 
 [[files]]
@@ -787,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "46f5c14eaf0c810ef471bddc1aa03a9046bb61841efb1dbbd208a0e55164d60e"
+hash = "678c408f09f4c8cc68c13d75d42fabbb7b30a687b6d0f1ceb0de84a873769080"
 metafile = true
 
 [[files]]
@@ -816,92 +811,12 @@ hash = "235486ac327f81c801db0973eca9496fd545db9d9f5b3aee306491dcd180fb38"
 metafile = true
 
 [[files]]
-file = "resources/mainmenu/breakneck.png"
-hash = "183567ff9aed779a13bd66cf56cf1cde2a2179e4d3be6e3d3e4e411d36126d62"
-
-[[files]]
-file = "resources/mainmenu/changelog_hover.png"
-hash = "237f74e7ba42fc932ba5d91aab097966c3c664b7a6727447a583788dcbe168f7"
-
-[[files]]
-file = "resources/mainmenu/changelog_normal.png"
-hash = "f90bc7f1535704045e5c82fb87c6dc7d7ebcd12d2a0c21d501038bb443960a26"
-
-[[files]]
-file = "resources/mainmenu/crism_hover.png"
-hash = "0b640c1e990686bae7540e60400a91f3dca8048ba6b9bc2cdc8ffa56c4244c5c"
-
-[[files]]
-file = "resources/mainmenu/crism_normal.png"
-hash = "3090f605334a6f4abda728c32475761a08eb017ba3c99b2650f4d0bb3c47e556"
-
-[[files]]
-file = "resources/mainmenu/discord_hover.png"
-hash = "1f4a68a170f530b019745a731822d6f3d3fc145e7d0b153b7861e32c9fdf7045"
-
-[[files]]
-file = "resources/mainmenu/discord_normal.png"
-hash = "768af9bb01213050c9fcbfeb48adad93c617330b456d0ef6a84df2dffa50af6e"
-
-[[files]]
-file = "resources/mainmenu/empty.png"
-hash = "f52c93e86683a66994f7cba521bc7b2595ec0b625c45ce5416752b4278a0f191"
-
-[[files]]
-file = "resources/mainmenu/lang_hover.png"
-hash = "845184d0176eeb840a1fef05c01ea4c0fe94fe6ea1d9f2431ee37fc2bfbd7092"
-
-[[files]]
-file = "resources/mainmenu/lang_normal.png"
-hash = "3a2521c3313e4b5894df4315900a48dd7f3236e4bde6e63de2f87258ac07afdb"
-
-[[files]]
-file = "resources/mainmenu/lightdark_hover.png"
-hash = "599c4f58ecab57f7a98b75707390f1eb6886a6bf9b2876a438e2711f6912f923"
-
-[[files]]
-file = "resources/mainmenu/lightdark_normal.png"
-hash = "cfcb58e2509ddb7b2527f80d981e50551ebe71b1411194749799428704ad2680"
-
-[[files]]
-file = "resources/mainmenu/longbutton_hover.png"
-hash = "f1129824f24614f51521028764d407d6b77d901f132f52faa47a8917cd9bd23a"
-
-[[files]]
-file = "resources/mainmenu/longbutton_normal.png"
-hash = "38ece3fd4850e11f4fc2618b1c6ede9e166c66d525587c32cd6a9e835589f8c6"
-
-[[files]]
-file = "resources/mainmenu/realms_hover2.png"
-hash = "89bb5b7a8a52a765822aa2e530d0a3cb3670de01ed5b155c9c0b34487d698881"
-
-[[files]]
-file = "resources/mainmenu/realms_normal2.png"
-hash = "8069b69113e53120edffeb267408f98bd919b43e76061ac18964b6713abe61d5"
-
-[[files]]
-file = "resources/mainmenu/shortbutton_hover.png"
-hash = "09702e1c7999bb9ae52bb00cbef9fc7cb834cc2b687de17f6b358e580bc59511"
-
-[[files]]
-file = "resources/mainmenu/shortbutton_normal.png"
-hash = "53a93771e96d5a40645e39b4d9172fbd5b69cb1e1263296f8959e36aa8ae087f"
-
-[[files]]
-file = "resources/mainmenu/splashes.txt"
-hash = "adc12b0c6a697f5085c0c4d69ee2c8ed2202216b2cf7309a63c98a1dc9fc0869"
-
-[[files]]
-file = "resources/minecraft/textures/gui/options_background.png"
-hash = "f491807fe030f744eaf7e49b391ceba1efa2e05f786f29de6bea77712e340818"
-
-[[files]]
 file = "resources/modpack/modpackname.txt"
 hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "64a5f4925e37914e0c4a99510f850b33fdbe81f9e95a4483904f1eab748599e2"
+hash = "94a8d332c6d4d6a70fc7157286c64b1cac704d59c1ae8de7335dde07862fe21b"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"

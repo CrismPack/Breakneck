@@ -1,12 +1,15 @@
-1.20.4 - 3.4.0.pre4
+1.20.4 - 3.4.0
 
 Fabric version: Fabric-0.15.3
 Update overview:
+~ First proper release version for 1.20.4.
+~ Added 'Breakneck Menu' (Our new custom title screen mod).
 ~ Added 'ClickThrough'.
 ~ Updated mods to their latest version.
-~ Re-enabled mods that have been updated to 1.20.4.
+~ Re-enabled 'Xaero's Minimap', 'Client Tweaks' and a few others.
 
 Mods added:
++ Breakneck Menu
 + ClickThrough
 
 Resource Packs added:
@@ -22,13 +25,14 @@ Mods re-enabled:
 + Debugify
 + Enchantment Descriptions
 + Server Country Flags
-+ Xaero's Minimap
++ Xaero's Minimap (Fair-play Edition)
 
 Metadata Changes:
 =  [CF --> MR]
 
 Mods removed: 
-- 
+- FancyMenu (Replaced by 'Breakneck Menu')
+- Load My Resources (Replaced by 'Breakneck Menu')
 
 Mods disabled: 
 - 
@@ -36,7 +40,8 @@ Mods disabled:
 Resource Packs removed:
 - 
 
-Mods updated: 
+Mods updated:
+> Advancement Plaques
 > Balm
 > Better Statistics Screen
 > Better Recipe Books
@@ -49,8 +54,10 @@ Mods updated:
 > Entity Texture Features
 > Fabric API
 > Fabric Language Kotlin
+> Krypton
 > Roughly Enough Professions
 > Server Country Flags
+> Skin Layers 3D
 > ViaFabric
 > Xaero's Minimap
 
@@ -61,4 +68,4 @@ Resource Packs updated:
 > 
 
 Config changes:
-= : [mod]
+= Removed config folders: [FancyMenu & Load My Resources]
