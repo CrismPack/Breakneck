@@ -1,0 +1,42 @@
+1.20.4 - 3.4.1
+
+Fabric version: Fabric-0.15.3
+Update overview:
+~ Updated mods to their latest version.
+
+Mods added:
++ Custom Window Title
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata Changes:
+=  [CF --> MR]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> 
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Config changes:
+= Changed the window title to 'Breakneck: Optimized - Minecraft {mcversion}': [Custom Window Title]
+= : [mod]

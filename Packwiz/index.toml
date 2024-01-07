@@ -376,6 +376,11 @@ hash = "2f07d9c05612217985f9afcf1d11a02dc00e22043274c2e5bc2989ea45b55c6a"
 metafile = true
 
 [[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "d95e86e4ac6984ded372855f5ed4cca36308f389d8046fde1c37a5315739eecd"
+metafile = true
+
+[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "ac9a554bd3a986fec50d859016b1005e611fc676931c921d05af1088fc43c799"
 metafile = true
@@ -816,7 +821,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "94a8d332c6d4d6a70fc7157286c64b1cac704d59c1ae8de7335dde07862fe21b"
+hash = "bd518a08fc2faecdc83bce56b3781d060d382a26980d37aade2f865ba1850c5a"
 
 [[files]]
 file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
