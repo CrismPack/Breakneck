@@ -14,7 +14,14 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Ambient Environment
++ Better Ping Display
++ Controlling
++ FastQuit
++ ItemSwapper
++ Searchables
++ Status Effect Timer
++ Tool Stats
 
 Metadata Changes:
 =  [CF --> MR]
@@ -29,7 +36,37 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Ambient Environment
+> Architectury API
+> Balm
+> Better Ping Display
+> Better Taskbar
+> Bookshelf
+> Chat Heads
+> Controlling
+> CraterLib
+> Dynamic FPS
+> Entity Model Features
+> Entity Texture Features
+> Fabric API
+> FastQuit
+> Forge Config API Port
+> ItemSwapper
+> Konkrete
+> Krypton
+> More Culling
+> Not Enough Animations
+> Raised
+> Resourcify
+> Searchables
+> Shulker Box Tooltip
+> Simple Discord RPC
+> Skin Layers 3D
+> Status Effect Timer
+> Tool Stats
+> ViaFabric
+> YetAnotherConfigLib
+> Zoomify
 
 Mod updates reverted:
 > 
