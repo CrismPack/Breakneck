@@ -13,116 +13,20 @@ file = "config/bhmenu/bhmenu-server_creator_banner.properties"
 hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
-file = "config/exordium.json"
-hash = "0fb05433a657efcb20b85cb7f61ecced6290aadd0a277e7736b46c2073674935"
+file = "config/customwindowtitle-client.toml"
+hash = "97c967ca28bc9e7d85bcc371afc9d33a14f8676f53e48aab9be430347460f9ec"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "5dc9a978048967e87295bacf8287ed99d28b587f4af93d3ecbbd4c2c1a249871"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "cd6d269ef154d53c6d54b28468ab81e5b4084ef9a62ce39890f7db8f881456a6"
-
-[[files]]
-file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
-hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
-
-[[files]]
-file = "config/fancymenu/customization/Breakneck Fabric.txt"
-hash = "cc48e83b0d899f3e4992fab632aac193eba6130033ad3059b12c0396477575b6"
-
-[[files]]
-file = "config/fancymenu/customization/mp.txt"
-hash = "b6b4b877d0d47110077f0a9a94080786e3830ccf2e799ced9ad44d459e503a43"
-
-[[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "b9c3dfadba74762bfea5837060ca5bfb4dfd3b1fbcd65fb6c0d190df4ec611d6"
-
-[[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+file = "config/customwindowtitle/icon16x16.png"
 hash = "cb28f3da7c8c164a157d3cb017ad1c17ff0816a44f63705e0cccad17a2454e50"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+file = "config/customwindowtitle/icon32x32.png"
 hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_0.png"
-hash = "0c0837f95286a83fe9beab8f8815764eaffdf8de3a74f31c16508f17b38848a8"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_1.png"
-hash = "9f6fc4fefec70d9b24c0ecfa669ad87e7258da1eade1a4416d4ca1afe7f0dfd5"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_2.png"
-hash = "5d9ea76d2f392288f31758eff2c8b0bb4ac312bb33e563596b1f4d1f0040c1f4"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_3.png"
-hash = "e4f737295ab134e731a55b530030f7face63a1deccf702f54e71a7b14fceee75"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_4.png"
-hash = "d144d9e91285cb2d22ef5783adf2e2da1840339770636501cda0af4bbb5b4cb5"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/panorama/panorama_5.png"
-hash = "e92f9fe9bb417cfb6128b9c5d12e1fac2bca2087a563bf23f6048bbeec6c82c9"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama/properties.txt"
-hash = "c2ffb0ddec1aab33335c126553d0e208a3857d5490144248bb00e98d6c1c08aa"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_0.png"
-hash = "683d664255a20f613de2983d2aea3df074aab1cfd9f866d4552e1edd9db47654"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_1.png"
-hash = "353134657b0bdc972fc9bc420bf0b5a33c57ad56429eff7be52ac96ce6ed2568"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_2.png"
-hash = "62ffe1233d42882a508e763495fdd9de3b8023c4f9a4cf5916ab0a4332286693"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_3.png"
-hash = "81a2a92d3aec94c274aa65195fd1bfeaea51d294f825df6e027b00c78b62a36a"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_4.png"
-hash = "eb00145786ebb04948f26a728c1befd37d2dc3ccf23a741cebc87265a2f41641"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_5.png"
-hash = "1e45768ba44ddfe2a067d823622c4996ac08f43f14ff54228d933af91c6d03df"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/properties.txt"
-hash = "0dc6dbc9863a40224ee8bcf7a10cecd0bb6970aae9dc070f416fe45503fc7f78"
+file = "config/exordium.json"
+hash = "0fb05433a657efcb20b85cb7f61ecced6290aadd0a277e7736b46c2073674935"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -131,6 +35,10 @@ hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 [[files]]
 file = "config/modmenu.json"
 hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
+
+[[files]]
+file = "config/servercountryflags/servercountryflags.properties"
+hash = "e95580d3f3c68be011c7022021dd7ae0d7075601694b7f3b0f2a55071ae3e2ed"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -207,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "8e0b5e78df4543271f96a469ae68d23d8a4f9e76aa5f002c80fa5b2753edf6aa"
+hash = "d41ca8e0d3eb23bc070df49f55c7bfcb84edfaa6a750b32171b707721c9d1c98"
 metafile = true
 
 [[files]]
@@ -247,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "966d93e7fe0ce2ab119b8e3af2fef466340634c900e42093a4cc6be773feccbd"
+hash = "04f69de01815f443ad8a3bd26fe03d7a8284cad2ba89613610568eb953f9d381"
 metafile = true
 
 [[files]]
@@ -362,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "f3ebfb1eb0427852f59d177957907d0a61afbf61de7f2524672421b8981edb48"
+hash = "0dd269bb728b5a62bc705a07559963502e7abbc03faf7f2dc9991585ef70fd2b"
 metafile = true
 
 [[files]]
@@ -492,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "ee717a78930de68be69976295f39d149288a5c792088087866164b3f4af3bc9b"
+hash = "9e6c94b982db7244d7bcbb2f90e65d5778a9e7d123ab34ae1e190eb88405b9c9"
 metafile = true
 
 [[files]]
@@ -537,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "acd6858b41d1863e4923bf979fda527bd226e908585e5d118ca5cb5c1e91c656"
+hash = "63929635b62f468eb67e8fadd0778ee29708917e8a934e8eab03d98cdef51582"
 metafile = true
 
 [[files]]
@@ -702,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "ec754906f579414dc14bed06f3022b5d10243963fc73b376351b8494f5d8f8ce"
+hash = "98c79ce009d6be55a308c1cfe53c48972a17d697c05d91057bb3d4fd800f174c"
 metafile = true
 
 [[files]]
@@ -757,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-timer.pw.toml"
-hash = "855d82f95e06c2c589487623012172dc598dab0e0c2528e9ddbbf5e500751f14"
+hash = "e1ff051d790230dd0add09a6003954c9a00360e8fd15eca6af0119de2bece1ee"
 metafile = true
 
 [[files]]
@@ -767,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-stats.pw.toml"
-hash = "220bffb9beed4dcc4033f3624a996d21440d2e73f0a053353ba2f90e4cbb4923"
+hash = "3f73739405416494bff7d61007bb50d46bda8f167da91f7ff70d403dab8ce88f"
 metafile = true
 
 [[files]]
