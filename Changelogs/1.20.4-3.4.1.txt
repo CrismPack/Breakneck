@@ -2,8 +2,9 @@
 
 Fabric version: Fabric-0.15.6
 Update overview:
+~ Added 'Custom Window Title' & 'Nvidium'.
 ~ Updated mods to their latest version.
-~ Re-enabled mods that have been updated to 1.20.4.
+~ Re-enabled 'ItemSwapper', 'Controlling', 'FastQuit' and a few others.
 
 Mods added:
 + Custom Window Title
