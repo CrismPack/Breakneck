@@ -6,7 +6,7 @@ Update overview:
 ~ Re-enabled '', '', '' and a few others.
 
 Mods added:
-+ 
++ Status Effect Bars
 
 Resource Packs added:
 + 
@@ -15,13 +15,16 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Better Advancements
++ Exordium
++ LambDynamicLights
++ Status Effect Timer
 
 Metadata Changes:
 =  [CF --> MR]
 
 Mods removed: 
-- 
+- Status Effect Timer [Previously disabled]
 
 Mods disabled: 
 - 
@@ -30,7 +33,25 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Architectury API
+> Better Advancements
+> Better Statistics Screen
+> Bobby
+> Bookshelf
+> Chat Heads
+> Entity Texture Features
+> Exordium
+> Fabric API
+> ImmediatelyFast
+> LambDynamicLights
+> libIPN
+> More Culling
+> Resourcify
+> Simple Voice Chat
+> Tool Stats
+> True Darkness Fork
+> ViaFabric
+> Xaero's World Map
 
 Mod updates reverted:
 > 
