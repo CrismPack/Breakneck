@@ -674,11 +674,6 @@ hash = "0c24a52e81c0af4ccb96f90460ebf89c68ad8270330d6a66966825268838824c"
 metafile = true
 
 [[files]]
-file = "mods/status-effect-timer.pw.toml"
-hash = "1f43107cb3398636989a89224bc9abfb872489a77e96b397b09e167123b2edf8"
-metafile = true
-
-[[files]]
 file = "mods/thorium.pw.toml"
 hash = "941450bc3588f47d33152ee69dc53e90a04d4be9a75090d1746092987054949e"
 metafile = true
@@ -734,6 +729,11 @@ hash = "235486ac327f81c801db0973eca9496fd545db9d9f5b3aee306491dcd180fb38"
 metafile = true
 
 [[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "2ca944e30a4816a0de1b71a1f2df37ca4d4b8eb4f9615e904cb22164328d5c97"
+metafile = true
+
+[[files]]
 file = "resources/modpack/modpackname.txt"
 hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
@@ -742,17 +742,11 @@ file = "resources/modpack/modpackversion.txt"
 hash = "c9c26d0d4a464ca0c317e2d0182aff3439860184773c674f7e4c2fe160a8ec29"
 
 [[files]]
-file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip"
-hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "17b174cef345aa8512bd7361add5c9704b31fe8ba787dd7e65a8097bada11a82"
+metafile = true
 
 [[files]]
-file = "shaderpacks/[Performance] ComplementaryReimagined_r2.0.3.zip.txt"
-hash = "85c87b1f550d6b28f793b67ffd6d43a971fe8721cbab553b8125f90877eb57e0"
-
-[[files]]
-file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip"
-hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"
-
-[[files]]
-file = "shaderpacks/[Quality] ComplementaryReimagined_r2.0.3.zip.txt"
-hash = "efe59109a001c1a87b4d1819013ba556df3f3c232e7d2a6383931a4b3b58ffa7"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
+metafile = true

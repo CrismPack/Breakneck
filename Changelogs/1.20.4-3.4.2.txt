@@ -2,23 +2,23 @@
 
 Fabric version: Fabric-0.15.6
 Update overview:
-~ Updated mods to their latest version.
-~ Re-enabled '', '', '' and a few others.
+~ Added 'Status Effect Bars', 'Slightly Improved Font' & 'Complementary Shaders - Unbound'.
+~ Updated mods & shader packs to their latest version except for 'Sodium' and its dependents.
+~ Re-enabled 'Better Advancements', 'Exordium' and 'LambDynamicLights'.
 
 Mods added:
 + Status Effect Bars
 
 Resource Packs added:
-+ 
++ Slightly Improved Font (32x)
 
 Shader Packs added:
-+ 
++ Complementary Shaders - Unbound
 
 Mods re-enabled: 
 + Better Advancements
 + Exordium
 + LambDynamicLights
-+ Status Effect Timer
 
 Metadata Changes:
 =  [CF --> MR]
@@ -58,6 +58,9 @@ Mod updates reverted:
 
 Resource Packs updated: 
 > 
+
+Shader Packs updated:
+> Complementary Shaders - Reimagined
 
 Config changes:
 = : [mod]
