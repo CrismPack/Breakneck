@@ -1,0 +1,45 @@
+1.20.4 - 3.4.3
+
+Fabric version: Fabric-0.15.6
+Update overview:
+~ Updated mods to their latest version.
+~ Re-enabled 'Continuity'.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Continuity
+
+Metadata Changes:
+=  [CF --> MR]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> 
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= : [mod]
