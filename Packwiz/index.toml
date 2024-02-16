@@ -559,6 +559,11 @@ hash = "0a489aead476db4a26fcf319ba442bd620c6c502d8c44a317193c31712ba04eb"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "9ca0bad38fed184ee50085d17a401105b3e848ff8ce12cf79441d5170082512c"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "26d43a2acf94f578d6580ba04c0b367a8ee44e4225de3ec70f8b07578ec0dbc9"
 metafile = true

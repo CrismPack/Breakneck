@@ -2,11 +2,12 @@
 
 Fabric version: Fabric-0.15.6
 Update overview:
+~ Added 'Noisium'.
 ~ Updated mods to their latest version.
 ~ Re-enabled 'Continuity'.
 
 Mods added:
-+ 
++ Noisium
 
 Resource Packs added:
 + 
