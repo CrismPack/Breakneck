@@ -3,8 +3,8 @@
 Fabric version: Fabric-0.15.7
 Update overview:
 ~ Added 'Noisium'.
-~ Updated mods to their latest version.
 ~ Re-enabled 'Continuity'.
+~ Updated mods & resource packs to their latest version.
 
 Mods added:
 + Noisium
@@ -18,8 +18,9 @@ Shader Packs added:
 Mods re-enabled: 
 + Continuity
 
-Metadata Changes:
-=  [CF --> MR]
+Metadata changes:
+= Sodium [MR --> CF]
+= Iris Shaders [MR --> CF]
 
 Mods removed: 
 - 
