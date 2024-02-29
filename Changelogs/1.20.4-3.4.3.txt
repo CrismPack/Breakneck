@@ -1,6 +1,6 @@
 1.20.4 - 3.4.3
 
-Fabric version: Fabric-0.15.6
+Fabric version: Fabric-0.15.7
 Update overview:
 ~ Added 'Noisium'.
 ~ Updated mods to their latest version.
@@ -31,13 +31,34 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Architectury API
+> Balm
+> Better Statistics Screen
+> Bookshelf
+> Dynamic FPS
+> Enchantment Descriptions
+> Fabric API
+> Fabric Language Kotlin
+> Indium
+> Iris Shaders
+> Lan Server Properties
+> MaLiLib
+> MiniHUD
+> Not Enough Animations
+> Nvidium
+> Raised
+> Simple Voice Chat
+> Sodium Extra
+> Sodium
+> Tool Stats
+> ViaFabric
+> Wavey Capes
 
 Mod updates reverted:
 > 
 
 Resource Packs updated: 
-> 
+> Fresh Animations
 
 Shader Packs updated:
 > 
