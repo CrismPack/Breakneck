@@ -2,6 +2,7 @@
 
 Fabric version: Fabric-0.15.7
 Update overview:
+~ Added 'Suggestion Tweaker'.
 ~ Updated mods to their latest version.
 
 Mods added:
@@ -17,7 +18,7 @@ Mods re-enabled:
 + 
 
 Metadata changes:
-=  [MR --> CF]
+= Mod Menu [MR --> CF]
 
 Mods removed: 
 - 
