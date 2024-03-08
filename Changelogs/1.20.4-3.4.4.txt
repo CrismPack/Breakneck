@@ -29,7 +29,16 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Better Statistics Screen
+> Bookshelf
+> Cherished Worlds
+> Controlling
+> Entity Model Features
+> ItemSwapper
+> Konkrete
+> Searchables
+> Simple Voice Chat
+> ViaFabric
 
 Mod updates reverted:
 > 

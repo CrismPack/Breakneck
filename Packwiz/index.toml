@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4bce081097ba563ee72ae2fbd2e1beea945cbead513ec8a0a46a96ae27a59915"
+hash = "1160849ca0c0bfb3ffedf54222f4c311af05bc4e40ee854ca6d8bbdbd47096c1"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "c5fdfe37fe6b4e95495b0f57a35628c1709c14194ae72f5b84ee7415788f61fa"
+hash = "4dcb8efd52a28b2e5ad6800441256701ae8fa20d14bd763c9839bf085b548a02"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "4c5e0df601efa39d9b04070ea6435050fdcc11c6f59593fa834bd7691cddbb38"
+hash = "4fc64285fdef9ca910a13db65376b41b1e76efc08368a265901298a481b6dfa4"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "0dd269bb728b5a62bc705a07559963502e7abbc03faf7f2dc9991585ef70fd2b"
+hash = "c623d48c2bf5148da713197e8de745a5c6092683cd6c431dc3d0db3557330129"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "12d731fee5fc698e7bf5596db68b3d5bb835e95ff7f211159b57c778375b7708"
+hash = "491ed77d4989f65e1937321debbd6d5a7e7216747d1043d37f6ff961294c9ad7"
 metafile = true
 
 [[files]]
@@ -445,12 +445,12 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "63929635b62f468eb67e8fadd0778ee29708917e8a934e8eab03d98cdef51582"
+hash = "071f183d015443aed1f2898ec4cb2f68df1d845e3f6b71bff198ac1f2c8893ea"
 metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "d2f9a3a44fce2b4f051e9a070ef1fe0a20be6782ec1ef74fd93971433c567b2b"
+hash = "9fa16b07019f73a7a384c25c5f2dc26a4adf72144fab5fb8d0cc058cb45c4722"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "98c79ce009d6be55a308c1cfe53c48972a17d697c05d91057bb3d4fd800f174c"
+hash = "0f4dcb51b5073064892fb74efefa55dfffe942d46c5a203e54b396c9c0f55bf7"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "54c69751c6f2edc132d699cc58395456905d393dd90db317b0bee9b3367f0fce"
+hash = "af96dfba0f12a7c1d95065b55963182aa8a4886d512571dfe7c1db5a979b58f9"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "4b52d9d0dff9e7789244fbe25d9630d8e4cfd107b4b6378f53084e66d0ec99e0"
+hash = "089907eaa832ead39a0b14497a9859c30dda131b68f278a4cc2c78e73a33457f"
 metafile = true
 
 [[files]]
