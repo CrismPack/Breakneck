@@ -2,10 +2,10 @@
 
 Fabric version: Fabric-0.15.7
 Update overview:
-~ Updated mods & resource packs to their latest version.
+~ Updated mods to their latest version.
 
 Mods added:
-+ 
++ Suggestion Tweaker
 
 Resource Packs added:
 + 
@@ -44,7 +44,7 @@ Mod updates reverted:
 > 
 
 Resource Packs updated: 
-> Fresh Animations
+> 
 
 Shader Packs updated:
 > 

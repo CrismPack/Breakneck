@@ -679,6 +679,11 @@ hash = "0c24a52e81c0af4ccb96f90460ebf89c68ad8270330d6a66966825268838824c"
 metafile = true
 
 [[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "291bd64f9c18ad292f8995660453352462a42d8338ebbc5239dd8af181a755d8"
+metafile = true
+
+[[files]]
 file = "mods/thorium.pw.toml"
 hash = "941450bc3588f47d33152ee69dc53e90a04d4be9a75090d1746092987054949e"
 metafile = true
@@ -744,7 +749,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "d5511f90a02a2bf2643b6dafbba21d5d962e9691551573a736063f7ab0afc9fb"
+hash = "bd3127b83e50f3995daefd2671b0e7d4bdf3981899b50f4e33de61ec0e615136"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
