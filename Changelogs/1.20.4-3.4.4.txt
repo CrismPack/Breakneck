@@ -1,0 +1,44 @@
+1.20.4 - 3.4.4
+
+Fabric version: Fabric-0.15.7
+Update overview:
+~ Updated mods & resource packs to their latest version.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> 
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> Fresh Animations
+
+Shader Packs updated:
+> 
+
+Config changes:
+= : [mod]
