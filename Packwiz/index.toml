@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2f07d9c05612217985f9afcf1d11a02dc00e22043274c2e5bc2989ea45b55c6a"
+hash = "da6681a2497217df826223fae89312ee280b123ffc0ff2b65d793cea874b6c7c"
 metafile = true
 
 [[files]]
@@ -533,6 +533,11 @@ hash = "7a9e444b339c575ed5fe9877ea7c2c198c9db19580876ae3ea3835c37910b9a7"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ff840b1aae7d7172acda0a208b4f14e27bb037784d8f29dc2d8bb859fecf6555"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "93aeafeace9a957fe6a68257fdc789fffb450aadfe67fda74cef10904cbd7a83"
 metafile = true
@@ -585,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/panorama-screens.pw.toml"
 hash = "1162a57b8efa9f644330280fa70ba1c9ed3285667a5dd5fd7a71fb66dd33f712"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "224454b1522703fd15a197b2d3b681e23fff1c8510c17dd2800ff6be78e51e29"
 metafile = true
 
 [[files]]
@@ -669,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "2aaac7a5b39270cbbe50f800b4d8d8d14b503e01c2f29cf8a4fbd8b9b9570806"
+hash = "74ff41178ca0d52511ebf57062398adf162aa53e2608215cce8fe948e5d0c465"
 metafile = true
 
 [[files]]

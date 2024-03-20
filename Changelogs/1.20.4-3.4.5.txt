@@ -2,13 +2,15 @@
 
 Fabric version: Fabric-0.15.7
 Update overview:
-~ Added 'Reese's Sodium Options' & 'Panorama Screens'.
-~ Disabled a few potentially incompatible mods.
+~ Added 'Reese's Sodium Options', 'Panorama Screens', 'ModernFix' & 'Particle Core'.
+~ Disabled some incompatible mods.
 ~ Updated mods to their latest version.
 
 Mods added:
 + Reese's Sodium Options
 + Panorama Screens
++ ModernFix
++ Particle Core
 
 Resource Packs added:
 + 
