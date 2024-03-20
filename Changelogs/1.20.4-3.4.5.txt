@@ -30,7 +30,16 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Architectury API
+> Better Statistics Screen
+> Chat Heads
+> Fabric API
+> Fabric Language Kotlin
+> Litematica
+> Raised
+> Simple Voice Chat
+> Wavey Capes
+> Xaero's World Map
 
 Mod updates reverted:
 > 

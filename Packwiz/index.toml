@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0859c7777525df4a2ae22cf312c8a31620d59d219202594f6bc05c6378bff055"
+hash = "3cfd22d73862e60da5770eeecd4b15dab7e2306682634a59e51243f27986b29d"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1160849ca0c0bfb3ffedf54222f4c311af05bc4e40ee854ca6d8bbdbd47096c1"
+hash = "016ab5e919dff839823bef9c0c4aaddba11697e0438699b26ec404df8e000c01"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "364c69ba76bedbad0434b489c6e737e3a7075ff0de87152d3d0beb8f0dc35123"
+hash = "001ac0e62fe7ce4398dd4ac8c315715b3dcf806b1ed5b8af9d81051218141b83"
 metafile = true
 
 [[files]]
@@ -370,12 +370,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cfe484dfb3903e353e0cd7d570457199eb78edbbd93e7cf01b75b89e2dbdc4fd"
+hash = "d041d301f84fb5fb33e4333d0c229923c119befc2bb664772590dcdbd7666ef2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "270130a47f7dea4a94b4a85eb5795a4a820c45fe1985cad6b8afaf33ee066899"
+hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "82823f8d324029f0893ab72639efb9fc7a43ca45653e8ea8f656692d0c7aab39"
+hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "60fa0f4cd9828069811c17aaa2ecd7159dab63dbef202704fca1943140e1b295"
+hash = "e938f6cdf26009336d02200b45207a1e5c6bc349978cc25fcc2a0a5882c7e4af"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "14f28f932ea4e4332ca53fcdcf0549db8a2969845c8b673bfaf473bcddd27a86"
+hash = "8a4016cf18fbbb7612f6a22281eaddad006f722eb70a8df763182553d7620329"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "af96dfba0f12a7c1d95065b55963182aa8a4886d512571dfe7c1db5a979b58f9"
+hash = "4a4ef780026db2c8046260dc9d5ee2140b946e7fb25053d0f0433cebd51dcd7e"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "115d61ef686fda7c299d2da5c07d4be2131b01fa5d190a6ed741a19f9ac9c8d0"
+hash = "4fb75ba3bec1bd6ecd925f300187c44e673779f4f74f86f141952c7b20800590"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ba61863e3deac45bbd2da660f458369acd20e1178ecd801ff46400e5cc94d9f8"
+hash = "cdd17da4a2da99a7f4fd8d856ed5c0f6a1704b5014472e8a0ee7c4eb10de37f2"
 metafile = true
 
 [[files]]

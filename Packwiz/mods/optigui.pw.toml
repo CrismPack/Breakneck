@@ -1,6 +1,7 @@
 name = "OptiGUI"
 filename = "optigui-2.1.7.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
