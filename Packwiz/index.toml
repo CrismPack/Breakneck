@@ -589,6 +589,11 @@ hash = "14f28f932ea4e4332ca53fcdcf0549db8a2969845c8b673bfaf473bcddd27a86"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "966f01c6e189532454a16c879686346dd226f12d7603e460dad9c7ee523236fd"
+metafile = true
+
+[[files]]
 file = "mods/replanter.pw.toml"
 hash = "3f40334ed8078559406d5faaa755fbd686e31d4e43bf6c43594377c815ed1c0a"
 metafile = true

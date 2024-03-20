@@ -6,7 +6,7 @@ Update overview:
 ~ Updated mods to their latest version.
 
 Mods added:
-+ 
++ Reese's Sodium Options
 
 Resource Packs added:
 + 
@@ -24,7 +24,7 @@ Mods removed:
 - 
 
 Mods disabled: 
-- 
+- Better Sodium Video Settings Button
 
 Resource Packs removed:
 - 
