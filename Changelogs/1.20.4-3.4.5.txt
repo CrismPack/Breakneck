@@ -2,11 +2,13 @@
 
 Fabric version: Fabric-0.15.7
 Update overview:
-~ Added ''.
+~ Added 'Reese's Sodium Options' & 'Panorama Screens'.
+~ Disabled a few potentially incompatible mods.
 ~ Updated mods to their latest version.
 
 Mods added:
 + Reese's Sodium Options
++ Panorama Screens
 
 Resource Packs added:
 + 
@@ -24,7 +26,9 @@ Mods removed:
 - 
 
 Mods disabled: 
-- Better Sodium Video Settings Button
+- Better Sodium Video Settings Button (Incompatible with new version of 'Sodium')
+- Smooth Chunk Save (Doesn't have a dedicated version for 1.20.4)
+- Cupboard (Doesn't have a dedicated version for 1.20.4)
 
 Resource Packs removed:
 - 
@@ -39,7 +43,6 @@ Mods updated:
 > Raised
 > Simple Voice Chat
 > Wavey Capes
-> Xaero's World Map
 
 Mod updates reverted:
 > 

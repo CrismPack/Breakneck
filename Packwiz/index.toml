@@ -85,6 +85,10 @@ file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
 
 [[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "812e0fd2979a18cc7ef7805c2a88d45d516718b3c0e9c79a6ad84e25d62e577c"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "226ca89055d1fd168519eeeb45e326b8c955f446f73850a9e4db88ab50246d18"
 
@@ -160,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "514725078cc714ce62042f3f8476956807a9618f6790d012c7fa1f5cef7a58e5"
+hash = "ba455c4916bef72d6f87cab46ce3179c580b49dd705ebdb8f575ddc1223a7071"
 metafile = true
 
 [[files]]
@@ -579,6 +583,11 @@ hash = "e938f6cdf26009336d02200b45207a1e5c6bc349978cc25fcc2a0a5882c7e4af"
 metafile = true
 
 [[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "1162a57b8efa9f644330280fa70ba1c9ed3285667a5dd5fd7a71fb66dd33f712"
+metafile = true
+
+[[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "f046dff0ab84a56660a5c101f6e0aba0a66f6563185e50e5512b344bac7e25c4"
 metafile = true
@@ -720,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cdd17da4a2da99a7f4fd8d856ed5c0f6a1704b5014472e8a0ee7c4eb10de37f2"
+hash = "75ee8adc6f423218144f5faa27b43e61559fbd1386ead33bc2eb8f1adb04afa8"
 metafile = true
 
 [[files]]
@@ -754,7 +763,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "bd3127b83e50f3995daefd2671b0e7d4bdf3981899b50f4e33de61ec0e615136"
+hash = "d96e86a6d34fe7971aa2afb2a8af3f9a22ceddd9d67e0a921581d01de63820ea"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

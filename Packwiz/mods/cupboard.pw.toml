@@ -1,6 +1,6 @@
 name = "Cupboard"
 filename = "cupboard-fabric-1.20.2-2.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
