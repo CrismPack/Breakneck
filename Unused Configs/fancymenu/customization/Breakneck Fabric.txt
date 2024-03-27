@@ -1,0 +1,429 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = breakneckpanorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=802990%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\longbutton_hover.png
+  backgroundnormal = resources\mainmenu\longbutton_normal.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  [loading_requirement:fancymenu_loading_requirement_is_world_loaded][requirement_mode:if][req_id:116dd855-39dc-43f5-be20-cb44cb5fc8dd1685716710102] = 
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
+  x = 0
+  action = movebutton
+  y = 72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = d4aa11b7-d03a-401b-a929-9885d6b78d641658255764501
+  y = 447
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 529
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 1521d377-4984-4351-bb30-cdb26ef989901658255764501
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = ffda6f45-2801-4786-9bfe-9849d48f7d0f1658255764501
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 29b71160-5ad4-4e4b-b4bd-cf93b926cb961658255764501
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 8663d83c-9bf9-4fe9-8ad9-f208ce759a221626192362071
+  action = addtext
+  y = -11
+  scale = 0.8
+  alignment = left
+  value = §4%totalmods% Mods Loaded
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 0623fbc9-fedb-48f2-83b7-dd624d7a67071626192262972
+  action = addtext
+  y = -19
+  scale = 0.8
+  alignment = left
+  value = §4Minecraft %mcversion%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 6dd3a564-b776-4b19-930e-ec0d5a76c05b1670208137928
+  action = addtext
+  y = -27
+  scale = 0.8
+  alignment = left
+  value = §4Breakneck: Optimized - %randomtext:resources\modpack\modpackversion.txt:1%
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.terraformersmc.modmenu.gui.ModsScreen%btnaction_splitter_fm%
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  label = Mods
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 102
+  width = 98
+  action = addbutton
+  actionid = 609d582a-4470-464e-808c-2afcfed905951640212186992
+  y = 72
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://wiki.crismpack.net/modpacks/breakneck-optimized%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/crism_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Wiki
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 90
+  width = 20
+  action = addbutton
+  actionid = 2ffa363e-0860-4826-9ded-a33d493bfd3a1640212187014
+  y = 96
+  backgroundnormal = resources/mainmenu/crism_normal.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  buttonaction = quitgame;%btnaction_splitter_fm%
+  backgroundhovered = resources\mainmenu\longbutton_hover.png
+  label = Quit Game
+  loopbackgroundanimations = true
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 635061a9-4a2c-4e09-827a-c80e6e1c00431640259329580
+  y = -21
+  backgroundnormal = resources\mainmenu\longbutton_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://bisecthosting.com/CRISM%btnaction_splitter_fm%
+  backgroundhovered = resources\mainmenu\shortbutton_hover.png
+  label = Need a server?
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 102
+  width = 98
+  action = addbutton
+  actionid = 0282c88b-0463-41a9-a763-4e62febda2ee1667778762437
+  y = 48
+  backgroundnormal = resources\mainmenu\shortbutton_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://wiki.crismpack.net/modpacks/breakneck/changelog%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/changelog_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Changelogs
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 66
+  width = 20
+  action = addbutton
+  actionid = ebe28cf8-b54e-4c69-8449-f6e8e7016ebb1640212186938
+  y = 96
+  backgroundnormal = resources/mainmenu/changelog_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.com/invite/Kss5gBgeDA%btnaction_splitter_fm%
+  backgroundhovered = resources\mainmenu\discord_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Join our Discord!
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 114
+  width = 20
+  action = addbutton
+  actionid = ef9532ed-46f3-41a8-8a17-2050d4af7fd51672348859399
+  y = 96
+  backgroundnormal = resources\mainmenu\discord_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_4325%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/shortbutton_hover.png
+  label = Minecraft Realms
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  width = 98
+  action = addbutton
+  actionid = f4bd6f2e-f65e-4324-ad63-0228824a46101673391672014
+  y = 48
+  backgroundnormal = resources/mainmenu/shortbutton_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_429%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/shortbutton_hover.png
+  label = Options...
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  width = 98
+  action = addbutton
+  actionid = 17ed1fd1-5450-4b7a-b01a-800ee9de55381673391796256
+  y = 72
+  backgroundnormal = resources/mainmenu/shortbutton_normal.png
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_526%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  label = Singleplayer
+  loopbackgroundanimations = true
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  y = -20
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+  height = 20
+}
+
+customization {
+  path = resources/mainmenu/breakneck.png
+  orientation = top-left
+  x = 0
+  width = 333
+  action = addtexture
+  actionid = e5d70788-0770-49e5-a3a5-604f3a948b741673396720514
+  y = 0
+  advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiwidth"}/2-166","decimal":"true"}}
+  advanced_posy = {"placeholder":"calc","values":{"expression":"{"placeholder":"guiheight"}/4-50-10","decimal":"true"}}
+  height = 100
+}
+
+customization {
+  orientation = bottom-right
+  basecolor = aa0000
+  shadow = true
+  splashfilepath = resources/mainmenu/splashes.txt
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = -119
+  actionid = 6e74e51f-7a4e-4768-b6a0-91d06915dacc1658256280551
+  action = addsplash
+  y = -77
+}
+
+customization {
+  orientation = top-right
+  restartbackgroundanimations = true
+  buttonaction = toggle_layout;BreakneckPanorama_Dark%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/lightdark_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = -20
+  width = 20
+  action = addbutton
+  actionid = 73ca2911-82cd-4da1-a28d-b612f154079a1679332506182
+  y = 0
+  backgroundnormal = resources/mainmenu/lightdark_normal.png
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_500%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/longbutton_hover.png
+  label = Multiplayer
+  loopbackgroundanimations = true
+  orientation_element = 2f0a5a07-40dd-4cd7-bd7d-27da532e09151673391870992
+  x = 0
+  width = 200
+  action = addbutton
+  actionid = 2444c472-7160-4af8-9410-fa630d3756991680967756939
+  y = 24
+  backgroundnormal = resources/mainmenu/longbutton_normal.png
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.minecraft.class_8219%btnaction_splitter_fm%
+  backgroundhovered = resources/mainmenu/empty.png
+  label = §4Copyright Mojang AB. Do not distribute!
+  loopbackgroundanimations = true
+  hoverlabel = &4&nCopyright Mojang AB. Do not distribute!
+  x = -199
+  width = 199
+  action = addbutton
+  actionid = c0de9bfa-a871-4efb-96e6-8819d902751b1695480105375
+  y = -13
+  backgroundnormal = resources/mainmenu/empty.png
+  height = 12
+}
+
