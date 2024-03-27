@@ -22,7 +22,7 @@ Mods re-enabled:
 + 
 
 Metadata changes:
-= Mod Menu [MR --> CF]
+=  [MR --> CF]
 
 Mods removed: 
 - 
