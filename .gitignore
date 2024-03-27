@@ -1,0 +1,9 @@
+# Exclude exported CurseForge zip files
+/Packwiz/*.zip
+/Server Pack/*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+# Exclude Server Pack mod jars
+/Server Pack/mods/*.jar
