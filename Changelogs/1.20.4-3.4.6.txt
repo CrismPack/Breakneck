@@ -2,13 +2,14 @@
 
 Fabric version: Fabric-0.15.10
 Update overview:
-~ Added 'StackDeobfuscator'.
+~ Added 'StackDeobfuscator' & 'BadOptimizations'.
 ~ Re-enabled 'CIT Resewn'.
 ~ Fixed issues with the tablist and hunger not updating correctly.
 ~ Updated mods & resource packs to their latest version.
 
 Mods added:
 + StackDeobfuscator
++ BadOptimizations
 
 Resource Packs added:
 + 
@@ -63,7 +64,7 @@ Shader Packs updated:
 > 
 
 Config changes:
-= Enabled "forceUpdates" for tablist, vignette : [Exordium]
+= Enabled "forceUpdates" for tablist, vignette & health bar: [Exordium]
 = Changed "enableSignBuffering" to "true": [Exordium]
 = Config is now handled by 'YOSBR': [Exordium]
 = Enabled idle timer and set it to 5 minutes by default: [Dynamic FPS]
