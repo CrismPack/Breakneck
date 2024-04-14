@@ -2,8 +2,10 @@
 
 Fabric version: Fabric-0.15.10
 Update overview:
+~ Added 'StackDeobfuscator'.
+~ Re-enabled 'CIT Resewn'.
 ~ Fixed issues with the tablist and hunger not updating correctly.
-~ Updated mods to their latest version.
+~ Updated mods & resource packs to their latest version.
 
 Mods added:
 + StackDeobfuscator
@@ -15,7 +17,7 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ CIT Resewn
 
 Metadata changes:
 =  [MR --> CF]
@@ -30,13 +32,32 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Better Advancements
+> Better Statistics Screen
+> Bookshelf
+> CIT Resewn
+> Debugify
+> Eating Animation
+> Fabric API
+> Falling Leaves
+> ImmediatelyFast
+> Inventory Profiles Next
+> libIPN
+> ModernFix
+> Mouse Tweaks
+> Noisium
+> Resourcify
+> Roughly Enough Items
+> Server Country Flags
+> Simple Voice Chat
+> ViaFabric
+> Zoomify
 
 Mod updates reverted:
 > 
 
 Resource Packs updated: 
-> 
+> Slightly Improved Font
 
 Shader Packs updated:
 > 

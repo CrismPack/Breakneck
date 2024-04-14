@@ -1,13 +1,13 @@
 name = "Slightly Improved Font (32x)"
-filename = "Slightly-Improved-Font-1.1.3.zip"
+filename = "Slightly-Improved-Font-1.1.4.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a4d6a554da3ce87b06de114d5c0db5233d308636"
+hash = "ec0e41bf95e6261d966a4cc0903e2a8961bfc454"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4920035
+file-id = 5249192
 project-id = 580181
