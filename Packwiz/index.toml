@@ -138,6 +138,11 @@ hash = "3cfd22d73862e60da5770eeecd4b15dab7e2306682634a59e51243f27986b29d"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "9b0b843844e70d1b10d805527b91686e7685c3aedde2422c5b21609fd90246d8"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "56ce733474b98ba9fe69b68441ebc9f060bcc05cfb6860711fe5a6b9b5136e8c"
 metafile = true
@@ -690,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "37e917db3cddb70bfdecc62917d37091238f1826ee4630a2ecd381c995ad2ca9"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "f873a549b596170178920aefb8bda3956f3014700af54b36f32a34f373309a57"
 metafile = true
 
 [[files]]

@@ -2,10 +2,11 @@
 
 Fabric version: Fabric-0.15.10
 Update overview:
+~ Fixed issues with the tablist and hunger not updating correctly.
 ~ Updated mods to their latest version.
 
 Mods added:
-+ 
++ StackDeobfuscator
 
 Resource Packs added:
 + 
@@ -20,7 +21,7 @@ Metadata changes:
 =  [MR --> CF]
 
 Mods removed: 
-- 
+- Entity Culling
 
 Mods disabled: 
 - 
@@ -44,3 +45,4 @@ Config changes:
 = Enabled "forceUpdates" for tablist, vignette : [Exordium]
 = Changed "enableSignBuffering" to "true": [Exordium]
 = Config is now handled by 'YOSBR': [Exordium]
+= Enabled idle timer and set it to 5 minutes by default: [Dynamic FPS]
