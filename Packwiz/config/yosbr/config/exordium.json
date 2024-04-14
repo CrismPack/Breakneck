@@ -1,8 +1,9 @@
 {
   "configVersion": 3,
-  "enableSignBuffering": false,
+  "enableSignBuffering": true,
   "targetFPSNameTags": 60,
   "enableNametagScreenBuffering": false,
+  "pollRate": 60,
   "chatSettings": {
     "enabled": true,
     "maxFps": 20,
@@ -36,6 +37,24 @@
   "scoreboardSettings": {
     "enabled": true,
     "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": false
+  },
+  "tablistSettings": {
+    "enabled": true,
+    "maxFps": 20,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "vignetteSettings": {
+    "enabled": true,
+    "maxFps": 5,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "crosshairSettings": {
+    "enabled": false,
+    "maxFps": 20,
     "forceBlend": false,
     "forceUpdates": false
   }
