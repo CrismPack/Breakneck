@@ -1,6 +1,6 @@
 1.20.4 - 3.4.6
 
-Fabric version: Fabric-0.15.7
+Fabric version: Fabric-0.15.10
 Update overview:
 ~ Updated mods to their latest version.
 
