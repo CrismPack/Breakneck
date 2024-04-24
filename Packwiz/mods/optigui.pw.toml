@@ -1,7 +1,6 @@
 name = "OptiGUI"
 filename = "optigui-2.1.7.jar"
-side = "both"
-pin = true
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Simple Discord RPC [Forge/Fabric/Quilt]"
 filename = "SimpleRPC-Fabric-1.20.4-3.2.6.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

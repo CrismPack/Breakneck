@@ -1,6 +1,6 @@
 name = "CIT Resewn"
 filename = "citresewn-1.1.5+1.20.4.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

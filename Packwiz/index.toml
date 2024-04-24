@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
-hash = "d41ca8e0d3eb23bc070df49f55c7bfcb84edfaa6a750b32171b707721c9d1c98"
+hash = "3fb088e2b584ad386e08f13bd5a45d21f59d730064c5004e12e101957918a575"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "04f69de01815f443ad8a3bd26fe03d7a8284cad2ba89613610568eb953f9d381"
+hash = "e083c08d6c6f80abfbea2b2d3e2c44ad1fb677d2440e6faa604115a9fb4dac41"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "93a0325ad3ed069f58f44cfbea7104a0dcabab982fbd73efe096f3c7606514f3"
+hash = "1f2e354e7ad9393a04982d1a40e2655f4a52113998085483be2e74aa5ef5daf6"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "e6c8aa2625290e0ba7bb050bec77721ce83528a3239114ff6443019129d7e45b"
+hash = "0879fa755f7a9a024df41ab7d9123a7b8251ff308173555ca9059681fd9a3b7c"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "c623d48c2bf5148da713197e8de745a5c6092683cd6c431dc3d0db3557330129"
+hash = "c573d912db167c6a1c617bc4f21642019fc7889b9a054a9a4b8ef349ac86b53d"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "72c5ffb6b53968f07a9b4ecbcfb2de25e027731d82a503c38cda94108db67892"
+hash = "33c32d45de21a62618ba3ac2f4ffe5cda108c0cbdbbfd969e8ad0ad6990a6959"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "50b1bf576c504b6ad39532db6f0e38c7804ca1fe6649ad754100d7b8f4937c1f"
+hash = "23bb3e57a86fa683f6b5fc144e37c7c65c897e7856384ddaab20a12dff294420"
 metafile = true
 
 [[files]]
@@ -424,12 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "b3f165f30dfcd41601e3327902316be433b84bbba6ae03ac9348c4fcdbab0864"
+hash = "96907f310b73e1a1f8656b2f7eab2b1b82e46465a0e5c5d892129ee67668e957"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3f698a00763244368d09e8a1f354996715788d4b56141bea7a31d88ca67d18f6"
+hash = "c10b5adc4345dbc4c243802edcbad3fdf941a8bf5aeb9f94e1c70b43ea1d1cff"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9524b64c1fbd34ed37d1872290b1bdd7fbbffee79cefb8a7b2a305befb5939ea"
+hash = "7994443bb32f279af9e11044f9ee84844f8a2019455d7729110c56a23556beb5"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e938f6cdf26009336d02200b45207a1e5c6bc349978cc25fcc2a0a5882c7e4af"
+hash = "2b6d9c4bb60392b566f55ab9044f417ebc444bade1974b21e3ed7208cc9fa80a"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "8a4016cf18fbbb7612f6a22281eaddad006f722eb70a8df763182553d7620329"
+hash = "e08dca2e0b0baedda2bb054d755c96a74778a4656b1d7538ae7d9399a683d7fd"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "0f4dcb51b5073064892fb74efefa55dfffe942d46c5a203e54b396c9c0f55bf7"
+hash = "8a2c324d8cd79b5c8eba12cddd52089493142fd7c4114897ccfcc90fa93d247c"
 metafile = true
 
 [[files]]
@@ -654,12 +654,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "7011e6a3f11ee36fafdba0b7370b73130dcfaebb4e1b39635be14e69e4bb14ac"
+hash = "084f7a8f628ca50eaa03cbccc5dbeb7becd1aded81736095844cf95789aea0ac"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9f21e1a2d791f5186c10f9bb9507961dfdf6a15bc052c2d5fc9e493ab6f077d8"
+hash = "8c3fed22d69f0047440b6348e650791ab702530ff35845eefc79a66621b7d5f7"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "81dcaf6471b39e60612f29988aa57c21fcf02c50df1c4a4634ffd61ae24d007b"
+hash = "d536ee424048236da1d85a82ec88566a2bf6342ce5d751222f547407b2be5a48"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-stats.pw.toml"
-hash = "f1271f6e5282c19b91e9322431594d814a3951cd9e7aed2fcb417f0e5494d9d3"
+hash = "efc506dab81760f71a7cbef83caab704ab8475e0bf1fb2bf4d5197d64618489a"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "f725541eeeffb61e2c0862c5780b123d9723a937e666b986af39a56258eea67a"
+hash = "48d9ab0c810f59834f6b2caf73c619a3308e3478f5bcdc84fc0edc44202a384d"
 metafile = true
 
 [[files]]

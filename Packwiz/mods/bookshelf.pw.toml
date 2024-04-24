@@ -1,6 +1,6 @@
 name = "Bookshelf"
 filename = "Bookshelf-Fabric-1.20.4-23.0.8.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

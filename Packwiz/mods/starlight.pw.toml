@@ -1,6 +1,6 @@
 name = "Starlight (Fabric)"
 filename = "starlight-1.1.3+fabric.f5dcd1a.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

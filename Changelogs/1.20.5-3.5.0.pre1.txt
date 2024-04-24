@@ -24,7 +24,24 @@ Mods removed:
 - 
 
 Mods disabled: 
-- 
+- Ambient Environment
+- Better Ping Display
+- Bookshelf
+- CIT Resewn
+- Controlling
+- Enchantment Descriptions
+- Forge Config API Port
+- Iceberg
+- ImmediatelyFast
+- Lithium
+- OptiGUI [Unpinned]
+- Raised
+- Searchables
+- Simple Discord RPC
+- Simple Voice Chat
+- Starlight
+- Tool Stats
+- ViaFabric
 
 Resource Packs removed:
 - 
