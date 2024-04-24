@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3cfd22d73862e60da5770eeecd4b15dab7e2306682634a59e51243f27986b29d"
+hash = "b8f8402ce3a0d88f5f1bf11a317880aa153bc60eb1103f3cbc2b232082868452"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "001ac0e62fe7ce4398dd4ac8c315715b3dcf806b1ed5b8af9d81051218141b83"
+hash = "285ec9aee7eff0500475995cf714ee78b490583259439be81bc64bad7d01a600"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.pw.toml"
-hash = "6dd73b30277d905a90ee6158e49b1fa60f38f70f14030bf00cf1368a13d118ca"
+hash = "013591ee6ce9e923e634ac198d161685776746e93adbada604e1254b404c80c7"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38695ae7106a9c6f1fc9f48248131b57a552a9b95d8e8a722139953a36af9e59"
+hash = "7df782c670ddf24449623dbda6c95f538df673c925c4f8596c594e30a17b51c1"
 metafile = true
 
 [[files]]
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "b85366b5f6638c1cd823d0f6c55ca48d385bb5c14ed567cd33a92b48a38ebb89"
+hash = "20c5de64cb71da9602d5595552e37fab6c6d308321895933c8fcb1f9c95f6868"
 metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "73287d0f18e32e88968e598d537b370d154c77613c9dc18141b8d6188597d1b4"
+hash = "321335e46d56d049e34d94eed934d34fe428d25598d59984a91d6f2a64f312de"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e8129b3e4802e1f15dabcd9320e51144fc1719447ebd0c00fe857f2ac8bb6f9a"
+hash = "0fb4adf4c5d6819bb1121e2212235612c43787fa1e0ae79ce4e6c0f540a9d877"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ed82b48b7104f02ed5edef7dc6a32ff0fc58f5d3ea27d60d2949da71de801876"
+hash = "94f9b7cff83de8730158ca4b952785c62c6811920d5856e9287a5817d503266c"
 metafile = true
 
 [[files]]
@@ -384,12 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "a447ef00510d04ad8564b6fb2f870fa34b8f825f192b954ccc2dc116e2055eba"
+hash = "b3deda83ab1ed3fad8d1b386eea9d9d102546c8317102f5f787ad5ecf1521067"
 metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "d61a2e6668979d6245714e6de8618f643c85805c28e707288fd7c59dbedf0ead"
+hash = "754d71c262132e34e88727380e088e30b8951d315e929a53da7bc8f645692228"
 metafile = true
 
 [[files]]
@@ -444,12 +444,12 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "ac47668052105c4f1d8986a58f0f2d82b691b53cf9b0c81d04bb612422ff8c5d"
+hash = "02e38511b521fa84998c374c82ba29bc1eb6152a9e351644d9991c14b7f9466a"
 metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "071f183d015443aed1f2898ec4cb2f68df1d845e3f6b71bff198ac1f2c8893ea"
+hash = "bddb1e5d9577daf2d26832bc5a83d682bacfc1c4494dfbb71152f4b382cda220"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0082897e452851b16db503451e08fe9863179eddeae2a7cec6de1e64bff13332"
+hash = "86c45d36dcc018794316b416ed5373688a663de1292b0dd9318b91fc390ee35b"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "07ea3a24df0244fb30c03fb208ceddc4b1cf421803cb79c1ea5f79fca3d29616"
+hash = "f5c927932c2c7c3566f158ffb32a61b520d11c5933d8ec1128c43dc94cde59a4"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a4fcc61837abe8a895f7dc85f97b6c1950dc208da43f58e2fc0ac90ff8b66fcb"
+hash = "b2ddbc4904e853397c1186df0164c3f2218e9c35e66cf3b82ffdb722cd2a3ee7"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "966f01c6e189532454a16c879686346dd226f12d7603e460dad9c7ee523236fd"
+hash = "0b7aab5648ba4ef7a7a4986898532a3de0a86533b78535a749bae0b16e2496ac"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "0150d00929ef9a718de3377b9861c1ac6e675464037f6bf10da4b48e858d540c"
+hash = "9c289dae64497e90cc83028d6f974c648743e300124a3e98e90556b49b6806d8"
 metafile = true
 
 [[files]]
@@ -674,12 +674,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d88cd6f94947541e635993e458c7bbe3a33ee4371374b69fc763b570fa051417"
+hash = "d2a8708e18c7dc8b0436871f2c8cfee8ba1d39156b62d469d45e504b865c0d66"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "37e917db3cddb70bfdecc62917d37091238f1826ee4630a2ecd381c995ad2ca9"
+hash = "bec091e2373896d547fbc69e2f65e41d11a2bd2b8e6f6a3102d6d0ed683d6552"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "4fb75ba3bec1bd6ecd925f300187c44e673779f4f74f86f141952c7b20800590"
+hash = "15c8000cb203e97c6ec04967499ec1748bc71655e832662ffcb8ac3dd9aec058"
 metafile = true
 
 [[files]]
@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bd1bd8815f3f71ffa0a8d2f2bbb0421bef5b63a35d2d96dfd5a3299eec65c7d9"
+hash = "61ed4715f063c219c44dc93e9cf4c4f4a5ebcd659b195b32ee762c66ff0a3f9d"
 metafile = true
 
 [[files]]

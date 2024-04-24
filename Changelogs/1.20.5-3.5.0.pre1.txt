@@ -1,0 +1,65 @@
+1.20.5 - 3.5.0.pre1
+
+Fabric version: Fabric-0.15.10
+Update overview:
+~ Initial migration to Minecraft 1.20.5.
+~ Disabled mods that are not yet compatible.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> Architectury API
+> Chat Heads
+> CleanView
+> Cloth Config API
+> Debugify
+> Detail Armor Ba
+> Dynamic FPS
+> Fabric API
+> FabricSkyboxes
+> Falling Leaves
+> Iris Shaders
+> ItemSwapper
+> ModernFix
+> Name Pain
+> Not Enough Animations
+> Reese's Sodium Options
+> Skin Layers 3D
+> Sodium Extra
+> Sodium
+> Wavey Capes
+> YetAnotherConfigLib
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= : [mod]
