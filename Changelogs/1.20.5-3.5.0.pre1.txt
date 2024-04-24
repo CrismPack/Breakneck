@@ -71,6 +71,8 @@ Mods updated:
 > Sodium
 > Wavey Capes
 > YetAnotherConfigLib
+> Entity Model Features
+> Entity Texture Features
 
 Mod updates reverted:
 > 
