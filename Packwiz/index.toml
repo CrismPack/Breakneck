@@ -114,7 +114,7 @@ hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "250e07a5f6cc1025aec09004285d7487b6a09a2feeb8813af7b86650958cf1f3"
+hash = "de21ddce430892ab56a38912c7bea85ba2ee8950e90426c784688a56b260db88"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "2ba257934464334b07747e4ac80d78f5cc9df30d07e189382805ef120ebdfcca"
+hash = "a8cdce1acfd363ebb25318fa0f9699d8528c45ea405486a2e89fe7edec43301f"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "214ae2e27557f7174ee5aa17d9be19f28d4f5c5514266862fdd28f303fd2e499"
+hash = "4c98838d082e0ee86fdf0e986fefe62fc8168d55feecb64cb858bf9ab26247dd"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "8418be2fbb83286e625558d0b14ce034d9400929b28f7008ae1591fd21ba2f9c"
+hash = "f729b6046091bee1cfcb58d85cec5b14e23ed68270cdd59914a0fafd63d74f34"
 metafile = true
 
 [[files]]

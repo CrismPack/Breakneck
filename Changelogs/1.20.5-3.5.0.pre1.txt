@@ -6,7 +6,7 @@ Update overview:
 ~ Disabled mods that are not yet compatible.
 
 Mods added:
-+ 
++ MixinTrace
 
 Resource Packs added:
 + 
@@ -42,6 +42,9 @@ Mods disabled:
 - Starlight
 - Tool Stats
 - ViaFabric
+- Advancement Plaques
+- Equipment Compare
+- Legendary Tooltips
 
 Resource Packs removed:
 - 

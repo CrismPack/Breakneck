@@ -1,6 +1,6 @@
 name = "Advancement Plaques [Fabric]"
 filename = "AdvancementPlaques-1.20.4-fabric-1.5.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
