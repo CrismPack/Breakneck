@@ -1,6 +1,6 @@
 name = "CleanView (Fabric)"
 filename = "cleanview-1.20.5-v1-fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

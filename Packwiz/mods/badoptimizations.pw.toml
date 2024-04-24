@@ -1,6 +1,6 @@
 name = "BadOptimizations"
 filename = "BadOptimizations-2.1.0.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

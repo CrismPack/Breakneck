@@ -1,6 +1,6 @@
 name = "Drip Sounds (Fabric)"
 filename = "DripSounds-1.19.4-0.3.2.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

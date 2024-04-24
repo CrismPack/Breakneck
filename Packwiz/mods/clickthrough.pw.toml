@@ -1,6 +1,6 @@
 name = "ClickThrough"
 filename = "clickthrough-1.20.4-fabric0.91.2-0.4.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

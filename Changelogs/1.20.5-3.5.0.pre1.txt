@@ -21,7 +21,7 @@ Metadata changes:
 =  [MR --> CF]
 
 Mods removed: 
-- 
+- Panorama Screens
 
 Mods disabled: 
 - Ambient Environment
@@ -55,7 +55,7 @@ Mods updated:
 > CleanView
 > Cloth Config API
 > Debugify
-> Detail Armor Ba
+> Detail Armor Bar
 > Dynamic FPS
 > Fabric API
 > FabricSkyboxes

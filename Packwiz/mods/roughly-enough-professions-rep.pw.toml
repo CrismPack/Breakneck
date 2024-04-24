@@ -1,6 +1,6 @@
 name = "Roughly Enough Professions (REP)"
 filename = "RoughlyEnoughProfessions-fabric-1.20.4-2.2.0.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

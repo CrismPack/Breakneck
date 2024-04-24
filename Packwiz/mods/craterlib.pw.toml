@@ -1,6 +1,6 @@
 name = "CraterLib"
 filename = "CraterLib-Fabric-1.20.4-1.1.0.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

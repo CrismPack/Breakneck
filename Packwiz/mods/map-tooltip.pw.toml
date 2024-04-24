@@ -1,6 +1,6 @@
 name = "Map Tooltip"
 filename = "MapTooltip-fabric-1.20-3.0.0.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

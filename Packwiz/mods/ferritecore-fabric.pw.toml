@@ -1,6 +1,6 @@
 name = "FerriteCore (Fabric)"
 filename = "ferritecore-6.0.3-fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

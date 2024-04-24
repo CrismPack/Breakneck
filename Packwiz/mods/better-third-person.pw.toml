@@ -1,6 +1,6 @@
 name = "Better Third Person"
 filename = "BetterThirdPerson-Fabric-1.20-1.9.0.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

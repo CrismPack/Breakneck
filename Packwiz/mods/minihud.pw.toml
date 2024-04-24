@@ -1,6 +1,6 @@
 name = "MiniHUD"
 filename = "minihud-fabric-1.20.4-0.30.2.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

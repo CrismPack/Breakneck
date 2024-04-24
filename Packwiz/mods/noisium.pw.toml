@@ -1,6 +1,6 @@
 name = "Noisium"
 filename = "noisium-merged-2.0.1+mc1.20.x.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

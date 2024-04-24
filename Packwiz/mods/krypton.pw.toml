@@ -1,6 +1,6 @@
 name = "Krypton"
 filename = "krypton-0.2.6.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
