@@ -3,7 +3,8 @@
 Fabric version: Fabric-0.15.10
 Update overview:
 ~ Initial migration to Minecraft 1.20.5.
-~ Disabled mods that are not yet compatible.
+~ Added 'MixinTrace'.
+~ Temporarily disabled mods that are not yet compatible with the new MC version.
 
 Mods added:
 + MixinTrace
@@ -24,27 +25,75 @@ Mods removed:
 - Panorama Screens
 
 Mods disabled: 
+- Advancement Plaques
 - Ambient Environment
+- AppleSkin
+- BadOptimizations
+- Balm
+- Better Advancements
 - Better Ping Display
+- Better Recipe Books
+- Better Statistics Screen
+- Better Third Person
+- Bobby
 - Bookshelf
 - CIT Resewn
+- Cherished Worlds
+- CleanView
+- ClickThrough
+- Client Tweaks
+- Continuity
 - Controlling
+- CraterLib
+- Drip Sounds
+- Eating Animation
 - Enchantment Descriptions
+- Equipment Compare
+- Exordium
+- FastQuit
+- FerriteCore
 - Forge Config API Port
 - Iceberg
 - ImmediatelyFast
+- Indium
+- Inventory Profiles Next
+- Konkrete
+- Krypton
+- LambDynamicLights
+- Lan Server Properties
+- Language Reload
+- Legendary Tooltips
+- Litematica
 - Lithium
+- MaLiLib
+- Map Tooltip
+- MiniHUD
+- More Culling
+- Mouse Tweaks
+- No Chat Reports
+- Noisium
+- Nvidium
 - OptiGUI [Unpinned]
+- Particle Core
+- Prism
 - Raised
+- Resourcify
+- Roughly Enough Professions
 - Searchables
+- Server Country Flags
+- Shulker Box Tooltip
 - Simple Discord RPC
 - Simple Voice Chat
 - Starlight
+- Status Effect Bars
 - Tool Stats
+- True Darkness Updated Fork
 - ViaFabric
-- Advancement Plaques
-- Equipment Compare
-- Legendary Tooltips
+- Xaero's Minimap (Fair-play Edition)
+- Xaero's World Map
+- Zoomify
+- libIPN
+
 
 Resource Packs removed:
 - 
@@ -57,22 +106,24 @@ Mods updated:
 > Debugify
 > Detail Armor Bar
 > Dynamic FPS
+> Entity Model Features
+> Entity Texture Features
 > Fabric API
 > FabricSkyboxes
 > Falling Leaves
 > Iris Shaders
 > ItemSwapper
+> Mod Menu
 > ModernFix
 > Name Pain
 > Not Enough Animations
 > Reese's Sodium Options
+> Roughly Enough Items
 > Skin Layers 3D
-> Sodium Extra
 > Sodium
+> Sodium Extra
 > Wavey Capes
 > YetAnotherConfigLib
-> Entity Model Features
-> Entity Texture Features
 
 Mod updates reverted:
 > 

@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "9fa16b07019f73a7a384c25c5f2dc26a4adf72144fab5fb8d0cc058cb45c4722"
+hash = "33304df3ce0ab8bd288f4bc637e24ba5ac93c60d66ffad2d88b5cfac9baf4fca"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "b3c4416ee8952dcf939aed28a6afea09cece42801092c7288c05283698ee2017"
+hash = "26e15e2c30a2af39847bfb93cb23fd49d7b89f9761386d25736dfe7b7f47592b"
 metafile = true
 
 [[files]]
@@ -583,11 +583,6 @@ hash = "2b6d9c4bb60392b566f55ab9044f417ebc444bade1974b21e3ed7208cc9fa80a"
 metafile = true
 
 [[files]]
-file = "mods/panorama-screens.pw.toml"
-hash = "3f1547071328fbc994b146ffda9ef31d4deef1f315e382be08699d52b71b41cd"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "36502df42e70f0f647883cf835fc13175d1c163a81a136aad89d2bb4bea98ebb"
 metafile = true
@@ -614,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "ad9d87a747af9cbb9c99727c2658e0582379514324da5a3679a0dae5cfcb4673"
+hash = "aea823399e12235c0ed86400f6de99437085d2a45d2a45cfa0aa345e3cfe49c4"
 metafile = true
 
 [[files]]
