@@ -1,0 +1,63 @@
+1.20.5 - 3.5.0.pre1
+
+Fabric version: Fabric-0.15.10
+Update overview:
+~ 
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ AppleSkin
++ Better Statistics Screen
++ Controlling
++ More Culling
++ OptiGUI
++ Searchables
++ True Darkness Fork Fabric
++ ViaFabric
++ Zoomify
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> AppleSkin
+> Better Statistics Screen
+> Controlling
+> More Culling
+> OptiGUI
+> Searchables
+> True Darkness Fork Fabric
+> ViaFabric
+> Xaero's World Map
+> YetAnotherConfigLib
+> Zoomify
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= : [mod]
