@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "380469d760d47590e2630ce6020c660cded37b008ffb8210457d0cb25ca35b2d"
+hash = "9bd684e98ec0f21e38dea325193993ad46b4bb8c677a862fd4e92957896c4158"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "2e48c5dd52505274b1e898c7fbd64f71620497a06a2c2a0fb473334f188c35bc"
+hash = "557a07399268c6f4b1c3e0e3b465e34cb98716b7bc3b9b6acbfc96f2afd0ebab"
 metafile = true
 
 [[files]]
@@ -203,8 +203,8 @@ hash = "1f2e354e7ad9393a04982d1a40e2655f4a52113998085483be2e74aa5ef5daf6"
 metafile = true
 
 [[files]]
-file = "mods/branded-logs-fabric.pw.toml"
-hash = "4f42de83f5f66e05d3ecd1300a0f0da0a8658fb9237c5cc496e7ab6169e2703e"
+file = "mods/branded-logs.pw.toml"
+hash = "cb0323d22a6d6199cf336542f1da52b97c9895a8c849e1d39f441ecd643620ed"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e4610f3bca00cda8afce84519550172aa4ff0b90a96a29338cd06b8000f900b7"
+hash = "19e29beed060983bccea8f2ad4a6ca4afb86158be7ebaaaf32d7af028b93d528"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d8f1c663c276ddcf229a5d0b8d02e4706117d312f8acee9dc23504db5ebe4d1e"
+hash = "f9a650d5b049708321d7784a5aea085c7e92bf14d7fb7af0bfc0ec2b0bd83145"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "ec0c04377f9a543fd7b28a015e8bc8cafda5e0bfa6149edab2c79f32ff247395"
+hash = "9853754238abb0bfc1efe9d9642913cda012793aaceacf8286cc979fa7ef118b"
 metafile = true
 
 [[files]]
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "0d8f1dd36cf2fe995f91f7d9e126aee76c15e610ad2a1dffb850d9db5dd0020c"
+hash = "55f20f3958d1fccc83f2db3b018d935c13a220a5d99f110590c85636eee4052d"
 metafile = true
 
 [[files]]
@@ -709,12 +709,12 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-fork-fabric.pw.toml"
-hash = "50ab383d75ac2c45325e52df39d228373ad1757be6ff9eaf3bf3c43538deca76"
+hash = "75c58f5b252fb691e99e1ea8efb872b467d4707e469ff5b0f6236a956f8a2e8d"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "99591c85a323001503554a724898362a0ab8bbd4aee963bee32f68bb7f14b6d8"
+hash = "cfc2fed3ff4ea1bdb0b13bc19399aab68040420ca15691c76bf1386a0973b8f2"
 metafile = true
 
 [[files]]
@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "306cb4fa7a8e5053c62c702a363da1a282f583fae8efacee4eff6efb8f4e3170"
+hash = "7d1e111bf524124bfa299ed872e0cb7c3f767c7ea552ef4b6790cbb31512bb1f"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "4506603a16a6065cb8bee56e354b917c0416428dc2a38f9587576b9865f9aacc"
+hash = "d6b8f633170f12ff9698e7c4eb96ca928acd4cbca4764eb0a99e695ec17f28a6"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "a65be8fe89dc75e4b7d4fdfbf4f50ef0b468902b2c44990c1b516b85cca203ea"
+hash = "cace62fa45473c9341605ff50c4f7687fcfa3281e16ce755b1a19db18b5b5a4d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

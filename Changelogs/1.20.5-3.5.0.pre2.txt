@@ -1,8 +1,9 @@
-1.20.5 - 3.5.0.pre1
+1.20.5 - 3.5.0.pre2
 
 Fabric version: Fabric-0.15.10
 Update overview:
-~ 
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated to 1.20.5.
 
 Mods added:
 + 
@@ -40,6 +41,7 @@ Resource Packs removed:
 Mods updated:
 > AppleSkin
 > Better Statistics Screen
+> Branded Logs
 > Controlling
 > More Culling
 > OptiGUI
