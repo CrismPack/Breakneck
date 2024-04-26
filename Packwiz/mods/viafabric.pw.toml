@@ -1,6 +1,6 @@
 name = "ViaFabric"
 filename = "ViaFabric-0.4.14+66-main.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

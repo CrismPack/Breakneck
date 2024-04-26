@@ -22,7 +22,6 @@ Mods re-enabled:
 + OptiGUI
 + Searchables
 + True Darkness Fork Fabric
-+ ViaFabric
 + Zoomify
 
 Metadata changes:
@@ -47,7 +46,7 @@ Mods updated:
 > OptiGUI
 > Searchables
 > True Darkness Fork Fabric
-> ViaFabric
+> ViaFabric [Still disabled due to crashing issue]
 > Xaero's World Map
 > YetAnotherConfigLib
 > Zoomify
