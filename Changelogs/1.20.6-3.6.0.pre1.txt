@@ -1,0 +1,70 @@
+1.20.6 - 3.6.0.pre1
+
+Fabric version: Fabric-0.15.10
+Update overview:
+~ Initial migration to 1.20.6
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated to 1.20.5/1.20.6.
+
+Mods added:
++ 
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ CleanView
++ Lithium
++ Simple Voice Chat
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> Ambient Environment
+> Architectury API
+> BadOptimizations
+> CleanView
+> Entity Model Features
+> Entity Texture Features
+> Fabric API
+> FerriteCore
+> ImmediatelyFast
+> Konkrete
+> Lithium
+> ModernFix
+> More Culling
+> Particle Core
+> Resourcify
+> Roughly Enough Items
+> Roughly Enough Professions
+> Simple Voice Chat
+> ViaFabric
+> Xaero's World Map
+> YetAnotherConfigLib
+
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= : [mod]

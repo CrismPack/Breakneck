@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.pw.toml"
-hash = "e01a1fc3ca2128a02c2207131be3d9fcfcb78f7911ec78886559852de8c43bde"
+hash = "fde77d1e76b84dca55c0ab36d451f08f242ab973a00416fb369bbb81833eae68"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d3490a10a7cfe7e26711900987619cebe61d7af087bda8340b2997d073a2359b"
+hash = "8658232506f3ed6922a35817318e58e971a9c6b16efdfba63982b80dfa43d10e"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c9c61f8e8869d1474c466210cca78d541629f4e806a77668307fd872d5b7915b"
+hash = "fd1f2d1974996d21ec542bc125f98dc5287fb72268a5f903bf7035b2b03a5bb2"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "86c45d36dcc018794316b416ed5373688a663de1292b0dd9318b91fc390ee35b"
+hash = "695c2772b709d6fd802c2546400f3878caf72d971a1fe9000a623938c75839ff"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f4cc28c98b325a3c82eaff9f6c59f40736fda12bd24817d857962f3e4d8d0c00"
+hash = "acda7567dee5ee0a4a53639492c1f40e2d7b81258c5f4f3a9ce700c10cbbd3f4"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "cace62fa45473c9341605ff50c4f7687fcfa3281e16ce755b1a19db18b5b5a4d"
+hash = "752e63369d49088aa67ccc309a0efffde985f8c8a5c4d1c528b57b3f0594c99a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
