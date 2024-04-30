@@ -1,6 +1,6 @@
 name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.38.6_Fabric_1.20.5.jar"
-side = "both(disabled)"
+side = "both"
 
 [download]
 hash-format = "sha1"

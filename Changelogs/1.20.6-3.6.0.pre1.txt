@@ -19,6 +19,15 @@ Mods re-enabled:
 + CleanView
 + Lithium
 + Simple Voice Chat
++ Ambient Environment
++ BadOptimizations
++ FerriteCore 
++ ImmediatelyFast
++ Particle Core
++ Resourcify
++ Roughly Enough Professions
++ ViaFabric
++ Xaero's World Map
 
 Metadata changes:
 =  [MR --> CF]
