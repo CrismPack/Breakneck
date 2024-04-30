@@ -4,7 +4,7 @@ Fabric version: Fabric-0.15.10
 Update overview:
 ~ Initial migration to 1.20.6
 ~ Updated mods to their latest version.
-~ Re-enabled mods that have been updated to 1.20.5/1.20.6.
+~ Re-enabled updated mods that are compatible with 1.20.6.
 
 Mods added:
 + 
@@ -26,7 +26,6 @@ Mods re-enabled:
 + Particle Core
 + Resourcify
 + Roughly Enough Professions
-+ ViaFabric
 + Xaero's World Map
 
 Metadata changes:
