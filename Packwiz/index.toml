@@ -25,6 +25,10 @@ file = "config/customwindowtitle/icon32x32.png"
 hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "ed2130673acca3ddf77f50b54e1ae27802d3bae144883de773b1ff0f5358f6ad"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 
@@ -418,6 +422,11 @@ hash = "23bb3e57a86fa683f6b5fc144e37c7c65c897e7856384ddaab20a12dff294420"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "a2ffa612b43f21d5e0fdfaec9e54ce734e93bb7c1b10b9ff9e2682fd1a387cd6"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "33dcec964cfedb7f7325353b25a334bc5f59a16fa391d4126ff886a9dc4fe1da"
 metafile = true
@@ -588,6 +597,11 @@ hash = "480127534b612b497a85b158761aa8b264f214247831db1a38e0bb593496d341"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "3791cc7da4f0205aaf851738c3c95e2b5e2721b2688f689c4f1b4202701059cf"
+metafile = true
+
+[[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "bc6788b15ab518525e419207a401d8ba19930aa82870000ec608b2afe929f85b"
 metafile = true
@@ -714,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "e84047249da9a5767c632a54d668e7224123bd7c170be3addd518d2e3f29e170"
+hash = "1f385709f2c15d0ad99b9b766c95ccc93089eb1d6cdffda80c02b469d57190ca"
 metafile = true
 
 [[files]]

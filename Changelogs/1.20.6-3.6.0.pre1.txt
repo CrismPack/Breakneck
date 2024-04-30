@@ -4,10 +4,14 @@ Fabric version: Fabric-0.15.10
 Update overview:
 ~ Initial migration to 1.20.6
 ~ Updated mods to their latest version.
+~ Added dependency override, forcing some 1.20.5 mods to work.
+~ Fixed crashing issue when crafting.
 ~ Re-enabled updated mods that are compatible with 1.20.6.
 
+
 Mods added:
-+ 
++ Fzzy Config [New dependency of 'Particle Core']
++ Polytone
 
 Resource Packs added:
 + 
@@ -75,4 +79,4 @@ Shader Packs updated:
 > 
 
 Config changes:
-= : [mod]
+= Added dependency overrides for dynamic_fps, lambdynlights, debugify, polytone, sodium, iris, controlling, searchables, itemswapper, waveycapes, ambientenvironment, notenoughanimations and skinlayers3d: [Fabric Loader]
