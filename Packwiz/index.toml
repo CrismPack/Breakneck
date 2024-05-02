@@ -26,7 +26,7 @@ hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ed2130673acca3ddf77f50b54e1ae27802d3bae144883de773b1ff0f5358f6ad"
+hash = "ae6fe5be4ecb08c8cebbf26d4e25850e86be2d9b4ff1afa105481c9b72baa1ce"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -149,11 +149,6 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "2005c533a080eba0316200055aa4dd7fb04febaff2dad2bd065e2145a2aaf105"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "b7ee86664a0dcf7bed01ba3c5f6356fca940aa39aa4377ee23593302ca4b249a"
 metafile = true
 
 [[files]]
@@ -289,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "3bbd9cd82a64c248d14a23f1dd8d15df9a5515a7a94d7d983b267d25cff992d5"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "bb8ad5e84982963a853c528feb85ec2387ca50c5fec9bdb26754e98034ee04af"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "d2769c452ba3aba8ee2373ecbb492de0d0f31effa5eda65960d73ee342e24245"
+hash = "556c253d826ce236491981b6cf2deba49364c7f0597ff1e6b9d5f59c5e6f53b1"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "9539a2df248cc769ba96ef5c69266c3927b50dab46429bc677831b4a1b3982c3"
+hash = "bee0c4503beec3bf1f9954b45c93f0a767cb71b3ab5becd6daed34d6c53a107a"
 metafile = true
 
 [[files]]
@@ -589,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "9853754238abb0bfc1efe9d9642913cda012793aaceacf8286cc979fa7ef118b"
+metafile = true
+
+[[files]]
+file = "mods/paginated-advancements.pw.toml"
+hash = "fa53aa40dd031f910a613312d3db1fa9325f213086a23f24b4dde2fae2120700"
 metafile = true
 
 [[files]]
@@ -728,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "f5517a28dec5efa5f0c46cd44c3ad905e112ef5b079004c1fd2c9d60d5989456"
+hash = "6da962e71819fd927d9d5a78e7faed5f4447574f6b31b5121489fd59b16cbdea"
 metafile = true
 
 [[files]]
@@ -777,7 +782,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "752e63369d49088aa67ccc309a0efffde985f8c8a5c4d1c528b57b3f0594c99a"
+hash = "563c07978b05bd9fb7b40cb27091d77a307f82cbfc235f6542255a75ab0230b6"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

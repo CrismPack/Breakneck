@@ -1,0 +1,64 @@
+1.20.6 - 3.6.0.pre2
+
+Fabric version: Fabric-0.15.10
+Update overview:
+~ Added 'Paginated Advancements'.
+~ Updated mods to their latest version.
+~ Re-enabled updated mods that are compatible with 1.20.6.
+
+
+Mods added:
++ Paginated Advancements & Custom Frames
++ Cubes Without Borders
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Krypton
++ Mouse Tweaks
++ ViaFabric
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- Better Advancements
+
+Mods disabled: 
+- 
+
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> Capes
+> Entity Model Features
+> FerriteCore
+> Forge Config API Port
+> ItemSwapper
+> Krypton
+> Mouse Tweaks
+> Not Enough Animations
+> Resourcify
+> Skin Layers 3D
+> Sodium Extra
+> ViaFabric
+> Wavey Capes
+
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= Removed dependency overrides for skinlayers3d, notenoughanimations, waveycapes and itemswapper: [Fabric Loader]
