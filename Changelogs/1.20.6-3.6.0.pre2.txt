@@ -1,8 +1,8 @@
 1.20.6 - 3.6.0.pre2
 
-Fabric version: Fabric-0.15.10
+Fabric version: Fabric-0.15.11
 Update overview:
-~ Added 'Paginated Advancements'.
+~ Added 'Paginated Advancements' & 'Cubes Without Borders'.
 ~ Updated mods to their latest version.
 ~ Re-enabled updated mods that are compatible with 1.20.6.
 
@@ -18,21 +18,21 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ Krypton
-+ Mouse Tweaks
-+ ViaFabric
 + Bobby
 + Cherished Worlds
-+ FastQuit
 + Detail Armor Bar
++ FastQuit
++ Krypton
++ Mouse Tweaks
 + Server Country Flags
 + Status Effect Bars
++ ViaFabric
 
 Metadata changes:
 =  [MR --> CF]
 
 Mods removed: 
-- Better Advancements
+- Better Advancements [Previously disabled]
 
 Mods disabled: 
 - 

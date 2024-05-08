@@ -26,7 +26,7 @@ hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ae6fe5be4ecb08c8cebbf26d4e25850e86be2d9b4ff1afa105481c9b72baa1ce"
+hash = "3984a07723ee815a3310c60d8a68ee01e0d27ae2f161588f12e9d5e342d287c2"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "cc31b5a6638b203c27deed25f4e15518bd6b1f2bebbe1185623948ebcafdd00f"
+hash = "1c2c671ae8a167638c1fa226e27d195023915f23dd46d0a075446da298fc98bd"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "372360171538b2bc5e6211ae5aa7ac8dbef6c23eeb2f3422eda49baf723bc13d"
+hash = "51d50339895b5a27884cf4699f868acd46440d572e93f8714d499ec012d6d445"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "d5c82eae898b03807f0fbbb7e5cfa7d2b0841e281caaa0a4b4b97a79336170a3"
+hash = "cd1a6eebc9488591a3a93e76ca076d3326b5585ab2a7af28a8244b9125e31949"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "cd31585ba7fa19d68c5307799f948ca2f7d608a9bc0cc0549ac3d6760ff6395a"
+hash = "9a53d0956a5f25c6c5de1d34a6497c2d323486bf340935db6b364815aae596be"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "fd4c284468cb55d9ce6e756e514d4742393df9d5c7cd20e6ad3577de52b253ab"
+hash = "b3e7f2cd2b58b00dd3a3afc8854e8bf5134db47e43969f8f360bc1e5eaab910f"
 metafile = true
 
 [[files]]
@@ -708,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-hash = "af2f7e172ad12438dde443bae4fa796ce603401f91372b50b36b4a08fce6bef0"
+hash = "d3f9ef351b2a3155112af9015f4e1e1fcf496c15a3aa7140396904df48334526"
 metafile = true
 
 [[files]]

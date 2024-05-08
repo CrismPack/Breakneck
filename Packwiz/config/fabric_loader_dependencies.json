@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.10"}},"minecraft":{"+recommends":{"Breakneck-1.20.6":">3.6.0-pre2"}},"dynamic_fps":{"recommends":{}},"lambdynlights":{"recommends":{}},"sodium":{"-depends":{"minecraft":""}},"iris":{"-depends":{"minecraft":""}}}}
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.10"}},"dynamic_fps":{"recommends":{}},"lambdynlights":{"recommends":{}},"sodium":{"-depends":{"minecraft":""}},"iris":{"-depends":{"minecraft":""}}}}
