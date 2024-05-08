@@ -1,13 +1,13 @@
 name = "Server Country Flags"
-filename = "servercountryflags-1.10.1-1.20.4-FABRIC.jar"
-side = "both(disabled)"
+filename = "servercountryflags-1.10.1-1.20.6-FABRIC.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc7773d316f136b188c874a7b158a942e6ac7575"
+hash = "02df93153d6c10f89182c718f585f9037fa08021"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5202429
+file-id = 5311911
 project-id = 841311

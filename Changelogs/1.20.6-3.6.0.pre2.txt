@@ -21,6 +21,12 @@ Mods re-enabled:
 + Krypton
 + Mouse Tweaks
 + ViaFabric
++ Bobby
++ Cherished Worlds
++ FastQuit
++ Detail Armor Bar
++ Server Country Flags
++ Status Effect Bars
 
 Metadata changes:
 =  [MR --> CF]
@@ -36,19 +42,36 @@ Resource Packs removed:
 - 
 
 Mods updated:
+> Ambient Environment
+> Better Statistics Screen
+> Bobby
 > Capes
+> Cherished Worlds
+> Controlling
+> Debugify
+> Detail Armor Bar
 > Entity Model Features
+> Fabric API
+> FastQuit
 > FerriteCore
 > Forge Config API Port
+> Fzzy Config
+> ImmediatelyFast
 > ItemSwapper
 > Krypton
+> ModernFix
 > Mouse Tweaks
 > Not Enough Animations
 > Resourcify
+> Searchables
+> Server Country Flags
+> Simple Voice Chat
 > Skin Layers 3D
 > Sodium Extra
+> Status Effect Bars
 > ViaFabric
 > Wavey Capes
+> Zoomify
 
 
 Mod updates reverted:
@@ -61,4 +84,4 @@ Shader Packs updated:
 > 
 
 Config changes:
-= Removed dependency overrides for skinlayers3d, notenoughanimations, waveycapes and itemswapper: [Fabric Loader]
+= Removed dependency overrides for skinlayers3d, notenoughanimations, waveycapes, itemswapper, polytone, debugify, controlling, searchables and ambientenvironment: [Fabric Loader]
