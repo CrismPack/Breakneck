@@ -1,0 +1,50 @@
+1.20.6 - 3.6.0.pre3
+
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Added 
+~ Updated mods to their latest version.
+~ Re-enabled updated mods that are compatible with 1.20.6.
+
+
+Mods added:
++ 
+
+Resource Packs added:
++ Just Expressions
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> 
+
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= Changed preventFirstPersonHandAnimating to "true": [Entity Model Features]
+= Changed skinTransparencyMode to "ALL": [Entity Texture Features]

@@ -772,6 +772,11 @@ hash = "0fc625e075a11cf7b2592846f33cba852d5402c40d85902ef06b5dbdfdfd5624"
 metafile = true
 
 [[files]]
+file = "resourcepacks/just-expressions.pw.toml"
+hash = "37b6610d670c61b94200e1c9cba12c7f9b74dd00f4fac24c4abee1f2d04a4911"
+metafile = true
+
+[[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "151325c54d5a04931899469bbdfa9a43524fe32ac66da43e9baac2ce61a7ae9a"
 metafile = true
