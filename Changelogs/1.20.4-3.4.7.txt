@@ -87,3 +87,7 @@ Config changes:
 = Changed skinTransparencyMode to "ALL": [Entity Texture Features]
 = Force enabled 'JustExpressions' resource pack: [Resource Pack Overrides]
 = Changed enablePinning to "false": [Better Recipe Book]
+= Changed menu.shareToLan lang value to "Open to Friends": [Breakneck Lang]
+= Changed lanServer.title lang value to "Shared World": [Breakneck Lang]
+= Changed lanServer.start lang value to "Start Shared World": [Breakneck Lang]
+= Force enabled 'Breakneck Lang' resource pack: [Resource Pack Overrides]

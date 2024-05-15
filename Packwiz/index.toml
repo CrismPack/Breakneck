@@ -13,6 +13,10 @@ file = "config/bhmenu/bhmenu-server_creator_banner.properties"
 hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
+file = "config/brb.toml"
+hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "97c967ca28bc9e7d85bcc371afc9d33a14f8676f53e48aab9be430347460f9ec"
 
@@ -42,7 +46,7 @@ hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a7f476f52bb51e8113cc377b5d733dde0eabd02bf5d218004cf77d268a880f30"
+hash = "ebf4ec974be45b44438c476660b4a2a4133d55f124382f508d97ab0d8d13e75b"
 
 [[files]]
 file = "config/servercountryflags/servercountryflags.properties"
@@ -778,6 +782,18 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "da08e89c5ede21232ef945038ff8baaf581cd13e18268cffbcb281e97435a85f"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Breakneck Lang/assets/minecraft/lang/en_us.json"
+hash = "cd034101932a6fcef3133fbc124ef1940cac1b1ee9ea81a6202c1273a699e57a"
+
+[[files]]
+file = "resourcepacks/Breakneck Lang/pack.mcmeta"
+hash = "ee2a63c2dea0ec5f89b28bada0fbfaeb2173b5e4759823b230b6dd91e00935ba"
+
+[[files]]
+file = "resourcepacks/Breakneck Lang/pack.png"
+hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
