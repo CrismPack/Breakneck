@@ -2,9 +2,10 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ Added 'Just Expressions' resource pack, allowing for playing to have animated eyes!
+~ Added 'Just Expressions' resource pack, allowing for players to have animated eyes!
 ~ Added 'MixinTrace', 'Resource Pack Overrides', 'Cubes Without Borders' & 'Modern KeyBinding' mods.
 ~ Switched to using 'Paginated Advancements' for improving the advancement menu.
+~ Renamed "Open to LAN" button to "Open to Friends", to indicate being able to invite friends over the internet.
 ~ Updated mods to their latest version.
 
 Mods added:
