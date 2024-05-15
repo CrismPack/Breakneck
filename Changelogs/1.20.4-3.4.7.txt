@@ -2,13 +2,17 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ Added 'Just Expressions', allowing for playing to have animated eyes! [https://www.curseforge.com/minecraft/texture-packs/just-expressions]
-~ Updated mods & resource packs to their latest version.
+~ Added 'Just Expressions' resource pack, allowing for playing to have animated eyes!
+~ Added 'MixinTrace', 'Resource Pack Overrides', 'Cubes Without Borders' & 'Modern KeyBinding' mods.
+~ Switched to using 'Paginated Advancements' for improving the advancement menu.
+~ Updated mods to their latest version.
 
 Mods added:
 + Paginated Advancements & Custom Frames
 + MixinTrace
 + Resource Pack Overrides
++ Modern KeyBinding
++ Cubes Without Borders
 
 Resource Packs added:
 + Just Expressions
@@ -33,7 +37,41 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Advancement Plaques
+> Ambient Environment
+> BadOptimizations
+> Balm
+> Branded Logs
+> Chat Heads
+> Continuity
+> Controlling
+> Dynamic FPS
+> Enchantment Descriptions
+> Entity Model Features
+> Entity Texture Features
+> Fabric Language Kotlin
+> ImmediatelyFast
+> Iris Shaders
+> ItemSwapper
+> Language Reload
+> ModernFix
+> Mod Menu
+> More Culling
+> No Chat Reports
+> Noisium
+> Not Enough Animations
+> Resourcify
+> Roughly Enough Items
+> Roughly Enough Professions
+> Simple Voice Chat
+> Skin Layers 3D
+> Suggestion Tweaker
+> ViaFabric
+> Wavey Capes
+> Xaero's Minimap
+> Xaero's World Map
+> YetAnotherConfigLib
+> Zoomify
 
 Mod updates reverted:
 > 
@@ -48,3 +86,4 @@ Config changes:
 = Changed preventFirstPersonHandAnimating to "true": [Entity Model Features]
 = Changed skinTransparencyMode to "ALL": [Entity Texture Features]
 = Force enabled 'JustExpressions' resource pack: [Resource Pack Overrides]
+= Changed enablePinning to "false": [Better Recipe Book]

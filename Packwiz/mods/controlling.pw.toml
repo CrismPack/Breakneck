@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-fabric-1.20.4-15.0.3.jar"
+filename = "Controlling-fabric-1.20.4-15.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a249a44ffef6e5da51704ceb4c2be8bf26493c8b"
+hash = "cd2ccf8cd9b4b4bccf31c81b298df358d9ab758c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5165689
+file-id = 5283778
 project-id = 250398

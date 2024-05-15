@@ -5,6 +5,7 @@
   // Packs included here can still be manually disabled by the user, this can be prevented with overrides below though
   "default_packs": [
     "minecraft:supporteatinganimation",
+    "breakneckmenu:breakneckmenu",
     "file/JustExpressions_v1.1.zip"
   ],
   // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
@@ -28,7 +29,7 @@
     "1": [
       "file/JustExpressions_v1.1.zip"
     ],
-    "$2": {
+    "$1": {
       "required": true,
       "fixed_position": false,
       "force_compatible": true

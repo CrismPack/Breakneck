@@ -1,13 +1,13 @@
 name = "Ambient Environment"
-filename = "AmbientEnvironment-fabric-1.20.4-14.0.0.3.jar"
+filename = "AmbientEnvironment-fabric-1.20.4-14.0.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2545a6aa59e21378b75e49b5333caa2fcad479d1"
+hash = "bc6a7d1d67bcaa7a683ee889eefa1e8d0f1abbc1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5026108
+file-id = 5269053
 project-id = 320163
