@@ -1,0 +1,48 @@
+1.20.4 - 3.4.7
+
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Added 'Just Expressions', allowing for playing to have animated eyes! [https://www.curseforge.com/minecraft/texture-packs/just-expressions]
+~ Updated mods & resource packs to their latest version.
+
+Mods added:
++ Paginated Advancements & Custom Frames
++ MixinTrace
+
+Resource Packs added:
++ Just Expressions
++ Fresh Moves [Pinned]
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ 
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- Better Advancements
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> 
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= Changed preventFirstPersonHandAnimating to "true": [Entity Model Features]
+= Changed skinTransparencyMode to "ALL": [Entity Texture Features]
