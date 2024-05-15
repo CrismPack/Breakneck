@@ -8,6 +8,7 @@ Update overview:
 Mods added:
 + Paginated Advancements & Custom Frames
 + MixinTrace
++ Resource Pack Overrides
 
 Resource Packs added:
 + Just Expressions
@@ -46,3 +47,4 @@ Shader Packs updated:
 Config changes:
 = Changed preventFirstPersonHandAnimating to "true": [Entity Model Features]
 = Changed skinTransparencyMode to "ALL": [Entity Texture Features]
+= Force enabled 'JustExpressions' resource pack: [Resource Pack Overrides]

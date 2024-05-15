@@ -25,12 +25,24 @@ file = "config/customwindowtitle/icon32x32.png"
 hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "f63264b42098d31e061860844b04b3af37504a0713d8c2d0e31de8b7b32779a2"
 
 [[files]]
 file = "config/servercountryflags/servercountryflags.properties"
@@ -145,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/balm-fabric.pw.toml"
 hash = "56ce733474b98ba9fe69b68441ebc9f060bcc05cfb6860711fe5a6b9b5136e8c"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "c8b462e1bf0657ceeb863e7723034144ef8fe2cf29ae56b30f287ea889d914af"
 metafile = true
 
 [[files]]
@@ -618,6 +625,11 @@ hash = "3f40334ed8078559406d5faaa755fbd686e31d4e43bf6c43594377c815ed1c0a"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "ba060d77d22f7907553a5fe7705bda39803c54a3f633b4df3bebacc53b1b423b"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "ad9d87a747af9cbb9c99727c2658e0582379514324da5a3679a0dae5cfcb4673"
 metafile = true
@@ -783,7 +795,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "7b1121774698b402b4517f09bb1a405c05364422f81e10ad603af9d6cb80cea1"
+hash = "c8b3dd68ae6f85fd012abadac4c8418701a85ed2e9299ed82538655841464092"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
