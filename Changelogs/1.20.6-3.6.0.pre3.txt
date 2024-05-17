@@ -8,7 +8,7 @@ Update overview:
 
 
 Mods added:
-+ 
++ Remove Reloading Screen
 
 Resource Packs added:
 + Just Expressions
