@@ -13,6 +13,10 @@ file = "config/bhmenu/bhmenu-server_creator_banner.properties"
 hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
+file = "config/brb.toml"
+hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "97c967ca28bc9e7d85bcc371afc9d33a14f8676f53e48aab9be430347460f9ec"
 
@@ -25,6 +29,14 @@ file = "config/customwindowtitle/icon32x32.png"
 hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "3984a07723ee815a3310c60d8a68ee01e0d27ae2f161588f12e9d5e342d287c2"
 
@@ -35,6 +47,10 @@ hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 [[files]]
 file = "config/modmenu.json"
 hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "ebf4ec974be45b44438c476660b4a2a4133d55f124382f508d97ab0d8d13e75b"
 
 [[files]]
 file = "config/servercountryflags/servercountryflags.properties"
@@ -118,7 +134,7 @@ hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "9b208321265870041e4b2cb4bda36ad78a6fbf4d37393fc63b872dcd8a88eed7"
+hash = "4152db7e9fc03bbf98deab59b0b7393f149ddfd3d073e6e8ed2701025c12e844"
 metafile = true
 
 [[files]]
@@ -273,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ad793476f30f8a42e0f182fcd675e30849fdd4f991c1b2235215125354bbfd7b"
+hash = "04e992894a733f4efc317f1959af8e7a823d25229a7438f96f0366d59345cc59"
 metafile = true
 
 [[files]]
@@ -343,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "f18dffbe14a1c722eb8c60ed031ec7a08b6188a754866fbee55e5a04324a6530"
+hash = "4b530b70b2008323a3814238fbdea5217593f096de599fd9288af1d4bf3f3ce7"
 metafile = true
 
 [[files]]
@@ -368,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
-hash = "20ff22b7d2be661212c243a2707e9fb55bc1d75eb36983842c4ed5ea6246e6a4"
+hash = "535cb4be0e360c0b62151a8f755d741fa4e384089092a2fd88cd5e074f8a7d4b"
 metafile = true
 
 [[files]]
@@ -433,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg-fabric.pw.toml"
-hash = "0de0238ecfce8ced06680d90873102d2254d4fc3a28ae89b92b74747baf49a40"
+hash = "791c0097dcf6818c3712ec2685c96b980ceb774b29594441f2d70681d13be32e"
 metafile = true
 
 [[files]]
@@ -483,12 +499,12 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "3d4e6f422e25b9914e4f0fa90facd277b059c0ec44236b167950d24117b94f3d"
+hash = "c580ee71a4984b12daeaa624b4b1aef4d23b0080bec358f00b32886cbdaf07d2"
 metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
-hash = "c32bc1f87bc6d82b6edffbd8f7567a9de6323c490f1baf69b21c2fc580d196ca"
+hash = "bcece2ca99fde18910a388bc5376ab80660f3153cc418bacd80cf5885eb19b30"
 metafile = true
 
 [[files]]
@@ -518,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-tooltip.pw.toml"
-hash = "9a214f32cae23dfecc904a3efdd1c6efbe85ac8ce4f4b7affc709583ea3bb8ad"
+hash = "0d21d11cfa4eb295f0b797534389ff3b0d4de770526152dba4943cc158c87a72"
 metafile = true
 
 [[files]]
@@ -538,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-keybinding-fabric.pw.toml"
-hash = "3eca92bd6c3090376df87cecc4c910f36448063d719e305aea08374cfcb4df98"
+hash = "497ac98504360fd6de56c8ccc01d87f5f59e2c27f62c31acf0361d2f048041dc"
 metafile = true
 
 [[files]]
@@ -573,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "b1948f2d8cb919ca9c8cbb268f4c6c482a3837b334eaf3e2e4d02ca36e2f2377"
+hash = "d354a5658ec94ee3b9fbbb93ca16c69fda244b83bcd0769157a77fef417e3fde"
 metafile = true
 
 [[files]]
@@ -588,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "b3e3de06cd08407f6b0b7b35149b585be0488efb594076fac5dea076c577c3d6"
+hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
 metafile = true
 
 [[files]]
@@ -608,12 +624,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8166905016dd524e96666f302f7d7f79cdbfe53f13ecbbab53dead4853f52b30"
+hash = "28965fef01bcf57fea87f5fa571001441e4eabb374ba37dad7a160c9a0043684"
 metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
-hash = "fb752f6005c21f8dbe2b1199160abb4894578e54c107da969129bbbfa32fc14b"
+hash = "92ca2c0f87314cf068722a627ae9eaa832c7c5cc3aae03009d3a035f5fc2e80d"
 metafile = true
 
 [[files]]
@@ -638,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "ba060d77d22f7907553a5fe7705bda39803c54a3f633b4df3bebacc53b1b423b"
+hash = "21bc7ed1d5defdfebe0d0799d1dcc9311d3f64609dcae4c32aba96e2aefdaae9"
 metafile = true
 
 [[files]]
@@ -787,6 +803,18 @@ hash = "8b4dc5e16f584e9e4f64432617b33daa0b52ae0bb9927c76de34a500945dd3f7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Breakneck Lang/assets/minecraft/lang/en_us.json"
+hash = "cd034101932a6fcef3133fbc124ef1940cac1b1ee9ea81a6202c1273a699e57a"
+
+[[files]]
+file = "resourcepacks/Breakneck Lang/pack.mcmeta"
+hash = "ee2a63c2dea0ec5f89b28bada0fbfaeb2173b5e4759823b230b6dd91e00935ba"
+
+[[files]]
+file = "resourcepacks/Breakneck Lang/pack.png"
+hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "0fc625e075a11cf7b2592846f33cba852d5402c40d85902ef06b5dbdfdfd5624"
 metafile = true
@@ -812,7 +840,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "563c07978b05bd9fb7b40cb27091d77a307f82cbfc235f6542255a75ab0230b6"
+hash = "b8d503055cbbff1cce48341d805bdf7d072434b1f6eb9fff78b805edcaa8fbea"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
