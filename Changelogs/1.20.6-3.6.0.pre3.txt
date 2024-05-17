@@ -2,17 +2,22 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ Added 
+~ Ported changes from v3.4.7, including animated eyes and renaming "Open to LAN" button.
+~ Added 'Puzzle' mod.
 ~ Updated mods to their latest version.
-~ Re-enabled updated mods that are compatible with 1.20.6.
+~ Re-enabled updated mods that have become compatible with 1.20.6.
 
 
 Mods added:
 + Remove Reloading Screen
++ Puzzle
++ Resource Pack Overrides [Disabled]
++ Modern KeyBinding [Disabled]
+
 
 Resource Packs added:
 + Just Expressions
-+ Fresh Moves
++ Fresh Moves [Pinned]
 
 Shader Packs added:
 + 
@@ -79,3 +84,9 @@ Shader Packs updated:
 Config changes:
 = Changed preventFirstPersonHandAnimating to "true": [Entity Model Features]
 = Changed skinTransparencyMode to "ALL": [Entity Texture Features]
+= Force enabled 'JustExpressions' resource pack: [Resource Pack Overrides]
+= Changed enablePinning to "false": [Better Recipe Book]
+= Changed menu.shareToLan lang value to "Open to Friends": [Breakneck Lang]
+= Changed lanServer.title lang value to "Shared World": [Breakneck Lang]
+= Changed lanServer.start lang value to "Start Shared World": [Breakneck Lang]
+= Force enabled 'Breakneck Lang' resource pack: [Resource Pack Overrides]

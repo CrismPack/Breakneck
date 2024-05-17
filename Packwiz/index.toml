@@ -537,6 +537,11 @@ hash = "7a9e444b339c575ed5fe9877ea7c2c198c9db19580876ae3ea3835c37910b9a7"
 metafile = true
 
 [[files]]
+file = "mods/modern-keybinding-fabric.pw.toml"
+hash = "3eca92bd6c3090376df87cecc4c910f36448063d719e305aea08374cfcb4df98"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "72a979b48bcc8eccf5ab67dc88b7abf06ed358c0498d2410ecf7d34e65d77fcd"
 metafile = true
@@ -612,6 +617,11 @@ hash = "fb752f6005c21f8dbe2b1199160abb4894578e54c107da969129bbbfa32fc14b"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a2812d16757b7423d2348bc44195170f8cbb084a4a06583af7cb71e7c54fc903"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "e08dca2e0b0baedda2bb054d755c96a74778a4656b1d7538ae7d9399a683d7fd"
 metafile = true
@@ -624,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/replanter.pw.toml"
 hash = "3f40334ed8078559406d5faaa755fbd686e31d4e43bf6c43594377c815ed1c0a"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "ba060d77d22f7907553a5fe7705bda39803c54a3f633b4df3bebacc53b1b423b"
 metafile = true
 
 [[files]]
