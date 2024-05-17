@@ -35,6 +35,7 @@ Mods re-enabled:
 + Nvidium
 + Polytone
 + Prism
++ Forge Config API Port
 
 Metadata changes:
 =  [MR --> CF]
@@ -90,3 +91,5 @@ Config changes:
 = Changed lanServer.title lang value to "Shared World": [Breakneck Lang]
 = Changed lanServer.start lang value to "Start Shared World": [Breakneck Lang]
 = Force enabled 'Breakneck Lang' resource pack: [Resource Pack Overrides]
+= Changed checkUpdates to "false": [Puzzle]
+= Changed showPuzzleInfo to "false": [Puzzle]

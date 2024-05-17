@@ -49,6 +49,10 @@ file = "config/modmenu.json"
 hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
 
 [[files]]
+file = "config/puzzle.json"
+hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
 hash = "ebf4ec974be45b44438c476660b4a2a4133d55f124382f508d97ab0d8d13e75b"
 
@@ -434,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "f1e37bb01241207e4d73835cc358af01c3647d6c844334478e1f078afbbca354"
+hash = "eb944708c712d328757d00ef4860031480230addc59788b7378d146832ecb434"
 metafile = true
 
 [[files]]
