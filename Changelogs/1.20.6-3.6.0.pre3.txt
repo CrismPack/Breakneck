@@ -18,7 +18,18 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ 
++ Advancement Plaques
++ Continuity
++ Eating Animation
++ Equipment Compare
++ Iceberg
++ Language Reload
++ Legendary Tooltips
++ Map Tooltip
++ No Chat Reports
++ Nvidium
++ Polytone
++ Prism
 
 Metadata changes:
 =  [MR --> CF]
@@ -34,7 +45,26 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Advancement Plaques
+> AppleSkin
+> Chat Heads
+> Continuity
+> Eating Animation
+> Equipment Compare
+> Fabric Language Kotlin
+> Falling Leaves
+> Iceberg
+> Language Reload
+> Legendary Tooltips
+> Map Tooltip
+> No Chat Reports
+> Nvidium
+> Polytone
+> Prism
+> Server Country Flags
+> Simple Voice Chat
+> Suggestion Tweaker
+> ViaFabric
 
 
 Mod updates reverted:
