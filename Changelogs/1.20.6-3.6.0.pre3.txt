@@ -93,3 +93,4 @@ Config changes:
 = Force enabled 'Breakneck Lang' resource pack: [Resource Pack Overrides]
 = Changed checkUpdates to "false": [Puzzle]
 = Changed showPuzzleInfo to "false": [Puzzle]
+= Changed options.txt file to make "JustExpressions", "Breakneck Lang" and "breakneckmenu" resources packs to be enabled by default: [YOSBR]

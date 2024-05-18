@@ -130,7 +130,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "54b5ecbcaeaa04e43c99a76229c2b51cf934870c30d798c86fdbce287d3212d4"
+hash = "25266db4f4f260213813f2d76936430e5e7cd37c187297847a5a644e4bac3f93"
 
 [[files]]
 file = "config/zoomify.json"
