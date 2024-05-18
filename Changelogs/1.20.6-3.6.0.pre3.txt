@@ -3,14 +3,12 @@
 Fabric version: Fabric-0.15.11
 Update overview:
 ~ Ported changes from v3.4.7, including animated eyes and renaming "Open to LAN" button.
-~ Added 'Puzzle' mod.
 ~ Updated mods to their latest version.
 ~ Re-enabled updated mods that have become compatible with 1.20.6.
 
 
 Mods added:
 + Remove Reloading Screen
-+ Puzzle
 + Resource Pack Overrides [Disabled]
 + Modern KeyBinding [Disabled]
 

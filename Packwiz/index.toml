@@ -130,7 +130,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "25266db4f4f260213813f2d76936430e5e7cd37c187297847a5a644e4bac3f93"
+hash = "b211ab648f2216ec01904f18180c19525f6677f17306d3c63da247f91b547f6a"
 
 [[files]]
 file = "config/zoomify.json"
@@ -637,11 +637,6 @@ hash = "92ca2c0f87314cf068722a627ae9eaa832c7c5cc3aae03009d3a035f5fc2e80d"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-hash = "a2812d16757b7423d2348bc44195170f8cbb084a4a06583af7cb71e7c54fc903"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "e08dca2e0b0baedda2bb054d755c96a74778a4656b1d7538ae7d9399a683d7fd"
 metafile = true
@@ -812,7 +807,7 @@ hash = "cd034101932a6fcef3133fbc124ef1940cac1b1ee9ea81a6202c1273a699e57a"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.mcmeta"
-hash = "ee2a63c2dea0ec5f89b28bada0fbfaeb2173b5e4759823b230b6dd91e00935ba"
+hash = "abe9ada9934d83eeafb48975ebf2192b13d7cbca50eaaa3dbccfe23e7a849b6a"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.png"
