@@ -1,0 +1,50 @@
+1.20.6 - 3.6.0.pre4
+
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Fixed crashing issue related falling sand or gravel.
+~ Updated mods to their latest version.
+~ Re-enabled updated mods that have become compatible with 1.20.6.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+Mods re-enabled: 
++ Indium
+
+Metadata changes:
+=  [MR --> CF]
+
+Mods removed: 
+- 
+
+Mods disabled: 
+- 
+
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> 
+
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+Config changes:
+= : [mod]
