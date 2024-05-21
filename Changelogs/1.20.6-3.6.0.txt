@@ -2,10 +2,11 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ Added 'Numeral Ping', 'Persistent Inventory Search'.
+~ First proper release for 1.20.6! Most functionality is now in place, though inventory sorting is still missing.
+~ Added 'Numeral Ping' & 'Persistent Inventory Search'.
 ~ Re-enabled 'ClickThrough', 'Screenshot to Clipboard' & 'Shulker Box Tooltip'.
 ~ Temporarily switched to use 'Simple Discord Rich Presence' for the Discord game status.
-~ Fixed crashing issue related falling sand or gravel.
+~ Fixed crashing issue related to falling sand or gravel.
 ~ Cleaned up a bunch of unneeded disabled mods behind the scenes.
 ~ Updated mods to their latest version.
 
