@@ -1,0 +1,13 @@
+name = "Persistent Inventory Search"
+filename = "persistentinventorysearch-1.20.6-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a522e1d3e7dacd6990ecc1116ec437879d79cf6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5306746
+project-id = 880052
