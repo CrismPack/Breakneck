@@ -1,11 +1,12 @@
-1.20.6 - 3.6.0.pre4
+1.20.6 - 3.6.0
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ Added 'Numeral Ping' & 'Persistent Inventory Search'.
+~ Added 'Numeral Ping', 'Persistent Inventory Search'.
+~ Re-enabled 'ClickThrough', 'Screenshot to Clipboard' & 'Shulker Box Tooltip'.
+~ Temporarily switched to use 'Simple Discord Rich Presence' for the Discord game status.
 ~ Fixed crashing issue related falling sand or gravel.
-~ Temporarily switched to use 'Simple Discord Rich Presence' for the Discord status.
-~ Removed a bunch of unneeded disabled mods behind the scenes.
+~ Cleaned up a bunch of unneeded disabled mods behind the scenes.
 ~ Updated mods to their latest version.
 
 
@@ -15,11 +16,13 @@ Mods added:
 + Collective [Dependency of 'Persistent Inventory Search']
 + Simple Discord Rich Presence [Temporary replacement to 'Simple Discord RPC']
 
+
 Resource Packs added:
 + 
 
 Shader Packs added:
 + 
+
 
 Mods re-enabled: 
 + Indium [Dependency of 'Continuity']
@@ -30,6 +33,7 @@ Mods re-enabled:
 
 Metadata changes:
 =  [MR --> CF]
+
 
 Mods removed: 
 - Better Ping Display [Replaced with 'Numeral Ping'], [Previously disabled]
@@ -44,9 +48,9 @@ Mods removed:
 - thorium [Previously disabled]
 - Better Biome Blend [Previously disabled]
 
+
 Mods disabled: 
 - 
-
 
 Resource Packs removed:
 - 
@@ -74,6 +78,7 @@ Resource Packs updated:
 
 Shader Packs updated:
 > 
+
 
 Config changes:
 = Changed sdrp.logo lang value to "Breakneck: Optimized - Minecraft 1.20.6": [Breakneck Lang]

@@ -795,7 +795,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "a53a684634fbf7c584fe0c7b6a91e98a99f38084fc61bfdf091d24a78f9a4cad"
+hash = "a5bd34e368a5aebc272d4c21d38095a97fcd69d2c1466febde84b46a0f85c228"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
