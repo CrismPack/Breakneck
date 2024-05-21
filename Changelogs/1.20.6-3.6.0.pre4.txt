@@ -4,7 +4,6 @@ Fabric version: Fabric-0.15.11
 Update overview:
 ~ Fixed crashing issue related falling sand or gravel.
 ~ Updated mods to their latest version.
-~ Re-enabled updated mods that have become compatible with 1.20.6.
 
 
 Mods added:
@@ -18,7 +17,9 @@ Shader Packs added:
 + 
 
 Mods re-enabled: 
-+ Indium
++ Indium [Dependency of 'Continuity']
++ Shulker Box Tooltip
+
 
 Metadata changes:
 =  [MR --> CF]
@@ -34,7 +35,18 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Architectury API
+> Better Statistics Screen
+> Chat Heads
+> Fabric API
+> Fabric Language Kotlin
+> Fzzy Config
+> ImmediatelyFast
+> Paginated Advancements
+> Polytone
+> Shulker Box Tooltip
+> Simple Voice Chat
+> Wavey Capes
 
 
 Mod updates reverted:

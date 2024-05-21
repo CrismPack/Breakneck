@@ -73,20 +73,12 @@ file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 
 [[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "883716d88b7f26a6a6b1dc48e0aca15477f958b15d5a2f9ae70e99f073727a9d"
-
-[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "85b34676f21e81c21e6c0049610520ff3afabca6bc51f4bb80a9e5c8adb59748"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
 hash = "abcf55b8b8615b6b39cfec1fee7e51661629842f40f9929dd4027d650196890f"
-
-[[files]]
-file = "config/yosbr/config/fpsreducer/fpsreducer-client.toml"
-hash = "7322f9a50c0218cefbc24cd1c1a7fb36f1445fb211d0990533edcd4968f16b95"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -158,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4709a2e3505177bb542aaa24aebca611ed261f45ab0393a441c7a5d1140109d9"
+hash = "89ce428de038432b6b7ef4ea37b49a3942519f77050ecd851360b6b9a87734fd"
 metafile = true
 
 [[files]]
@@ -193,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "fff2dceb2fb2667bb36c7ec8891e50a138b721faba2beb3752fc839a30594a90"
+hash = "9e26555ade5643dd7e5bd2bf6f5d0559d422362b09883450fb5b7b03b0c2ea84"
 metafile = true
 
 [[files]]
@@ -243,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3145a62a0962fa512a84ecd826dc96bf1e21c8a6386d446a70da436a43070265"
+hash = "1c80e41c38807457a10c898e80ef85503a5813a1283c13464d65b16b000d3e95"
 metafile = true
 
 [[files]]
@@ -398,12 +390,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d359d361a2c38566788b84945f526a7db3a5b6886f5ced2421f1724c80e1640b"
+hash = "eaf8b166ec94eb35697b05fc2397fe27025e38c6aecf0237279a1b94d27a039e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9cfe15235c5f9af8386a09087e57e8962713a8a439a61a18e25cda9b9336c60f"
+hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
 metafile = true
 
 [[files]]
@@ -443,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ad8cd8500294ae961fdc22800cbde220aa4127806f450de415ab6d577e9ef663"
+hash = "4f6ca6ffa6f863fa32a4ce4cb2f64ce4ff1aff2f4d72f86af8c7a04a7fbf901c"
 metafile = true
 
 [[files]]
@@ -458,12 +450,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "473e432bbfd3cfc3f57d981232780878e5e5d8171392542b7b66dfb6b2afa5eb"
+hash = "7328e8bd85ae72b833015dc843e24449db112f5194e03d7ba0c3de298476b9ca"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "711673add9f725d71ec791b8696c2d4dea1ed7f287cb83a3197d43d298c381ee"
+hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
 metafile = true
 
 [[files]]
@@ -618,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
-hash = "fa53aa40dd031f910a613312d3db1fa9325f213086a23f24b4dde2fae2120700"
+hash = "50118e744cc2c151bdf5339803fe8a9993e6afa463644a03244d22a27cbc745d"
 metafile = true
 
 [[files]]
@@ -628,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "28965fef01bcf57fea87f5fa571001441e4eabb374ba37dad7a160c9a0043684"
+hash = "db2180e1188e6fb57f9e46aac89d0d6f08f08c3ded7f1efa5d4d2e0e7b8d6b86"
 metafile = true
 
 [[files]]
@@ -698,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "e06a711893f8a141852600c4a5df34aeaae5862ba18564dbc91feb4b8c9adbbf"
+hash = "14d7a190d407d281bf5253d51080a54bb217d255bb216a57019a1d9399723411"
 metafile = true
 
 [[files]]
@@ -708,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ab32e7c5341253ce1fd85df3a89c7b7372202ba845a19e9293e8534b2916cfb1"
+hash = "eca882f18cd953115b8ba27dda39a00751bfd1901532dc280e1c6b5355bc2b91"
 metafile = true
 
 [[files]]
@@ -773,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "45bdff95cab0955af05b0377557f9e5d4d00cb776faf53276a3e1f709fc010df"
+hash = "31b73587218fe390777ad83833140031572ebeec8dd89ad17834362be510549a"
 metafile = true
 
 [[files]]
