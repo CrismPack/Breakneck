@@ -118,4 +118,4 @@ Shader Packs updated:
 
 
 Config changes:
-= : [mod]
+= Made the "Copyright Mojang AB. Do not distribute!" text clickable: [FancyMenu], [3.2.0.pre1]
