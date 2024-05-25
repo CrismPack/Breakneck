@@ -1,0 +1,58 @@
+1.20.6 - 3.6.1
+
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Re-enabled 'Client Tweaks'.
+~ Updated mods to their latest version.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+
+Mods re-enabled: 
++ Client Tweaks
++ Balm [Dependency of 'Client Tweaks']
+
+
+Metadata changes:
+=  [MR --> CF]
+
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> Balm
+> Client Tweaks
+> Collective
+> Eating Animation
+> Polytone
+
+
+Mod updates reverted:
+> 
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+
+Config changes:
+= : [mod]

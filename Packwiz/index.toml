@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "2005c533a080eba0316200055aa4dd7fb04febaff2dad2bd065e2145a2aaf105"
+hash = "9bf6db93f274e69e146b035e06fed81aed182482e41d096f812ade737547e0c6"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks-fabric.pw.toml"
-hash = "b0e07a7de0e4fd42be5381191c93592507c0a7c593a9d6e2311f4178a999975a"
+hash = "05a227dd0723eab90dac6314c8ddbf0f3798d648ee1fac99dfc871e932899679"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7ba1f4ad4763df88ea82bdb6ca7ba1976a818d132eec855ab76b2f77423d738b"
+hash = "f0df825bf06098d69cd1a31720e055f5b6b0b3e462bc83ff590266f8105e0b1f"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "4b530b70b2008323a3814238fbdea5217593f096de599fd9288af1d4bf3f3ce7"
+hash = "413705ceb0b2c3720bab0fede1b2f70a094f7576d9bbe4f3cc9c06bac4887236"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "db2180e1188e6fb57f9e46aac89d0d6f08f08c3ded7f1efa5d4d2e0e7b8d6b86"
+hash = "2e7595169501e848bf07ae5f52ad6ce944d0c48803cf2f6baf5d4480a013c6ad"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "a5bd34e368a5aebc272d4c21d38095a97fcd69d2c1466febde84b46a0f85c228"
+hash = "c8ed6626d5c1c108ecbf949e68b0067e2247f2866e3d500e38e151b4f6a51b1a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
