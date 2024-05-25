@@ -1,13 +1,14 @@
 1.20.1 - 3.1.11
 
-Fabric version: Fabric-0.14.22
-Update overview: 
-~ 
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Backported cumulative changes between 3.1.10 and 3.6.0.
 ~ Updated mods to their latest version.
 
 
 Mods added:
-+ 
++ Status Effect Bars
+
 
 Resource Packs added:
 + 
@@ -15,11 +16,20 @@ Resource Packs added:
 Shader Packs added:
 + 
 
+
 Mods re-enabled: 
-+ 
++ Better Recipe Book
+
+
+Metadata changes:
+= Iris Shaders [MR --> CF]
+= Sodium [MR --> CF]
+
 
 Mods removed: 
-- 
+- Entity Culling
+- Status Effect Timer [Previously disabled]
+
 
 Mods disabled: 
 - 
@@ -27,15 +37,85 @@ Mods disabled:
 Resource Packs removed:
 - 
 
-Mods updated: 
-> 
+
+Mods updated:
+> AppleSkin
+> Architectury API
+> Balm
+> Better Advancements
+> Better Statistics Screen
+> Bookshelf
+> Branded Logs
+> Better Recipe Books
+> Chat Heads
+> Cherished Worlds
+> CIT Resewn
+> Clear Despawn
+> Cloth Config API
+> Connectivity
+> Continuity
+> CraterLib
+> Cupboard
+> Don't Clear Chat History
+> Dynamic FPS
+> Eating Animation
+> Enchantment Descriptions
+> Entity Model Features
+> Entity Texture Features
+> Equipment Compare
+> Fabric API
+> Fabric Language Kotlin
+> FabricSkyboxes
+> Falling Leaves
+> FancyMenu
+> FerriteCore
+> Iceberg
+> ImmediatelyFast
+> Indium
+> Inventory Profiles Next
+> Iris Shaders
+> ItemSwapper
+> Konkrete
+> Lan Server Properties
+> Language Reload
+> Legendary Tooltips
+> libIPN
+> LiLaC
+> MaLiLib
+> Model Gap Fix
+> Mouse Tweaks
+> Name Pain
+> Not Enough Animations
+> OptiGUI
+> Roughly Enough Items
+> Roughly Enough Professions
+> Searchables
+> Simple Discord RPC
+> Simple Voice Chat
+> Skin Layers 3D
+> Smooth Chunk Save
+> Sodium Extra
+> Sodium
+> Tool Stats
+> ViaFabric
+> Wavey Capes
+> Xaero's Minimap Fair-play Edition
+> Xaero's World Map
+> YetAnotherConfigLib
+> Zoomify
+
 
 Mod updates reverted:
 > 
 
+
 Resource Packs updated: 
+> Fresh Animations
+
+
+Shader Packs updated:
 > 
 
-Config changes: 
-= "Need a server?" button now opens the BHMenu screen: [FancyMenu]
+
+Config changes:
 = : [mod]

@@ -1,13 +1,13 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.34.1_Fabric_1.20.jar"
+filename = "XaerosWorldMap_1.38.4_Fabric_1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8a455f2e872bfca4726f84e71286d5d8f2f9cef9"
+hash = "2f43d0560a1b1f8efd09fb1a533f4d7090c071ab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4749602
+file-id = 5262428
 project-id = 317780
