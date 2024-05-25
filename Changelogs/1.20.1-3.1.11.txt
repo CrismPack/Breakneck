@@ -66,6 +66,7 @@ Mods removed:
 - Damage Tilt [Not needed after MC 1.19.4], [Previously disabled]
 - Colormatic [Replaced by 'Polytone'], [Previously disabled]
 - Load My Resources
+- Fastload
 
 
 Mods disabled: 

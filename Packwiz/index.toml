@@ -438,11 +438,6 @@ hash = "e371a3d46a1102f90dedaf9147219cf4d2b12ed01eca5fba0026feaf35e98b9a"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "41850b618156f9bd79bc245901a022244b0020c9de3136277514f5447ba23f0d"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "d15f94b721a01d87f9f714429a5a2dec23992e67d2bbafa65fc53f203f45ff1b"
 metafile = true
