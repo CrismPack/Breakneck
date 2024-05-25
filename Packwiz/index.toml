@@ -33,10 +33,6 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "d6959e42a3b48b6e791da6ce8dbeb25d6796f7eb5dee672599f3d212ea1de75b"
 
 [[files]]
-file = "config/fancymenu/customization/.disabled/BreakneckPanorama_Dark.txt"
-hash = "05efd2a913ab95b15073cc45f98c8f488a5c453e3857992bde4f25f445946b13"
-
-[[files]]
 file = "config/fancymenu/customization/Breakneck Fabric.txt"
 hash = "95be0be5f57120f43dd85bcab53405c0aed73652fa734ee2c19b00610cc91121"
 
@@ -51,34 +47,6 @@ hash = "cb28f3da7c8c164a157d3cb017ad1c17ff0816a44f63705e0cccad17a2454e50"
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_0.png"
-hash = "683d664255a20f613de2983d2aea3df074aab1cfd9f866d4552e1edd9db47654"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_1.png"
-hash = "353134657b0bdc972fc9bc420bf0b5a33c57ad56429eff7be52ac96ce6ed2568"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_2.png"
-hash = "62ffe1233d42882a508e763495fdd9de3b8023c4f9a4cf5916ab0a4332286693"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_3.png"
-hash = "81a2a92d3aec94c274aa65195fd1bfeaea51d294f825df6e027b00c78b62a36a"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_4.png"
-hash = "eb00145786ebb04948f26a728c1befd37d2dc3ccf23a741cebc87265a2f41641"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/panorama/panorama_5.png"
-hash = "1e45768ba44ddfe2a067d823622c4996ac08f43f14ff54228d933af91c6d03df"
-
-[[files]]
-file = "config/fancymenu/panoramas/breakneckpanorama_dark/properties.txt"
-hash = "0dc6dbc9863a40224ee8bcf7a10cecd0bb6970aae9dc070f416fe45503fc7f78"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
