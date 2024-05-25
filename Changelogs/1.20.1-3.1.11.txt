@@ -2,33 +2,70 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ Backported cumulative changes between 3.1.10 and 3.6.0.
+~ Backported all changes made between version 3.1.10 and 3.4.7 of the modpack.
+~ Changes to the FancyMenu title screen, making it look closer to our 'Breakneck Menu' mod.
 ~ Updated mods to their latest version.
 
 
 Mods added:
 + Status Effect Bars
-
++ Resourcify
++ True Darkness Fork
++ More Culling [MR]
++ Server Country Flags
++ ClickThrough
++ Nvidium [MR]
++ Noisium
++ Suggestion Tweaker
++ Reese's Sodium Options
++ Panorama Screens
++ ModernFix
++ Particle Core
++ Fzzy Config [Dependency of 'Particle Core']
++ StackDeobfuscator
++ BadOptimizations
++ Paginated Advancements & Custom Frames
++ MixinTrace
++ Resource Pack Overrides 
++ Modern KeyBinding
++ Cubes Without Borders
++ Polytone
++ Persistent Inventory Search
++ Collective [Dependency of 'Persistent Inventory Search']
++ Remove Reloading Screen
 
 Resource Packs added:
-+ 
++ Slightly Improved Font (32x)
++ Fresh Moves
++ Just Expressions
 
 Shader Packs added:
-+ 
-
++ Complementary Shaders - Unbound
 
 Mods re-enabled: 
 + Better Recipe Book
-
++ Screenshot to Clipboard
 
 Metadata changes:
 = Iris Shaders [MR --> CF]
 = Sodium [MR --> CF]
-
+= Lithium [MR --> CF]
+= Mod Menu [MR --> CF]
 
 Mods removed: 
 - Entity Culling
-- Status Effect Timer [Previously disabled]
+- Status Effect Timer (Previously disabled)
+- MidnightLib (Previously disabled)
+- Better Sodium Video Settings Button (Incompatible with new version of 'Sodium')
+- Better Advancements [Replaced by 'Paginated Advancements']
+- thorium (Previously disabled)
+- Better Biome Blend (Previously disabled)
+- Better Beds (Previously disabled)
+- Multiconnect [Previously disabled]
+- I Know What I'm Doing [Previously disabled]
+- Damage Tilt [Not needed after MC 1.19.4], [Previously disabled]
+- Colormatic [Replaced by 'Polytone'], [Previously disabled]
+- Load My Resources
 
 
 Mods disabled: 
@@ -48,7 +85,7 @@ Mods updated:
 > Branded Logs
 > Better Recipe Books
 > Chat Heads
-> Cherished Worlds
+> Cherished Worlds [Pinned]
 > CIT Resewn
 > Clear Despawn
 > Cloth Config API
@@ -103,6 +140,7 @@ Mods updated:
 > Xaero's World Map
 > YetAnotherConfigLib
 > Zoomify
+> Raised
 
 
 Mod updates reverted:
@@ -114,8 +152,23 @@ Resource Packs updated:
 
 
 Shader Packs updated:
-> 
+> Complementary Shaders - Reimagined
 
 
 Config changes:
 = Made the "Copyright Mojang AB. Do not distribute!" text clickable: [FancyMenu], [3.2.0.pre1]
+= Disabled darkOverworld, darkDefault, darkNether, darkEnd & darkSkyless by default: [True Darkness Fork], [3.2.2]
+= Changed "mapButtonRight" to false: [Server Country Flags], [3.4.1]
+= Changed alwaysOn to "true": [Shulker Box Tooltip], [3.4.5]
+= Enabled "forceUpdates" for tablist, vignette & health bar: [Exordium], [3.4.6]
+= Changed "enableSignBuffering" to "true": [Exordium], [3.4.6]
+= Config is now handled by 'YOSBR': [Exordium], [3.4.6]
+= Enabled idle timer and set it to 5 minutes by default: [Dynamic FPS], [3.4.6]
+= Changed preventFirstPersonHandAnimating to "true": [Entity Model Features], [3.4.7]
+= Changed skinTransparencyMode to "ALL": [Entity Texture Features], [3.4.7]
+= Force enabled 'JustExpressions' resource pack: [Resource Pack Overrides], [3.4.7]
+= Changed enablePinning to "false": [Better Recipe Book], [3.4.7]
+= Changed menu.shareToLan lang value to "Open to Friends": [Breakneck Lang], [3.4.7]
+= Changed lanServer.title lang value to "Shared World": [Breakneck Lang], [3.4.7]
+= Changed lanServer.start lang value to "Start Shared World": [Breakneck Lang], [3.4.7]
+= Force enabled 'Breakneck Lang' resource pack: [Resource Pack Overrides], [3.4.7]

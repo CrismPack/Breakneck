@@ -1,6 +1,6 @@
 name = "Screenshot to Clipboard (Fabric)"
 filename = "screenshot-to-clipboard-1.0.9-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
@@ -11,6 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3643025
 project-id = 327154
-
-[option]
-optional = true

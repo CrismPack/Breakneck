@@ -1,0 +1,13 @@
+name = "Fresh Moves"
+filename = "Eyeless Fresh Moves v3.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afc40bb6a1f77ada948ce07e3c3cf0210cd72c89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5304050
+project-id = 990406
