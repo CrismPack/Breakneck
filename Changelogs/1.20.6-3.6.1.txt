@@ -41,7 +41,11 @@ Mods updated:
 > Client Tweaks
 > Collective
 > Eating Animation
+> Fzzy Config
 > Polytone
+> Shulker Box Tooltip
+> Skin Layers 3D
+> Zoomify
 
 
 Mod updates reverted:

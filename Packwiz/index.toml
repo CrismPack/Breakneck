@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "4f6ca6ffa6f863fa32a4ce4cb2f64ce4ff1aff2f4d72f86af8c7a04a7fbf901c"
+hash = "645bf406da9488710ff91987d56850356fba348aa25cf343d276c8f1e4ad8ace"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2e7595169501e848bf07ae5f52ad6ce944d0c48803cf2f6baf5d4480a013c6ad"
+hash = "a9869acf6e91ebcf5ad5de6b12244a9a4547980a2668a353881b5bf0b611901f"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "14d7a190d407d281bf5253d51080a54bb217d255bb216a57019a1d9399723411"
+hash = "5c8b5f18c3034b3c1357d01432bb8af9471f4fbe3908016ce8c1e315c7a74f2d"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "6af8cf17271113f3dac657df413c9cfd373d484a97d2abc6d40d914f5d479b19"
+hash = "6f83be3585503233a90992299cfaaef942744f1e56463afe25f97ae493496c78"
 metafile = true
 
 [[files]]
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "8b4dc5e16f584e9e4f64432617b33daa0b52ae0bb9927c76de34a500945dd3f7"
+hash = "ddd6b256de0c23239e9138fcfc9e863ffce06ce71bc8fdfb54f9f5a4114be9b8"
 metafile = true
 
 [[files]]
