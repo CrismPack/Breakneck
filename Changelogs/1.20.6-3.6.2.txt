@@ -1,0 +1,60 @@
+1.20.6 - 3.6.2
+
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Re-enabled 'Noisium'.
+~ Fixed crashing issue related to 'Fzzy Config'.
+~ Updated mods to their latest version.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+Shader Packs added:
++ 
+
+
+Mods re-enabled: 
++ Noisium
+
+
+Metadata changes:
+=  [MR --> CF]
+
+
+Mods removed: 
+- 
+
+
+Mods disabled: 
+- 
+
+Resource Packs removed:
+- 
+
+Mods updated:
+> Balm
+> Collective
+> Noisium
+> Shulker Box Tooltip
+> YetAnotherConfigLib
+> Fzzy Config [Pinned 0.3.3+1.20.6]
+
+
+Mod updates reverted:
+> 
+
+
+Resource Packs updated: 
+> 
+
+Shader Packs updated:
+> 
+
+
+Config changes:
+= : [mod]

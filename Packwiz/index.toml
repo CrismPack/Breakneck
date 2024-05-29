@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "9bf6db93f274e69e146b035e06fed81aed182482e41d096f812ade737547e0c6"
+hash = "972d65a686cf5ff92b1a61f28c209a7174942fd64400b144b8a5f65f86a114ee"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f0df825bf06098d69cd1a31720e055f5b6b0b3e462bc83ff590266f8105e0b1f"
+hash = "2d6f8b0abc6f981ed9ef3e8bc9afaaa056e8f1c32cd330d2dd163ec2e216b554"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "645bf406da9488710ff91987d56850356fba348aa25cf343d276c8f1e4ad8ace"
+hash = "17ccec0a497ba74e45eb515becd4681c99384e2ae40d774d6cdb8f4987d4b93a"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e87b4f8dd7477bf518abb60807917a6efeb4d07f9bbc0295e0988d8cfc04cf52"
+hash = "ecee94fc17b6dc9c93da9713e490c5f896983cce6587100b14c01b0cb1484d20"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "5c8b5f18c3034b3c1357d01432bb8af9471f4fbe3908016ce8c1e315c7a74f2d"
+hash = "6742bad2d35a0f47b61f8e70bb5bfb70e3a0556cb5d7e4fafbce4f153be79deb"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d783a363fbdde96a4dccc385bb9eefa893a04966423d8eac110297b4655487ea"
+hash = "3b563c61e167ddde3abb00355ee476f96789b8bf0f77dcc19c7022452cca442c"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
 
 [[files]]
 file = "resources/modpack/modpackversion.txt"
-hash = "c8ed6626d5c1c108ecbf949e68b0067e2247f2866e3d500e38e151b4f6a51b1a"
+hash = "17e88820301759667da0b6caad2dbbf430b6a3a36bb9bf27a280eda12c6fd93e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
