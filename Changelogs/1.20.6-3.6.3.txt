@@ -17,7 +17,7 @@ Shader Packs added:
 
 
 Mods re-enabled: 
-+ 
++ Enhanced Block Entities
 
 
 Metadata changes:
@@ -35,7 +35,24 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Architectury API
+> Balm
+> Branded Logs
+> e4mc
+> Enhanced Block Entities
+> Fabric API
+> Falling Leaves
+> Forge Config API Port
+> ImmediatelyFast
+> Indium
+> Map Tooltip
+> ModernFix
+> Polytone
+> Resourcify
+> Remove Reloading Screen
+> Sodium
+> ViaFabric
+> Xaero's World Map
 
 
 Mod updates reverted:
@@ -46,7 +63,8 @@ Resource Packs updated:
 > 
 
 Shader Packs updated:
-> 
+> Complementary Shaders - Reimagined
+> Complementary Shaders - Unbound
 
 
 Config changes:
