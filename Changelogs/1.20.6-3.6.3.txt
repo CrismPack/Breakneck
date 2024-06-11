@@ -2,6 +2,7 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
+~ Re-enabled 'Enhanced Block Entities'.
 ~ Updated mods to their latest version.
 
 

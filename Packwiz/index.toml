@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc.json"
+hash = "11dfa93d9c187feb86c59277522c2e0dfee5b913c0425b63c93507fd3d2ff0dc"
+
+[[files]]
 file = "config/bhmenu/bhmenu-general.properties"
 hash = "63bbcbf91584e9f2a31d36af1d96a214fb1c7138fa9682e63a51fb93173ea8fa"
 
@@ -11,6 +15,10 @@ hash = "3abdaf4809f784063f9f9eca1e75fa54e121755882ccbcd9233399dba9e6856c"
 [[files]]
 file = "config/bhmenu/bhmenu-server_creator_banner.properties"
 hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
+
+[[files]]
+file = "config/brandedlogs.json5"
+hash = "73253a17555427f3c3bf3098358c3128830fc616ad5ec44403295568aa69aa00"
 
 [[files]]
 file = "config/brb.toml"
@@ -199,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/branded-logs.pw.toml"
-hash = "553463f8c371123461166015a11ef5f3b0f0a7ea61289ea80ef073dadf6c5345"
+hash = "319fd45d4ae04e13c764f242137380b361b75da59700c7868cfd4bbdcc1f2d23"
 metafile = true
 
 [[files]]
@@ -344,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "dc9c10015f37560886908979644156eb3729cf155658b7fd87aa594203089ce1"
+hash = "0bc1342b759dc7c812b9deaf36a956130177b98c6a34d4a5dd8f9f1608d4cd26"
 metafile = true
 
 [[files]]
@@ -788,14 +796,6 @@ metafile = true
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "151325c54d5a04931899469bbdfa9a43524fe32ac66da43e9baac2ce61a7ae9a"
 metafile = true
-
-[[files]]
-file = "resources/modpack/modpackname.txt"
-hash = "f1b92858d6d0057a367a2b71970da82d656f0c742a110f42b6605b463441fa7c"
-
-[[files]]
-file = "resources/modpack/modpackversion.txt"
-hash = "17e88820301759667da0b6caad2dbbf430b6a3a36bb9bf27a280eda12c6fd93e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
