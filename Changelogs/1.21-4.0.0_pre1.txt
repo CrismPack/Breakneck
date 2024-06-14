@@ -1,8 +1,10 @@
-1.21 - 4.0.0-pre1
+1.21 - 4.0.0_pre1
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ 
+~ Initial migration to Minecraft 1.21.
+~ Updated mods to their latest version.
+~ Disabled mods that has not yet been updated.
 
 
 Mods added:
@@ -22,7 +24,7 @@ Mods re-enabled:
 
 
 Metadata changes:
-=  [MR --> CF]
+= Indium [CF --> Bundled]
 
 
 Mods removed: 
@@ -50,7 +52,6 @@ Mods disabled:
 - FerriteCore
 - Fzzy Config
 - Iceberg
-- Indium
 - ItemSwapper
 - Krypton
 - Legendary Tooltips
@@ -70,7 +71,6 @@ Mods disabled:
 - Particle Core
 - Polytone
 - Prism
-- Reese's Sodium Options
 - Replanter
 - Roughly Enough Items
 - Roughly Enough Professions

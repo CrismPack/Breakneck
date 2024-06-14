@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "449e8de1706174b22ab7a67987838eba2f46efaa6e90497ed5ecb38170ca1ae6"
+hash = "d5db027b76ae8bde4341f022a2bfbdbaad643083f3984bd3d6ef2304cafe8473"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -431,6 +431,10 @@ hash = "d9f2e310134bb9ceaeb04b663da62efdfecf2bb512e248894fd5876314232450"
 metafile = true
 
 [[files]]
+file = "mods/indium-1.0.32-dev.001bdbb+mc1.21.jar"
+hash = "d3ed68b3b2241eb34c6a27fcf45d720d626d530621bebaf98757b79cd7d85ced"
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "04db45154cbe8ed4a7fb479ad9c482ef73edb6a6197da0303f7281ea9bde14c3"
 metafile = true
@@ -612,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "bd3bd7dc50a4b8f7403b5fda7382c96f6f02bad50af5d7fbd87a83c8816063e8"
+hash = "addc2d9bb42e495eb1464b17f5cfb9e7f284d9a76d37d8ef0d9943ae30f0a756"
 metafile = true
 
 [[files]]
