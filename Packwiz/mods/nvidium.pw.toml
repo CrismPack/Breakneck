@@ -1,6 +1,6 @@
 name = "Nvidium"
 filename = "nvidium-0.2.7-beta.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/Di2JxVAQ/nvidium-0.2.7-beta.jar"

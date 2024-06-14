@@ -1,6 +1,6 @@
 name = "Roughly Enough Items Fabric/Forge/NeoForge (REI)"
 filename = "RoughlyEnoughItems-15.0.728-fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

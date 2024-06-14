@@ -1,6 +1,6 @@
 name = "True Darkness [Fabric] - Updated Fork"
 filename = "TrueDarknessFork-1.0.3-1.20.5.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

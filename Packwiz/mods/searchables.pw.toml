@@ -1,6 +1,6 @@
 name = "Searchables"
 filename = "Searchables-fabric-1.20.6-1.0.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

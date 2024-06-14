@@ -1,6 +1,6 @@
 name = "Cherished Worlds (Fabric/Forge/NeoForge/Quilt)"
 filename = "cherishedworlds-fabric-9.0.0+1.20.6.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "AppleSkin"
 filename = "appleskin-fabric-mc1.20.5-3.0.2.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

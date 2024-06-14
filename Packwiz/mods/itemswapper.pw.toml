@@ -1,6 +1,6 @@
 name = "ItemSwapper"
 filename = "itemswapper-fabric-0.6.3-mc1.20.6.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

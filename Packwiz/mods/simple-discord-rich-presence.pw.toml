@@ -1,6 +1,6 @@
 name = "Simple Discord Rich Presence (Forge /  Fabric)"
 filename = "SimpleDiscordRichPresence-fabric-86.0.1-build.47+mc1.20.6.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Server Country Flags"
 filename = "servercountryflags-1.10.2-1.20.6-FABRIC.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

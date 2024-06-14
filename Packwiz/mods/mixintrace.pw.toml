@@ -1,6 +1,6 @@
 name = "MixinTrace"
 filename = "mixintrace-1.1.1+1.17.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

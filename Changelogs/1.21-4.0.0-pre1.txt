@@ -6,7 +6,7 @@ Update overview:
 
 
 Mods added:
-+ 
++ TCDCommons API [New dependency of 'Better Statistics Screen']
 
 
 Resource Packs added:
@@ -30,10 +30,68 @@ Mods removed:
 
 
 Mods disabled: 
-- 
+- Advancement Plaques
+- Ambient Environment
+- AppleSkin
+- Better Taskbar
+- Bobby
+- Capes
+- Cherished Worlds
+- Clear Despawn
+- ClickThrough
+- Controlling
+- Cubes Without Borders
+- Custom Window Title
+- Dark Loading Screen
+- Debugify
+- Eating Animation
+- Equipment Compare
+- FastQuit
+- FerriteCore
+- Fzzy Config
+- Iceberg
+- Indium
+- ItemSwapper
+- Krypton
+- Legendary Tooltips
+- Lithium
+- MixinTrace
+- Model Gap Fix
+- More Culling
+- Mouse Tweaks
+- Name Pain
+- No Chat Reports
+- Noisium
+- Not Enough Animations
+- Numeral Ping
+- Nvidium
+- OptiGUI
+- Paginated Advancements & Custom Frames
+- Particle Core
+- Polytone
+- Prism
+- Reese's Sodium Options
+- Replanter
+- Roughly Enough Items
+- Roughly Enough Professions
+- Screenshot to Clipboard
+- Searchables
+- Server Country Flags
+- Shulker Box Tooltip
+- Simple Discord Rich Presence
+- Skin Layers 3D
+- Status Effect Bars
+- Suggestion Tweaker
+- True Darkness Fork
+- ViaFabric
+- Wavey Capes
+- Xaero's World Map
+- Zoomify
+
 
 Resource Packs removed:
 - 
+
 
 Mods updated:
 > Animatica

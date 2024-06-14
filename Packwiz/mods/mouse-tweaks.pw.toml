@@ -1,6 +1,6 @@
 name = "Mouse Tweaks"
 filename = "MouseTweaks-fabric-mc1.20.6-2.26.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

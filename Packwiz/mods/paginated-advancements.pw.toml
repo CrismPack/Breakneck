@@ -1,6 +1,6 @@
 name = "Paginated Advancements & Custom Frames"
 filename = "paginatedadvancements-2.4.2.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

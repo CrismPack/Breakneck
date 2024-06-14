@@ -1,6 +1,6 @@
 name = "Zoomify"
 filename = "Zoomify-2.13.5+1.20.6.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Indium"
 filename = "indium-1.0.31+mc1.20.4.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"
