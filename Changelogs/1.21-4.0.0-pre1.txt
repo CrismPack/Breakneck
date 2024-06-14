@@ -17,7 +17,8 @@ Shader Packs added:
 
 
 Mods re-enabled: 
-+ 
++ CraterLib
++ Simple Discord RPC
 
 
 Metadata changes:
@@ -35,7 +36,43 @@ Resource Packs removed:
 - 
 
 Mods updated:
-> 
+> Animatica
+> Architectury API
+> BadOptimizations
+> Balm
+> Better Statistics Screen
+> Branded Logs
+> Breakneck Menu
+> Chat Heads
+> CleanView
+> Client Tweaks
+> Cloth Config API
+> Collective
+> Continuity
+> CraterLib
+> Detail Armor Bar
+> Dynamic FPS
+> Enhanced Block Entities
+> Entity Model Features
+> Entity Texture Features
+> Fabric API
+> FabricSkyboxes
+> Falling Leaves
+> Forge Config API Port
+> ImmediatelyFast
+> Iris Shaders
+> Language Reload
+> Map Tooltip
+> ModernFix
+> Mod Menu
+> Persistent Inventory Search
+> Resourcify
+> Remove Reloading Screen
+> Simple Discord RPC
+> Simple Voice Chat
+> Sodium Extra
+> Sodium
+> YetAnotherConfigLib
 
 
 Mod updates reverted:

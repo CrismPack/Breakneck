@@ -1,13 +1,13 @@
 name = "Branded Logs [Fabric]"
-filename = "brandedlogs-2.0.1.jar"
+filename = "brandedlogs-fabric-2.0.2+mc1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7821d8aabd94f476e4550c86165a19969044635a"
+hash = "252dd6fcc876948e4b057821e84c3402cbb021e2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5416871
+file-id = 5426018
 project-id = 882472

@@ -1,13 +1,13 @@
 name = "Map Tooltip"
-filename = "maptooltip-fabric-1.20.5-3.1.0.jar"
+filename = "maptooltip-fabric-1.21-rc1-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cd436bfe719d1c526979217506298c984e9d20eb"
+hash = "119f7e8b499dfff8195eff91324211476bbecb1d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5414677
+file-id = 5423096
 project-id = 384852
