@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d5db027b76ae8bde4341f022a2bfbdbaad643083f3984bd3d6ef2304cafe8473"
+hash = "d6ae73267e9be76bd54d59b699b0463e59bb25c2fd3c894f8b2afeb8df3042dc"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -134,7 +134,7 @@ hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b211ab648f2216ec01904f18180c19525f6677f17306d3c63da247f91b547f6a"
+hash = "154d3f906f33c2e51f98ea434b1c1f0f8cda92014133e05a37570917f948f123"
 
 [[files]]
 file = "config/zoomify.json"
@@ -780,7 +780,7 @@ hash = "a00733cd844075b6f8c8c750e4f4d9d0430de6453c81a98cb165fa217a0fcc87"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.mcmeta"
-hash = "abe9ada9934d83eeafb48975ebf2192b13d7cbca50eaaa3dbccfe23e7a849b6a"
+hash = "02bfbb98bcc8e466e0f04b426c459ee2cca7d8902101f59c6f47ab9d63b46a46"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.png"
@@ -799,6 +799,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
 hash = "37b6610d670c61b94200e1c9cba12c7f9b74dd00f4fac24c4abee1f2d04a4911"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shader-panorama-1-21.pw.toml"
+hash = "34972b9a6f901b8038de91569a0245903606b3d162006bc0b4cbb41fa1e0f253"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Tricky Trials Panorama with Shaders"
+filename = "1.21 Shader panorama.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c5e6f055ced673e508ebee5ff60c83ada3e49fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5428227
+project-id = 1036930
