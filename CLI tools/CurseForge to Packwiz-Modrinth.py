@@ -18,14 +18,14 @@ mods_path = packwiz_path + "mods"
 packwiz_manifest = "pack.toml"
 
 cf_zip_path = ""
-pack_version = ""
+pack_version = "4.0.0_pre2"
 
 refresh_only = False
 is_legacy = False
 hydrogen = False
 modrinth_overrides = True
-mmc_export_packwiz_export = True
-mmc_export_modrinth_export = False
+mmc_export_packwiz_export = False
+mmc_export_modrinth_export = True
 packwiz_modrinth_export = True
 
 
