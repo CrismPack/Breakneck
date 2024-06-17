@@ -18,11 +18,26 @@ Shader Packs added:
 
 
 Mods re-enabled: 
-+ 
++ Ambient Environment
++ AppleSkin
++ Capes
++ FerriteCore
++ Inventory Profiles Next
++ libIPN
++ Lithium
++ Not Enough Animations
++ OptiGUI
++ Roughly Enough Items
++ Roughly Enough Professions
++ Searchables
++ Server Country Flags
++ Skin Layers 3D
++ Status Effect Bars
++ ViaFabric
 
 
 Metadata changes:
-=  [CF --> Bundled]
+= Indium [Bundled --> CF]
 
 
 Mods removed: 
@@ -38,7 +53,27 @@ Resource Packs removed:
 
 
 Mods updated:
-> 
+> Ambient Environment
+> AppleSkin
+> BadOptimizations
+> Balm
+> Better Statistics Screen
+> Capes
+> FerriteCore
+> Indium
+> Inventory Profiles Next
+> libIPN
+> Lithium
+> Mod Menu
+> Not Enough Animations
+> OptiGUI
+> Roughly Enough Items
+> Roughly Enough Professions
+> Searchables
+> Server Country Flags
+> Skin Layers 3D
+> Status Effect Bars
+> ViaFabric
 
 
 Mod updates reverted:
@@ -46,7 +81,8 @@ Mod updates reverted:
 
 
 Resource Packs updated: 
-> 
+> Breakneck Lang
+
 
 Shader Packs updated:
 > 

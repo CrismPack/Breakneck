@@ -1,13 +1,13 @@
 name = "Searchables"
-filename = "Searchables-fabric-1.20.6-1.0.1.jar"
-side = "both(disabled)"
+filename = "Searchables-fabric-1.21-1.0.1.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ce3b898f2cfb1020231a08805b9737cc469ebaf4"
+hash = "23f9fb394ac985bcaf4bff4095672e287d430123"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5322061
+file-id = 5430126
 project-id = 858542
