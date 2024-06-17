@@ -726,6 +726,11 @@ hash = "cc7acb763fac5fbe59bc7d63d2348170f1613f64e6d76dfbbb26135b243264bd"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
+metafile = true
+
+[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "efc506dab81760f71a7cbef83caab704ab8475e0bf1fb2bf4d5197d64618489a"
 metafile = true

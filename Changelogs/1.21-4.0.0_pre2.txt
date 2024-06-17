@@ -2,11 +2,14 @@
 
 Fabric version: Fabric-0.15.11
 Update overview:
-~ 
+~ Added 'ThreadTweak' mod.
+~ Added 'Tricky Trials Panorama with Shaders' resource pack.
+~ Updated mods to their latest version.
+~ Re-enabled mods that have been updated to 1.21.
 
 
 Mods added:
-+ 
++ ThreadTweak
 
 
 Resource Packs added:
@@ -89,4 +92,4 @@ Shader Packs updated:
 
 
 Config changes:
-= : [mod]
+= Added "threadtweak" to dependency override list: [Fabric Loader]
