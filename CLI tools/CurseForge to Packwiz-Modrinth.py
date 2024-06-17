@@ -9,23 +9,23 @@ from shutil import unpack_archive
 import toml  # pip install toml
 
 
-user_path = os.path.expanduser("~")
-git_path = "D:\\GitHub Projects\\Breakneck\\"
+user_path = os.path.expanduser("D:")
+git_path = user_path + "\\GitHub Projects\\Breakneck\\"
 minecraft_version = "1.21"
 packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = os.path.join("..", "packwiz.exe")
-mods_path = packwiz_path + "mods"
+mods_path = packwiz_path + "mods-mr"
 packwiz_manifest = "pack.toml"
 
 cf_zip_path = ""
-pack_version = "4.0.0_pre2"
+pack_version = ""
 
 refresh_only = False
 is_legacy = False
 hydrogen = False
-modrinth_overrides = True
+modrinth_overrides = False
 mmc_export_packwiz_export = False
-mmc_export_modrinth_export = True
+mmc_export_modrinth_export = False
 packwiz_modrinth_export = True
 
 
@@ -114,7 +114,7 @@ def main():
     # Export Packwiz pack via mmc-export method
     if mmc_export_packwiz_export and not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
-        mmc_zip_path = mmc_zip_root + "\\Breakneck Optimized " + pack_version + ".zip"
+        mmc_zip_path = mmc_zip_root + "\\Breakneck " + pack_version + ".zip"
         packwiz_config = git_path + "Packwiz\\mmc-export.toml"
 
         args = (
@@ -139,7 +139,7 @@ def main():
     # Export Modrinth pack and manifest via mmc-export method
     if mmc_export_modrinth_export and not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
-        mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
+        mmc_zip_path = mmc_zip_root + "\\Breakneck " + pack_version + ".zip"
         modrinth_config = git_path + "Modrinth\\mmc-export.toml"
         
         args = (
@@ -155,7 +155,7 @@ def main():
 
         if not is_legacy:
             extract_file(
-                mmc_zip_root + "\\Fabulously Optimized-" + pack_version + ".mrpack",
+                mmc_zip_root + "\\Breakneck-" + pack_version + ".mrpack",
                 "modrinth.index.json",
                 git_path + "\\" + "Modrinth",
                 "Modrinth manifest",
@@ -181,7 +181,7 @@ def main():
 
     if not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
-        mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
+        mmc_zip_path = mmc_zip_root + "\\Breakneck " + pack_version + ".zip"
         #remove_mod_from_archive("Sodium", mmc_zip_path)
         #remove_mod_from_archive("Iris", mmc_zip_path)
 
