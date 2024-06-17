@@ -46,7 +46,7 @@ hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3984a07723ee815a3310c60d8a68ee01e0d27ae2f161588f12e9d5e342d287c2"
+hash = "c47049609f72c35dab9d08d8e071b4672a14f348ccc4ea1054905a7466bdb099"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
