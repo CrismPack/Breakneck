@@ -20,6 +20,8 @@ packwiz_manifest = "pack.toml"
 packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
 # print("[DEBUG] " + packwiz_installer_path)
 
+packwiz_side = "client"
+
 pack_version = "4.0.0_pre2"
 
 refresh_only = False
@@ -48,7 +50,7 @@ def main():
 
         print("[DEBUG] " + packwiz_installer_path)
 
-        subprocess.call(f"java -jar \"{packwiz_installer_path}\" {packwiz_manifest}", shell=True)
+        subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} {packwiz_manifest}", shell=True)
 
 
 
