@@ -11,28 +11,30 @@ import toml  # pip install toml
 
 #user_path = os.path.expanduser("D:")
 modpack_name = "Breakneck"
-git_path = "D:\\GitHub Projects\\Breakneck\\"
 minecraft_version = "1.21"
-pack_version = "4.0.0_pre2"
+git_path = "D:\\GitHub Projects\\Breakneck\\"
 packwiz_side = "client"
-
 
 
 packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = os.path.expanduser("~") + "\\go\\bin\\packwiz.exe"
 packwiz_manifest = "pack.toml"
 packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
-
+bcc_config_path = packwiz_path + "config\\bcc.json"
 
 refresh_only = False
 gh_login = False
 export_mmc_modrinth = True
 export_mmc_curseforge = True
 export_packwiz_modrinth = False
-
+update_bcc_version = True
 
 def main():
     os.chdir(packwiz_path)
+    
+    with open(packwiz_manifest, "r") as f:
+        pack_toml = toml.load(f)
+    pack_version = pack_toml["version"]
     
     # Used for authenticating with GitHub for faster API responses.
     if gh_login:
@@ -40,10 +42,21 @@ def main():
     
 
     if not refresh_only:
+        # Update version number in BCC
+        if update_bcc_version:
+            with open(bcc_config_path, "r") as f:
+                bcc_json = json.load(f)
+            bcc_json["modpackVersion"] = pack_version
+            with open(bcc_config_path, "w") as f:
+                json.dump(bcc_json, f)
+
+        # Refresh the packwiz index
+        subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
+
         if export_packwiz_modrinth:
             # Export MR modpack.
             subprocess.call(f"{packwiz_exe_path} mr export", shell=True)
-        
+            print("[PackWiz] Modrinth exported.")
 
         # Creates mmc-cache folder if it doesn't already exist.
         mmc_cache_path = packwiz_path + "mmc-cache\\"
@@ -106,6 +119,7 @@ def main():
                 "-v", pack_version,
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
             ); subprocess.call(args, shell=True)
+            print("[MMC] CurseForge exported.")
 
         if export_mmc_modrinth:
             args = (
@@ -118,6 +132,7 @@ def main():
                 "-v", pack_version,
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
             ); subprocess.call(args, shell=True)
+            print("[MMC] Modrinth exported.")
         
     elif refresh_only:
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
