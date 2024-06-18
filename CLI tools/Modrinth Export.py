@@ -28,6 +28,26 @@ export_mmc_modrinth = True
 export_mmc_curseforge = True
 export_packwiz_modrinth = False
 update_bcc_version = True
+cleanup_cache = True
+
+
+def clear_mmc_cache(path):
+    os.chdir(path)
+    retain = ["packwiz-installer.jar"] # Files that shouldn't be deleted
+    
+    # Loop through everything in folder in current working directory
+    for item in os.listdir(os.getcwd()):
+        if item not in retain:  # If it isn't in the list for retaining
+            try:
+                os.remove(item)  # Remove the item
+            except:
+                pass
+            try:
+                rmtree(item)
+            except:
+                pass
+
+
 
 def main():
     os.chdir(packwiz_path)
@@ -58,46 +78,30 @@ def main():
             subprocess.call(f"{packwiz_exe_path} mr export", shell=True)
             print("[PackWiz] Modrinth exported.")
 
-        # Creates mmc-cache folder if it doesn't already exist.
+        # Creates mmc-cache folder if it doesn't already exist and ensure that it is empty.
         mmc_cache_path = packwiz_path + "mmc-cache\\"
         try:
             os.mkdir(mmc_cache_path)
         except:
-            print("")
-        
-        os.chdir(mmc_cache_path)
-
-
-        retain = ["packwiz-installer.jar"] # Files that shouldn't be deleted
-        
-        # Loop through everything in folder in current working directory
-        for item in os.listdir(os.getcwd()):
-            if item not in retain:  # If it isn't in the list for retaining
-                try:
-                    os.remove(item)  # Remove the item
-                except OSError as e:
-                    print(e)
-                try:
-                    rmtree(item)
-                except OSError as e:
-                    print(e)
+            pass
+        clear_mmc_cache(mmc_cache_path)
 
 
         # Export Packwiz modpack to MMC cache folder and zip it.
         subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
         
 
-        move_list = ["shaderpacks", "resourcepacks", "mods", "config"]
-        
-
+    
         # Creates mmc\.minecraft folder if it doesn't already exist.
         mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
         try:
             os.mkdir(mmc_dotminecraft_path)
         except:
-            print("")
-
+            pass
+        
+        
         # Moves override folders into .minecraft folder
+        move_list = ["shaderpacks", "resourcepacks", "mods", "config"]
         for item in os.listdir(os.getcwd()):
             if item in move_list:
                 move(item, mmc_dotminecraft_path)
@@ -134,6 +138,11 @@ def main():
             ); subprocess.call(args, shell=True)
             print("[MMC] Modrinth exported.")
         
+        if cleanup_cache:
+            os.remove("mcc-cache.zip")
+            clear_mmc_cache(mmc_cache_path)
+            print("Cache cleanup finished.")
+
     elif refresh_only:
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
 
