@@ -26,43 +26,35 @@ packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
 
 refresh_only = False
 mmc_export_modrinth_export = True
-
+gh_login = False
 
 
 
 def main():
     os.chdir(packwiz_path)
     
+    # Used for authenticating with GitHub for faster API responses.
+    if gh_login:
+        subprocess.call("mmc-export gh-login")
+    
     # Export Modrinth pack and manifest via mmc-export method
     if mmc_export_modrinth_export and not refresh_only:
         
-
         # Export CF modpack.
-        # subprocess.call(f"{packwiz_exe_path} cf export", shell=True)
-        cf_zip = f"Breakneck-{minecraft_version}-{pack_version}.zip"
-        
-        mmc_zip_root = str(Path(cf_zip).parents[0])
-        
-        mmc_config = git_path + "Packwiz\\mmc-export.toml"
+        subprocess.call(f"{packwiz_exe_path} cf export", shell=True)
+        # cf_zip = f"Breakneck-{minecraft_version}-{pack_version}.zip"
+        # mmc_zip_root = str(Path(cf_zip).parents[0])
         
 
-
-
-        # Export Packwiz modpack to MMC cache folder and zip it.
+        # Creates mmc-cache folder if it doesn't already exist.
         mmc_cache_path = packwiz_path + "mmc-cache\\"
-        # try:
-        #     rmtree(mmc_cache_path)
-        # except:
-        #     print("")
-        
         try:
             os.mkdir(mmc_cache_path)
         except:
             print("")
-
+        
         os.chdir(mmc_cache_path)
-
-        retain = ["packwiz-installer.jar", "mmc-pack.json", "instance.cfg"] # Files that shouldn't be deleted
+        retain = ["packwiz-installer.jar"] # Files that shouldn't be deleted
         
         # Loop through everything in folder in current working directory
         for item in os.listdir(os.getcwd()):
@@ -71,21 +63,18 @@ def main():
                     os.remove(item)  # Remove the item
                 except OSError as e:
                     print(e)
-
                 try:
                     rmtree(item)
                 except OSError as e:
                     print(e)
 
-
+        # Export Packwiz modpack to MMC cache folder and zip it.
         subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
         make_archive("mcc-cache", 'zip', mmc_cache_path)
 
 
         os.chdir(packwiz_path)
-
-
-        # subprocess.call("mmc-export gh-login")
+        mmc_config = git_path + "Packwiz\\mmc-export.toml"
 
         args = (
             "mmc-export",
