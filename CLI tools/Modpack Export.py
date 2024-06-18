@@ -1,10 +1,7 @@
 import os
 import json
 import subprocess
-from typing import IO
-from pathlib import Path
-from zipfile import ZipFile
-from shutil import unpack_archive, rmtree, make_archive, move
+from shutil import rmtree, make_archive, move
 
 import toml  # pip install toml
 
@@ -52,10 +49,12 @@ def clear_mmc_cache(path):
 def main():
     os.chdir(packwiz_path)
     
+    # Parse pack.toml for modpack version.
     with open(packwiz_manifest, "r") as f:
         pack_toml = toml.load(f)
     pack_version = pack_toml["version"]
     
+
     # Used for authenticating with GitHub for faster API responses.
     if gh_login:
         subprocess.call("mmc-export gh-login")
@@ -73,10 +72,12 @@ def main():
         # Refresh the packwiz index
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
 
+
         if export_packwiz_modrinth:
             # Export MR modpack.
             subprocess.call(f"{packwiz_exe_path} mr export", shell=True)
             print("[PackWiz] Modrinth exported.")
+
 
         # Creates mmc-cache folder if it doesn't already exist and ensure that it is empty.
         mmc_cache_path = packwiz_path + "mmc-cache\\"
@@ -91,7 +92,6 @@ def main():
         subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
         
 
-    
         # Creates mmc\.minecraft folder if it doesn't already exist.
         mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
         try:
@@ -107,12 +107,12 @@ def main():
                 move(item, mmc_dotminecraft_path)
 
 
-
         os.chdir(packwiz_path)
-        make_archive("mcc-cache", 'zip', mmc_cache_path)
-
+        make_archive("mcc-cache", 'zip', mmc_cache_path) # Creates mcc-cache.zip file based on mmc-cache folder.
+        
         mmc_config = git_path + "Packwiz\\mmc-export.toml"
 
+        # Export CurseForge modpack using MMC method.
         if export_mmc_curseforge:
             args = (
                 "mmc-export",
@@ -125,6 +125,7 @@ def main():
             ); subprocess.call(args, shell=True)
             print("[MMC] CurseForge exported.")
 
+        # Export Modrinth modpack using MMC method.
         if export_mmc_modrinth:
             args = (
                 "mmc-export",
