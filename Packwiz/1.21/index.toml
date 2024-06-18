@@ -142,11 +142,11 @@ hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
 file = "instance.cfg"
-hash = "4ae2be1f63d06630ed244c0fd3874a510a200486ed19b6f3f0d7d60414445628"
+hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "8167b23335a44c335fa549d7b497093402dd34b94f6eb7203b9e042e11448e67"
+hash = "50152bb214a0709e67dfd7299e1e3c20b0ec3d4dc44550d49a10fc57efe8f182"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "39876018abfb4a873b3a1d56172c6a86b306458e7cbd7291891fa14ab1cba0ec"
+hash = "c443aad551e77c3643b62b1ac90638f9b23697eee6ee0b01b09d50866b482e57"
 metafile = true
 
 [[files]]

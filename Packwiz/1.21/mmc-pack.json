@@ -6,13 +6,7 @@
             "version": "1.21"
         },
         {
-            "cachedName": "Fabric Loader",
-            "cachedRequires": [
-                {
-                    "uid": "net.fabricmc.intermediary"
-                }
-            ],
-            "cachedVersion": "0.15.11",
+            "important": true,
             "uid": "net.fabricmc.fabric-loader",
             "version": "0.15.11"
         }

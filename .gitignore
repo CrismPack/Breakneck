@@ -9,3 +9,4 @@
 # Exclude other
 /Packwiz/*/packwiz-installer.jar
 /Packwiz/*/mmc-cache
+/Packwiz/*/mmc-cache.zip

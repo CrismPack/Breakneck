@@ -41,7 +41,7 @@ def main():
     if mmc_export_modrinth_export and not refresh_only:
         
         # Export CF modpack.
-        subprocess.call(f"{packwiz_exe_path} cf export", shell=True)
+        subprocess.call(f"{packwiz_exe_path} mr export", shell=True)
         # cf_zip = f"Breakneck-{minecraft_version}-{pack_version}.zip"
         # mmc_zip_root = str(Path(cf_zip).parents[0])
         
@@ -68,23 +68,25 @@ def main():
                 except OSError as e:
                     print(e)
 
+
         # Export Packwiz modpack to MMC cache folder and zip it.
         subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
+        
+        os.chdir(packwiz_path)
         make_archive("mcc-cache", 'zip', mmc_cache_path)
 
 
-        os.chdir(packwiz_path)
         mmc_config = git_path + "Packwiz\\mmc-export.toml"
 
         args = (
             "mmc-export",
-            "--input", mmc_cache_path + "mcc-cache.zip",#"mcc-cache.zip",#mmc_cache_path,
-            "--format", "Modrinth",
+            "--input", packwiz_path + "mcc-cache.zip",#"mcc-cache.zip",#mmc_cache_path,
+            "--format", "CurseForge",
             "--modrinth-search", "loose",
             "-o", packwiz_path,
             "-c", mmc_config,
             "-v", pack_version,
-            "--scheme", modpack_name + "-{version}",
+            "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
         ); subprocess.call(args, shell=True)
     
     elif refresh_only:
