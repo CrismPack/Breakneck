@@ -1,14 +1,13 @@
 name = "Fzzy Config"
-filename = "fzzy_config-0.3.3+1.20.6.jar"
+filename = "fzzy_config-0.3.4+1.21.jar"
 side = "both(disabled)"
-pin = true
 
 [download]
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/KBZ1TyFN/fzzy_config-0.3.4%2B1.21.jar"
 hash-format = "sha1"
-hash = "19bd2b138ec76911d2330f323662a8ecab0fb2a5"
-mode = "metadata:curseforge"
+hash = "9fe02bb381c18255965956098f20c307f6ab4f00"
 
 [update]
-[update.curseforge]
-file-id = 5359075
-project-id = 1005914
+[update.modrinth]
+mod-id = "hYykXjDp"
+version = "KBZ1TyFN"

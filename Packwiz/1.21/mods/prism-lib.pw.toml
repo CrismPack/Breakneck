@@ -1,0 +1,13 @@
+name = "Prism"
+filename = "Prism-1.20.5-fabric-1.0.7.jar"
+side = "client(disabled)"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/8JYabc0K/Prism-1.20.5-fabric-1.0.7.jar"
+hash-format = "sha1"
+hash = "0c00340ce27f0838ef2ba926f936e94bd7747de2"
+
+[update]
+[update.modrinth]
+mod-id = "1OE8wbN0"
+version = "8JYabc0K"

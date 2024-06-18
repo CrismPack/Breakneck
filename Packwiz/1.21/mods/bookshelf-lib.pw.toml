@@ -3,11 +3,11 @@ filename = "Bookshelf-Fabric-1.20.4-23.0.8.jar"
 side = "both(disabled)"
 
 [download]
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/E00CwMTB/Bookshelf-Fabric-1.20.4-23.0.8.jar"
 hash-format = "sha1"
 hash = "23814b8ff852f81d6718e3d45d9cd27056d56fcd"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5251136
-project-id = 228525
+[update.modrinth]
+mod-id = "uy4Cnpcm"
+version = "E00CwMTB"

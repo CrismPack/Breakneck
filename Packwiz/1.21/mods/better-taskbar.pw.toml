@@ -1,13 +1,13 @@
-name = "Better Taskbar [Forge/Fabric]"
+name = "Better Taskbar"
 filename = "bettertaskbar-fabric-mc1.20.2-1.8.0.jar"
-side = "both(disabled)"
+side = "client(disabled)"
 
 [download]
+url = "https://cdn.modrinth.com/data/gPEcet33/versions/8AJfNzME/bettertaskbar-fabric-mc1.20.2-1.8.0.jar"
 hash-format = "sha1"
 hash = "0b23430fe99e57ef34fa3b598dd148eeaa5cd2b0"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5012747
-project-id = 538793
+[update.modrinth]
+mod-id = "gPEcet33"
+version = "8AJfNzME"

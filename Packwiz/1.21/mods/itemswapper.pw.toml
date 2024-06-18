@@ -1,13 +1,13 @@
 name = "ItemSwapper"
 filename = "itemswapper-fabric-0.6.3-mc1.20.6.jar"
-side = "both(disabled)"
+side = "client(disabled)"
 
 [download]
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/kyU5ZZC5/itemswapper-fabric-0.6.3-mc1.20.6.jar"
 hash-format = "sha1"
 hash = "f095970c22b600ac75a82c49f17bb504f77a2697"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5313348
-project-id = 694358
+[update.modrinth]
+mod-id = "RPOSBQgq"
+version = "kyU5ZZC5"

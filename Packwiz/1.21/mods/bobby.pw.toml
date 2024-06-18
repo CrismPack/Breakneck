@@ -1,13 +1,13 @@
 name = "Bobby"
-filename = "bobby-5.2.0+mc1.20.6.jar"
-side = "both(disabled)"
+filename = "bobby-5.2.2+mc1.21.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/ntgSlrrW/bobby-5.2.2%2Bmc1.21.jar"
 hash-format = "sha1"
-hash = "4f0a2d057263846309623b74ea831c12dfdd1b73"
-mode = "metadata:curseforge"
+hash = "02a08d30d7ed787394902bca65117f00b133e683"
 
 [update]
-[update.curseforge]
-file-id = 5317896
-project-id = 409301
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "ntgSlrrW"

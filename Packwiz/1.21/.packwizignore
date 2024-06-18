@@ -8,3 +8,5 @@
 /packwiz-installer.jar
 /mmc-cache
 /mmc-cache/*
+/disabled
+/disabled/*
