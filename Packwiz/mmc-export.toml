@@ -11,3 +11,7 @@ description = "Level up your vanilla client with increased FPS, quality of life 
 # name = "Mod Menu Helper"
 # filename = "Mod Menu Helper.zip"
 # action = "override"
+
+[[File]]
+name = "packwiz-installer.jar"
+action = "remove"

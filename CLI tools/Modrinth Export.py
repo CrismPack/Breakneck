@@ -4,7 +4,7 @@ import subprocess
 from typing import IO
 from pathlib import Path
 from zipfile import ZipFile
-from shutil import unpack_archive, rmtree, make_archive
+from shutil import unpack_archive, rmtree, make_archive, move
 
 import toml  # pip install toml
 
@@ -53,8 +53,9 @@ def main():
             print("")
         
         os.chdir(mmc_cache_path)
+
+
         retain = ["packwiz-installer.jar"] # Files that shouldn't be deleted
-        
         
         # Loop through everything in folder in current working directory
         for item in os.listdir(os.getcwd()):
@@ -72,6 +73,24 @@ def main():
         # Export Packwiz modpack to MMC cache folder and zip it.
         subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
         
+
+        move_list = ["shaderpacks", "resourcepacks", "mods", "config"]
+        
+
+        # Creates mmc\.minecraft folder if it doesn't already exist.
+        mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
+        try:
+            os.mkdir(mmc_dotminecraft_path)
+        except:
+            print("")
+
+        # Moves override folders into .minecraft folder
+        for item in os.listdir(os.getcwd()):
+            if item in move_list:
+                move(item, mmc_dotminecraft_path)
+
+
+
         os.chdir(packwiz_path)
         make_archive("mcc-cache", 'zip', mmc_cache_path)
 
