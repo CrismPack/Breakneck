@@ -26,9 +26,9 @@ packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
 
 refresh_only = False
 gh_login = False
-export_mmc_modrinth = False
+export_mmc_modrinth = True
 export_mmc_curseforge = True
-export_packwiz_modrinth = True
+export_packwiz_modrinth = False
 
 
 def main():
