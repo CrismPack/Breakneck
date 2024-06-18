@@ -25,9 +25,10 @@ packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
 
 
 refresh_only = False
-mmc_export_modrinth_export = True
 gh_login = False
-
+export_mmc_modrinth = False
+export_mmc_curseforge = True
+export_packwiz_modrinth = True
 
 
 def main():
@@ -37,13 +38,11 @@ def main():
     if gh_login:
         subprocess.call("mmc-export gh-login")
     
-    # Export Modrinth pack and manifest via mmc-export method
-    if mmc_export_modrinth_export and not refresh_only:
-        
-        # Export CF modpack.
-        subprocess.call(f"{packwiz_exe_path} mr export", shell=True)
-        # cf_zip = f"Breakneck-{minecraft_version}-{pack_version}.zip"
-        # mmc_zip_root = str(Path(cf_zip).parents[0])
+
+    if not refresh_only:
+        if export_packwiz_modrinth:
+            # Export MR modpack.
+            subprocess.call(f"{packwiz_exe_path} mr export", shell=True)
         
 
         # Creates mmc-cache folder if it doesn't already exist.
@@ -55,6 +54,7 @@ def main():
         
         os.chdir(mmc_cache_path)
         retain = ["packwiz-installer.jar"] # Files that shouldn't be deleted
+        
         
         # Loop through everything in folder in current working directory
         for item in os.listdir(os.getcwd()):
@@ -75,20 +75,31 @@ def main():
         os.chdir(packwiz_path)
         make_archive("mcc-cache", 'zip', mmc_cache_path)
 
-
         mmc_config = git_path + "Packwiz\\mmc-export.toml"
 
-        args = (
-            "mmc-export",
-            "--input", packwiz_path + "mcc-cache.zip",#"mcc-cache.zip",#mmc_cache_path,
-            "--format", "CurseForge",
-            "--modrinth-search", "loose",
-            "-o", packwiz_path,
-            "-c", mmc_config,
-            "-v", pack_version,
-            "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
-        ); subprocess.call(args, shell=True)
-    
+        if export_mmc_curseforge:
+            args = (
+                "mmc-export",
+                "--input", packwiz_path + "mcc-cache.zip",
+                "--format", "CurseForge",
+                "-o", packwiz_path,
+                "-c", mmc_config,
+                "-v", pack_version,
+                "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
+            ); subprocess.call(args, shell=True)
+
+        if export_mmc_modrinth:
+            args = (
+                "mmc-export",
+                "--input", packwiz_path + "mcc-cache.zip",
+                "--format", "Modrinth",
+                "--modrinth-search", "accurate",
+                "-o", packwiz_path,
+                "-c", mmc_config,
+                "-v", pack_version,
+                "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
+            ); subprocess.call(args, shell=True)
+        
     elif refresh_only:
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
 
