@@ -11,3 +11,5 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5427263
 project-id = 375465
+
+# This mod is only available on CurseForge: https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric

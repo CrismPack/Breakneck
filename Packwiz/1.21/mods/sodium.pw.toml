@@ -3,11 +3,11 @@ filename = "sodium-fabric-0.5.9+mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3b1ad241af59c32f6ed016c8a285429bfb5c5f86"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/dNHeFokL/sodium-fabric-0.5.9%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "709dfe4c504ba134cc24612dd931732eb728e04888f3f751083fc5a6eae6584111c194d37a11a9856ef04203e52c8c01845ec75fec12df2daab069feba2ebec6"
 
 [update]
-[update.curseforge]
-file-id = 5424382
-project-id = 394468
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "dNHeFokL"

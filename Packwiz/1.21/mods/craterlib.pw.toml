@@ -3,11 +3,11 @@ filename = "CraterLib-Fabric-1.21-2.0.0+hotfix.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/Xbut7zAn/CraterLib-Fabric-1.21-2.0.0%2Bhotfix.1.jar"
 hash-format = "sha1"
 hash = "8114371610ff660a7bbdcec189905c169ef80cac"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5426705
-project-id = 867099
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "Xbut7zAn"

@@ -3,11 +3,11 @@ filename = "ForgeConfigAPIPort-v21.0.0-1.21-Fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/lB4p4JnZ/ForgeConfigAPIPort-v21.0.0-1.21-Fabric.jar"
 hash-format = "sha1"
 hash = "d8c9c65b79846d6ed9729308c7d39eebd6cd7dbf"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5427493
-project-id = 547434
+[update.modrinth]
+mod-id = "ohNO6lps"
+version = "lB4p4JnZ"

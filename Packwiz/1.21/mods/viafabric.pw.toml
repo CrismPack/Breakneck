@@ -3,11 +3,11 @@ filename = "ViaFabric-0.4.14+73-main.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/YlKdE5VK/versions/8w3rJlCB/ViaFabric-0.4.14%2B73-main.jar"
 hash-format = "sha1"
 hash = "a8493a94657887e7ce15567826ccb35e89c2492d"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5435327
-project-id = 391298
+[update.modrinth]
+mod-id = "YlKdE5VK"
+version = "8w3rJlCB"
