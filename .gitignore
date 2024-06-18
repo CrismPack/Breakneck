@@ -8,3 +8,4 @@
 
 # Exclude other
 /Packwiz/*/packwiz-installer.jar
+/Packwiz/*/mmc-cache
