@@ -1,9 +1,6 @@
 name: Run Python Script and Create Release
 
-on:
-  push:
-    tags:
-      - 'v*'
+on: [ workflow_dispatch ]
 
 jobs:
   build:
@@ -29,12 +26,7 @@ jobs:
         if [ -f "CLI tools/requirements.txt" ]; then pip install -r "CLI tools/requirements.txt"; fi
 
     - name: Run Python script
-      run: python "CLI tools/script.py"
-
-    - name: Archive results
-      run: |
-        zip -r CurseForge.zip ./Export/CurseForge/
-        zip -r Modrinth.zip ./Export/Modrinth/
+      run: python "CLI tools/Modpack Export.py"
 
     - name: Create GitHub Release
       id: create_release
@@ -47,22 +39,17 @@ jobs:
         draft: false
         prerelease: false
 
-    - name: Upload CurseForge ZIP file to release
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./CurseForge.zip
-        asset_name: CurseForge.zip
-        asset_content_type: application/zip
+    - name: Find ZIP files
+      id: find_zip
+      run: |
+        echo "ZIP_FILES=$(find ./Export -name '*.zip' -printf '%p\n' | paste -sd ',' -)" >> $GITHUB_ENV
 
-    - name: Upload Modrinth ZIP file to release
+    - name: Upload ZIP files to release
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./Modrinth.zip
-        asset_name: Modrinth.zip
+        asset_path: ${{ env.ZIP_FILES }}
+        asset_name: $(basename ${{ env.ZIP_FILES }})
         asset_content_type: application/zip
