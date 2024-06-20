@@ -47,10 +47,12 @@ jobs:
         # modrinth-token: "${{env.MODRINTH_TOKEN}}"
         # modrinth-files: './Export/Modrinth/*.zip'
         
+        files: |
+          ./Export/CurseForge/Breakneck-${{env.MINECRAFT_VERSION}}-${{env.VERSION}}.zip
         github-tag: "v${{env.VERSION}}"
         github-token: "${{env.GITHUB_TOKEN}}"
-        github-files: '*.zip'
-
+        github-files: '*.zip' # ['./Export/CurseForge/*.zip', './Export/Modrinth/*.zip']
+        github-prerelease: True
 
         name: "${{env.RELEASE_NAME}}"                             
         version: "${{env.VERSION}}"
@@ -59,3 +61,24 @@ jobs:
 
         loaders: fabric
         game-versions: "${{env.MINECRAFT_VERSION}}"
+
+
+
+
+    # - name: Publish to GitHub
+    #   uses: Kir-Antipov/mc-publish@v3.3
+    #   with:
+    #     github-tag: "v${{env.VERSION}}"
+    #     github-token: "${{env.GITHUB_TOKEN}}"
+    #     github-prerelease: True
+
+    #     name: "${{env.RELEASE_NAME}}"                             
+    #     version: "${{env.VERSION}}"
+    #     version-type: release
+    #     changelog-file: CHANGELOG.md
+
+    #     files: |
+    #       './Export/CurseForge/*.zip'
+    #       './Export/Modrinth/*.zip'
+    #     loaders: fabric
+    #     game-versions: ${{ vars.MC_VERSION }}
