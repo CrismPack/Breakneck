@@ -23,82 +23,60 @@ jobs:
     - name: Check Environment Variables
       run: env
 
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        submodules: true
 
     - name: Set up Java
       uses: actions/setup-java@v3
       with:
         distribution: 'temurin'  # Choose the JDK distribution
         java-version: '21'       # Specify the version of Java to use
-
+    
     - name: Set up Python
-      uses: conda-incubator/setup-miniconda@v3
+      uses: conda-incubator/setup-miniconda@v3 # actions/setup-python@v5
       with:
         python-version: '3.11'
+        cache: 'pip' # caching pip dependencies
+
+    - name: Create and activate virtual environment
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        python -m ensurepip --upgrade
+        echo "VIRTUAL_ENV=$(pwd)/venv" >> $GITHUB_ENV
+        echo "PATH=$(pwd)/venv/bin:$PATH" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
+        source $VIRTUAL_ENV/bin/activate
         if [ -f "CLI tools/requirements.txt" ]; then pip install -r "CLI tools/requirements.txt"; fi
+
 
     - name: Run Python script
       run: python "CLI tools/Modpack Export.py"
 
+    - name: Publish (CurseForge/Modrinth/GitHub)
+      uses: Kir-Antipov/mc-publish@v3.3
+      with:
+        # curseforge-id: 882472
+        # curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
+        # curseforge-files: './Export/CurseForge/*.zip'
+
+        # modrinth-id: qPrWu8wn
+        # modrinth-token: "${{env.MODRINTH_TOKEN}}"
+        # modrinth-files: './Export/Modrinth/*.zip'
+        
+        github-tag: "v${{env.VERSION}}"
+        github-token: "${{env.GITHUB_TOKEN}}"
+        github-files: '*.zip'
 
 
-  publish:
-    if: github.repository_owner == 'CrismPack'
-    runs-on: ubuntu-24.04
-    environment: github-actions
-    steps:
-      - name: Publish (CurseForge/Modrinth/GitHub)
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          # curseforge-id: 882472
-          # curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
-          # curseforge-files: './Export/CurseForge/*.zip'
+        name: "${{env.RELEASE_NAME}}"                             
+        version: "${{env.VERSION}}"
+        version-type: release
+        changelog-file: CHANGELOG.md                                      
 
-          # modrinth-id: qPrWu8wn
-          # modrinth-token: "${{env.MODRINTH_TOKEN}}"
-          # modrinth-files: './Export/Modrinth/*.zip'
-          
-          github-tag: "v${{env.VERSION}}"
-          github-token: "${{env.GITHUB_TOKEN}}"
-          github-files: '*.zip'
-
-
-          name: "${{env.RELEASE_NAME}}"                             
-          version: "${{env.VERSION}}"
-          version-type: release
-          changelog-file: CHANGELOG.md                                      
-
-          loaders: fabric
-          game-versions: "${{env.MINECRAFT_VERSION}}"
-
-
-
-    # - name: Create GitHub Release
-    #   id: create_release
-    #   uses: actions/create-release@v1
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-    #   with:
-    #     tag_name: ${{ github.ref }}
-    #     release_name: Release ${{ github.ref }}
-    #     draft: false
-    #     prerelease: false
-
-    # - name: Find ZIP files
-    #   id: find_zip
-    #   run: |
-    #     echo "ZIP_FILES=$(find ./Export -name '*.zip' -printf '%p\n' | paste -sd ',' -)" >> $GITHUB_ENV
-
-    # - name: Upload ZIP files to release
-    #   uses: actions/upload-release-asset@v1
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-    #   with:
-    #     upload_url: ${{ steps.create_release.outputs.upload_url }}
-    #     asset_path: ${{ env.ZIP_FILES }}
-    #     asset_name: $(basename ${{ env.ZIP_FILES }})
-    #     asset_content_type: application/zip
+        loaders: fabric
+        game-versions: "${{env.MINECRAFT_VERSION}}"
