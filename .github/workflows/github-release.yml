@@ -63,20 +63,20 @@ jobs:
 
 
 
-        - name: Publish to GitHub
-          uses: Kir-Antipov/mc-publish@v3.3
-          with:
-            github-tag: "v${{env.VERSION}}"
-            github-token: "${{env.GITHUB_TOKEN}}"
-            github-prerelease: True
+    - name: Publish to GitHub
+      uses: Kir-Antipov/mc-publish@v3.3
+      with:
+        github-tag: "v${{env.VERSION}}"
+        github-token: "${{env.GITHUB_TOKEN}}"
+        github-prerelease: True
 
-            name: "${{env.RELEASE_NAME}}"                             
-            version: "${{env.VERSION}}"
-            version-type: release
-            changelog-file: CHANGELOG.md
+        name: "${{env.RELEASE_NAME}}"                             
+        version: "${{env.VERSION}}"
+        version-type: release
+        changelog-file: CHANGELOG.md
 
-            files: |
-              './Export/CurseForge/*.zip'
-              './Export/Modrinth/*.zip'
-            loaders: fabric
-            game-versions: ${{ vars.MC_VERSION }}
+        files: |
+          './Export/CurseForge/*.zip'
+          './Export/Modrinth/*.zip'
+        loaders: fabric
+        game-versions: ${{ vars.MC_VERSION }}
