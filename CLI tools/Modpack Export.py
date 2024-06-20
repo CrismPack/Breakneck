@@ -14,14 +14,15 @@ minecraft_version = "1.21"
 packwiz_side = "client"
 
 # Get path of project dynamically.
-script_path = str(__file__)
-git_path = script_path.replace("CLI tools\\Modpack Export.py","")
+script_path = __file__
+git_path = str(os.path.dirname(os.path.dirname(script_path))).replace("/","\\") # .replace("/","\\") is to ensure that the path will be in the Windows format.
+
 print("[DEBUG] " + git_path)
 
-packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
+packwiz_path = git_path + "\\Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = os.path.expanduser("~") + "\\go\\bin\\packwiz.exe"
 packwiz_manifest = "pack.toml"
-packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
+packwiz_installer_path = git_path + "\\CLI tools\\packwiz-installer-bootstrap.jar"
 bcc_config_path = packwiz_path + "config\\bcc.json"
 
 print("[DEBUG] " + packwiz_path)
@@ -35,6 +36,11 @@ if os.name == "posix":
     packwiz_installer_path = packwiz_installer_path.replace("\\","/")
     bcc_config_path = bcc_config_path.replace("\\","/")
     print("[DEBUG] " + git_path)
+    print("[DEBUG] " + packwiz_path)
+    print("[DEBUG] " + packwiz_exe_path)
+    print("[DEBUG] " + packwiz_installer_path)
+    print("[DEBUG] " + bcc_config_path)
+
 
 refresh_only = False
 gh_login = False
@@ -185,8 +191,8 @@ def main():
 
 if __name__ == "__main__":
     try:
-        # print("")
-        main()
+        print("")
+        # main()
     except KeyboardInterrupt:
         print("Operation aborted by user.")
         exit(-1)
