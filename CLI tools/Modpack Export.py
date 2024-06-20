@@ -25,7 +25,7 @@ packwiz_manifest = "pack.toml"
 packwiz_installer_path = git_path + "\\CLI tools\\packwiz-installer-bootstrap.jar"
 bcc_config_path = packwiz_path + "config\\bcc.json"
 
-mmc_config = git_path + "Packwiz\\mmc-export.toml"
+mmc_config = packwiz_path + "mmc-export.toml"
 cf_export_path = git_path + "\\Export\\CurseForge\\"
 mr_export_path = git_path + "\\Export\\Modrinth\\"
 
@@ -33,11 +33,22 @@ mmc_cache_path = packwiz_path + "mmc-cache\\"
 mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
 mmc_input_path = packwiz_path + "mcc-cache.zip"
 
+
+print("[DEBUG] " + git_path)
 print("[DEBUG] " + packwiz_path)
+print("[DEBUG] " + packwiz_exe_path)
+print("[DEBUG] " + packwiz_installer_path)
+print("[DEBUG] " + bcc_config_path)
+print("[DEBUG] " + mmc_config)
+print("[DEBUG] " + cf_export_path)
+print("[DEBUG] " + mr_export_path)
+print("[DEBUG] " + mmc_cache_path)
+print("[DEBUG] " + mmc_dotminecraft_path)
+print("[DEBUG] " + mmc_input_path)
 
 
 
-refresh_only = False
+refresh_only = True
 gh_login = False
 export_mmc_modrinth = True
 export_mmc_curseforge = True
@@ -45,7 +56,7 @@ export_packwiz_modrinth = False
 update_bcc_version = True
 cleanup_cache = True
 move_disabled_mods = True
-test_linux_mappings = False
+test_linux_mappings = True
 
 
 
@@ -75,6 +86,9 @@ if os.name == "posix" or test_linux_mappings:
     print("[DEBUG] " + mmc_config)
     print("[DEBUG] " + cf_export_path)
     print("[DEBUG] " + mr_export_path)
+    print("[DEBUG] " + mmc_cache_path)
+    print("[DEBUG] " + mmc_dotminecraft_path)
+    print("[DEBUG] " + mmc_input_path)
 
 
 
