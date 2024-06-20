@@ -10,3 +10,5 @@
 /mmc-cache/*
 /disabled
 /disabled/*
+
+/mods/disabled/*

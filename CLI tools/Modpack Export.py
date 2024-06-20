@@ -49,6 +49,7 @@ export_mmc_curseforge = True
 export_packwiz_modrinth = False
 update_bcc_version = True
 cleanup_cache = True
+move_disabled_mods = True
 
 
 def clear_mmc_cache(path):
@@ -92,6 +93,29 @@ def main():
             with open(bcc_config_path, "w") as f:
                 json.dump(bcc_json, f)
 
+        if move_disabled_mods:
+            mods_path = packwiz_path + "mods\\"
+            disabled_mods_path = mods_path + "disabled\\"
+            if os.name == "posix":
+                mods_path = mods_path.replace("\\","/")
+                disabled_mods_path = disabled_mods_path.replace("\\","/")
+            os.chdir(mods_path)
+            
+            # Parse mod toml files for (disabled) marker.
+            for item in os.listdir():
+                try:
+                    with open(item, "r") as f:
+                        mod_toml = toml.load(f)
+                        if "disabled" in mod_toml["side"]:
+                            f.close()
+                            move(item, disabled_mods_path)
+
+                except OSError as e:
+                    print(e)
+
+
+
+        os.chdir(packwiz_path)
         # Refresh the packwiz index
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
 
@@ -118,10 +142,10 @@ def main():
         file = Path(mmc_cache_path + "packwiz-installer.jar")
         if file.is_file():
             # Export Packwiz modpack to MMC cache folder and zip it.
-            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" --bootstrap-no-update", shell=True)
+            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g --bootstrap-no-update", shell=True)
         else:
             # Export Packwiz modpack to MMC cache folder and zip it.
-            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
+            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g", shell=True)
 
         # Creates mmc\.minecraft folder if it doesn't already exist.
         mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
@@ -139,6 +163,19 @@ def main():
             if item in move_list:
                 move(item, mmc_dotminecraft_path)
 
+        
+        if move_disabled_mods:
+            os.chdir(disabled_mods_path)
+            retain = [".gitkeep"] # Files that shouldn't be deleted
+            try:
+                # Moves disabled mods back.
+                for item in os.listdir():
+                    if item not in retain:
+                        move(item, mods_path)
+            except OSError as e:
+                print(e)
+            os.chdir(packwiz_path)
+        
 
         os.chdir(packwiz_path)
         make_archive("mcc-cache", 'zip', mmc_cache_path) # Creates mcc-cache.zip file based on mmc-cache folder.
@@ -148,7 +185,7 @@ def main():
             mmc_config = mmc_config.replace("\\","/")
 
         # Export CurseForge modpack using MMC method.
-        cf_export_path = git_path + "Export\\CurseForge\\"
+        cf_export_path = git_path + "\\Export\\CurseForge\\"
         if export_mmc_curseforge:
             print("[MMC] Exporting CurseForge...")
             args = (
@@ -163,7 +200,7 @@ def main():
             print("[MMC] CurseForge exported.")
 
         # Export Modrinth modpack using MMC method.
-        mr_export_path = git_path + "Export\\Modrinth\\"
+        mr_export_path = git_path + "\\Export\\Modrinth\\"
         if os.name == "posix":
             mr_export_path = mr_export_path.replace("\\","/")
         if export_mmc_modrinth:
@@ -184,7 +221,9 @@ def main():
             os.remove("mcc-cache.zip")
             clear_mmc_cache(mmc_cache_path)
             print("Cache cleanup finished.")
-
+        
+        subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
+        
     elif refresh_only:
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
 
@@ -192,7 +231,7 @@ def main():
 if __name__ == "__main__":
     try:
         print("")
-        # main()
+        main()
     except KeyboardInterrupt:
         print("Operation aborted by user.")
         exit(-1)
