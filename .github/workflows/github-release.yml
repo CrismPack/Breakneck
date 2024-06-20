@@ -68,7 +68,6 @@ jobs:
           with:
             github-tag: "v${{env.VERSION}}"
             github-token: "${{env.GITHUB_TOKEN}}"
-            github-files: ['./Export/CurseForge/*.zip', './Export/Modrinth/*.zip']
             github-prerelease: True
 
             name: "${{env.RELEASE_NAME}}"                             
