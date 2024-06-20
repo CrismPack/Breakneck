@@ -2,11 +2,27 @@ name: Run Python Script and Create Release
 
 on: [ workflow_dispatch ]
 
+env:
+  MINECRAFT_VERSION: 1.21
+
+  VERSION: 4.0.0_pre3
+  RELEASE_NAME: Breakneck v4.0.0_pre3 for 1.21
+  # MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+  # CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.PUBLISH_GITHUB_TOKEN }}
+
+permissions:
+  contents: write
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    if: github.repository_owner == 'CrismPack'
+    runs-on: ubuntu-24.04
 
     steps:
+    - name: Check Environment Variables
+      run: env
+
     - name: Checkout repository
       uses: actions/checkout@v3
 
@@ -28,28 +44,61 @@ jobs:
     - name: Run Python script
       run: python "CLI tools/Modpack Export.py"
 
-    - name: Create GitHub Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-      with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
-        draft: false
-        prerelease: false
 
-    - name: Find ZIP files
-      id: find_zip
-      run: |
-        echo "ZIP_FILES=$(find ./Export -name '*.zip' -printf '%p\n' | paste -sd ',' -)" >> $GITHUB_ENV
 
-    - name: Upload ZIP files to release
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ${{ env.ZIP_FILES }}
-        asset_name: $(basename ${{ env.ZIP_FILES }})
-        asset_content_type: application/zip
+  publish:
+    if: github.repository_owner == 'CrismPack'
+    runs-on: ubuntu-24.04
+    environment: github-actions
+    steps:
+      - name: Publish (CurseForge/Modrinth/GitHub)
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          # curseforge-id: 882472
+          # curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
+          # curseforge-files: './Export/CurseForge/*.zip'
+
+          # modrinth-id: qPrWu8wn
+          # modrinth-token: "${{env.MODRINTH_TOKEN}}"
+          # modrinth-files: './Export/Modrinth/*.zip'
+          
+          github-tag: "v${{env.VERSION}}"
+          github-token: "${{env.GITHUB_TOKEN}}"
+          github-files: '*.zip'
+
+
+          name: "${{env.RELEASE_NAME}}"                             
+          version: "${{env.VERSION}}"
+          version-type: release
+          changelog-file: CHANGELOG.md                                      
+
+          loaders: fabric
+          game-versions: "${{env.MINECRAFT_VERSION}}"
+
+
+
+    # - name: Create GitHub Release
+    #   id: create_release
+    #   uses: actions/create-release@v1
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
+    #   with:
+    #     tag_name: ${{ github.ref }}
+    #     release_name: Release ${{ github.ref }}
+    #     draft: false
+    #     prerelease: false
+
+    # - name: Find ZIP files
+    #   id: find_zip
+    #   run: |
+    #     echo "ZIP_FILES=$(find ./Export -name '*.zip' -printf '%p\n' | paste -sd ',' -)" >> $GITHUB_ENV
+
+    # - name: Upload ZIP files to release
+    #   uses: actions/upload-release-asset@v1
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
+    #   with:
+    #     upload_url: ${{ steps.create_release.outputs.upload_url }}
+    #     asset_path: ${{ env.ZIP_FILES }}
+    #     asset_name: $(basename ${{ env.ZIP_FILES }})
+    #     asset_content_type: application/zip
