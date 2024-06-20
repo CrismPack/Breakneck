@@ -1,0 +1,82 @@
+1.21 - 4.0.0_pre3
+
+Fabric version: Fabric-0.15.11
+Update overview:
+~ Switched to use Modrinth metadata as the basis of the pack behind the scenes.
+~ Re-enabled mods that have been updated to 1.21.
+
+
+Mods added:
++ 
+
+
+Resource Packs added:
++ 
+
+
+Shader Packs added:
++ 
+
+
+Mods re-enabled: 
++ Better Third Person
++ Bobby
++ Cherished Worlds
++ Controlling
++ Debugify
++ Eating Animation
++ Model Gap Fix
++ Mouse Tweaks
++ No Chat Reports
++ Xaero's World Map
++ Zoomify
+
+
+Metadata changes:
+=  [Bundled --> CF]
+
+
+Mods removed: 
+- Chat Up! [Previously disabled]
+
+
+Mods disabled: 
+- 
+
+
+Resource Packs removed:
+- Tricky Trials Panorama with Shaders
+
+
+Mods updated:
+> Balm
+> Better Third Person
+> Bobby
+> Cherished Worlds
+> Controlling
+> Debugify
+> Don't Clear Chat History
+> Eating Animation
+> Mod Menu
+> Model Gap Fix
+> ModernFix
+> Mouse Tweaks
+> No Chat Reports
+> Paginated Advancements & Custom Frames
+> Xaero's World Map
+> Zoomify
+
+Mod updates reverted:
+> 
+
+
+Resource Packs updated: 
+> 
+
+
+Shader Packs updated:
+> 
+
+
+Config changes:
+= : [mod]

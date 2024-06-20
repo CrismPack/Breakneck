@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bundled_links.md"
+hash = "2e9b17d201d6e12e57acb25365e6d1aaa05f1d545e61e4eebb6223a216fa6362"
+
+[[files]]
 file = "config/bcc.json"
 hash = "fdb7731db5e4a197f088a9a4339677260af66d68bf5cf51120081a1180cc83b8"
 
@@ -185,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "dce712ce4d2206966a61db6c3f261897975637464f0becd33fbd1e4ddae47c5f"
+hash = "332b3dcd4f72c3c122e8201bfbb76a78a329dc4ffe1056bad6096330ba07d765"
 metafile = true
 
 [[files]]
@@ -240,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "780394e0362e93a87dd37fbcd19d31b804f6eb1a1cf4e18f7233d58899abbd4b"
+hash = "4eb6403f282912e0dcdfbced84c656ac8f89771b82915839080001d2c52ade39"
 metafile = true
 
 [[files]]
@@ -285,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "eebfe2ca840649a339daf6a7ae498668efc4e1c238e1e5f2da1dc175bd23f97c"
+hash = "45b274a21c31e0150f8984479ade9ad970d6dea8af8b65109ac711d946817568"
 metafile = true
 
 [[files]]
@@ -310,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "38572fface2179e477dddf5ab70676d12e06455b990784a920e2614a4e14c5bd"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
@@ -485,12 +489,12 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "5dae40b9bc3b09fa7da2c1f6a08aaae26de53b72d3b506bdb5a3d17ef1591065"
+hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "412a84f160bbd574e4b5dbaf22b1c00163d236178d65e0793f5081cd6e779398"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
 
 [[files]]
@@ -500,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e5f1ee4030a9d9811150c359ba64d82a05151a98ddcce5253e9adff3531cfd0b"
+hash = "ebd11b4343a73a9ce0520be7cc79a32ec34920412a0a11d5ba3209e524ce2a3b"
 metafile = true
 
 [[files]]
@@ -520,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "36dd9b392835944df2afe72de4b257b8a764cbefe082f3f47acb9003a17d451d"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
@@ -550,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "a097634acde98aa2bdc1cd2729a9868f0305825e871189a40426712cbac44ffa"
+hash = "4ca74c29f2d304d291535bc3a4803a27706dc204a6659c2b951f830fa661269e"
 metafile = true
 
 [[files]]
@@ -625,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "8f09493fd8ca1e5b2419f9ff716b4e65f786b331c90dc3cb344bc6f6260a6448"
+hash = "f3bb1e2ab955b022e7f6b08fceb11b715c5971136ac9e140a5a263bc417acbda"
 metafile = true
 
 [[files]]
