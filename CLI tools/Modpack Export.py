@@ -24,6 +24,18 @@ packwiz_manifest = "pack.toml"
 packwiz_installer_path = git_path + "CLI tools\\packwiz-installer-bootstrap.jar"
 bcc_config_path = packwiz_path + "config\\bcc.json"
 
+print("[DEBUG] " + packwiz_path)
+
+# Remap paths if running on Linux
+if os.name == "posix":
+    print("Code being run on Linux. Remapping paths...")
+    git_path = git_path.replace("\\","/")
+    packwiz_path = packwiz_path.replace("\\","/")
+    packwiz_exe_path = packwiz_exe_path.replace("\\","/")
+    packwiz_installer_path = packwiz_installer_path.replace("\\","/")
+    bcc_config_path = bcc_config_path.replace("\\","/")
+    print("[DEBUG] " + git_path)
+
 refresh_only = False
 gh_login = False
 export_mmc_modrinth = True
@@ -86,6 +98,8 @@ def main():
 
         # Creates mmc-cache folder if it doesn't already exist and ensure that it is empty.
         mmc_cache_path = packwiz_path + "mmc-cache\\"
+        if os.name == "posix":
+            mmc_cache_path = mmc_cache_path.replace("\\","/")
         try:
             os.mkdir(mmc_cache_path)
         except:
@@ -105,6 +119,8 @@ def main():
 
         # Creates mmc\.minecraft folder if it doesn't already exist.
         mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
+        if os.name == "posix":
+            mmc_dotminecraft_path = mmc_dotminecraft_path.replace("\\","/")
         try:
             os.mkdir(mmc_dotminecraft_path)
         except:
@@ -122,6 +138,8 @@ def main():
         make_archive("mcc-cache", 'zip', mmc_cache_path) # Creates mcc-cache.zip file based on mmc-cache folder.
         
         mmc_config = git_path + "Packwiz\\mmc-export.toml"
+        if os.name == "posix":
+            mmc_config = mmc_config.replace("\\","/")
 
         # Export CurseForge modpack using MMC method.
         cf_export_path = git_path + "Export\\CurseForge\\"
@@ -140,6 +158,8 @@ def main():
 
         # Export Modrinth modpack using MMC method.
         mr_export_path = git_path + "Export\\Modrinth\\"
+        if os.name == "posix":
+            mr_export_path = mr_export_path.replace("\\","/")
         if export_mmc_modrinth:
             print("[MMC] Exporting Modrinth...")
             args = (
@@ -165,6 +185,7 @@ def main():
 
 if __name__ == "__main__":
     try:
+        # print("")
         main()
     except KeyboardInterrupt:
         print("Operation aborted by user.")
