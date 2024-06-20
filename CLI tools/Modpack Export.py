@@ -25,21 +25,13 @@ packwiz_manifest = "pack.toml"
 packwiz_installer_path = git_path + "\\CLI tools\\packwiz-installer-bootstrap.jar"
 bcc_config_path = packwiz_path + "config\\bcc.json"
 
+mmc_config = git_path + "Packwiz\\mmc-export.toml"
+cf_export_path = git_path + "\\Export\\CurseForge\\"
+mr_export_path = git_path + "\\Export\\Modrinth\\"
+
+
 print("[DEBUG] " + packwiz_path)
 
-# Remap paths if running on Linux
-if os.name == "posix":
-    print("Code being run on Linux. Remapping paths...")
-    git_path = git_path.replace("\\","/")
-    packwiz_path = packwiz_path.replace("\\","/")
-    packwiz_exe_path = packwiz_exe_path.replace("\\","/")
-    packwiz_installer_path = packwiz_installer_path.replace("\\","/")
-    bcc_config_path = bcc_config_path.replace("\\","/")
-    print("[DEBUG] " + git_path)
-    print("[DEBUG] " + packwiz_path)
-    print("[DEBUG] " + packwiz_exe_path)
-    print("[DEBUG] " + packwiz_installer_path)
-    print("[DEBUG] " + bcc_config_path)
 
 
 refresh_only = False
@@ -50,6 +42,32 @@ export_packwiz_modrinth = False
 update_bcc_version = True
 cleanup_cache = True
 move_disabled_mods = True
+test_linux_mappings = False
+
+
+
+# Remap paths if running on Linux
+if os.name == "posix" or test_linux_mappings:
+    print("Code being run on Linux. Remapping paths...")
+    git_path = git_path.replace("\\","/")
+    packwiz_path = packwiz_path.replace("\\","/")
+    packwiz_exe_path = packwiz_exe_path.replace("\\","/")
+    packwiz_installer_path = packwiz_installer_path.replace("\\","/")
+    bcc_config_path = bcc_config_path.replace("\\","/")
+    
+    mmc_config = mmc_config.replace("\\","/")
+    cf_export_path = cf_export_path.replace("\\","/")
+    mr_export_path = mr_export_path.replace("\\","/")
+    
+    print("[DEBUG] " + git_path)
+    print("[DEBUG] " + packwiz_path)
+    print("[DEBUG] " + packwiz_exe_path)
+    print("[DEBUG] " + packwiz_installer_path)
+    print("[DEBUG] " + bcc_config_path)
+    print("[DEBUG] " + mmc_config)
+    print("[DEBUG] " + cf_export_path)
+    print("[DEBUG] " + mr_export_path)
+
 
 
 def clear_mmc_cache(path):
@@ -179,13 +197,8 @@ def main():
 
         os.chdir(packwiz_path)
         make_archive("mcc-cache", 'zip', mmc_cache_path) # Creates mcc-cache.zip file based on mmc-cache folder.
-        
-        mmc_config = git_path + "Packwiz\\mmc-export.toml"
-        if os.name == "posix":
-            mmc_config = mmc_config.replace("\\","/")
 
         # Export CurseForge modpack using MMC method.
-        cf_export_path = git_path + "\\Export\\CurseForge\\"
         if export_mmc_curseforge:
             print("[MMC] Exporting CurseForge...")
             args = (
@@ -200,7 +213,6 @@ def main():
             print("[MMC] CurseForge exported.")
 
         # Export Modrinth modpack using MMC method.
-        mr_export_path = git_path + "\\Export\\Modrinth\\"
         if os.name == "posix":
             mr_export_path = mr_export_path.replace("\\","/")
         if export_mmc_modrinth:
