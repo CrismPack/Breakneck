@@ -29,6 +29,9 @@ mmc_config = git_path + "Packwiz\\mmc-export.toml"
 cf_export_path = git_path + "\\Export\\CurseForge\\"
 mr_export_path = git_path + "\\Export\\Modrinth\\"
 
+mmc_cache_path = packwiz_path + "mmc-cache\\"
+mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
+mmc_input_path = packwiz_path + "mcc-cache.zip"
 
 print("[DEBUG] " + packwiz_path)
 
@@ -58,7 +61,12 @@ if os.name == "posix" or test_linux_mappings:
     mmc_config = mmc_config.replace("\\","/")
     cf_export_path = cf_export_path.replace("\\","/")
     mr_export_path = mr_export_path.replace("\\","/")
+
     
+    mmc_cache_path = mmc_cache_path.replace("\\","/")
+    mmc_dotminecraft_path = mmc_dotminecraft_path.replace("\\","/")
+    mmc_input_path = mmc_input_path.replace("\\","/")    
+
     print("[DEBUG] " + git_path)
     print("[DEBUG] " + packwiz_path)
     print("[DEBUG] " + packwiz_exe_path)
@@ -145,9 +153,6 @@ def main():
 
 
         # Creates mmc-cache folder if it doesn't already exist and ensure that it is empty.
-        mmc_cache_path = packwiz_path + "mmc-cache\\"
-        if os.name == "posix":
-            mmc_cache_path = mmc_cache_path.replace("\\","/")
         try:
             os.mkdir(mmc_cache_path)
         except:
@@ -166,9 +171,6 @@ def main():
             subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g", shell=True)
 
         # Creates mmc\.minecraft folder if it doesn't already exist.
-        mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
-        if os.name == "posix":
-            mmc_dotminecraft_path = mmc_dotminecraft_path.replace("\\","/")
         try:
             os.mkdir(mmc_dotminecraft_path)
         except:
@@ -194,16 +196,16 @@ def main():
                 print(e)
             os.chdir(packwiz_path)
         
-
-        os.chdir(packwiz_path)
+        
         make_archive("mcc-cache", 'zip', mmc_cache_path) # Creates mcc-cache.zip file based on mmc-cache folder.
+        
 
         # Export CurseForge modpack using MMC method.
         if export_mmc_curseforge:
             print("[MMC] Exporting CurseForge...")
             args = (
                 "mmc-export",
-                "--input", packwiz_path + "mcc-cache.zip",
+                "--input", mmc_input_path,
                 "--format", "CurseForge",
                 "-o", cf_export_path,
                 "-c", mmc_config,
@@ -213,13 +215,11 @@ def main():
             print("[MMC] CurseForge exported.")
 
         # Export Modrinth modpack using MMC method.
-        if os.name == "posix":
-            mr_export_path = mr_export_path.replace("\\","/")
         if export_mmc_modrinth:
             print("[MMC] Exporting Modrinth...")
             args = (
                 "mmc-export",
-                "--input", packwiz_path + "mcc-cache.zip",
+                "--input", mmc_input_path,
                 "--format", "Modrinth",
                 "--modrinth-search", "accurate",
                 "-o", mr_export_path,
@@ -234,7 +234,8 @@ def main():
             clear_mmc_cache(mmc_cache_path)
             print("Cache cleanup finished.")
         
-        subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
+        os.chdir(packwiz_path)
+        # subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
         
     elif refresh_only:
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
