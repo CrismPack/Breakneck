@@ -11,11 +11,12 @@ user_path = os.path.expanduser("~")
 
 modpack_name = "Breakneck"
 minecraft_version = "1.21"
-
-# git_path = "D:\\GitHub Projects\\Breakneck\\"
-git_path = user_path + "\\AppData\\Local\\GitHubDesktop\\Projects\\Breakneck\\"
 packwiz_side = "client"
 
+# Get path of project dynamically.
+script_path = str(__file__)
+git_path = script_path.replace("CLI tools\\Modpack Export.py","")
+print("[DEBUG] " + git_path)
 
 packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = os.path.expanduser("~") + "\\go\\bin\\packwiz.exe"
