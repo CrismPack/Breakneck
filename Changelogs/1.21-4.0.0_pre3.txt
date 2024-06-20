@@ -3,6 +3,8 @@
 Fabric version: Fabric-0.15.11
 Update overview:
 ~ Switched to use Modrinth metadata as the basis of the pack behind the scenes.
+~ Fixed crash when opening the multiplayer menu.
+~ Increased CPU priority of the games main thread.
 ~ Re-enabled mods that have been updated to 1.21.
 
 
@@ -57,12 +59,14 @@ Mods updated:
 > Debugify
 > Don't Clear Chat History
 > Eating Animation
+> Lithium
 > Mod Menu
 > Model Gap Fix
 > ModernFix
 > Mouse Tweaks
 > No Chat Reports
 > Paginated Advancements & Custom Frames
+> Server Country Flags [CF], [Fixes crashing issue]
 > Xaero's World Map
 > Zoomify
 
@@ -79,4 +83,4 @@ Shader Packs updated:
 
 
 Config changes:
-= : [mod]
+= Changed threadPriority of game from 5 to 8: [ThreadTweaks]

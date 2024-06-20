@@ -1,13 +1,13 @@
 name = "Server Country Flags"
-filename = "servercountryflags-1.10.2-1.20.6-FABRIC.jar"
-side = "client"
+filename = "servercountryflags-1.10.3-1.21-FABRIC.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/L6HW4EbG/versions/dlvBPNIw/servercountryflags-1.10.2-1.20.6-FABRIC.jar"
 hash-format = "sha1"
-hash = "50ac79441116484fcca7ea2ef37130946b2b9407"
+hash = "da15533e3ad7c08304ed6028a73f9affc52c6c95"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "L6HW4EbG"
-version = "dlvBPNIw"
+[update.curseforge]
+file-id = 5428466
+project-id = 841311

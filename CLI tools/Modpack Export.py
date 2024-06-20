@@ -125,6 +125,7 @@ def main():
 
         # Export CurseForge modpack using MMC method.
         if export_mmc_curseforge:
+            print("[MMC] Exporting CurseForge...")
             args = (
                 "mmc-export",
                 "--input", packwiz_path + "mcc-cache.zip",
@@ -138,6 +139,7 @@ def main():
 
         # Export Modrinth modpack using MMC method.
         if export_mmc_modrinth:
+            print("[MMC] Exporting Modrinth...")
             args = (
                 "mmc-export",
                 "--input", packwiz_path + "mcc-cache.zip",
