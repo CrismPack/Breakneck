@@ -48,8 +48,8 @@ jobs:
         # modrinth-files: './Export/Modrinth/*.zip'
         
         files: |
-          ./Export/CurseForge/*.zip
-          ./Export/Modrinth/*.mrpack
+          Export/CurseForge/*.zip
+          Export/Modrinth/*.mrpack
           
           
         # Breakneck-${{env.MINECRAFT_VERSION}}-${{env.VERSION}}.zip
