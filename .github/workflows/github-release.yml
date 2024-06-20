@@ -17,9 +17,9 @@ jobs:
         java-version: '21'       # Specify the version of Java to use
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: conda-incubator/setup-miniconda@v3
       with:
-        python-version: '3.x'
+        python-version: '3.11'
 
     - name: Install dependencies
       run: |
