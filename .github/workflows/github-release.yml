@@ -1,0 +1,68 @@
+name: Run Python Script and Create Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Java
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin'  # Choose the JDK distribution
+        java-version: '21'       # Specify the version of Java to use
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        if [ -f "CLI tools/requirements.txt" ]; then pip install -r "CLI tools/requirements.txt"; fi
+
+    - name: Run Python script
+      run: python "CLI tools/script.py"
+
+    - name: Archive results
+      run: |
+        zip -r CurseForge.zip ./Export/CurseForge/
+        zip -r Modrinth.zip ./Export/Modrinth/
+
+    - name: Create GitHub Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+
+    - name: Upload CurseForge ZIP file to release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./CurseForge.zip
+        asset_name: CurseForge.zip
+        asset_content_type: application/zip
+
+    - name: Upload Modrinth ZIP file to release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./Modrinth.zip
+        asset_name: Modrinth.zip
+        asset_content_type: application/zip
