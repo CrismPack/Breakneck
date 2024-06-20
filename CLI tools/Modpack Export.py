@@ -124,13 +124,14 @@ def main():
         mmc_config = git_path + "Packwiz\\mmc-export.toml"
 
         # Export CurseForge modpack using MMC method.
+        cf_export_path = git_path + "Export\\CurseForge\\"
         if export_mmc_curseforge:
             print("[MMC] Exporting CurseForge...")
             args = (
                 "mmc-export",
                 "--input", packwiz_path + "mcc-cache.zip",
                 "--format", "CurseForge",
-                "-o", packwiz_path,
+                "-o", cf_export_path,
                 "-c", mmc_config,
                 "-v", pack_version,
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
@@ -138,6 +139,7 @@ def main():
             print("[MMC] CurseForge exported.")
 
         # Export Modrinth modpack using MMC method.
+        mr_export_path = git_path + "Export\\Modrinth\\"
         if export_mmc_modrinth:
             print("[MMC] Exporting Modrinth...")
             args = (
@@ -145,7 +147,7 @@ def main():
                 "--input", packwiz_path + "mcc-cache.zip",
                 "--format", "Modrinth",
                 "--modrinth-search", "accurate",
-                "-o", packwiz_path,
+                "-o", mr_export_path,
                 "-c", mmc_config,
                 "-v", pack_version,
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
