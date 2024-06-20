@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bundled_links.md"
-hash = "2e9b17d201d6e12e57acb25365e6d1aaa05f1d545e61e4eebb6223a216fa6362"
-
-[[files]]
 file = "config/bcc.json"
 hash = "fdb7731db5e4a197f088a9a4339677260af66d68bf5cf51120081a1180cc83b8"
 
@@ -79,6 +75,10 @@ hash = "e95580d3f3c68be011c7022021dd7ae0d7075601694b7f3b0f2a55071ae3e2ed"
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "cb6003479ceeb0b32ea991eb316e25937e12bb642376c63ebbea864824871e9c"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
 
 [[files]]
 file = "config/yosbr/config/TrueDarknessFork.json5"

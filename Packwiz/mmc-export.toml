@@ -2,16 +2,6 @@ name = "Breakneck: Optimized"
 author = "CrismPack"
 description = "Level up your vanilla client with increased FPS, quality of life enhancements, visual improvements and shaders!"
 
-# [[Resource]]
-# name = "Don't Clear Chat History"
-# filename = "DCCH-1.18.x.jar" 
-# url = "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.jar"
-
-# [[Resource]]
-# name = "Mod Menu Helper"
-# filename = "Mod Menu Helper.zip"
-# action = "override"
-
 [[File]]
 name = "packwiz-installer.jar"
 action = "remove"
