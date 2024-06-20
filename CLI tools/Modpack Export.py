@@ -2,14 +2,18 @@ import os
 import json
 import subprocess
 from shutil import rmtree, make_archive, move
+from pathlib import Path
 
 import toml  # pip install toml
 
 
-#user_path = os.path.expanduser("D:")
+user_path = os.path.expanduser("~")
+
 modpack_name = "Breakneck"
 minecraft_version = "1.21"
-git_path = "D:\\GitHub Projects\\Breakneck\\"
+
+# git_path = "D:\\GitHub Projects\\Breakneck\\"
+git_path = user_path + "\\AppData\\Local\\GitHubDesktop\\Projects\\Breakneck\\"
 packwiz_side = "client"
 
 
@@ -88,9 +92,15 @@ def main():
         clear_mmc_cache(mmc_cache_path)
 
 
-        # Export Packwiz modpack to MMC cache folder and zip it.
-        subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
+
         
+        file = Path(mmc_cache_path + "packwiz-installer.jar")
+        if file.is_file():
+            # Export Packwiz modpack to MMC cache folder and zip it.
+            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" --bootstrap-no-update", shell=True)
+        else:
+            # Export Packwiz modpack to MMC cache folder and zip it.
+            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
 
         # Creates mmc\.minecraft folder if it doesn't already exist.
         mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
