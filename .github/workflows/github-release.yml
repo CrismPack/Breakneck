@@ -48,10 +48,10 @@ jobs:
         # modrinth-files: './Export/Modrinth/*.zip'
         
         files: |
-          './Export/CurseForge/*.zip'
+          ./Export/CurseForge/*.zip
         github-tag: "v${{env.VERSION}}"
         github-token: "${{env.GITHUB_TOKEN}}"
-        github-files: './Export/CurseForge/*.zip' # ['./Export/CurseForge/*.zip', './Export/Modrinth/*.zip']
+        github-files: ./Export/CurseForge/*.zip # ['./Export/CurseForge/*.zip', './Export/Modrinth/*.zip']
         github-prerelease: True
 
         name: "${{env.RELEASE_NAME}}"                             
