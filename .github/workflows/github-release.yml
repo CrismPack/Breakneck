@@ -48,7 +48,12 @@ jobs:
         # modrinth-files: './Export/Modrinth/*.zip'
         
         files: |
-          ./Export/CurseForge/Breakneck-${{env.MINECRAFT_VERSION}}-${{env.VERSION}}.zip
+          ./Export/CurseForge/*.zip
+          ./Export/Modrinth/*.mrpack
+          
+          
+        # Breakneck-${{env.MINECRAFT_VERSION}}-${{env.VERSION}}.zip
+        
         github-tag: "v${{env.VERSION}}"
         github-token: "${{env.GITHUB_TOKEN}}"
         github-files: '*.zip' # ['./Export/CurseForge/*.zip', './Export/Modrinth/*.zip']
