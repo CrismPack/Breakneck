@@ -47,6 +47,8 @@ jobs:
         # modrinth-token: "${{env.MODRINTH_TOKEN}}"
         # modrinth-files: './Export/Modrinth/*.zip'
         
+        files: |
+          './Export/CurseForge/*.zip'
         github-tag: "v${{env.VERSION}}"
         github-token: "${{env.GITHUB_TOKEN}}"
         github-files: './Export/CurseForge/*.zip' # ['./Export/CurseForge/*.zip', './Export/Modrinth/*.zip']
