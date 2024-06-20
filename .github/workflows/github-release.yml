@@ -2,70 +2,28 @@ name: Run Python Script and Create Release
 
 on: [ workflow_dispatch ]
 
-env:
-  MINECRAFT_VERSION: 1.21
-
-  VERSION: 4.0.0_pre3
-  RELEASE_NAME: Breakneck v4.0.0_pre3 for 1.21
-  # MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
-  # CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
-  GITHUB_TOKEN: ${{ secrets.PUBLISH_GITHUB_TOKEN }}
-
-# permissions:
-#   contents: write
-
 jobs:
   build:
-    if: github.repository_owner == 'CrismPack'
-    runs-on: ubuntu-latest # ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Check Environment Variables
-      run: env
-
-    - name: Checkout Repository
+    - name: Checkout repository
       uses: actions/checkout@v3
-      # with:
-      #   submodules: true
 
     - name: Set up Java
       uses: actions/setup-java@v3
       with:
         distribution: 'temurin'  # Choose the JDK distribution
         java-version: '21'       # Specify the version of Java to use
-        
+
     - name: Set up Python
-      uses: actions/setup-python@v5 # conda-incubator/setup-miniconda@v3
+      uses: conda-incubator/setup-miniconda@v3
       with:
         python-version: '3.11'
 
-    # - name: Set up Python
-    #   uses: actions/setup-python@v5
-    #   with:
-    #     python-version: '3.11'
-
-    # - name: Set up Python
-    #   uses: actions/setup-python@v5
-    #   with:
-    #     python-version: '3.11'
-    # - name: Check Environment Variables
-    #   uses: actions/setup-python@v5
-    #   with:
-    #     python-version: '3.11'
-    #     # cache: 'pip' # caching pip dependencies
-    
-    # - name: Install Dependencies
-    #   run: conda install --yes --file ./"CLI tools"/requirements.txt
-
-    - name: Install pip
-      run: |
-        python -m ensurepip --upgrade
-        python -m pip install --upgrade pip
-
     - name: Install dependencies
       run: |
-        pip -V
-        pip install -r "./CLI tools/requirements.txt"
+        if [ -f "CLI tools/requirements.txt" ]; then pip install -r "CLI tools/requirements.txt"; fi
 
     - name: Run Python script
       run: python "CLI tools/Modpack Export.py"
