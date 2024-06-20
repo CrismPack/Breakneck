@@ -2,6 +2,14 @@ name: Run Python Script and Create Release
 
 on: [ workflow_dispatch ]
 
+env:
+  MINECRAFT_VERSION: 1.21
+  VERSION: 4.0.0_pre3
+  RELEASE_NAME: Breakneck v4.0.0_pre3 for 1.21
+  # MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+  # CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.PUBLISH_GITHUB_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,26 +36,26 @@ jobs:
     - name: Run Python script
       run: python "CLI tools/Modpack Export.py"
 
-    # - name: Publish (CurseForge/Modrinth/GitHub)
-    #   uses: Kir-Antipov/mc-publish@v3.3
-    #   with:
-    #     # curseforge-id: 882472
-    #     # curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
-    #     # curseforge-files: './Export/CurseForge/*.zip'
+    - name: Publish (CurseForge/Modrinth/GitHub)
+      uses: Kir-Antipov/mc-publish@v3.3
+      with:
+        # curseforge-id: 882472
+        # curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
+        # curseforge-files: './Export/CurseForge/*.zip'
 
-    #     # modrinth-id: qPrWu8wn
-    #     # modrinth-token: "${{env.MODRINTH_TOKEN}}"
-    #     # modrinth-files: './Export/Modrinth/*.zip'
+        # modrinth-id: qPrWu8wn
+        # modrinth-token: "${{env.MODRINTH_TOKEN}}"
+        # modrinth-files: './Export/Modrinth/*.zip'
         
-    #     github-tag: "v${{env.VERSION}}"
-    #     github-token: "${{env.GITHUB_TOKEN}}"
-    #     github-files: '*.zip'
+        github-tag: "v${{env.VERSION}}"
+        github-token: "${{env.GITHUB_TOKEN}}"
+        github-files: '*.zip'
 
 
-    #     name: "${{env.RELEASE_NAME}}"                             
-    #     version: "${{env.VERSION}}"
-    #     version-type: release
-    #     changelog-file: CHANGELOG.md                                      
+        name: "${{env.RELEASE_NAME}}"                             
+        version: "${{env.VERSION}}"
+        version-type: release
+        changelog-file: CHANGELOG.md                                      
 
-    #     loaders: fabric
-    #     game-versions: "${{env.MINECRAFT_VERSION}}"
+        loaders: fabric
+        game-versions: "${{env.MINECRAFT_VERSION}}"
