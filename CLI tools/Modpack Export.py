@@ -5,6 +5,9 @@ from shutil import rmtree, make_archive, move
 from pathlib import Path
 
 import toml  # pip install toml
+import yaml
+from mdutils.mdutils import MdUtils
+from mdutils import Html
 
 
 user_path = os.path.expanduser("~")
@@ -48,7 +51,7 @@ print("[DEBUG] " + mmc_input_path)
 
 
 
-refresh_only = False
+refresh_only = True
 gh_login = False
 export_mmc_modrinth = True
 export_mmc_curseforge = True
@@ -57,7 +60,7 @@ update_bcc_version = True
 cleanup_cache = True
 move_disabled_mods = True
 test_linux_mappings = False
-
+create_release_notes = True
 
 
 # Remap paths if running on Linux
@@ -123,8 +126,45 @@ def main():
     if gh_login:
         subprocess.call("mmc-export gh-login")
     
+    # Parse the related changelog file for overview details and create release markdown files for CF and MR.
+    if create_release_notes:
+        os.chdir(git_path)
+        changelog_path = git_path + f"\\Changelogs\\{minecraft_version}+{pack_version}.yml"
+        
+        md_element_full_changelog = f"#### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/{minecraft_version}#v{pack_version})**"
+        md_element_pre_release = '**This is a pre-release. Here be dragons!**'
+        md_element_bh_banner = "[![BisectHosting Banner](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/bh.png?raw=true)](https://bisecthosting.com/CRISM)"
+        md_element_crism_spacer = "![CrismPack Spacer](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/79ESzz1-tiny.png?raw=true)"
+        
+        with open(changelog_path, "r") as f:
+            changelog_yml = yaml.safe_load(f)
+        update_overview = changelog_yml['Update overview']
+        
+        mdFile_CF = MdUtils(file_name='CurseForge-Release')
+        mdFile_MR = MdUtils(file_name='Modrinth-Release')
+        
+        print(update_overview)
+        
+        if "beta" or "alpha" in pack_version:
+            print("")
+            mdFile_CF.new_paragraph(md_element_pre_release)
+            mdFile_MR.new_paragraph(md_element_pre_release)
+        
+        mdFile_CF.new_paragraph(update_overview)
+        mdFile_CF.new_paragraph(md_element_full_changelog)
+        mdFile_CF.new_paragraph(md_element_bh_banner)
+        mdFile_CF.create_md_file()
+        
+        mdFile_MR.new_paragraph(update_overview)
+        mdFile_MR.new_paragraph(md_element_full_changelog)
+        mdFile_MR.new_paragraph(md_element_crism_spacer)
+        mdFile_MR.create_md_file()
+        
+        os.chdir(packwiz_path)
+        
 
     if not refresh_only:
+        
         # Update version number in BCC
         if update_bcc_version:
             with open(bcc_config_path, "r") as f:
