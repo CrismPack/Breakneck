@@ -2,12 +2,13 @@ name: 4.0.0-beta.4 for 1.21
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - Something something
-  - Somethang somethang
+  - Readded Particle Core, Noisium & Polytone.
+  - Removed 'Don't Clear Chat History'.
+  - Updated mods.
 
 
 Mods added: |
-  - 
+  + 
 
 
 Resource Packs added: |
@@ -18,8 +19,11 @@ Shader Packs added: |
   + 
 
 
-Mods re-enabled: |
-  + 
+Mods readded: |
+  + Fzzy Config
+  + Noisium
+  + Particle Core
+  + Polytone
 
 
 Metadata changes: |
@@ -39,7 +43,14 @@ Resource Packs removed: |
 
 
 Mods updated: |
-  > 
+  > Better Statistics Screen
+  > Collective
+  > Fzzy Config
+  > Mod Menu
+  > Noisium
+  > Particle Core
+  > Polytone
+  > TCDCommons API
 
 Mod updates reverted: |
   > 
@@ -54,4 +65,4 @@ Shader Packs updated: |
 
 
 Config changes: |
-  = 
+  = : [mod]
