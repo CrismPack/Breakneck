@@ -30,8 +30,7 @@ jobs:
       uses: Kir-Antipov/mc-publish@v3.3
       with:
         name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
-        version: "${{ steps.download-files.outputs.tag_name }}"
-        version-type: "${{ VERSION_TYPE }}"
+        # version-type: "${{ VERSION_TYPE }}"
         changelog-file: Modrinth Release.md
 
         curseforge-id: 882472
@@ -60,8 +59,7 @@ jobs:
       uses: Kir-Antipov/mc-publish@v3.3
       with:
         name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
-        version: "${{ steps.download-files.outputs.tag_name }}"
-        version-type: "${{ VERSION_TYPE }}"
+        # version-type: "${{ VERSION_TYPE }}"
         changelog-file: "Modrinth Release.md"
 
         modrinth-id: qPrWu8wn
