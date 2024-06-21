@@ -48,7 +48,7 @@ print("[DEBUG] " + mmc_input_path)
 
 
 
-refresh_only = True
+refresh_only = False
 gh_login = False
 export_mmc_modrinth = True
 export_mmc_curseforge = True
@@ -56,7 +56,7 @@ export_packwiz_modrinth = False
 update_bcc_version = True
 cleanup_cache = True
 move_disabled_mods = True
-test_linux_mappings = True
+test_linux_mappings = False
 
 
 
@@ -249,7 +249,7 @@ def main():
             print("Cache cleanup finished.")
         
         os.chdir(packwiz_path)
-        # subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
+        subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
         
     elif refresh_only:
         subprocess.call(f"{packwiz_exe_path} refresh", shell=True)
