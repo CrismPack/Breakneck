@@ -1,4 +1,0 @@
-- Switched to use Modrinth metadata as the basis of the pack behind the scenes.
-- Fixed crash when opening the multiplayer menu.
-- Increased CPU priority of the games main thread.
-- Re-enabled mods that have been updated to 1.21.
