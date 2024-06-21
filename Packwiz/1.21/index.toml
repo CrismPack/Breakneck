@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f2190bd1a226f3d4153cb3b5a49a6ae56526c69d5184538a87695d467d0571b1"
+hash = "0361a484c4c8e68e777f40c91ac7bbd5cc0ad475f1eb3d0ed7425e0fa7c4aa12"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3eac250a5bf00ba69b40c88c04e5522260d0cb83ccc0ef7fb0b495acb3651914"
+hash = "319a2560e77031c2f03251b8a56b58d11015f64f7ec414a91e7d27e7f5e5235c"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ce13881a84adda0cc7bae3c83641e1a4acf41a9a82ebb82e5224d40733cacb58"
+hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0ac818691dd46953c163c696a5c8c982267c3fbd6a558c2917741b11bbe49f63"
+hash = "0cbe0af05dbc18f8a45611d3f87d5c9a8d7c545f9e0422031021e54674bf421c"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ebd11b4343a73a9ce0520be7cc79a32ec34920412a0a11d5ba3209e524ce2a3b"
+hash = "c50a814efe485566dddabe2771b2d4abb64fdece80d895cf09abaf01add8efb6"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "86ac8aedbcf013e21ed0adf61f6cdf992e64499acbc1c3dae08e1fc7b798decc"
+hash = "6de363a1d2baf1d4048a838de11353efa39efa396c6a8189a6e5ea368d7e9245"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "85619c080fec1b1fd59309dc1ef9b8b779a569f2fd29c8485e68f1491328000d"
+hash = "a9552d1bbb7be32adaf82b6267978d98dcb2f95615aaf552a2bac4c4bcf96b88"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b92b3667ec330f426ea3b65da4f428af4d3c193ab516d9ab9e029029dd00027d"
+hash = "5b59ab60d978542c01eab57a3d54ccd7ec9e45befc34bbdd63706030dc391df9"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf9a5ab75ecff8efbb84f083bbc4cf8d5008398584924c53374bb314b5853bb7"
+hash = "39f24b5ecf6f946f218489dadf5f907df2ae87b4b844c003b3e3b423de8b1ca2"
 metafile = true
 
 [[files]]

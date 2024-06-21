@@ -51,7 +51,7 @@ print("[DEBUG] " + mmc_input_path)
 
 
 
-refresh_only = True
+refresh_only = False
 gh_login = False
 export_mmc_modrinth = True
 export_mmc_curseforge = True

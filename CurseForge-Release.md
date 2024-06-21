@@ -5,8 +5,9 @@
 
 **This is a pre-release. Here be dragons!**
 
-- Something something
-- Somethang somethang
+- Readded Particle Core, Noisium & Polytone.
+- Removed 'Don't Clear Chat History'.
+- Updated mods.
 
 
 #### **[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21#v4.0.0-beta.4)**
