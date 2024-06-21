@@ -1,0 +1,11 @@
+1. Write changelogs.
+2. Change 'minecraft_version' variable in 'Modpack Export.py' script depending on the packwiz directory you wish to use.
+3. Change modpack version in 'pack.toml'.
+4. Run script to create CF and MR modpacks.
+5. Commit git changes.
+6. Go to repository and create a new release.
+    - Ensure that the title and name are exactly the same as pack version. Example: "4.0.0-beta.4"
+    - Upload .zip and .mrpack modpack binaries to the release.
+    - Press publish.
+
+Files should now be posted to both Modrinth and CurseForge! Congrats!
