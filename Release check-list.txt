@@ -1,4 +1,5 @@
-1. Write changelogs.
+1. Write changelogs. 
+    - Ensure that the changelog file name has the correct formatting: Example: 1.21+4.0.0-beta.4.yml
 2. Change 'minecraft_version' variable in 'Modpack Export.py' script depending on the packwiz directory you wish to use.
 3. Change modpack version in 'pack.toml'.
 4. Run script to create CF and MR modpacks.
