@@ -31,7 +31,7 @@ jobs:
       with:
         name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
         # version-type: "${{ VERSION_TYPE }}"
-        changelog-file: Modrinth Release.md
+        changelog-file: "Modrinth-Release.md"
 
         curseforge-id: 882472
         curseforge-token: "${{ env.CURSEFORGE_TOKEN }}"
@@ -60,7 +60,7 @@ jobs:
       with:
         name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
         # version-type: "${{ VERSION_TYPE }}"
-        changelog-file: "Modrinth Release.md"
+        changelog-file: "Modrinth-Release.md"
 
         modrinth-id: qPrWu8wn
         modrinth-token: "${{env.MODRINTH_TOKEN}}"
