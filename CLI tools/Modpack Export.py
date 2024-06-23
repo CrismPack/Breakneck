@@ -275,7 +275,7 @@ def main():
                 "mmc-export",
                 "--input", mmc_input_path,
                 "--format", "Modrinth",
-                "--modrinth-search", "accurate",
+                "--modrinth-search", "loose",
                 "-o", mr_export_path,
                 "-c", mmc_config,
                 "-v", pack_version,
