@@ -1,0 +1,63 @@
+name: 4.0.0-beta.5 for 1.21
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - Readded Krypton & Shulker Box Tooltip.
+  - Updated mods & resource packs.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + Krypton
+  + Shulker Box Tooltip
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > Balm
+  > Collective
+  > Dynamic FPS
+  > Entity Texture Features
+  > Krypton
+  > Shulker Box Tooltip
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > Fresh Animations
+
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = : [mod]
