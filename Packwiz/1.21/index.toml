@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0361a484c4c8e68e777f40c91ac7bbd5cc0ad475f1eb3d0ed7425e0fa7c4aa12"
+hash = "18e791349117e889fa12f3742ef9219a9d4966d5fa401d5a8de7094e38ae3713"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/breakneck-menu.pw.toml"
-hash = "63a1484892cefb21f749b63b363be4c20af5a9439cf615b356f5460854e43af7"
+hash = "f640d268e794bd7e1fd5713c892abf429e5e81e2e4440056cb70ea71ca487298"
 metafile = true
 
 [[files]]
@@ -294,12 +294,12 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "2dc8e8ab13d791502985a10d81983b81310f32f491a579d01beb46d811543481"
+hash = "ce28add4b123ffbb80f7c9b95b7ee230da89f79dd0e64f342763854e4e935fa2"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "06c9f8732c7de18b57a3bb67b38693f07360e192e2de1a3deb4124f19f0c250f"
+hash = "55f0656b4bb9489a9f36700bf8ba069f8fe001c4baf2d4d0ff01e948560dda59"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "8151fa69775bf7bd04723fe872c604e875ce94bc9cc78f5c9c64678716a869bb"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
@@ -629,12 +629,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "ccaa6703b49e00c45ed7acaa46e206eab9f2caab3b7a663df4b9eb8efd8a241e"
+hash = "03a2134222930dd13d6879ef2c63ce979d1c5e59dfc29438bdc1ec7dd4116c02"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "f877c23c32e7eb04a89c832c11a3bf1e7262e95a7092cee7a14e95ec758cc11a"
+hash = "eeff6967a5cd0142b06b36d4629c0165be2c66fec4e21292429e51d2a1b68003"
 metafile = true
 
 [[files]]
