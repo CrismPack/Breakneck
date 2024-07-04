@@ -65,7 +65,7 @@ jobs:
     - name: Publish to CurseForge
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
         changelog-file: CurseForge-Release.md
 
         curseforge-id: 579074
@@ -99,7 +99,7 @@ jobs:
     - name: Publish to Modrinth
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
         changelog-file: Modrinth-Release.md
 
         modrinth-id: qPrWu8wn
