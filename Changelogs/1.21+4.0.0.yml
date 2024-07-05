@@ -1,0 +1,93 @@
+name: 4.0.0 for 1.21
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - Added 1.21 themed panorama.
+  - Readded Cubes Without Borders, Krypton & Shulker Box Tooltip.
+  - Updated mods & resource packs.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + Custom Window Title
+  + Numeral Ping
+  + Nvidium
+  + Resource Pack Overrides
+  + Wavey Capes
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > Architectury API
+  > Balm
+  > Better Statistics Screen
+  > Bobby
+  > Chat Heads
+  > Collective
+  > Cubes Without Borders
+  > Custom Window Title
+  > Dynamic FPS
+  > Eating Animation
+  > Entity Model Features
+  > Entity Texture Features
+  > Fabric API
+  > Forge Config API Port
+  > Indium
+  > Inventory Profiles Next
+  > Iris Shaders
+  > libIPN
+  > ModernFix
+  > Noisium
+  > Numeral Ping
+  > Nvidium
+  > Polytone
+  > Resource Pack Overrides
+  > Remove Reloading Screen
+  > Shulker Box Tooltip
+  > Simple Voice Chat
+  > Sodium
+  > TCDCommons API
+  > ViaFabric
+  > Wavey Capes
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > Fresh Animations
+
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = : [mod]

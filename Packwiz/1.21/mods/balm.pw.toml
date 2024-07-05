@@ -1,13 +1,13 @@
 name = "Balm"
-filename = "balm-fabric-1.21-21.0.8.jar"
+filename = "balm-fabric-1.21-21.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/b7Q7HRZD/balm-fabric-1.21-21.0.8.jar"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/ryOwjzmq/balm-fabric-1.21-21.0.11.jar"
 hash-format = "sha1"
-hash = "e33617291a7b1789f91fd26470b95918646a86bd"
+hash = "c3b8a97202047d536876e9c2699690de83da7cf2"
 
 [update]
 [update.modrinth]
 mod-id = "MBAkmtvl"
-version = "b7Q7HRZD"
+version = "ryOwjzmq"
