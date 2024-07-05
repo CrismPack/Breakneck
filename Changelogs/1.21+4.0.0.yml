@@ -2,9 +2,11 @@ name: 4.0.0 for 1.21
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - Added 1.21 themed panorama.
-  - Readded Cubes Without Borders, Krypton & Shulker Box Tooltip.
-  - Updated mods & resource packs.
+  - Added 'Chat Reporting Helper' resource pack.
+  - Readded Custom Window Title, Nvidium, Resource Pack Overrides, True Darkness Refabricated & Wavey Capes.
+  - Removed 'BadOptimizations' mod.
+  - Replaced Discord RPC logo with the new 1.21 variant.
+  - Updated mods & resource packs to their latest version.
 
 
 Mods added: |
@@ -12,7 +14,7 @@ Mods added: |
 
 
 Resource Packs added: |
-  + 
+  + Chat Reporting Helper
 
 
 Shader Packs added: |
@@ -21,9 +23,10 @@ Shader Packs added: |
 
 Mods readded: |
   + Custom Window Title
-  + Numeral Ping
   + Nvidium
   + Resource Pack Overrides
+  + Suggestion Tweaker
+  + True Darkness Refabricated
   + Wavey Capes
 
 
@@ -32,7 +35,7 @@ Metadata changes: |
 
 
 Mods removed: |
-  - 
+  - BadOptimizations
 
 
 Mods disabled: |
@@ -90,4 +93,4 @@ Shader Packs updated: |
 
 
 Config changes: |
-  = : [mod]
+  = Changed largeImageKey to use new 1.21 logo: [Simple Discord RPC]

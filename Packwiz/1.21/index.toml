@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "18e791349117e889fa12f3742ef9219a9d4966d5fa401d5a8de7094e38ae3713"
+hash = "f804788b89a0bc366985f8f9b666941321fa5adb0f817f9082ab81d1f2b3726d"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -62,7 +62,7 @@ hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ebf4ec974be45b44438c476660b4a2a4133d55f124382f508d97ab0d8d13e75b"
+hash = "195cf41044c18222b854700803e866dd1fe65b6716d6019cc10516106bd519e6"
 
 [[files]]
 file = "config/sdrp-common.json"
@@ -74,7 +74,7 @@ hash = "e95580d3f3c68be011c7022021dd7ae0d7075601694b7f3b0f2a55071ae3e2ed"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "cb6003479ceeb0b32ea991eb316e25937e12bb642376c63ebbea864824871e9c"
+hash = "c93f1ccb5a96dccbdaf38496671deef0d9721299674a144ddf3a93a5476471ff"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -82,6 +82,10 @@ hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
 
 [[files]]
 file = "config/yosbr/config/TrueDarknessFork.json5"
+hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
+
+[[files]]
+file = "config/yosbr/config/TrueDarknessRefabricated.json5"
 hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 
 [[files]]
@@ -304,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-window-title.pw.toml"
-hash = "b0ea315d4a6006b8c027d3d28b8c8646d1717b55797f28eae352530dadbb998d"
+hash = "d5eb2ca6497e042d61df79f9ecf7ac912b644a3eb8b30b2b9804e1d9a60ecd40"
 metafile = true
 
 [[files]]
@@ -534,12 +538,12 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-hash = "d06be53b0ddb3a2a9c94c6a6222fc48d43f0974a44eca293c478ef102a37f099"
+hash = "dc63e02fcfc6840ee551d83c33b6fbf3af2f4a1f84010daee84f8821df2ccb34"
 metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "1d9848682e1cf0dacf3ade42e938237190a514e39dda05de1bab25689cf1ee01"
+hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
@@ -594,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "1e10bf1231620dcb3e4ca285482ccb2e2c196fc6ff7ec3dc12058af5f73ade98"
+hash = "b10c76812a129c445f9ff55b6fc467e40e3fa9a87e89b9b79fcee04ebe715abd"
 metafile = true
 
 [[files]]
@@ -664,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "a21cd9c5f1c2c9f5408b720d4b2463344d3504226258cfc1a5a260a1467d04e7"
+hash = "da7f1b8edc89a3cbd471f645f3d897c2e149db6b5446a4c0cb20bf0c8744fe79"
 metafile = true
 
 [[files]]
@@ -683,13 +687,18 @@ hash = "2bd3459f13638617703ef4fe6f7dee12bb69f9b147e5d5db3764a6a966924ce2"
 metafile = true
 
 [[files]]
+file = "mods/true-darkness-fabric.pw.toml"
+hash = "004b529d262757fa48e9e6ba22f11f3f9536079d55b80e465704c508568b8211"
+metafile = true
+
+[[files]]
 file = "mods/viafabric.pw.toml"
 hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "48c1ee0eef95c7eee6311b80fdf4460bfc1677f030efeb961e0aadb2fd34a06b"
+hash = "f474df1d652f6286874e95c4b754e59b52b84b12afe2e3c9162a42344426a852"
 metafile = true
 
 [[files]]
@@ -728,6 +737,11 @@ hash = "02bfbb98bcc8e466e0f04b426c459ee2cca7d8902101f59c6f47ab9d63b46a46"
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.png"
 hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

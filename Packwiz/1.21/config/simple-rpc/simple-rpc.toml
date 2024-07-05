@@ -23,10 +23,10 @@
 	#Image Keys
 	[[custom.variables]]
         name = "largeImageKey"
-        value = "https://i.imgur.com/oMGpfd7.gif"
+        value = "https://github.com/CrismPack/CDN/blob/main/rpc/breakneck21.gif?raw=true"
     [[custom.variables]]
         name = "smallImageKey"
-        value = "https://i.imgur.com/alFUtQ5.png"
+        value = "https://github.com/CrismPack/CDN/blob/main/rpc/crism.png?raw=true"
 	
 	#Image Text:
     [[custom.variables]]
