@@ -3,8 +3,6 @@
 
 
 
-**This is a pre-release. Here be dragons!**
-
 - First proper 1.21 release version. 
 - Added 'Clickthrough 2.0', 'Replanter Plus', 'RyoamicLights' & 'FabricSkyBoxes Interop' mods.
 - Added 'Chat Reporting Helper' & 'Translations for Sodium' resource packs.

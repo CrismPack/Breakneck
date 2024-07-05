@@ -12,37 +12,7 @@ env:
 permissions:
   contents: write
 
-jobs:
-  # publish-to-curseforge:
-  #   if: github.repository_owner == 'CrismPack'
-  #   runs-on: ubuntu-24.04
-  #   environment: github-actions
-    
-  #   steps:
-  #   - name: Download pack files
-  #     uses: robinraju/release-downloader@v1.10
-  #     id: download-files
-  #     with:
-  #       fileName: '*.zip'
-  #       latest: true
-  #       tarBall: false
-  #       zipBall: false
-  #       preRelease: true
-
-  #   - name: Publish to CurseForge
-  #     uses: Kir-Antipov/mc-publish@v3.3
-  #     with:
-  #       name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
-  #       changelog-file: Modrinth-Release.md
-        
-  #       curseforge-id: 882472
-  #       curseforge-token: "${{ env.CURSEFORGE_TOKEN }}"
-  #       curseforge-files: '*.zip'
-
-  #       loaders: fabric
-  #       game-versions: ${{ vars.MC_VERSION }}
-        
-
+jobs:   
   publish-to-curseforge:
     if: github.repository_owner == 'CrismPack'
     runs-on: ubuntu-24.04
@@ -60,7 +30,6 @@ jobs:
         latest: true
         tarBall: false
         zipBall: false
-        preRelease: true
 
     - name: Publish to CurseForge
       uses: Kir-Antipov/mc-publish@v3.3
@@ -74,7 +43,6 @@ jobs:
 
         loaders: fabric
         game-versions: ${{ vars.MC_VERSION }}
-
 
 
   publish-to-modrinth:
@@ -94,7 +62,6 @@ jobs:
         latest: true
         tarBall: false
         zipBall: false
-        preRelease: true
 
     - name: Publish to Modrinth
       uses: Kir-Antipov/mc-publish@v3.3

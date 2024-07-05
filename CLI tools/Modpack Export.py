@@ -145,8 +145,8 @@ def main():
         
         print(update_overview)
         
-        if "beta" or "alpha" in pack_version:
-            print("")
+        if "beta" in pack_version or "alpha" in pack_version:
+            print("pack_version = " + pack_version)
             mdFile_CF.new_paragraph(md_element_pre_release)
             mdFile_MR.new_paragraph(md_element_pre_release)
         
