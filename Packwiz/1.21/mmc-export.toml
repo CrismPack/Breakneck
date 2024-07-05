@@ -5,3 +5,8 @@ description = "Level up your vanilla client with increased FPS, quality of life 
 [[File]]
 name = "packwiz-installer.jar"
 action = "remove"
+
+[[Resource]]
+name = "Nvidium"
+filename = "nvidium-0.2.9-beta.jar" 
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/cl0HrTL6/nvidium-0.2.9-beta.jar"

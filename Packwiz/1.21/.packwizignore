@@ -10,5 +10,6 @@
 /mmc-cache/*
 /disabled
 /disabled/*
+/mmc-export.toml
 
 /mods/disabled/*
