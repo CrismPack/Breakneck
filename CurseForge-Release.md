@@ -8,7 +8,8 @@
 - First proper 1.21 release version. 
 - Added 'Chat Reporting Helper' resource pack.
 - Readded Custom Window Title, Nvidium, Resource Pack Overrides, True Darkness Refabricated & Wavey Capes.
-- Replaced Discord RPC logo with a new 1.21 variant.
+- Removed 'BadOptimizations' mod.
+- Replaced Discord RPC logo with the new 1.21 variant.
 - Updated mods & resource packs to their latest version.
 
 

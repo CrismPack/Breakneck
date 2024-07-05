@@ -187,11 +187,6 @@ hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "29d7f33e4792af33ee7b4e090280b6d3de5ed4b3d7f8d235c8cac63c5efe383b"
 metafile = true
@@ -589,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "2217144fc3c02492f7c3479396917478df02ebed1566514dbe1c3dae4fe46059"
+metafile = true
+
+[[files]]
+file = "mods/replanter-plus.pw.toml"
+hash = "a2a2824420e45cd57c6f6da8ff67f755f5f15d596f6bd0e10ae61b9510580f32"
 metafile = true
 
 [[files]]

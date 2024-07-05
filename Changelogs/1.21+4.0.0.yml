@@ -2,7 +2,8 @@ name: 4.0.0 for 1.21
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - Added 'Chat Reporting Helper' resource pack.
+  - First proper 1.21 release version. 
+  - Added 'Replanter Plus' mod & 'Chat Reporting Helper' resource pack.
   - Readded Custom Window Title, Nvidium, Resource Pack Overrides, True Darkness Refabricated & Wavey Capes.
   - Removed 'BadOptimizations' mod.
   - Replaced Discord RPC logo with the new 1.21 variant.
@@ -10,7 +11,7 @@ Update overview: |
 
 
 Mods added: |
-  + 
+  + Replanter Plus
 
 
 Resource Packs added: |
@@ -36,6 +37,7 @@ Metadata changes: |
 
 Mods removed: |
   - BadOptimizations
+  - Replanter [Previously disabled]
 
 
 Mods disabled: |
@@ -94,3 +96,5 @@ Shader Packs updated: |
 
 Config changes: |
   = Changed largeImageKey to use new 1.21 logo: [Simple Discord RPC]
+  = Changed autoSwitch to "false": [Replanter Plus]
+  = Changed requireSeedHeld to "true": [Replanter Plus]
