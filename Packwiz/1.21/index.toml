@@ -61,8 +61,12 @@ file = "config/puzzle.json"
 hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
+file = "config/replanterplus/config.json"
+hash = "34b07e50bf423552d94c1714370f1cd6eb3b5c51d4f5010a2f2fe3dd985b4ccf"
+
+[[files]]
 file = "config/resourcepackoverrides.json"
-hash = "195cf41044c18222b854700803e866dd1fe65b6716d6019cc10516106bd519e6"
+hash = "a4eefb30232137b5cfaa4ef023fdfc1a67df44916b9e28eb69d044ea45f95a0b"
 
 [[files]]
 file = "config/sdrp-common.json"
@@ -119,6 +123,10 @@ hash = "f90756eebe46acd7b1980d032ea790fdd12af7c7e1d110ff2b2a27149fb033d9"
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
+
+[[files]]
+file = "config/yosbr/config/ryoamiclights.toml"
+hash = "65c892067593a955dd74de8bfe3df56f9f6069f33abbbf004d899fecdc52b676"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
@@ -262,8 +270,8 @@ hash = "b730e525312bb6ca26585a24b11f32535aa9e2a8a5ff73d90468489f00b61804"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough.pw.toml"
-hash = "fdab699d4ef9ff16f9fb56c5ffc7a513b5e99e02640f96e7324aedac54b74f8d"
+file = "mods/clickthrough2.0.pw.toml"
+hash = "e6ac7696899b326dc6889b62737a4ff8a3bbed4d6bf3a00777953cb9bfd6f9a6"
 metafile = true
 
 [[files]]
@@ -377,6 +385,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "9baaaf98f919bf3258f50ae0b8552a53c16d298650cb90d48cbec6f96d1ef556"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "7f416e1e3f87291645fa70a03c5e907f862bc653b1af33d90453550724cbb886"
 metafile = true
@@ -439,11 +452,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "6160e95783193287601022907b160a87f72c7af4c283523735247a7838666143"
 metafile = true
 
 [[files]]
@@ -513,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "2e7b4e6b7e8f1f8ac0c46cd394d374bc7e58db4c6f70b7d5c5960592d3625b2d"
+hash = "89ab43ed246e780ed974a799cc0d49dfab96b3d094321d08b4e65092e91724f9"
 metafile = true
 
 [[files]]
@@ -542,13 +550,18 @@ hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "f3fd21cc85f5450699e3b2a48e97527b8323a18b3af5130592a19631e56080f6"
 metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "4ca74c29f2d304d291535bc3a4803a27706dc204a6659c2b951f830fa661269e"
+hash = "47f673ce50dc6fdfd8e40f47035b9454b1130298f77dec65c14908fa4955213b"
 metafile = true
 
 [[files]]
@@ -592,11 +605,6 @@ hash = "a2a2824420e45cd57c6f6da8ff67f755f5f15d596f6bd0e10ae61b9510580f32"
 metafile = true
 
 [[files]]
-file = "mods/replanter.pw.toml"
-hash = "b9dcc8c6b51f339791fccf105db467083b9a5c89bb001bc5743853c3d88fe3ac"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "b10c76812a129c445f9ff55b6fc467e40e3fa9a87e89b9b79fcee04ebe715abd"
 metafile = true
@@ -614,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "ea90fe609d6c7223befc73a271e8ea1f219e71526b7eb578b00b4002b6efe679"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
 
 [[files]]
@@ -756,6 +769,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "22d9e276d3c7117b1cf8816539f252941cfea68f851ea3516076fefad3caf127"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "77c1351b5ea98c043b7c9b9214a07f8ad4c7a3593a8c525c75a883df38b0edb0"
 metafile = true
 
 [[files]]

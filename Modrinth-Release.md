@@ -6,8 +6,9 @@
 **This is a pre-release. Here be dragons!**
 
 - First proper 1.21 release version. 
-- Added 'Chat Reporting Helper' resource pack.
-- Readded Custom Window Title, Nvidium, Resource Pack Overrides, True Darkness Refabricated & Wavey Capes.
+- Added 'Clickthrough 2.0', 'Replanter Plus', 'RyoamicLights' & 'FabricSkyBoxes Interop' mods.
+- Added 'Chat Reporting Helper' & 'Translations for Sodium' resource packs.
+- Readded 'Custom Window Title', 'Name Pain', 'Nvidium', 'Paginated Advancements', 'Resource Pack Overrides', 'True Darkness Refabricated' & 'Wavey Capes'.
 - Removed 'BadOptimizations' mod.
 - Replaced Discord RPC logo with the new 1.21 variant.
 - Updated mods & resource packs to their latest version.

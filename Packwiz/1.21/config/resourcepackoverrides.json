@@ -8,6 +8,7 @@
     "breakneckmenu:breakneckmenu",
     "file/JustExpressions_v1.1.zip",
     "file/Chat Reporting Helper.zip",
+    "file/SodiumTranslations.zip",
     "file/Breakneck Lang"
   ],
   // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
@@ -31,6 +32,7 @@
     "1": [
       "file/JustExpressions_v1.1.zip",
       "file/Chat Reporting Helper.zip",
+      "file/SodiumTranslations.zip",
       "file/Breakneck Lang"
     ],
     "$1": {
