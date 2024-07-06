@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f804788b89a0bc366985f8f9b666941321fa5adb0f817f9082ab81d1f2b3726d"
+hash = "b28d2ca6ff0a331564fd3c0d4c33ee8c55752c16f5fd8793b1207c08f8f22a91"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -146,7 +146,7 @@ hash = "16d7cbfc1d27090d2658085ae7574defe2f617c8943269806bd2090ce0d12784"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
+hash = "b0443387e446f2f5b431f3247d7858a7148dce3e7afbf6523fa3e2d28c44becd"
 
 [[files]]
 file = "config/yosbr/options.txt"

@@ -1,0 +1,56 @@
+name: 4.0.1 for 1.21
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - 
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + 
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > 
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > 
+
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = Changed caveMapsAllowed to "false" by default: [Xaero's World Map]
