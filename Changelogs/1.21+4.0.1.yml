@@ -2,7 +2,9 @@ name: 4.0.1 for 1.21
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - 
+  - Readded 'ItemSwapper' mod.
+  - Changed world map to have cave mode be disallowed by default.
+  - Updated mods, resource & shader packs to their latest version.
 
 
 Mods added: |
@@ -17,7 +19,7 @@ Shader Packs added: |
 
 
 Mods readded: |
-  + 
+  + ItemSwapper
 
 
 Metadata changes: |
@@ -37,7 +39,8 @@ Resource Packs removed: |
 
 
 Mods updated: |
-  > 
+  > Better Statistics Screen
+  > ItemSwapper
 
 
 Mod updates reverted: |
@@ -45,11 +48,12 @@ Mod updates reverted: |
 
 
 Resource Packs updated: |
-  > 
+  > Translations for Sodium
 
 
 Shader Packs updated: |
-  > 
+  > Complementary Shaders - Reimagined
+  > Complementary Shaders - Unbound
 
 
 Config changes: |
