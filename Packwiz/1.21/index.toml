@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b28d2ca6ff0a331564fd3c0d4c33ee8c55752c16f5fd8793b1207c08f8f22a91"
+hash = "bfc59f9d9c52e6e20add23665923aeaf71959deee27b59f7b4a5bda31e039f83"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "f3470380c18d95155c24738a857f0e52007654a3437a56095ca45ae584cc7a5d"
+hash = "0bf9eb6516522bb335a288d44c4c6a0962ab9bf6e39ebf43b5bd54ef6637dbf5"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b707a57cb3489c634ef443f40929b73f9c8c694a7f421b430f48042cbf5e0383"
+hash = "7ed2158d2715c74dc93716079c029524ffc36680358d0a79757ab1052a04af6c"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d7252eff6f55a9660369bab379aae1bad5b4d4ff6e10d501c74b85f4b3e783cc"
+hash = "664b83356f5ca10ab286db442854032fa4f9d912d54b5f63452468a380335e8e"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "e20e907617af83dfb1971c8e055ef9ae18bb7c7ef50c3fbfa4694aac2193169f"
+hash = "4ba4a6bfb2a8a35f378cfff1ea81a46d08ee1c3ab344be34cb792aa0e5418ed2"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
+hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "86b8bbeeafec4cb62ca42f2074174e1f4f0b457445b2f1cd68aa7a9c5ad1bf7d"
+hash = "035a7bc87b4cb1b2563cdd24c46c59b9d1f56c27299d3eeab11be8e53983eae1"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
