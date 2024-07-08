@@ -1,6 +1,6 @@
 name = "Better Recipe Book"
 filename = "brb-1.10.0-rc5+1.21.jar"
-side = "client(disabled)"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/rj0f0Vtq/brb-1.10.0-rc5%2B1.21.jar"

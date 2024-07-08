@@ -253,21 +253,6 @@ def main():
         
         make_archive("mcc-cache", 'zip', mmc_cache_path) # Creates mcc-cache.zip file based on mmc-cache folder.
         
-
-        # Export CurseForge modpack using MMC method.
-        if export_mmc_curseforge:
-            print("[MMC] Exporting CurseForge...")
-            args = (
-                "mmc-export",
-                "--input", mmc_input_path,
-                "--format", "CurseForge",
-                "-o", cf_export_path,
-                "-c", mmc_config,
-                "-v", pack_version,
-                "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
-            ); subprocess.call(args, shell=True)
-            print("[MMC] CurseForge exported.")
-
         # Export Modrinth modpack using MMC method.
         if export_mmc_modrinth:
             print("[MMC] Exporting Modrinth...")
@@ -282,6 +267,20 @@ def main():
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
             ); subprocess.call(args, shell=True)
             print("[MMC] Modrinth exported.")
+
+        # Export CurseForge modpack using MMC method.
+        if export_mmc_curseforge:
+            print("[MMC] Exporting CurseForge...")
+            args = (
+                "mmc-export",
+                "--input", mmc_input_path,
+                "--format", "CurseForge",
+                "-o", cf_export_path,
+                "-c", mmc_config,
+                "-v", pack_version,
+                "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
+            ); subprocess.call(args, shell=True)
+            print("[MMC] CurseForge exported.")
         
         if cleanup_cache:
             os.remove("mcc-cache.zip")
