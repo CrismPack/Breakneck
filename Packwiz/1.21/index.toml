@@ -162,7 +162,7 @@ hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "50152bb214a0709e67dfd7299e1e3c20b0ec3d4dc44550d49a10fc57efe8f182"
+hash = "dcb2f8aa9aa973cb660ba8cce12be0d492b9392a9618073f8ca6a1e3c78bbee0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

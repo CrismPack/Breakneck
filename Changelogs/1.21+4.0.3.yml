@@ -1,8 +1,8 @@
-name: 4.0.1 for 1.21
+name: 4.0.3 for 1.21
 
-Fabric version: Fabric-0.15.11
+Fabric version: Fabric-0.16.0
 Update overview: |
-  - Updated mods & resource packs.
+  - Updated Fabric loader, mods & resource packs.
 
 
 Mods added: |
