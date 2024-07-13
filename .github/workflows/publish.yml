@@ -70,6 +70,7 @@ jobs:
         changelog-file: Modrinth-Release.md
 
         modrinth-id: qPrWu8wn
+        modrinth-featured: false
         modrinth-token: "${{env.MODRINTH_TOKEN}}"
         modrinth-files: '*.mrpack'
 
