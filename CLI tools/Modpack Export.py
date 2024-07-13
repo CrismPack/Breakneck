@@ -10,6 +10,23 @@ from mdutils.mdutils import MdUtils
 from mdutils import Html
 
 
+##########################################################
+# Configuration
+
+refresh_only = False
+gh_login = False
+export_mmc_modrinth = True
+export_mmc_curseforge = True
+export_packwiz_modrinth = False
+update_bcc_version = True
+cleanup_cache = True
+move_disabled_mods = True
+test_linux_mappings = False
+create_release_notes = True
+
+
+##########################################################
+# Variables
 user_path = os.path.expanduser("~")
 
 modpack_name = "Breakneck"
@@ -29,8 +46,7 @@ packwiz_installer_path = git_path + "\\CLI tools\\packwiz-installer-bootstrap.ja
 bcc_config_path = packwiz_path + "config\\bcc.json"
 
 mmc_config = packwiz_path + "mmc-export.toml"
-cf_export_path = git_path + "\\Export\\CurseForge\\"
-mr_export_path = git_path + "\\Export\\Modrinth\\"
+export_path = git_path + "\\Export\\"
 
 mmc_cache_path = packwiz_path + "mmc-cache\\"
 mmc_dotminecraft_path = mmc_cache_path + ".minecraft\\"
@@ -43,24 +59,10 @@ print("[DEBUG] " + packwiz_exe_path)
 print("[DEBUG] " + packwiz_installer_path)
 print("[DEBUG] " + bcc_config_path)
 print("[DEBUG] " + mmc_config)
-print("[DEBUG] " + cf_export_path)
-print("[DEBUG] " + mr_export_path)
+print("[DEBUG] " + export_path)
 print("[DEBUG] " + mmc_cache_path)
 print("[DEBUG] " + mmc_dotminecraft_path)
 print("[DEBUG] " + mmc_input_path)
-
-
-
-refresh_only = False
-gh_login = False
-export_mmc_modrinth = True
-export_mmc_curseforge = True
-export_packwiz_modrinth = False
-update_bcc_version = True
-cleanup_cache = True
-move_disabled_mods = True
-test_linux_mappings = False
-create_release_notes = True
 
 
 # Remap paths if running on Linux
@@ -73,9 +75,7 @@ if os.name == "posix" or test_linux_mappings:
     bcc_config_path = bcc_config_path.replace("\\","/")
     
     mmc_config = mmc_config.replace("\\","/")
-    cf_export_path = cf_export_path.replace("\\","/")
-    mr_export_path = mr_export_path.replace("\\","/")
-
+    export_path = export_path.replace("\\","/")
     
     mmc_cache_path = mmc_cache_path.replace("\\","/")
     mmc_dotminecraft_path = mmc_dotminecraft_path.replace("\\","/")
@@ -87,13 +87,14 @@ if os.name == "posix" or test_linux_mappings:
     print("[DEBUG] " + packwiz_installer_path)
     print("[DEBUG] " + bcc_config_path)
     print("[DEBUG] " + mmc_config)
-    print("[DEBUG] " + cf_export_path)
-    print("[DEBUG] " + mr_export_path)
+    print("[DEBUG] " + export_path)
     print("[DEBUG] " + mmc_cache_path)
     print("[DEBUG] " + mmc_dotminecraft_path)
     print("[DEBUG] " + mmc_input_path)
 
 
+##########################################################
+# Functions
 
 def clear_mmc_cache(path):
     os.chdir(path)
@@ -112,6 +113,8 @@ def clear_mmc_cache(path):
                 pass
 
 
+##########################################################
+# Main Program
 
 def main():
     os.chdir(packwiz_path)
@@ -263,7 +266,7 @@ def main():
                 "--input", mmc_input_path,
                 "--format", "Modrinth",
                 "--modrinth-search", "loose",
-                "-o", mr_export_path,
+                "-o", export_path,
                 "-c", mmc_config,
                 "-v", pack_version,
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
@@ -277,7 +280,7 @@ def main():
                 "mmc-export",
                 "--input", mmc_input_path,
                 "--format", "CurseForge",
-                "-o", cf_export_path,
+                "-o", export_path,
                 "-c", mmc_config,
                 "-v", pack_version,
                 "--scheme", modpack_name + "-" + minecraft_version + "-{version}",
