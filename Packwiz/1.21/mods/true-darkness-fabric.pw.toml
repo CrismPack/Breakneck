@@ -1,13 +1,13 @@
 name = "True Darkness Refabricated"
-filename = "TrueDarknessFork-Fabric-1.0.4+mc1.21.jar"
+filename = "TrueDarkessRefabricated-1.0.5+mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Pf8PJBb5/versions/xkMHlJ30/TrueDarknessFork-Fabric-1.0.4%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/Pf8PJBb5/versions/13Qx6Cc4/TrueDarkessRefabricated-1.0.5%2Bmc1.21.jar"
 hash-format = "sha1"
-hash = "217a98abbb8ae43d3acb9ff1e431d760a16c244e"
+hash = "c639d852664843e18c553947efaff36995ad47b7"
 
 [update]
 [update.modrinth]
 mod-id = "Pf8PJBb5"
-version = "xkMHlJ30"
+version = "13Qx6Cc4"

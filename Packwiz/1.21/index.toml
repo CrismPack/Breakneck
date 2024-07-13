@@ -191,17 +191,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "29d7f33e4792af33ee7b4e090280b6d3de5ed4b3d7f8d235c8cac63c5efe383b"
+hash = "5b22c7bb3ecd93b5ed027aee1961da93c3ea2e723e4a9369944ca1c1a633647b"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b79b1b6e952c6297a4b4dca61641eb33e3785ad439036b8f3d460875bda02c9d"
+hash = "c4a3dddbd6bbddc35e53142b8325f812900e33e3a630cd902dabf49b1ba5c189"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "4eb6403f282912e0dcdfbced84c656ac8f89771b82915839080001d2c52ade39"
+hash = "815ddff3eed8fa1a0b1babc437019c55aeb9d090e3055cf02504038f835543e9"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "ce28add4b123ffbb80f7c9b95b7ee230da89f79dd0e64f342763854e4e935fa2"
+hash = "c02fdd195e5b05b1433bd8311ce388a9c0d26692faa119938fd40236c7c2b316"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "3653e3529223e22d42d86c56fc35e46a2edb41fc5805299937f85c2aaed71031"
+hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "160ff0525d480cd6de9806363bf38a32f9eb730ebece0a3c1c1c51ea04be6bdf"
+hash = "a640f92460620b2ac25ce4a65e4b80e4e19ee1d8498c74546b621dba1ffe5d51"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
@@ -651,12 +651,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "eeff6967a5cd0142b06b36d4629c0165be2c66fec4e21292429e51d2a1b68003"
+hash = "ed32b23e9b1b3d7dc096e609993cff39173c6833a741adbfedb3fa0fe955dc1d"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "555516aa5d5572cc85cd517bcb85eba16b999d21cb1e9835877adf0c96486cb9"
+hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "0445f8d6e9e3d983b418a24a655e644f067e7fabcb2af9d4366e93675829c288"
+hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-fabric.pw.toml"
-hash = "004b529d262757fa48e9e6ba22f11f3f9536079d55b80e465704c508568b8211"
+hash = "8356b3c7260571acea6675b0fc5b4740a7992fd916b2a76fbcc49fb1cfe919ee"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
 
 [[files]]
