@@ -24,16 +24,16 @@ move_disabled_mods = True
 test_linux_mappings = False
 create_release_notes = True
 
+modpack_name = "Breakneck"
+minecraft_version = "1.20.6"
+packwiz_side = "client"
+
 
 ##########################################################
 # Variables
-user_path = os.path.expanduser("~")
-
-modpack_name = "Breakneck"
-minecraft_version = "1.21"
-packwiz_side = "client"
 
 # Get path of project dynamically.
+# user_path = os.path.expanduser("~")
 script_path = __file__
 git_path = str(os.path.dirname(os.path.dirname(script_path))).replace("/","\\") # .replace("/","\\") is to ensure that the path will be in the Windows format.
 

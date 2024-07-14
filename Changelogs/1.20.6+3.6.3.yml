@@ -1,0 +1,73 @@
+name: 3.6.3 for 1.20.6
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - Re-enabled 'Enhanced Block Entities'.
+  - Updated mods to their latest version.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods re-enabled: |
+  + Enhanced Block Entities
+
+
+Metadata changes: |
+  =  [MR --> CF]
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+Mods updated: |
+  > Architectury API
+  > Balm
+  > Branded Logs
+  > e4mc
+  > Enhanced Block Entities
+  > Fabric API
+  > Falling Leaves
+  > Forge Config API Port
+  > ImmediatelyFast
+  > Indium
+  > Map Tooltip
+  > ModernFix
+  > Polytone
+  > Resourcify
+  > Remove Reloading Screen
+  > Sodium
+  > ViaFabric
+  > Xaero's World Map
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > 
+
+Shader Packs updated: |
+  > Complementary Shaders - Reimagined
+  > Complementary Shaders - Unbound
+
+
+Config changes: |
+  = Changed doWriteToResourceTextFile to "true": [Branded Logs]
+  = Configured BCC config: [Branded Logs]
