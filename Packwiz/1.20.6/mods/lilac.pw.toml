@@ -1,6 +1,6 @@
 name = "LiLaC"
 filename = "lilac-1.0.0-beta.3.jar"
-side = "none"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

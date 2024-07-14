@@ -23,6 +23,7 @@ cleanup_cache = True
 move_disabled_mods = True
 test_linux_mappings = False
 create_release_notes = True
+bootstrap_nogui = False
 
 modpack_name = "Breakneck"
 minecraft_version = "1.20.6"
@@ -222,12 +223,20 @@ def main():
 
         
         file = Path(mmc_cache_path + "packwiz-installer.jar")
-        if file.is_file():
-            # Export Packwiz modpack to MMC cache folder and zip it.
-            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g --bootstrap-no-update", shell=True)
+        if bootstrap_nogui:
+            if file.is_file():
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g --bootstrap-no-update", shell=True)
+            else:
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g", shell=True)
         else:
-            # Export Packwiz modpack to MMC cache folder and zip it.
-            subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" -g", shell=True)
+            if file.is_file():
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\" --bootstrap-no-update", shell=True)
+            else:
+                # Export Packwiz modpack to MMC cache folder and zip it.
+                subprocess.call(f"java -jar \"{packwiz_installer_path}\" -s {packwiz_side} \"{packwiz_path + packwiz_manifest}\"", shell=True)
 
         # Creates mmc\.minecraft folder if it doesn't already exist.
         try:

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "11dfa93d9c187feb86c59277522c2e0dfee5b913c0425b63c93507fd3d2ff0dc"
+hash = "f39ac99520ec7a4e39b81670fda04b1ecf128d5acd1602ce0ac83ab3fe145aad"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -141,6 +141,15 @@ file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
+file = "mmc-pack.json"
+hash = "c61fb1eeed45cc5b3a14b9b3a33f23b52f4abe45a0051a20b7ba14a8856e2b5b"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "cc95be6531adb83f8ac52b9b937fa05039b8f218bdc67a392059c4d1f3dcaf55"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "4152db7e9fc03bbf98deab59b0b7393f149ddfd3d073e6e8ed2701025c12e844"
 metafile = true
@@ -192,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "7eb92fb2cc8c49b110389afcbcee36bdc3119a405c6ab56cf021492ddf878ef0"
+hash = "ea9723af707bf3826c8551c1bdd678259a8fa51c21fb21554f8faba58be6934a"
 metafile = true
 
 [[files]]
@@ -482,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/lilac.pw.toml"
-hash = "08c7a80ee7b452ad0d664abc6f341206fbe6dc024b27be85153350cc266f56cf"
+hash = "36ad5c290617bacdb8ed025b9eeafa89bdecde71cc5863f9a29dde85d47d603f"
 metafile = true
 
 [[files]]
@@ -562,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e3eb19dcf22495289a91dcc5f3a5e9f52f6b23d9b0b93953d2a610ae1b3a373d"
+hash = "eccb94f189b1243a3822a449202cc2a8fd8c8c21d4325ceccf1382862a6a095f"
 metafile = true
 
 [[files]]
@@ -642,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "b278577ac5684c5a5af89f9d3ff69357ba151ce7ac5792749f2567e1f65b6202"
+hash = "a14018f3fda2816131c82a16024fdba6bdadf01341a3691c4577e75d36212aec"
 metafile = true
 
 [[files]]
@@ -686,11 +695,6 @@ hash = "eca882f18cd953115b8ba27dda39a00751bfd1901532dc280e1c6b5355bc2b91"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "6f83be3585503233a90992299cfaaef942744f1e56463afe25f97ae493496c78"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "74ff41178ca0d52511ebf57062398adf162aa53e2608215cce8fe948e5d0c465"
 metafile = true
@@ -702,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b0a9f046ab6cb9d426bc2208fb45f8e55918405793a115256f1097c75984eb87"
+hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
 metafile = true
 
 [[files]]
@@ -736,8 +740,8 @@ hash = "ebf5cc21ee90c44166714b899b277428f16fa3d861adcbdeaf3d706042d6a608"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "31b73587218fe390777ad83833140031572ebeec8dd89ad17834362be510549a"
+file = "mods/wavey-capes.pw.toml"
+hash = "89480d336b261c893e154914129de94b3aa2fef2207e0d84ac369833ea4c1ad9"
 metafile = true
 
 [[files]]
@@ -789,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/just-expressions.pw.toml"
-hash = "37b6610d670c61b94200e1c9cba12c7f9b74dd00f4fac24c4abee1f2d04a4911"
+hash = "c300f4b15449b2ee77d762277fb5b523f69539c28ca2956ea0b8e1c2eedd76b3"
 metafile = true
 
 [[files]]
