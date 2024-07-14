@@ -1,0 +1,12 @@
+name = "Breakneck: Optimized"
+author = "CrismPack"
+description = "Level up your vanilla client with increased FPS, quality of life enhancements, visual improvements and shaders!"
+
+[[File]]
+name = "packwiz-installer.jar"
+action = "remove"
+
+[[Resource]]
+name = "Nvidium"
+filename = "nvidium-0.2.7-beta.jar" 
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/Di2JxVAQ/nvidium-0.2.7-beta.jar"

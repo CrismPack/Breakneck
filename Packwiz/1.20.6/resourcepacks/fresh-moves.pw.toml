@@ -1,0 +1,14 @@
+name = "Fresh Moves"
+filename = "Expressive Fresh Moves v3.0.1.zip"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "7e9e519d92633d4b4243ce5ad1c1ea75d59bf8d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5304039
+project-id = 990406

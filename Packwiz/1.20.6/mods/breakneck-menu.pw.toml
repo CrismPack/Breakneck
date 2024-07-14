@@ -1,0 +1,13 @@
+name = "Breakneck Menu"
+filename = "breakneckmenu-1.20.4-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ad33d66d0e5abdbb1e6a4b8442be5169b764b1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5000112
+project-id = 954387
