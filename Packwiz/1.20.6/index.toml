@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f39ac99520ec7a4e39b81670fda04b1ecf128d5acd1602ce0ac83ab3fe145aad"
+hash = "b4da749a876f15d51b3ee40aa64323cc3c07f70c32e77252ad19a44e3916549d"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -62,7 +62,7 @@ hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ebf4ec974be45b44438c476660b4a2a4133d55f124382f508d97ab0d8d13e75b"
+hash = "a4eefb30232137b5cfaa4ef023fdfc1a67df44916b9e28eb69d044ea45f95a0b"
 
 [[files]]
 file = "config/sdrp-common.json"
@@ -130,7 +130,7 @@ hash = "16d7cbfc1d27090d2658085ae7574defe2f617c8943269806bd2090ce0d12784"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "9e879e5ee0dd88b673e6482285922171319dd086491410669d5dfaede0748ecf"
+hash = "b0443387e446f2f5b431f3247d7858a7148dce3e7afbf6523fa3e2d28c44becd"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -139,6 +139,10 @@ hash = "b211ab648f2216ec01904f18180c19525f6677f17306d3c63da247f91b547f6a"
 [[files]]
 file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
+
+[[files]]
+file = "instance.cfg"
+hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
@@ -172,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "19033d9bb93dc43b2b32299216430a46afe629ffb93a9c83de26324adaf088b3"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "2c0f45641c5a2214c1c172ee091267d7a008d91832b4b56e0e5de4337dea07c5"
 metafile = true
 
 [[files]]
@@ -237,11 +236,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1c80e41c38807457a10c898e80ef85503a5813a1283c13464d65b16b000d3e95"
-metafile = true
-
-[[files]]
-file = "mods/chat-up.pw.toml"
-hash = "277b9ab67f020c8f9668205b378854f3c45c7ac729d64f23cb6fa9b38d8c2df1"
 metafile = true
 
 [[files]]
@@ -330,11 +324,6 @@ hash = "cd1a6eebc9488591a3a93e76ca076d3326b5585ab2a7af28a8244b9125e31949"
 metafile = true
 
 [[files]]
-file = "mods/dont-clear-chat-history.pw.toml"
-hash = "fbf4785d724136c550317fc1becb996d44843c93f1c28afc3c1d29d0ad3a6cda"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "0e76141d11c9e5a76ae8e7c53ea0446992d4bcae7ff66d2773c5b85d2009619d"
 metafile = true
@@ -392,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "0150385c5eaea653a1433f4112afdd1b577521e71f9f2b7ab397af5e15aa391e"
 metafile = true
 
 [[files]]
@@ -725,6 +719,11 @@ hash = "f1ec8a072558a4a0c993891840efad83d2e33a36d87d9c9a6210d20b1d6e1955"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
+metafile = true
+
+[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "efc506dab81760f71a7cbef83caab704ab8475e0bf1fb2bf4d5197d64618489a"
 metafile = true
@@ -782,6 +781,11 @@ file = "resourcepacks/Breakneck Lang/pack.png"
 hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "659b0ade57c7f25b99533492f9e1bab5e169a969b776633f72115e3495660c14"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "0fc625e075a11cf7b2592846f33cba852d5402c40d85902ef06b5dbdfdfd5624"
 metafile = true
@@ -799,6 +803,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "151325c54d5a04931899469bbdfa9a43524fe32ac66da43e9baac2ce61a7ae9a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "7a23b6ce30349ec6aa80294109882232f85f05fd28d88c1de38b858216b31c67"
 metafile = true
 
 [[files]]

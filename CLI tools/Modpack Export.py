@@ -136,6 +136,10 @@ def main():
         changelog_path = git_path + f"\\Changelogs\\{minecraft_version}+{pack_version}.yml"
         
         md_element_full_changelog = f"**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/{minecraft_version}#v{pack_version})**"
+        
+        if minecraft_version == "1.20.6" or "1.20.1":
+            md_element_full_changelog = f"**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.20/{minecraft_version}#v{pack_version})**"
+
         md_element_pre_release = '**This is a pre-release. Here be dragons!**'
         # md_element_bh_banner = "[![BisectHosting Banner](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/bh.png?raw=true)](https://bisecthosting.com/CRISM)"
         md_element_crism_spacer = "![CrismPack Spacer](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/79ESzz1-tiny.png?raw=true)"
@@ -163,7 +167,7 @@ def main():
         
         mdFile_MR.new_paragraph(update_overview)
         mdFile_MR.new_paragraph(md_element_full_changelog)
-        mdFile_MR.new_paragraph(md_element_crism_spacer)
+        # mdFile_MR.new_paragraph(md_element_crism_spacer)
         mdFile_MR.create_md_file()
         
         os.chdir(packwiz_path)

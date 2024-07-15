@@ -1,0 +1,61 @@
+name: 3.6.4 for 1.20.6
+
+Fabric version: Fabric-0.15.11
+Update overview: |
+  - Added 'FabricSkyBoxes Interop'
+  - Updated mods to their latest version.
+
+
+Mods added: |
+  + FabricSkyBoxes Interop
+
+
+Resource Packs added: |
+  + Translations for Sodium
+  + Chat Reporting Helper
+
+Shader Packs added: |
+  + 
+
+
+Mods re-enabled: |
+  + 
+
+
+Metadata changes: |
+  =  [MR --> CF]
+
+
+Mods removed: |
+  - BadOptimizations
+  - Don't Clear Chat History
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+Mods updated: |
+  > Not Enough Animations
+  > Sodium
+  > 3D Skin Layers
+  > Wavey Capes
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > 
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = Changed caveMapsAllowed to "false" by default: [Xaero's World Map]
+  = Force enabled 'Chat Reporting Helper' & 'Translations for Sodium' resource packs: [Resource Pack Overrides]
+  = Changed threadPriority of game from 5 to 8: [ThreadTweaks]
