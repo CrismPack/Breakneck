@@ -1,11 +1,11 @@
 name: 3.6.4 for 1.20.6
 
-Fabric version: Fabric-0.15.11
+Fabric version: Fabric-0.16.0
 Update overview: |
   - Added 'FabricSkyBoxes Interop' mod.
   - Added 'Translations for Sodium' & 'Chat Reporting Helper' resource packs.
   - Re-added 'Inventory Profiles Next', 'Litematica', 'MiniHUD' & 'Lan Server Properties'
-  - Updated mods to their latest version.
+  - Updated Fabric loader, mods, resource packs & shader packs.
 
 Mods added: |
   + FabricSkyBoxes Interop
