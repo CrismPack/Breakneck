@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "ab768756ccfe960d6f74e68f8a392b9084bd06e187ceafe1571dd22a03813ce5"
+hash = "7bd9695ccbfab256339266fbcecac28a974d56e2befd6e86f291e102a9ed4da9"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "3abe0efce9c8e5322251d86a3c31e4ada740cc63c216266e6b4dfd4e0fb9c9f2"
+hash = "e0623f286fdf1f9d950fc6224e8df114499eee4463d23bfe6d41ef7cf90eca4e"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "e4577e2a13b52fd433087e8399629a5fdeb2e806396f1f6959699fc64a68d8f3"
+hash = "829726f2effb830c3bcd075888b83210ab1bad7fbd125b794503b8fe6a536aae"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "b5fc397472d220668372659501e65230b9a5f988a6b369f44cc1108fde67e0c5"
+hash = "562d2e8aa4c4d2a2e4ec2cacc714b878a21d1dfe60786b2e907626f94495dad1"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "7c176f258557a900434259b31217d11085fcc9775f0d0f716cfbbd1a50cb5d43"
+hash = "5ebcbbc4dd47f3404aef8a90a85bb7ed9ca3af063c367c727d22cfe365b2b6dc"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2ba5f8990712d81ec476634fdfbbdff99e46ca693ffa2b3772a7233a626e56cb"
+hash = "c329c7040c85251cf766d26cf097e071e0f233606332149af28615e0e281c6c6"
 metafile = true
 
 [[files]]

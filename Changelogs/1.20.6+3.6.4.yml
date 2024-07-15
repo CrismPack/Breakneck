@@ -7,14 +7,13 @@ Update overview: |
   - Re-added 'Inventory Profiles Next', 'Litematica', 'MiniHUD' & 'Lan Server Properties'
   - Updated mods to their latest version.
 
-
 Mods added: |
   + FabricSkyBoxes Interop
-
 
 Resource Packs added: |
   + Translations for Sodium
   + Chat Reporting Helper
+
 
 Shader Packs added: |
   + 
@@ -27,6 +26,7 @@ Mods re-enabled: |
   + Litematica
   + MaLiLib [Dependency of 'Litematica']
   + MiniHUD
+
 
 Metadata changes: |
   =  [MR --> CF]
@@ -42,6 +42,7 @@ Mods disabled: |
 
 Resource Packs removed: |
   - 
+
 
 Mods updated: |
   > Not Enough Animations
@@ -96,7 +97,6 @@ Resource Packs updated: |
 Shader Packs updated: |
   > Complementary Shaders - Reimagined
   > Complementary Shaders - Unbound
-
 
 Config changes: |
   = Changed caveMapsAllowed to "false" by default: [Xaero's World Map]

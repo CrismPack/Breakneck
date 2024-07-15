@@ -3,7 +3,9 @@
 
 
 
-- Added 'FabricSkyBoxes Interop'
+- Added 'FabricSkyBoxes Interop' mod.
+- Added 'Translations for Sodium' & 'Chat Reporting Helper' resource packs.
+- Re-added 'Inventory Profiles Next', 'Litematica', 'MiniHUD' & 'Lan Server Properties'
 - Updated mods to their latest version.
 
 
