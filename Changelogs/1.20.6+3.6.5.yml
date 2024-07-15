@@ -1,0 +1,52 @@
+name: 3.6.5 for 1.20.6
+
+Fabric version: Fabric-0.16.0
+Update overview: |
+  - 
+
+Mods added: |
+  + 
+
+Resource Packs added: |
+  + 
+
+
+Shader Packs added: |
+  + 
+
+
+Mods re-enabled: |
+  + 
+
+
+Metadata changes: |
+  =  [MR --> CF]
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > 
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > 
+
+Shader Packs updated: |
+  > 
+
+Config changes: |
+  = Changed threadPriority of game from 5 to 8: [ThreadTweaks]
