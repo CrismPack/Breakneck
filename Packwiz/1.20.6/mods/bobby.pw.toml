@@ -1,13 +1,13 @@
 name = "Bobby"
-filename = "bobby-5.2.0+mc1.20.6.jar"
+filename = "bobby-5.2.1+mc1.20.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4f0a2d057263846309623b74ea831c12dfdd1b73"
+hash = "e3a8b2d5ed97777ec37b3926158b92b25bb68896"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5317896
+file-id = 5438731
 project-id = 409301

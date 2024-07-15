@@ -1,13 +1,13 @@
 name = "ItemSwapper"
-filename = "itemswapper-fabric-0.6.3-mc1.20.6.jar"
+filename = "itemswapper-fabric-0.7.0-mc1.20.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f095970c22b600ac75a82c49f17bb504f77a2697"
+hash = "ce7ab39f603fb136459b047f09094da4f37a2ebe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5313348
+file-id = 5507834
 project-id = 694358

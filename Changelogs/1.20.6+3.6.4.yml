@@ -2,7 +2,9 @@ name: 3.6.4 for 1.20.6
 
 Fabric version: Fabric-0.15.11
 Update overview: |
-  - Added 'FabricSkyBoxes Interop'
+  - Added 'FabricSkyBoxes Interop' mod.
+  - Added 'Translations for Sodium' & 'Chat Reporting Helper' resource packs.
+  - Re-added 'Inventory Profiles Next', 'Litematica', 'MiniHUD' & 'Lan Server Properties'
   - Updated mods to their latest version.
 
 
@@ -19,8 +21,12 @@ Shader Packs added: |
 
 
 Mods re-enabled: |
-  + 
-
+  + Inventory Profiles Next
+  + libIPN [Dependency of 'Inventory Profiles Next']
+  + Lan Server Properties
+  + Litematica
+  + MaLiLib [Dependency of 'Litematica']
+  + MiniHUD
 
 Metadata changes: |
   =  [MR --> CF]
@@ -42,6 +48,42 @@ Mods updated: |
   > Sodium
   > 3D Skin Layers
   > Wavey Capes
+  > Animatica
+  > Balm
+  > Better Statistics Screen
+  > Bobby
+  > Chat Heads
+  > Collective
+  > Cubes Without Borders
+  > Dynamic FPS
+  > Enhanced Block Entities
+  > Entity Model Features
+  > Entity Texture Features
+  > Fabric API
+  > Iceberg
+  > ImmediatelyFast
+  > Indium
+  > Inventory Profiles Next
+  > Iris Shaders
+  > ItemSwapper
+  > Lan Server Properties
+  > libIPN
+  > Litematica
+  > Lithium
+  > MaLiLib
+  > MiniHUD
+  > Mod Menu
+  > No Chat Reports
+  > Polytone
+  > Resourcify
+  > Remove Reloading Screen
+  > Shulker Box Tooltip
+  > Simple Voice Chat
+  > Sodium Extra
+  > StackDeobfuscator
+  > ViaFabric
+  > YetAnotherConfigLib
+  > Zoomify
 
 
 Mod updates reverted: |
@@ -49,10 +91,11 @@ Mod updates reverted: |
 
 
 Resource Packs updated: |
-  > 
+  > Fresh Animations
 
 Shader Packs updated: |
-  > 
+  > Complementary Shaders - Reimagined
+  > Complementary Shaders - Unbound
 
 
 Config changes: |
