@@ -134,7 +134,7 @@ hash = "b0443387e446f2f5b431f3247d7858a7148dce3e7afbf6523fa3e2d28c44becd"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b211ab648f2216ec01904f18180c19525f6677f17306d3c63da247f91b547f6a"
+hash = "735b4f43c0b86bdb57e7a216f1f378211582f1f47b87577d65bd882f758e0772"
 
 [[files]]
 file = "config/zoomify.json"
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+hash = "ad930ee88ef8047fe0139fdd4dea19abb7a66b949a0af8236317b3df784735df"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "cc76ea317829089fce2d7a064e4274f8a5cafc814528dfbedaffbf54fd1621c0"
+hash = "8ea98379f43ce1e3f501430586ea132b868927e89730d770281c34f17b2e81d1"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "e0623f286fdf1f9d950fc6224e8df114499eee4463d23bfe6d41ef7cf90eca4e"
+hash = "3abe0efce9c8e5322251d86a3c31e4ada740cc63c216266e6b4dfd4e0fb9c9f2"
 metafile = true
 
 [[files]]
@@ -695,12 +695,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "05f410b9512d3ee0e83795ec6ec4a5250769d88ee73129d3e7a1f8961ab1a134"
+hash = "8532ea438215db63643e9c23295fcb8a4a05ef92d04cf90785edbedb13550482"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
+hash = "3b038957f4cdc13ffe9ac5ee2a6a7df0f045fef3a6d6e29431a5c82877604696"
 metafile = true
 
 [[files]]
@@ -716,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "f1ec8a072558a4a0c993891840efad83d2e33a36d87d9c9a6210d20b1d6e1955"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "6ce6e5bbd86e4e5331644f8949cfebfb568aebf46d224640c46dfc589546dfde"
 metafile = true
 
 [[files]]

@@ -4,11 +4,12 @@ Fabric version: Fabric-0.16.0
 Update overview: |
   - Added 'FabricSkyBoxes Interop' mod.
   - Added 'Translations for Sodium' & 'Chat Reporting Helper' resource packs.
-  - Re-added 'Inventory Profiles Next', 'Litematica', 'MiniHUD' & 'Lan Server Properties'
+  - Re-added 'Inventory Profiles Next', 'Litematica' & 'MiniHUD'.
   - Updated Fabric loader, mods, resource packs & shader packs.
 
 Mods added: |
   + FabricSkyBoxes Interop
+  + TCDCommons API [New dependency of 'Better Statistics Screen']
 
 Resource Packs added: |
   + Translations for Sodium
@@ -22,7 +23,6 @@ Shader Packs added: |
 Mods re-enabled: |
   + Inventory Profiles Next
   + libIPN [Dependency of 'Inventory Profiles Next']
-  + Lan Server Properties
   + Litematica
   + MaLiLib [Dependency of 'Litematica']
   + MiniHUD
@@ -46,7 +46,6 @@ Resource Packs removed: |
 
 Mods updated: |
   > Not Enough Animations
-  > Sodium
   > 3D Skin Layers
   > Wavey Capes
   > Animatica
@@ -63,11 +62,8 @@ Mods updated: |
   > Fabric API
   > Iceberg
   > ImmediatelyFast
-  > Indium
   > Inventory Profiles Next
-  > Iris Shaders
   > ItemSwapper
-  > Lan Server Properties
   > libIPN
   > Litematica
   > Lithium
@@ -80,7 +76,6 @@ Mods updated: |
   > Remove Reloading Screen
   > Shulker Box Tooltip
   > Simple Voice Chat
-  > Sodium Extra
   > StackDeobfuscator
   > ViaFabric
   > YetAnotherConfigLib
@@ -100,5 +95,6 @@ Shader Packs updated: |
 
 Config changes: |
   = Changed caveMapsAllowed to "false" by default: [Xaero's World Map]
-  = Force enabled 'Chat Reporting Helper' & 'Translations for Sodium' resource packs: [Resource Pack Overrides]
-  = Changed threadPriority of game from 5 to 8: [ThreadTweaks]
+  = Changed options.txt file to make 'Chat Reporting Helper' & 'Translations for Sodium' resources packs be enabled by default: [YOSBR]
+#  = Force enabled 'Chat Reporting Helper' & 'Translations for Sodium' resource packs: [Resource Pack Overrides]
+#  = Changed threadPriority of game from 5 to 8: [ThreadTweaks]
