@@ -2,6 +2,7 @@ name: 4.0.4 for 1.21
 
 Fabric version: Fabric-0.16.0
 Update overview: |
+  - Readded 'Xaero's Minimap Fair-Play Edition'.
   - Updated mods & resource packs.
 
 
@@ -17,8 +18,7 @@ Shader Packs added: |
 
 
 Mods readded: |
-  + Equipment Compare
-  + Xaero's Minimap Fair-Play
+  + Xaero's Minimap Fair-Play Edition
 
 
 Metadata changes: |

@@ -77,6 +77,10 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "cb6003479ceeb0b32ea991eb316e25937e12bb642376c63ebbea864824871e9c"
 
 [[files]]
+file = "config/threadtweak.json"
+hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
+
+[[files]]
 file = "config/yosbr/config/TrueDarknessFork.json5"
 hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 

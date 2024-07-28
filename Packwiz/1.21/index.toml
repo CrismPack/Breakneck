@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "e5151dcd439c5c1bce2c99937cb0ea3765d5650a09a74642a8459712e3fea230"
+hash = "45eca376329fa063d1d4003d5fa7ca134df513ad0c8aa451ee18f199eb387646"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a6e67560ee6af7b79fc7e69c0a8ccfa6125bcbdce6ddede947419eb9f6e2802f"
+hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "c24d4718eb3f52beba5d56abc195dced497f78dfe2174307410ff4619591d515"
+hash = "697df1e5e4f4dcd50d8e36a281096c3a0f39c744714d314054f84f16d186e912"
 metafile = true
 
 [[files]]
