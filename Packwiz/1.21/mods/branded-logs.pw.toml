@@ -1,13 +1,13 @@
 name = "Branded Logs"
-filename = "brandedlogs-fabric-2.0.2+mc1.21.jar"
+filename = "brandedlogs-fabric-2.0.3-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tbktcZz2/versions/BCcOEDqI/brandedlogs-fabric-2.0.2%2Bmc1.21.jar"
+url = "https://cdn.modrinth.com/data/tbktcZz2/versions/eAH6Qiim/brandedlogs-fabric-2.0.3-mc1.21.jar"
 hash-format = "sha1"
-hash = "252dd6fcc876948e4b057821e84c3402cbb021e2"
+hash = "0776005693aa57b420bd34a80cff1b0e4b305afa"
 
 [update]
 [update.modrinth]
 mod-id = "tbktcZz2"
-version = "BCcOEDqI"
+version = "eAH6Qiim"

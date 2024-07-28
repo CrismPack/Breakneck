@@ -1,0 +1,80 @@
+name: 4.0.4 for 1.21
+
+Fabric version: Fabric-0.16.0
+Update overview: |
+  - Updated mods & resource packs.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + Equipment Compare
+  + Xaero's Minimap Fair-Play
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > Better Statistics Screen
+  > Branded Logs
+  > Cloth Config API
+  > Collective
+  > Controlling
+  > CraterLib
+  > Cubes Without Borders
+  > Dynamic FPS
+  > e4mc
+  > Equipment Compare
+  > Fabric API
+  > Forge Config API Port
+  > ModernFix
+  > More Culling
+  > Persistent Inventory Search
+  > Polytone
+  > Reese's Sodium Options
+  > Roughly Enough Items
+  > Remove Reloading Screen
+  > Shulker Box Tooltip
+  > TCDCommons API
+  > True Darkness Refabricated
+  > ViaFabric
+  > Xaero's Minimap Fair-Play
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > Translations for Sodium
+
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = : [mod]
