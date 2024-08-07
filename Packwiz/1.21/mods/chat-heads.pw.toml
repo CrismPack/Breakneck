@@ -1,13 +1,13 @@
 name = "Chat Heads"
-filename = "chat_heads-0.12.7-fabric-1.21.jar"
+filename = "chat_heads-0.12.10-fabric-1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9OZ8YLAj/chat_heads-0.12.7-fabric-1.21.jar"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/WxhcgihF/chat_heads-0.12.10-fabric-1.21.jar"
 hash-format = "sha1"
-hash = "3c4250546dbdd6049fb6c6aa8960a6cd845212ec"
+hash = "674e815c265c70581d4ddc65861b166e8990bdcc"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "9OZ8YLAj"
+version = "WxhcgihF"

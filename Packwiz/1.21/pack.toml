@@ -1,12 +1,12 @@
 name = "Breakneck-1.21"
 author = "CrismPack"
-version = "4.0.4"
+version = "4.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "38532aa92caad171f9479d238044f713f4f825168198656175f28a326b029047"
+hash = "8a96914ba3937c46c517b3ba7d9f6a4be01e9bff699063c7fd252927a807628b"
 
 [versions]
 fabric = "0.16.0"
