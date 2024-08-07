@@ -21,6 +21,7 @@ Mods readded: |
   + Equipment Compare
   + Iceberg
   + Legendary Tooltips
+  + Prism
   + Raised
   + Screenshot to Clipboard
 
@@ -30,7 +31,7 @@ Metadata changes: |
 
 
 Mods removed: |
-  - 
+  - Advancement Plaques [Preciously disabled]
 
 
 Mods disabled: |
@@ -82,4 +83,4 @@ Shader Packs updated: |
 
 
 Config changes: |
-  = : [mod]
+  = Changed auto_refill_enable_per_slot_config to "false" by default: [Inventory Profiles Next]

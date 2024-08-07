@@ -1,6 +1,6 @@
 name = "Prism"
 filename = "Prism-1.21-fabric-1.0.8.jar"
-side = "client(disabled)"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/F1FRXaIf/Prism-1.21-fabric-1.0.8.jar"

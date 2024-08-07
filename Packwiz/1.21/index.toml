@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "45eca376329fa063d1d4003d5fa7ca134df513ad0c8aa451ee18f199eb387646"
+hash = "562b77ad6ab67c87c02393f419d9e7fb9da1ce786bb225ead0e9280fb3ca1365"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -85,16 +85,16 @@ file = "config/threadtweak.json"
 hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
 
 [[files]]
-file = "config/yosbr/config/TrueDarknessFork.json5"
-hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
-
-[[files]]
 file = "config/yosbr/config/TrueDarknessRefabricated.json5"
 hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
+
+[[files]]
+file = "config/yosbr/config/darkness.json5"
+hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -106,7 +106,7 @@ hash = "abcf55b8b8615b6b39cfec1fee7e51661629842f40f9929dd4027d650196890f"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "78b59b94ed172fcc923e785f64f618624fb605db6af7c9f0cdaf500a1a1c189a"
+hash = "9bcf335c32dad05406bfcb6a39d5f066a0e43f563db5f77c2a2df3d0dbb74c4b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -167,11 +167,6 @@ hash = "dcb2f8aa9aa973cb660ba8cce12be0d492b9392a9618073f8ca6a1e3c78bbee0"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
-metafile = true
-
-[[files]]
-file = "mods/advancement-plaques.pw.toml"
-hash = "3782bebb0f85f49b55d7fc0e296b5c6bf0343135037aa716b4170df50fd61c42"
 metafile = true
 
 [[files]]
@@ -366,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
-hash = "0ea2cd8ced7d2b7db92f428e0b2223f5080f54d2e3932b32fe2a9264dae53068"
+hash = "fcc29f75675fc7a727778a0d1400544084d26ff560a691d56ff66138121485ce"
 metafile = true
 
 [[files]]
@@ -421,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "ab2864401f39e4d369d92aaa39bf0db25f35eae1cd65669a093241f925db3230"
+hash = "aafd95fdff86bf8e2c60151fe7d7761cfbae55008e4e7f35007bc9d70c3edef0"
 metafile = true
 
 [[files]]
@@ -461,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "07f59e1a0b8db5d52173977267ea6860e66c563610b06028b7d5e396ce8ab6af"
+hash = "12949e5cebf7512c379d2318d662d84b044c835fa21e8150c3298503e73b69da"
 metafile = true
 
 [[files]]
@@ -581,12 +576,12 @@ metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "0391a803d675bad43246bc9d1fa66d0a95e259332a542b425c9b7d8083f734e1"
+hash = "ebb169127022042d142fe402135d5f687c5abf0f5e217096aef531f16ae96c92"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "9fe8acf99f7b4aae9b5ade2299b229845aceca47b6ee22c67c4b0b19a83e5ae9"
+hash = "ff02d2157942f9e3eaf7e712dc8a12012924cb227a2c260642aadc128249be49"
 metafile = true
 
 [[files]]
@@ -631,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "61c8917d7cabfe123891d177380364751ba004816e0660a0ada0ae2f06f6e3a8"
+hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
 
 [[files]]
