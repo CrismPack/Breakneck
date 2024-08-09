@@ -1,0 +1,13 @@
+name = "Roughly Enough Professions (REP)"
+filename = "RoughlyEnoughProfessions-fabric-1.21-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1277f937bf0ca6837a81fe12ab3c14cd15662ea5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5575278
+project-id = 597988

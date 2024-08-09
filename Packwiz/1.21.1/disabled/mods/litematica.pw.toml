@@ -1,0 +1,13 @@
+name = "Litematica"
+filename = "litematica-fabric-1.20.4-0.17.2.jar"
+side = "both(disabled)"
+
+[download]
+hash-format = "sha1"
+hash = "d3349276eeef795eb8f7b448a277618e5cdcf69b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5170070
+project-id = 308892

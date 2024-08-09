@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  // These two packs will be enabled by default when "options.txt" is first created or when resource reloading fails and is reset to a bare-bones state
+  // Packs included here can still be manually disabled by the user, this can be prevented with overrides below though
+  "default_packs": [
+    "minecraft:supporteatinganimation",
+    "breakneckmenu:breakneckmenu",
+    "file/JustExpressions_v1.1.zip",
+    "file/Chat Reporting Helper.zip",
+    "file/SodiumTranslations.zip",
+    "file/Breakneck Lang"
+  ],
+  // All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    // The title and description are overridden for the vanilla assets pack
+    "vanilla": {
+      "title": "\"Vanilla Assets\"",
+      "description": "\"Resource pack from Minecraft\""
+    },
+    // The resource pack provided by the current server is added below user enabled resource packs
+    // Also allows for being moved up or down on the pack selection screen
+    "server": {
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "fixed_position": false
+    },
+    // Force Enabled
+    "1": [
+      "file/JustExpressions_v1.1.zip",
+      "file/Chat Reporting Helper.zip",
+      "file/SodiumTranslations.zip",
+      "file/Breakneck Lang"
+    ],
+    "$1": {
+      "default_position": "TOP",
+      "required": true,
+      "fixed_position": false,
+      "force_compatible": true
+    }
+  }
+}

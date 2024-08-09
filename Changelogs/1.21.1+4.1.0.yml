@@ -1,0 +1,56 @@
+name: 4.1.0 for 1.21
+
+Fabric version: Fabric-0.16.0
+Update overview: |
+  - Initial migration to 1.21.1
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + 
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods disabled: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > 
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > 
+
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = : [mod]

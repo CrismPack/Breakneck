@@ -1,0 +1,13 @@
+name = "Server Country Flags"
+filename = "servercountryflags-1.10.3-1.21-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da15533e3ad7c08304ed6028a73f9affc52c6c95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5428466
+project-id = 841311

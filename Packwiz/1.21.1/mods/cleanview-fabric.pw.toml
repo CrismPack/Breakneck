@@ -1,0 +1,15 @@
+name = "CleanView (Fabric)"
+filename = "cleanview-1.21-v1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89e180e37900441a232a9f8eb6c11f9728d2aafb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5427263
+project-id = 375465
+
+# This mod is only available on CurseForge: https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric
