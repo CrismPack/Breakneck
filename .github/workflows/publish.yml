@@ -23,14 +23,14 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Download pack files
-      uses: robinraju/release-downloader@v1.10
+      uses: robinraju/release-downloader@v1.11
       id: download-files
       with:
         fileName: '*.zip'
         latest: true
         tarBall: false
         zipBall: false
-        preRelease: true
+        preRelease: ${{ vars.PRERELEASE }}
 
     - name: Publish to CurseForge
       uses: Kir-Antipov/mc-publish@v3.3
@@ -63,7 +63,7 @@ jobs:
         latest: true
         tarBall: false
         zipBall: false
-        preRelease: true
+        preRelease: ${{ vars.PRERELEASE }}
 
     - name: Publish to Modrinth
       uses: Kir-Antipov/mc-publish@v3.3
