@@ -135,10 +135,15 @@ def main():
         os.chdir(git_path)
         changelog_path = git_path + f"\\Changelogs\\{minecraft_version}+{pack_version}.yml"
         
-        md_element_full_changelog = f"**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/{minecraft_version}#v{pack_version})**"
         
-        if minecraft_version == "1.20.6" or "1.20.1":
+        if "1.20." in minecraft_version:
             md_element_full_changelog = f"**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.20/{minecraft_version}#v{pack_version})**"
+
+        if "1.21." in minecraft_version:
+            md_element_full_changelog = f"**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/{minecraft_version}#v{pack_version})**"
+
+        else:
+            md_element_full_changelog = f"**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/{minecraft_version}#v{pack_version})**"
 
         md_element_pre_release = '**This is a pre-release. Here be dragons!**'
         # md_element_bh_banner = "[![BisectHosting Banner](https://github.com/CrismPack/CDN/blob/main/desc/breakneck/bh.png?raw=true)](https://bisecthosting.com/CRISM)"
