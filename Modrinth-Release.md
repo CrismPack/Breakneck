@@ -3,8 +3,9 @@
 
 
 
-- Readded 'Equipment Compare', 'Legendary Tooltips', 'Raised' & 'Screenshot to Clipboard'.
-- Updated mods & resource packs.
+**This is a pre-release. Here be dragons!**
+
+- Initial migration to MC 1.21.1.
 
 
-**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.20/1.21#v4.0.5)**
+**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.20/1.21.1#v4.1.0-beta.1)**

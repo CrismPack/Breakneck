@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "562b77ad6ab67c87c02393f419d9e7fb9da1ce786bb225ead0e9280fb3ca1365"
+hash = "6c7cc167eabd354b1a8422b8fdc13567f6c1314602037f983df7492278e12b65"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -46,7 +46,7 @@ hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c47049609f72c35dab9d08d8e071b4672a14f348ccc4ea1054905a7466bdb099"
+hash = "0e7bddc6842de6834643b2d110f9c99085962f3df510a2129fd4c227050d5ee0"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -162,7 +162,7 @@ hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "dcb2f8aa9aa973cb660ba8cce12be0d492b9392a9618073f8ca6a1e3c78bbee0"
+hash = "537f1beb76e2140c91e1c7502e43756ba5bbebfe229a553c433532bdbc8aa0b9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "47be49059c937a43bec196619209c8253bc55d13928a88f4342eed0a1c76dd58"
+hash = "d3795d73ccdc5785e700a4ba19613be6b3edbf5782b3f95d359e184cc0c7e8cb"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.pw.toml"
-hash = "b38d3530a128fc45252875d78329a9ee9527faf3667e52aceb120dd8a22f2884"
+hash = "6a338b2338518a2bde2a7cadbfec6c52f7c1773dc711b99b9b31a334aa506cb9"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7dc13e9426aab2f8409816c1685b7251751c5d0516a1ae8ae3ef46dd1302076b"
+hash = "c6564e6bd7f9fef3ac5d07340b09df6529f807ad358bf8156f05d6fc9a4f751b"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
-hash = "22815b8141702d06dfe73f9e54c569d6591dbce3a0674d56db73e4a41c209518"
+hash = "a68ce5ecf4c0f59349263d29926271d4b591467e9e5edaf4e286c5c4e6e58eca"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
+hash = "d428c452d7b7c9cf4b79b7de81c7b472fa02bb0e1742d40725b36ef56c207760"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6231164925dea1e590a339769721d691bb350654b2a42c50c47a0b37565d8427"
+hash = "b250c91e80baabca61cc0ac30a37c485d7a4a18ea7eb65a9bdab5613feb5986d"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/persistent-inventory-search.pw.toml"
-hash = "486a61c3a75e2f1b6fd5aa83e862846ad2c9c6d86f44f755183adc7e14e40c9b"
+hash = "e55f55014a027f7ae88362e7294c62040edc627ffa7858a98335ded3e2902870"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
+hash = "05e20dd882685733b299c1db03423f665c569f4c57b8404af98c5bb30776fefd"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
+hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "b0103065614e2bec2a77bf54c440a7b56aa3b7895a761a0dc65298728ba4e2a7"
+hash = "40bdde08af629acd2ccd966759dab1604657d046c0405f8e7b06ffe7ccb75429"
 metafile = true
 
 [[files]]
