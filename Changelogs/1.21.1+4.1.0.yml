@@ -1,0 +1,76 @@
+name: 4.1.0 for 1.21.1
+
+Fabric version: Fabric-0.16.0
+Update overview: |
+  - Updated mods & resource packs.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + 
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods temporarily removed: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > Ambient Environment
+  > Balm
+  > Better Statistics Screen
+  > Cherished Worlds
+  > Client Tweaks
+  > Cloth Config API
+  > Collective
+  > Controlling
+  > CraterLib
+  > Fabric API
+  > Forge Config API Port
+  > Iceberg
+  > ImmediatelyFast
+  > Indium
+  > Lithium
+  > Polytone
+  > Prism
+  > Roughly Enough Items
+  > Remove Reloading Screen
+  > Searchables
+
+
+Mod updates reverted: |
+  > 
+
+
+Resource Packs updated: |
+  > Chat Reporting Helper
+  > Translations for Sodium
+
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = Removed dependency overrides for ambientenvironment, controlling, forgeconfigapiport, lithium and searchables: [Fabric Loader]
