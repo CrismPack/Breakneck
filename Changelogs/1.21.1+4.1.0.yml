@@ -2,11 +2,12 @@ name: 4.1.0 for 1.21.1
 
 Fabric version: Fabric-0.16.0
 Update overview: |
+  - Added 'Controlify' (controller support).
   - Updated mods & resource packs.
 
 
 Mods added: |
-  + 
+  + Controlify
 
 
 Resource Packs added: |
@@ -74,3 +75,4 @@ Shader Packs updated: |
 
 Config changes: |
   = Removed dependency overrides for ambientenvironment, controlling, forgeconfigapiport, lithium and searchables: [Fabric Loader]
+  = Added dependency override for controlify: [Fabric Loader]

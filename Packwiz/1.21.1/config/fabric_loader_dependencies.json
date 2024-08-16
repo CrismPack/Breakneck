@@ -71,6 +71,11 @@
             "-depends": {
                 "minecraft": ""
             }
+        },
+        "controlify": {
+            "-depends": {
+                "minecraft": ""
+            }
         }
     }
 }
