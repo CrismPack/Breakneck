@@ -9,6 +9,7 @@ import yaml
 from mdutils.mdutils import MdUtils
 from mdutils import Html
 
+os.chdir(os.path.dirname(__file__)) # Automatically sets the correct working directory
 
 ##########################################################
 # Configuration

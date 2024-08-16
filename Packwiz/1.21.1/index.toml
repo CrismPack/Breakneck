@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6c7cc167eabd354b1a8422b8fdc13567f6c1314602037f983df7492278e12b65"
+hash = "b1bca40ed9cb9fc86b32a74d9fc50aeae027df478a9d351659f949865dd75b63"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -46,7 +46,7 @@ hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0e7bddc6842de6834643b2d110f9c99085962f3df510a2129fd4c227050d5ee0"
+hash = "20919a5792abdbc85c1c2a014e0e0eea195ada63b9a0ea59d150d322a861c629"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -91,6 +91,10 @@ hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "9f0777b9c78d4461bc0d585d92ecb87a80f266ad6c0a5d5fac90b58b31d993b8"
 
 [[files]]
 file = "config/yosbr/config/darkness.json5"

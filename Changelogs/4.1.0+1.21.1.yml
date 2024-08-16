@@ -76,3 +76,4 @@ Shader Packs updated: |
 Config changes: |
   = Removed dependency overrides for ambientenvironment, controlling, forgeconfigapiport, lithium and searchables: [Fabric Loader]
   = Added dependency override for controlify: [Fabric Loader]
+  = Changed quiet_mode to "true" by default: [Controlify]
