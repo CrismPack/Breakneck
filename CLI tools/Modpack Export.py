@@ -133,7 +133,7 @@ def main():
     # Parse the related changelog file for overview details and create release markdown files for CF and MR.
     if create_release_notes:
         os.chdir(git_path)
-        changelog_path = git_path + f"\\Changelogs\\{minecraft_version}+{pack_version}.yml"
+        changelog_path = git_path + f"\\Changelogs\\{pack_version}+{minecraft_version}.yml"
         
         
         if "1.20." in minecraft_version:
