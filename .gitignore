@@ -11,6 +11,7 @@
 /Packwiz/*/mmc-cache
 /Packwiz/*/mmc-cache.zip
 /Export/*/*.zip
+/Export/*.zip
 
 /Packwiz/mods/disabled/*.toml
 
