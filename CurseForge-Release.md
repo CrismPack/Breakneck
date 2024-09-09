@@ -3,6 +3,7 @@
 
 
 
+- Readded 'Litematica', 'MiniHUD' & 'CIT Resewn'.
 - Updated mods & resource packs to their latest version.
 
 
