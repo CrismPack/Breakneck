@@ -474,6 +474,11 @@ hash = "87d16fb355306f86a437eaeb3b3674ec7b56f72ac90ee71300772f4920fe1b10"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "a39cd82e397036a3c1d886a0cce33539fa13163358559f229adc6cc7cdb2192b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d48583962c5068723673c038d5f4760b78b1fe8438298efeb03bf704e050e0ce"
 metafile = true
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "7903d3643dbbb226096f732adc21013e24f7fddf205e1163c47df1705e1cefa2"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "eeff292e7909e2f78c93dae09e2d2902dcbce0bb2ab26590d8c27c9a9b487d0f"
 metafile = true
 
 [[files]]
@@ -561,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "f3fd21cc85f5450699e3b2a48e97527b8323a18b3af5130592a19631e56080f6"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "dc3aff994dec568716795ca2389336affaada5495e574c8193beee1555a77110"
 metafile = true
 
 [[files]]
