@@ -3,8 +3,7 @@
 
 
 
-- Added 'Controlify' (controller support).
-- Updated mods & resource packs.
+- Updated mods & resource packs to their latest version.
 
 
-**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/1.21.1#v4.1.0)**
+**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/1.21.1#v4.1.1)**

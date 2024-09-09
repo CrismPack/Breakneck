@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b1bca40ed9cb9fc86b32a74d9fc50aeae027df478a9d351659f949865dd75b63"
+hash = "c8691183944d2653ce7de065a90f422b625b3f18c5434c18ddd8ba3c40ca61ba"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -166,7 +166,7 @@ hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "537f1beb76e2140c91e1c7502e43756ba5bbebfe229a553c433532bdbc8aa0b9"
+hash = "d6cb82fc427a3eafb7f0191866a5f812e2418d7adf21c95d07cae179e90a4a03"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "ad13c2e1318d420335ffd5ac3d6c10272fd5ae3afcff523f4fef9d20c7383934"
+hash = "4349683af0ac961b433c4c61fb200055057e578ca2d9c399db86787a9cc3d481"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "67b1465015bb604b69e154a8e40ef0e6fb607ddc7b0679ed29a17667ff5b5e4e"
+hash = "f3b85761b078d82f78acc2eb7dc490b3b70d25c304eb9af9dcd553ba796f7559"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7d1a2009e73a857e56c3c14ef809fa4624c0ac53a3760dd337aa09a7f2bc1dca"
+hash = "ba816cc8fb98e62b2e3b3b33e6ea63664b3fd505e6305aa9dd4080c1f1a29c9a"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6a9f00e7e11968aa14553c348e7071b55a6c5823f1842e9ca6044c0c712fa551"
+hash = "2a87d0a4ec8a994bf823392b5f79843945eb2266dd6a617ef309e4893d95164e"
 metafile = true
 
 [[files]]
