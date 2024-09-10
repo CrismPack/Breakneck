@@ -3,8 +3,7 @@
 
 
 
-- Readded 'Litematica', 'MiniHUD' & 'CIT Resewn'.
-- Updated mods & resource packs to their latest version.
+- Fixed crashing issue when using a lead with shaders is on.
 
 
-**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/1.21.1#v4.1.1)**
+**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/1.21.1#v4.1.1a)**

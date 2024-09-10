@@ -1,0 +1,55 @@
+name: 4.1.1a for 1.21.1
+
+Fabric version: Fabric-0.16.5
+Update overview: |
+  - Fixed crashing issue when using a lead with shaders is on.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + 
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods temporarily removed: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > 
+
+
+Mod updates reverted: |
+  > Polytone [2.3.12 -> 2.3.10], [Pinned]
+
+
+Resource Packs updated: |
+  > 
+
+Shader Packs updated: |
+  > 
+
+
+Config changes: |
+  = : [mod]

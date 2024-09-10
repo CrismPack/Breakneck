@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c8691183944d2653ce7de065a90f422b625b3f18c5434c18ddd8ba3c40ca61ba"
+hash = "3b3d5a0658ef03d8233823bbad8b8ae2aef5b475cc7a43ef65736100695d1ca3"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2a87d0a4ec8a994bf823392b5f79843945eb2266dd6a617ef309e4893d95164e"
+hash = "2609dd2dd62b05717a69bd521bc89399f9d123bf7e94fac0ab464de105e4c325"
 metafile = true
 
 [[files]]
