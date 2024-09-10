@@ -2,7 +2,7 @@ name: 4.1.1a for 1.21.1
 
 Fabric version: Fabric-0.16.5
 Update overview: |
-  - Fixed crashing issue when using a lead with shaders is on.
+  - Fixed crashing issue when using a lead with shaders on.
 
 
 Mods added: |
