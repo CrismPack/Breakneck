@@ -12,62 +12,7 @@
         "lambdynlights": {
             "recommends": {}
         },
-        "sodium": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "iris": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "threadtweak": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "notenoughanimations": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "darkness": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "resourcepackoverrides": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "noisium": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "skinlayers3d": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "waveycapes": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
         "brandedlogs": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "debugify": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "itemswapper": {
             "-depends": {
                 "minecraft": ""
             }
