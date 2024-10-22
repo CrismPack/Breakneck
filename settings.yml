@@ -1,19 +1,22 @@
 export_client: True
-export_server: True
+export_server: False
+breakneck_fixes: True
+github_auth: False
+changelog_side_tag: False
 
 refresh_only: False
 update_bcc_version: True
 cleanup_temp: True
 create_release_notes: True
-server_mods_remove_list: ["From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"]
+server_mods_remove_list: []
 print_path_debug: True
 update_publish_workflow: True
 download_compare_files: True
 generate_primary_changelog: True
 generate_mods_changelog: True
 
-bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/insomnia/bhbanner.png"
+bh_banner: "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/breakneck/bh.png"
 
 repo_owner: "CrismPack"
-repo_name: "Insomnia-Hardcore"
-repo_main_branch: "1.20.1"
+repo_name: "Breakneck"
+repo_main_branch: "auto-export"
