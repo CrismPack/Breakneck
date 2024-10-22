@@ -1,3 +1,5 @@
+Modpack-CLI-Tool
+
 # Exclude exported CurseForge zip files
 /Packwiz/*.zip
 /Packwiz/*/*.zip
