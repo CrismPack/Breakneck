@@ -26,15 +26,11 @@ hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "97c967ca28bc9e7d85bcc371afc9d33a14f8676f53e48aab9be430347460f9ec"
+hash = "6338279deb9bf78bc45d8ebc0481870172243a39425786a9855b4a0ac556dda9"
 
 [[files]]
-file = "config/customwindowtitle/icon16x16.png"
-hash = "cb28f3da7c8c164a157d3cb017ad1c17ff0816a44f63705e0cccad17a2454e50"
-
-[[files]]
-file = "config/customwindowtitle/icon32x32.png"
-hash = "27ec90467d46f55818f19fa7dd347ddcfcd5f953c0e83a08286f6573509094ca"
+file = "config/customwindowtitle/icon.png"
+hash = "f115037f419e4a855097cea3926aac3f2fdabdf0b39548350adc983877144a55"
 
 [[files]]
 file = "config/entity_model_features.json"
