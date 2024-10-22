@@ -1,0 +1,10 @@
+version: 4.0.0-beta.5
+mc_version: 1.21
+
+Fabric version: 0.15.11
+Update overview:
+  - Added 1.21 themed panorama.
+  - Readded Cubes Without Borders, Krypton & Shulker Box Tooltip.
+  - Updated mods & resource packs.
+
+Config changes: |

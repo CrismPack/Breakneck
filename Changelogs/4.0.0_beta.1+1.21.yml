@@ -1,0 +1,10 @@
+version: 4.0.0-beta.1
+mc_version: 1.21
+
+Fabric version: 0.15.11
+Update overview:
+  - Initial migration to Minecraft 1.21.
+  - Updated mods to their latest version.
+  - Disabled mods that has not yet been updated.
+
+Config changes: |

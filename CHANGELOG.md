@@ -66,27 +66,10 @@
 ### Added Mods ✅
 
 - CIT Resewn
-- Controlify
 - Litematica
 - MaLiLib
 - MiniHUD
 - oωo
-
-## v4.1.0-beta.1
-
-*Fabric Loader 0.16.0* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.1.0-beta.1.md)*
-
-### Update Overview ⭐
-
-- Initial migration to MC 1.21.1.
-
-### Removed Mods ❌
-
-- Controlify
-
-### Config Changes 📝
-
-- Added "notenoughanimations", "darkness", "searchables", "searchables", "resourcepackoverrides", "noisium", "controlling", "skinlayers3d", "lithium", "ambientenvironment", "forgeconfigapiport", "waveycapes", "brandedlogs", "debugify" and "itemswapper" to dependency override list: `Fabric Loader`
 
 ## v4.1.0
 
@@ -101,15 +84,27 @@
 
 - Controlify
 
+### Config Changes 📝
+
+- Removed dependency overrides for ambientenvironment, controlling, forgeconfigapiport, lithium and searchables: `Fabric Loader`
+- Added dependency override for controlify: `Fabric Loader`
+- Changed quiet_mode to "true" by default: `Controlify`
+
+## v4.1.0-beta.1
+
+*Fabric Loader 0.16.0* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.1.0-beta.1.md)*
+
+### Update Overview ⭐
+
+- Initial migration to MC 1.21.1.
+
 ### Removed Mods ❌
 
 - ViaFabric
 
 ### Config Changes 📝
 
-- Removed dependency overrides for ambientenvironment, controlling, forgeconfigapiport, lithium and searchables: `Fabric Loader`
-- Added dependency override for controlify: `Fabric Loader`
-- Changed quiet_mode to "true" by default: `Controlify`
+- Added "notenoughanimations", "darkness", "searchables", "searchables", "resourcepackoverrides", "noisium", "controlling", "skinlayers3d", "lithium", "ambientenvironment", "forgeconfigapiport", "waveycapes", "brandedlogs", "debugify" and "itemswapper" to dependency override list: `Fabric Loader`
 
 ## v4.0.5
 
@@ -200,6 +195,26 @@
 - Replaced Discord RPC logo with the new 1.21 variant.
 - Updated mods & resource packs to their latest version.
 
+### Added Mods ✅
+
+- Clickthrough 2.0
+- Custom Window Title
+- FabricSkyBoxes Interop
+- Name Pain
+- Nvidium
+- ObsidianUI
+- Paginated Advancements & Custom Frames
+- Replanter Plus
+- Resource Pack Overrides
+- RyoamicLights
+- Suggestion Tweaker
+- True Darkness Refabricated
+- Wavey Capes
+
+### Removed Mods ❌
+
+- BadOptimizations
+
 ### Config Changes 📝
 
 - Changed largeImageKey to use new 1.21 logo: `Simple Discord RPC`
@@ -207,3 +222,118 @@
 - Changed requireSeedHeld to "true": `Replanter Plus`
 - Changed mode to be "off" by default `RyoamicLights`
 - Force enabled 'Chat Reporting Helper' & 'Translations for Sodium' resource packs: `Resource Pack Overrides`
+
+## v4.0.0-beta.5
+
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.0.0-beta.5.md)*
+
+### Update Overview ⭐
+
+- Added 1.21 themed panorama.
+- Readded Cubes Without Borders, Krypton & Shulker Box Tooltip.
+- Updated mods & resource packs.
+
+### Added Mods ✅
+
+- Cubes Without Borders
+- Krypton
+- Shulker Box Tooltip
+
+## v4.0.0-beta.4
+
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.0.0-beta.4.md)*
+
+### Update Overview ⭐
+
+- Readded Particle Core, Noisium & Polytone.
+- Removed 'Don't Clear Chat History'.
+- Updated mods.
+
+### Added Mods ✅
+
+- Fzzy Config
+- Noisium
+- Particle Core
+- Polytone
+
+### Removed Mods ❌
+
+- Don't Clear Chat History
+
+## v4.0.0-beta.3
+
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.0.0-beta.3.md)*
+
+### Update Overview ⭐
+
+- Switched to use Modrinth metadata as the basis of the pack behind the scenes.
+- Fixed crash when opening the multiplayer menu.
+- Increased CPU priority of the games main thread.
+- Re-enabled mods that have been updated to 1.21.
+
+### Added Mods ✅
+
+- 3D Skin Layers
+- Better Third Person
+- Bobby
+- Cherished Worlds
+- Controlling
+- Debugify
+- Eating Animation
+- FastQuit
+- MixinTrace
+- Model Gap Fix
+- Mouse Tweaks
+- No Chat Reports
+- Roughly Enough Items
+- Xaero's World Map
+- Zoomify
+
+### Removed Mods ❌
+
+- Chat Up!
+- FastAnim
+- Roughly Enough Items Fabric/Forge/NeoForge
+- Skin Layers 3D
+
+## v4.0.0-beta.2
+
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.0.0-beta.2.md)*
+
+### Update Overview ⭐
+
+- Added 'ThreadTweak' mod.
+- Added 'Tricky Trials Panorama with Shaders' resource pack.
+- Updated mods to their latest version.
+- Re-enabled mods that have been updated to 1.21.
+
+### Added Mods ✅
+
+- Ambient Environment
+- AppleSkin
+- Capes
+- FerriteCore
+- Indium
+- Inventory Profiles Next
+- libIPN
+- Lithium
+- Not Enough Animations
+- OptiGUI
+- Roughly Enough Items Fabric/Forge/NeoForge
+- Roughly Enough Professions
+- Searchables
+- Server Country Flags
+- Skin Layers 3D
+- Status Effect Bars
+- ThreadTweak
+- ViaFabric
+
+## v4.0.0-beta.1
+
+*Fabric Loader 0.15.11* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/auto-export/Changelogs/changelog_mods_4.0.0-beta.1.md)*
+
+### Update Overview ⭐
+
+- Initial migration to Minecraft 1.21.
+- Updated mods to their latest version.
+- Disabled mods that has not yet been updated.

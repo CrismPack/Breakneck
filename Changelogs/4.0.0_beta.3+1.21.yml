@@ -1,0 +1,12 @@
+version: 4.0.0-beta.3
+mc_version: 1.21
+
+Fabric version: 0.15.11
+Update overview:
+  - Switched to use Modrinth metadata as the basis of the pack behind the scenes.
+  - Fixed crash when opening the multiplayer menu.
+  - Increased CPU priority of the games main thread.
+  - Re-enabled mods that have been updated to 1.21.
+
+Config changes: |
+  - Changed threadPriority of game from 5 to 8: [ThreadTweaks]

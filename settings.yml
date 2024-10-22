@@ -1,7 +1,7 @@
 export_client: True
 export_server: False
 breakneck_fixes: True
-github_auth: False
+github_auth: True
 changelog_side_tag: False
 
 refresh_only: False
