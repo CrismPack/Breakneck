@@ -1,20 +1,25 @@
+# Exclude Modpack-CLI-Tool folder
+Modpack-CLI-Tool
+
 # Exclude exported CurseForge zip files
 /Packwiz/*.zip
-/Packwiz/*/*.zip
 /Server Pack/*.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+# Exclude Server Pack mod jars
+/Server Pack/mods/*.jar
+
 # Exclude other
-/Packwiz/*/packwiz-installer.jar
-/Packwiz/*/mmc-cache
-/Packwiz/*/mmc-cache.zip
+/Packwiz/packwiz-installer.jar
+/Packwiz/mmc-cache
+/Packwiz/mmc-cache.zip
 /Export/*.zip
 /Export/*/*.zip
+/Export/temp/*
 
 /Packwiz/mods/disabled/*.toml
-
 
 
 
