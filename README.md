@@ -3,7 +3,7 @@
 
 <!--Link Buttons-->
 
-<p style="text-align: center;">
+<p align="center">
 	<a href="https://discord.gg/Kss5gBgeDA" rel="nofollow">
 		<img src="https://img.shields.io/discord/734879752866889788?label=&color=e66433&labelColor=672a14&style=for-the-badge&logo=discord&logoColor=white" height="28"
 		/></a>
