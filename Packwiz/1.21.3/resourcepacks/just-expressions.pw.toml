@@ -1,0 +1,13 @@
+name = "Just Expressions"
+filename = "JustExpressions_v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vPaHlT2U/versions/bBYe8h0H/JustExpressions_v1.1.zip"
+hash-format = "sha1"
+hash = "071255c65ff31f40b96f25bc5711f2baed3186fd"
+
+[update]
+[update.modrinth]
+mod-id = "vPaHlT2U"
+version = "bBYe8h0H"

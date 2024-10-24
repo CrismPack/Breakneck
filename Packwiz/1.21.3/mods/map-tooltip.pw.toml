@@ -1,0 +1,13 @@
+name = "Map Tooltip"
+filename = "maptooltip-fabric-1.21-4.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNtptqqU/versions/bmowRRFT/maptooltip-fabric-1.21-4.0.1.jar"
+hash-format = "sha1"
+hash = "2cc506c1479be84d5373f1144a0c2226f4cafa54"
+
+[update]
+[update.modrinth]
+mod-id = "GNtptqqU"
+version = "bmowRRFT"

@@ -1,0 +1,13 @@
+name = "Detail Armor Bar"
+filename = "DetailArmorBar-2.6.3+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAt6ty93/versions/VskXKXjg/DetailArmorBar-2.6.3%2B1.21.1-fabric.jar"
+hash-format = "sha1"
+hash = "0f86e598bdda17c9aa989bfd4d7ec652da58cfc9"
+
+[update]
+[update.modrinth]
+mod-id = "hAt6ty93"
+version = "VskXKXjg"
