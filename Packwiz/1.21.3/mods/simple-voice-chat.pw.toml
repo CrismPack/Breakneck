@@ -1,6 +1,6 @@
 name = "Simple Voice Chat"
 filename = "voicechat-fabric-1.21.3-2.5.24.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/8fV9zH9o/voicechat-fabric-1.21.3-2.5.24.jar"
