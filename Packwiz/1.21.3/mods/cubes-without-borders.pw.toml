@@ -1,6 +1,6 @@
 name = "Cubes Without Borders"
 filename = "cubes-without-borders-2.1.1+1.21.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/fbzkv9Iu/cubes-without-borders-2.1.1%2B1.21.jar"

@@ -1,6 +1,6 @@
 name = "Exordium"
 filename = "exordium-fabric-1.3.0-mc1.21.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/DynYZEae/versions/VrgThn48/exordium-fabric-1.3.0-mc1.21.jar"

@@ -1,6 +1,6 @@
 name = "AppleSkin"
 filename = "appleskin-fabric-mc1.21-3.0.5.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fG1xJao0/appleskin-fabric-mc1.21-3.0.5.jar"

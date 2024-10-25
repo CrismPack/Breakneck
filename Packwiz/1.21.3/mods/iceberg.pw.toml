@@ -1,7 +1,6 @@
 name = "Iceberg"
 filename = "Iceberg-1.21-fabric-1.2.6.jar"
-side = "client"
-pin = true
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/5faXoLqX/versions/QJAnqyWJ/Iceberg-1.21-fabric-1.2.6.jar"

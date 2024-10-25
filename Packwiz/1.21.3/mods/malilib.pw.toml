@@ -1,6 +1,6 @@
 name = "MaLiLib"
 filename = "malilib-fabric-1.21.1-0.21.0.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/CQI1MTlR/malilib-fabric-1.21.1-0.21.0.jar"

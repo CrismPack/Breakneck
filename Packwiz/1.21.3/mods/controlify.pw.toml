@@ -1,6 +1,6 @@
 name = "Controlify"
 filename = "Controlify-2.0.0-beta.17+1.21-fabric.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/mYyOLshA/Controlify-2.0.0-beta.17%2B1.21-fabric.jar"

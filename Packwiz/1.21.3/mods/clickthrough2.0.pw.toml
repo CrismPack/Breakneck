@@ -1,6 +1,6 @@
 name = "Clickthrough 2.0"
 filename = "clickthrough-1.21.0+0.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/ERHOxvaH/versions/E7ECzQD8/clickthrough-1.21.0%2B0.jar"

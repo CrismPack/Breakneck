@@ -17,7 +17,27 @@
                 "minecraft": ""
             }
         },
-        "controlify": {
+        "resourcepackoverrides": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "searchables": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "prickle": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "ambientenvironment": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "controlling": {
             "-depends": {
                 "minecraft": ""
             }

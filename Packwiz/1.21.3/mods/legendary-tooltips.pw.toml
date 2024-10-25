@@ -1,6 +1,6 @@
 name = "Legendary Tooltips"
 filename = "LegendaryTooltips-1.21-fabric-1.4.11.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/atHH8NyV/versions/UTTS7kWE/LegendaryTooltips-1.21-fabric-1.4.11.jar"

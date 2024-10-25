@@ -1,6 +1,6 @@
 name = "RyoamicLights"
 filename = "RyoamicLights-fabric-0.2.11+mc1.21.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/reCfnRvJ/versions/eFFsHtIr/RyoamicLights-fabric-0.2.11%2Bmc1.21.1.jar"

@@ -1,6 +1,6 @@
 name = "3D Skin Layers"
 filename = "skinlayers3d-fabric-1.6.7-mc1.21.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/h12GehRH/skinlayers3d-fabric-1.6.7-mc1.21.jar"

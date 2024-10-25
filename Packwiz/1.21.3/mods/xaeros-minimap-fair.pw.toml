@@ -1,6 +1,6 @@
 name = "Xaero's Minimap (Fair-Play)"
 filename = "Xaeros_Minimap_FP24.2.1_Fabric_1.21.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/JkSi2Fzx/versions/RSLCYMr3/Xaeros_Minimap_FP24.2.1_Fabric_1.21.jar"

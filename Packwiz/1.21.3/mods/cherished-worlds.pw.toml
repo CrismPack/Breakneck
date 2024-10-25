@@ -1,6 +1,6 @@
 name = "Cherished Worlds"
 filename = "cherishedworlds-fabric-10.0.2+1.21.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/AjX5Wmj4/cherishedworlds-fabric-10.0.2%2B1.21.1.jar"

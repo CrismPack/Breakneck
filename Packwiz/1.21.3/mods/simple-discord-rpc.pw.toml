@@ -1,6 +1,6 @@
 name = "Simple Discord RPC"
 filename = "SimpleRPC-Universal-3.3.3.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/kgFckjwV/SimpleRPC-Universal-3.3.3.jar"

@@ -1,6 +1,6 @@
 name = "Raised"
 filename = "raised-fabric-1.21-4.0.0.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/v1zAblQ8/raised-fabric-1.21-4.0.0.jar"

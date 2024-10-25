@@ -1,6 +1,6 @@
 name = "Paginated Advancements & Custom Frames"
 filename = "paginatedadvancements-2.5.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/pJogNFap/versions/fQnpir9a/paginatedadvancements-2.5.1.jar"

@@ -1,6 +1,6 @@
 name = "FerriteCore (Fabric)"
 filename = "ferritecore-7.0.1-fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/zQSo4nxk/ferritecore-7.0.1-fabric.jar"

@@ -1,6 +1,6 @@
 name = "CIT Resewn"
 filename = "citresewn-1.2.2+1.21.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar"

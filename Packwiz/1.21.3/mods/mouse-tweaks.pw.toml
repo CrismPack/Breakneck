@@ -1,6 +1,6 @@
 name = "Mouse Tweaks"
 filename = "MouseTweaks-fabric-mc1.21-2.26.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"

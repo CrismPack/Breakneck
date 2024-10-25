@@ -1,6 +1,6 @@
 name = "Lithium (Fabric)"
 filename = "lithium-fabric-0.14.0-snapshot+mc1.21.1-build.88.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2mbrKlX3/lithium-fabric-0.14.0-snapshot%2Bmc1.21.1-build.88.jar"

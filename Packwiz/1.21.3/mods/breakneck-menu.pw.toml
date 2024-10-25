@@ -1,6 +1,6 @@
 name = "Breakneck Menu"
 filename = "breakneckmenu-fabric-1.1.0+mc1.21.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/eZlpOTxM/versions/hSngqZzY/breakneckmenu-fabric-1.1.0%2Bmc1.21.jar"

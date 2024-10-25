@@ -1,6 +1,6 @@
 name = "Shulker Box Tooltip [Fabric/Forge/NeoForge]"
 filename = "shulkerboxtooltip-fabric-5.1.1+1.21.1.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 hash-format = "sha1"

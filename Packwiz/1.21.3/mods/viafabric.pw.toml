@@ -1,6 +1,6 @@
 name = "ViaFabric"
 filename = "ViaFabric-0.4.15+84-main.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/YlKdE5VK/versions/6DgogkJ3/ViaFabric-0.4.15%2B84-main.jar"

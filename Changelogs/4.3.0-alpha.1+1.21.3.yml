@@ -1,0 +1,141 @@
+name: 4.3.0-beta.1 for 1.21.3
+
+Fabric version: Fabric-0.16.7
+Update overview: |
+  - Initial migration to 1.21.3.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + 
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - Indium
+
+
+Mods temporarily removed: |
+  - ViaFabric
+  - Lithium
+  - ThreadTweak
+  - Controlify
+  - Reese's Sodium Options
+  - Sodium Extra
+  - Nvidium
+  - Clickthrough 2.0
+  - Entity Texture Features
+  - Entity Model Features
+  - FerriteCore
+  - ModernFix
+  - Breakneck Menu
+  - Polytone
+  - Mouse Tweaks
+  - MaLiLib
+  - MiniHUD
+  - Litematica
+  - Shulker Box Tooltip
+  - OptiGUI
+  - Animatica
+  - Cubes Without Borders
+  - Bookshelf
+  - Enchantment Descriptions
+  - ItemSwapper
+  - Debugify
+  - Better Recipe Book
+  - Iceberg
+  - Legendary Tooltips
+  - Equipment Compare
+  - Raised
+  - Name Pain
+  - CIT Resewn
+  - Enhanced Block Entities
+  - Not Enough Animations
+  - Paginated Advancements
+  - libIPN
+  - Inventory Profiles Next
+  - Language Reload
+  - Continuity
+  - Exordium
+  - Xaero's Minimap (Fair-Play)
+  - Xaero's World Map
+  - True Darkness Refabricated
+  - FabricSkyboxes
+  - FabricSkyBoxes Interop
+  - Prism
+  - Noisium
+  - Cherished Worlds
+  - No Chat Reports
+  - Server Country Flags
+  - Better Third Person
+  - RyoamicLights
+  - Simple Voice Chat
+  - AppleSkin
+  - Particle Core
+  - WaveyCapes
+  - 3D Skin Layers
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > Architectury API
+  > Balm
+  > Bobby
+  > Capes
+  > Chat Heads
+  > CleanView
+  > Client Tweaks
+  > Cloth Config API
+  > Collective
+  > CraterLib
+  > Detail Armor Bar
+  > Dynamic FPS
+  > Fabric API
+  > Falling Leaves
+  > Forge Config API Port
+  > Fzzy Config
+  > ImmediatelyFast
+  > Iris Shaders
+  > Mod Menu
+  > More Culling
+  > owo-lib
+  > Persistent Inventory Search
+  > Replanter Plus
+  > Resourcify
+  > Remove Reloading Screen
+  > ScalableLux
+  > Simple Voice Chat
+  > Sodium
+  > Status Effect Bars
+  > YetAnotherConfigLib
+  > Zoomify
+
+
+Mod updates reverted: |
+  >  [2.3.12 -> 2.3.10], [Pinned]
+
+
+Resource Packs updated: |
+  > Translations for Sodium
+
+Shader Packs updated: |
+  > 
+
+Config changes: |
+  = Force loaded 'resourcepackoverrides', 'searchables', 'prickle', 'ambientenvironment' & 'controlling': [Fabric Loader]
