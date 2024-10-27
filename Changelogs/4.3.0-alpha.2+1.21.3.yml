@@ -2,7 +2,9 @@ version: 4.3.0-alpha.2
 
 Fabric version: Fabric-0.16.7
 Update overview: |
-  - Re-added a bunch of mods.
+  - Re-added some mods.
+  - Fixed crash when changing keybinds.
+  - Fixed intermittent crashing issue.
   - Updated mods.
 
 
@@ -28,6 +30,7 @@ Mods readded: |
   + Roughly Enough Items
   + Sodium Extra
   + ViaFabric
+  + Simple Discord RPC
 
 
 Metadata changes: |
@@ -39,7 +42,8 @@ Mods removed: |
 
 
 Mods temporarily removed: |
-  - 
+  - Controlling
+  - Eating Animation
 
 
 Resource Packs removed: |
