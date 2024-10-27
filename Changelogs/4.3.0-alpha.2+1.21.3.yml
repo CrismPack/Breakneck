@@ -1,0 +1,82 @@
+version: 4.3.0-alpha.2
+
+Fabric version: Fabric-0.16.7
+Update overview: |
+  - Re-added a bunch of mods.
+  - Updated mods.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + Breakneck Menu
+  + Entity Model Features
+  + Entity Texture Features
+  + Mouse Tweaks
+  + OptiGUI
+  + Raised
+  + Reese's Sodium Options
+  + Roughly Enough Items
+  + Sodium Extra
+  + ViaFabric
+
+
+Metadata changes: |
+  = 
+
+
+Mods removed: |
+  - 
+
+
+Mods temporarily removed: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > Architectury API
+  > Balm
+  > Better Statistics Screen
+  > Breakneck Menu
+  > Collective
+  > Entity Model Features
+  > Entity Texture Features
+  > Fabric API
+  > FerriteCore
+  > Fzzy Config
+  > Mouse Tweaks
+  > OptiGUI
+  > Persistent Inventory Search
+  > Raised
+  > Reese's Sodium Options
+  > Roughly Enough Items
+  > Sodium Extra
+  > TCDCommons API
+  > ViaFabric
+
+
+Mod updates reverted: |
+  >  [2.3.12 -> 2.3.10], [Pinned]
+
+
+Resource Packs updated: |
+  > Translations for Sodium
+
+Shader Packs updated: |
+  > 
+
+Config changes: |
+  = : []
