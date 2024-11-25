@@ -2,7 +2,9 @@ version: 4.3.0-beta.1
 
 Fabric version: Fabric-0.16.9
 Update overview: |
-  - 
+  - Updated mods.
+  - Re-added mods that have been updated to 1.21.3.
+  - Marked this as as beta release, due to it being a lot more feature complete and stable.
 
 
 Mods added: |
@@ -67,7 +69,6 @@ Mods updated: |
   > AppleSkin
   > Better Statistics Screen
   > Better Third Person
-  > Branded Logs
   > Chat Heads
   > Controlify
   > Controlling
@@ -128,4 +129,4 @@ Shader Packs updated: |
   > 
 
 Config changes: |
-  = : []
+  = Deleted overrides for searchables, ambientenvironment & controlling: [Fabric Loader]
