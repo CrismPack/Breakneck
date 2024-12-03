@@ -12,11 +12,6 @@
         "lambdynlights": {
             "recommends": {}
         },
-        "brandedlogs": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
         "resourcepackoverrides": {
             "-depends": {
                 "minecraft": ""

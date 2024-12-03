@@ -72,4 +72,5 @@ Shader Packs updated: |
   > 
 
 Config changes: |
-  = Deleted overrides for breandedlogs: [Fabric Loader]
+  = Deleted overrides for brandedlogs: [Fabric Loader]
+  = Changed doWriteToResourceTextFile to "false": [Branded Logs]

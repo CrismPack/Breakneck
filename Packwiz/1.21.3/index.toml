@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "58b3fe6660df2acfc06874316e1c3614de9e6f8dd16b67ce626d241c1c76c5c2"
+hash = "a9e0ad62d7b5dac7b98794c5cbc5aafd2a99915f15b2267cc1bb01a3a7892d6c"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -18,7 +18,7 @@ hash = "047eed53710346d4461d49d1a3366aa4f4727a0092139ae92372ab61700325d3"
 
 [[files]]
 file = "config/brandedlogs.json5"
-hash = "73253a17555427f3c3bf3098358c3128830fc616ad5ec44403295568aa69aa00"
+hash = "b7074d1f85b788810ebf2832fe0c2d170303696fffeea134b32ca32466506f63"
 
 [[files]]
 file = "config/brb.toml"
@@ -42,7 +42,7 @@ hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "10aa9b66f0e45a5c290519dd0cfa7e0d702ac80f569ae5329467570bb0726135"
+hash = "25ae4d7e47aa63bd6adccc9d7adf8e19ba7fd6d8d3d57b7cc963a3857133748d"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-tooltip.pw.toml"
-hash = "93bf5e760cb6e64e70a01b4151a920d25f18f6bca3a062d6836c11a8611743b5"
+hash = "17325ec3db686fa0c561660c000ee2ed4fad07971ad765d3a5ef280f8b6b3189"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-hash = "a390612e37e980de4280834f701ff9f948a06314df27f03afa815fa522fceeaf"
+hash = "73fa4416aa0652195230fa05184e2bd3dd84d9ac239c2ea0781792b1b57c2867"
 metafile = true
 
 [[files]]
