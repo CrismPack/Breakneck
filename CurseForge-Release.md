@@ -3,6 +3,7 @@
 
 
 
+- First stable release for 1.21.3.
 - Re-added 'Numeral Ping'.
 - Temporarily removed 'Map Tooltip', fixing crashing issue related to maps.
 - Updated mods & resource packs.
