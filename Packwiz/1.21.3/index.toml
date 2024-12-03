@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/branded-logs.pw.toml"
-hash = "925d0beca280dee9886265b40e9a8cb6fe83cdd9045e7b38a6a4ffc9d2a20f02"
+hash = "8634ce571da7e3aa4820ad824246548b52447307560d259f5461992aefdc3568"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "a97039b89e3451231d20d2f18a0873f7c16c3a6c8f74df05192c1b4edb1ebf48"
+hash = "21e73b2fd00492b87ef7757d80b2def2b44dc5e09d13c614b61b2b095132b6bc"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "8dcf893a09188712831c1fc0602dddbaf6fae8ec2e12cfcdb5a98481aebe59be"
+hash = "3b2a47f991197f82fb577049b12f1f8dcbc53886a077bd59f8ef4d58bf1c741d"
 metafile = true
 
 [[files]]
@@ -376,12 +376,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d21b4d86fef137025e0a9ea494e1eb74abf847005b365172dba12d1a9e619ae4"
+hash = "03e71ca4ecc9dc66657a5b58cb11eaecd21ffaf445682c7d9d761d5359615985"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "e471430a28ffa789cc18fc557ec9d71d14008af5de281b294d1d3c9d8ac7d9b4"
+hash = "aa07891c80a306ca1054e8abea089119f12ea8801c605048920deeaa396ce0df"
 metafile = true
 
 [[files]]
@@ -426,17 +426,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3a0d8a51f9496d6eed9f83e817669b07abbf5be96b5995f59d869b3a8c901efe"
+hash = "a4ed3c0b3ca1dcd672e8f5fe3f79ca2a5d4abb0cc1e94033489cb691cbb33732"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "ded72014363c9e51567290fbc4827a40b2df357c2edecb5a3ec96c9f0aceae01"
+hash = "67a274459a347f1dbfa686fffe40008b523b8ffc954ba4c9bad5527f458e2585"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "84251680a8254a85ff47e35abd94df72ba3692e0d2552798e315098837eaac01"
+hash = "04622a852e36c9a0c359bbf7cef19b9eee2669cf33b091e10a3a3ca9c0b9fcae"
 metafile = true
 
 [[files]]
@@ -461,22 +461,22 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "df39af78b568233e37be9c1753dbb06c8d57875519f864039dd46968bc8cdfdc"
+hash = "be60214adb94b1e5e9cfb3070b9a768e1250b6383d93382055595099399ea2ae"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "8dbd95d99f609441283fa864d842d53414bd38f37f72a790a63c71214f1c1688"
+hash = "75c1ac0d7b926cb03b43e8c416921ffdc0fc2f31d0bdf20d2c91c91705986680"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c4b0168ca63eeb164f7e2ca01c7418a14cf1ab43c4bb92f04adf3ac7b2f819d4"
+hash = "a9ac0c3885a1736899675df3ec5f917be1156d2186c126f0afbf0575fc601aab"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4988da71b3ddb19f9a692bfd9d6d87fe74138953216e346bf5e08a72d887bea4"
+hash = "a2beaef3f5f4236d6302152b23edf322372c2ae6a3ce70593acde1ce14ae5bd0"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "1ba07143fa181d9dedefe4019197567ce71baec89c2b8e2ce0299f65dd190b93"
+hash = "7171b80b29f09a69050d118fd887a0c4aa361b33cf969a110ac67117f6d28fe3"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-hash = "dc63e02fcfc6840ee551d83c33b6fbf3af2f4a1f84010daee84f8821df2ccb34"
+hash = "a390612e37e980de4280834f701ff9f948a06314df27f03afa815fa522fceeaf"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "07a094220774d51095cb84cc3d0ee772b04597da2f60e59f5d79b6ee0779637e"
+hash = "5d53c6c4c1a90271fcbe6f948ccdb0da17d42d21e48c11742513d24cd009d865"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c989873e60b5ab828ccda6b083e5d55dc9684b3be810beca1b8eb40cbd46a88d"
+hash = "da37bf1c6b262fe45f06ca11106be5ef994d69dcab0042e030691b516b937c31"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "1c0ac312f7caa6bf7fc59002b9841617b17dad0d6e47dbdcaa97cca365a1ea91"
+hash = "265ebd55a7829e33c81bd6762ff4440511c757889d95e0b227ba9598a4fe6136"
 metafile = true
 
 [[files]]
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a43ab26f81dc21e424d0a8f23e73e3d2a86a74d69ce77a985c61bccdd2a3f236"
+hash = "3a2c7241114736c509bf660240e4bf2528b295ac1d7f8fd4ddaeb0affb088381"
 metafile = true
 
 [[files]]
