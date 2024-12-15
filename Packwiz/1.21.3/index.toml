@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a9e0ad62d7b5dac7b98794c5cbc5aafd2a99915f15b2267cc1bb01a3a7892d6c"
+hash = "934f89831002d24a9a8aa7ed2d1ec7e80c5805af0d308d06e896aab239a8471c"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -31,6 +31,10 @@ hash = "6338279deb9bf78bc45d8ebc0481870172243a39425786a9855b4a0ac556dda9"
 [[files]]
 file = "config/customwindowtitle/icon.png"
 hash = "f115037f419e4a855097cea3926aac3f2fdabdf0b39548350adc983877144a55"
+
+[[files]]
+file = "config/debugify.json"
+hash = "9f265217978559e3b9e382bfadc173e35ff265f4ea5450c0f110e8cc57d21708"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -286,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "23040dd304a0370944dd8125fe930dc495b08a60be3b82e1dc39f2bcd9644bf9"
+hash = "97038881c960f586f7b3669f5e93cc768afe9ae543d4f9d91e8f0bac56fc2782"
 metafile = true
 
 [[files]]
@@ -341,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "e83b03fdf7c310d23a1c07ea7fcd1a1d207459d2472c0cab965ebc71d2aa18ea"
+hash = "91d0463c632bba6af19bd04d83b8a0ce44b05a503b58399929ab9edd865bf408"
 metafile = true
 
 [[files]]
