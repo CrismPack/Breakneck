@@ -1,0 +1,81 @@
+version: 4.3.1
+
+Fabric version: Fabric-0.16.9
+Update overview: |
+  - Re-added 'Continuity' & 'Eating Animation'.
+  - Fixed crashing issue related to the Ender Dragon.
+  - Updated mods & resource packs.
+
+
+Mods added: |
+  + 
+
+
+Resource Packs added: |
+  + 
+
+Shader Packs added: |
+  + 
+
+
+Mods readded: |
+  + Continuity
+  + Eating Animation
+
+
+Metadata changes: |
+  =  [CF --> MR]
+
+
+Mods removed: |
+  - 
+
+
+Mods temporarily removed: |
+  - 
+
+
+Resource Packs removed: |
+  - 
+
+
+Mods updated: |
+  > 3D Skin Layers
+  > Better Statistics Screen
+  > Chat Heads
+  > Cloth Config API
+  > Continuity
+  > Eating Animation
+  > Entity Texture Features
+  > Fabric API
+  > Forge Config API Port
+  > Fzzy Config
+  > Language Reload
+  > Model Gap Fix
+  > Mod Menu
+  > Not Enough Animations
+  > OptiGUI
+  > Paginated Advancements
+  > Polytone
+  > Roughly Enough Items
+  > Resourcify
+  > Sodium
+  > Wavey Capes
+  > Xaero's World Map
+  > YetAnotherConfigLib
+
+
+
+
+Mod updates reverted: |
+  >  [2.3.12 -> 2.3.10], [Pinned]
+
+
+Resource Packs updated: |
+  > > Translations for Sodium
+
+Shader Packs updated: |
+  > 
+
+Config changes: |
+  = Changed MC-88371 to "false": [Debugify]
