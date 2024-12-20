@@ -1,0 +1,3 @@
+ignoreUpdate:138
+updateNotification:false
+caveMapsAllowed:false

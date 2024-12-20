@@ -1,0 +1,16 @@
+name = "Breakneck"
+author = "HaXr"
+version = "4.4.0-beta.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "078544a16b6ffab7afb829b34358fc592a0d505fe4545c888aac938162e964ee"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = ["1.21.4"]

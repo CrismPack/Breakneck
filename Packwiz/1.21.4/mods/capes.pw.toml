@@ -1,0 +1,13 @@
+name = "Capes [Fabric/Forge]"
+filename = "capes-1.5.4+1.21.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/mkf1dFwO/capes-1.5.4%2B1.21.2-fabric.jar"
+hash-format = "sha1"
+hash = "6f6931387989429dce7dee795c87db8ca2350fa2"
+
+[update]
+[update.modrinth]
+mod-id = "89Wsn8GD"
+version = "mkf1dFwO"

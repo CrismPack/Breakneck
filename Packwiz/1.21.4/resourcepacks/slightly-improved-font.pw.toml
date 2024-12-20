@@ -1,0 +1,13 @@
+name = "Slightly Improved Font (32x)"
+filename = "Slightly-Improved-Font-1.1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yopVn4E8/versions/QvJQafzt/Slightly-Improved-Font-1.1.4.zip"
+hash-format = "sha1"
+hash = "ec0e41bf95e6261d966a4cc0903e2a8961bfc454"
+
+[update]
+[update.modrinth]
+mod-id = "yopVn4E8"
+version = "QvJQafzt"

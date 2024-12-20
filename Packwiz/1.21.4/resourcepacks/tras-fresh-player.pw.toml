@@ -1,0 +1,14 @@
+name = "Fresh Moves"
+filename = "Expressive Fresh Moves v3.0.1.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/slufHzC2/versions/Sdg6a6Tc/Expressive%20Fresh%20Moves%20v3.0.1.zip"
+hash-format = "sha1"
+hash = "7e9e519d92633d4b4243ce5ad1c1ea75d59bf8d5"
+
+[update]
+[update.modrinth]
+mod-id = "slufHzC2"
+version = "Sdg6a6Tc"
