@@ -1,6 +1,6 @@
 name = "Eating Animation"
 filename = "eating-animation-1.21.3+1.9.73.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/Mr1c5IWQ/eating-animation-1.21.3%2B1.9.73.jar"

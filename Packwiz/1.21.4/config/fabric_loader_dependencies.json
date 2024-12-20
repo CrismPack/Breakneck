@@ -21,6 +21,26 @@
             "-depends": {
                 "minecraft": ""
             }
+        },
+        "ambientenvironment": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "searchables": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "breakneckmenu": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "brandedlogs": {
+            "-depends": {
+                "minecraft": ""
+            }
         }
     }
 }

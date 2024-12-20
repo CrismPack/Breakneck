@@ -1,6 +1,6 @@
 name = "Server Country Flags"
 filename = "servercountryflags-1.10.4-1.21.3-FABRIC.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/L6HW4EbG/versions/7B5wh90W/servercountryflags-1.10.4-1.21.3-FABRIC.jar"
