@@ -7,7 +7,7 @@ soundCategory_music:0.25
 skipMultiplayerWarning:true
 tutorialStep:none
 onboardAccessibility:false
-resourcePacks:["vanilla","fabric","itemswapper:default","itemswapper:experimental_addon","minecraft:supporteatinganimation","file/JustExpressions_v1.1.zip","file/Breakneck Lang","breakneckmenu:breakneckmenu","file/1.21 Shader panorama.zip"]
+resourcePacks:["vanilla","fabric","itemswapper:default","itemswapper:experimental_addon","minecraft:supporteatinganimation","file/JustExpressions_v1.1.zip","file/Breakneck Lang","breakneckmenu:breakneckmenu"]
 key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_zoomify.key.zoom:key.keyboard.z

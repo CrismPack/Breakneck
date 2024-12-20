@@ -2,6 +2,8 @@ version: 4.4.0-beta.1
 
 Fabric version: Fabric-0.16.9
 Update overview: |
+  - Initial migration to 1.21.4.
+  - Temporarily removed problematic mods.
   - Updated mods & resource packs.
 
 
@@ -29,7 +31,15 @@ Mods removed: |
 
 
 Mods temporarily removed: |
-  - 
+  - Continuity
+  - Controlling
+  - Eating Animation
+  - FastQuit
+  - Litematica
+  - MaLiLib
+  - MiniHUD
+  - Remove Reloading Screen
+  - Server Country Flags
 
 
 Resource Packs removed: |
@@ -99,4 +109,4 @@ Shader Packs updated: |
   > 
 
 Config changes: |
-  = 
+  = Force loaded 'ambientenvironment', 'searchables', 'breakneckmenu' & 'brandedlogs': [Fabric Loader]
