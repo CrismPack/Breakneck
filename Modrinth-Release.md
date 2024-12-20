@@ -3,9 +3,9 @@
 
 
 
-- Re-added 'Continuity' & 'Eating Animation'.
-- Fixed crashing issue related to the Ender Dragon.
+**This is a pre-release. Here be dragons!**
+
 - Updated mods & resource packs.
 
 
-**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/1.21.3#v4.3.1)**
+**[[Full Changelog]](https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog/1.21/1.21.4#v4.4.0-beta.1)**

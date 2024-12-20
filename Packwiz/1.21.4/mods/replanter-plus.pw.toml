@@ -1,13 +1,13 @@
 name = "Replanter Plus"
-filename = "replanter-plus-2.3.1.jar"
+filename = "replanter-plus-2.3.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/is7374ZC/versions/eYltnDRE/replanter-plus-2.3.1.jar"
+url = "https://cdn.modrinth.com/data/is7374ZC/versions/ag8qpC03/replanter-plus-2.3.2.jar"
 hash-format = "sha1"
-hash = "0ba3ea572dcc04fab6e6bb12af70335ef82c8f2a"
+hash = "a53d4e7942aac5e11084d12dad64d06869b44a70"
 
 [update]
 [update.modrinth]
 mod-id = "is7374ZC"
-version = "eYltnDRE"
+version = "ag8qpC03"

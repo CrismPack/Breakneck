@@ -27,7 +27,7 @@ create_release_notes = True
 bootstrap_nogui = False
 
 modpack_name = "Breakneck"
-minecraft_version = "1.21.3"
+minecraft_version = "1.21.4"
 packwiz_side = "client"
 
 
