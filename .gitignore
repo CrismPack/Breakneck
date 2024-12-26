@@ -20,6 +20,7 @@ Modpack-CLI-Tool
 /Export/temp/*
 
 /Packwiz/mods/disabled/*.toml
+packwiz-installer.jar
 
 
 
