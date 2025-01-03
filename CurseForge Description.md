@@ -239,7 +239,7 @@ Following settings were used:
 </h5>
 <p style="text-align: center;">
 	<a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore">
-		<img src="https://api.mcstatus.io/v2/widget/java/insomnia.crismpack.net" width="600"/>
+		<img src="https://api.mcstatus.io/v2/widget/java/insomnia.crismpack.net" width="500"/>
 	</a>
 </p>
 
