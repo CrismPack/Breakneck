@@ -1,12 +1,9 @@
 1. Write changelogs. 
     - Ensure that the changelog file name has the correct formatting: Example: 1.21+4.0.0-beta.4.yml
-2. Change 'minecraft_version' variable in 'Modpack Export.py' script depending on the packwiz directory you wish to use.
-3. Ensure that the 'MC_VERSION' variable on the repository is set to the version of Minecraft you wish to publish for.
-3. Ensure that the 'PRERELEASE' variable on the repository is set to the correct value ("true" if pre-release).
-4. Change modpack version in 'pack.toml'.
-5. Run script to create CF and MR modpacks.
-6. Commit git changes.
-7. Go to repository and create a new release.
+2. Change modpack version in 'pack.toml'.
+3. Run script to create CF and MR modpacks.
+4. Commit git changes.
+5. Go to repository and create a new release.
     - Ensure that the title and tag are exactly the same as pack version. Example: "4.0.0-beta.4"
     - Upload .zip and .mrpack modpack binaries to the release.
     - Press publish.
