@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "da06f3f2067d8d1bea0649751b5b1a5964145d0900ccbc2f19c35be4b9767722"
+hash = "24acfd06c7f56efbfc70e1cde6f34177befbc9a5b101e19c7663b674430af2f1"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -239,6 +239,11 @@ hash = "43930321f6a88e05b9278e2fec11489408398ff50e6390a6f6f7c245f103d89d"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3051d016d1b7ce5008a07e730db982d8ac0822ac67d5b43cfed5aecec1952ac6"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "c648f4c4b7ccd23b9fd44f3b717aa2e705a04ab3066551ee42ebc006a05afe5b"
 metafile = true
@@ -290,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ec136e561ea1d759b7590a2189e93a58d7f29971c2428dfcdbe7c1ab05d79f02"
+hash = "f309961425cad0e885b1d4320c080e27773b02c500fb92e4be2bbb59169c92c2"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "07db85a05c09e6de7ad7b6c234fae2e4c294d0a1e45b7d9d60b6feac19f29eb9"
+hash = "9c3d9cd35a0d15742727474fc57997c6af688e7af6cd57f1aa003d97342b0921"
 metafile = true
 
 [[files]]
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "714e78683dd5582f54420926237c04347d685da147c6f0350c37270f240f97dc"
+hash = "d5d9f89a2432ffda4ec5211b40a2885f71549f5f051af21ce6b42ae848762d24"
 metafile = true
 
 [[files]]
@@ -480,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "fe5ac3646b65906f0b44f5c299b7ad8aeac10efe0e24ca4dcfd1b313aae0f63e"
+hash = "f99e318b31916f54c8a84397ad3ebef068127bbc0b479b236645e0a44e822eeb"
 metafile = true
 
 [[files]]
@@ -490,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c08e1748d3f0f89f7a652054045afbe715fbd973a814b503a5f17e5ac20ab0ec"
+hash = "12487ac43ff7a77be6a57fb43219fe021950be572aa663e6cbc089146429ebbd"
 metafile = true
 
 [[files]]
@@ -505,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "07feee0a8ab7dc7b381753dab5c446a579cfb9d2894a5ad5435a75687278edf9"
+hash = "8d2c588848301dd572f4c36ae84e5985b76c395bf820fa331bfc74c7d41264a7"
 metafile = true
 
 [[files]]
@@ -640,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "f09373e226efc59db8494e3a8a6098a3963520e8cffb45085703dd31f02bfcef"
+hash = "50a1ebe1116bd7ab3a94a254e48250bbf50d6840c3c206c29ff83df53d056652"
 metafile = true
 
 [[files]]
@@ -665,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "8e8923bfbb9e68ce6eaab550a0c5e8599f3e1dd6dc8d77dfa33862afca6a6bf3"
+hash = "48e8b2eed1812442b8e0168bdc2d1143f6fdc395c14a42a651bf01e1c8b7e572"
 metafile = true
 
 [[files]]
