@@ -9,10 +9,13 @@ env:
   CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
   GITHUB_TOKEN: ${{ secrets.PUBLISH_GITHUB_TOKEN }}
 
+  MC_VERSION: 1.21.4
+  RELEASE_TYPE: release
+  PRE_RELEASE: false
 permissions:
   contents: write
 
-jobs:   
+jobs:
   publish-to-curseforge:
     if: github.repository_owner == 'CrismPack'
     runs-on: ubuntu-24.04
@@ -35,11 +38,12 @@ jobs:
     - name: Publish to CurseForge
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION
+          }}
         changelog-file: CurseForge-Release.md
 
         curseforge-id: 579074
-        curseforge-token: "${{env.CURSEFORGE_TOKEN}}"
+        curseforge-token: ${{env.CURSEFORGE_TOKEN}}
         curseforge-files: '*.zip'
 
         loaders: fabric
@@ -68,12 +72,13 @@ jobs:
     - name: Publish to Modrinth
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION
+          }}
         changelog-file: Modrinth-Release.md
 
         modrinth-id: qPrWu8wn
         modrinth-featured: false
-        modrinth-token: "${{env.MODRINTH_TOKEN}}"
+        modrinth-token: ${{env.MODRINTH_TOKEN}}
         modrinth-files: '*.mrpack'
 
         loaders: fabric

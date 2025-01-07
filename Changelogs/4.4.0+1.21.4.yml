@@ -1,65 +1,11 @@
 version: 4.4.0
+mc_version: 1.21.4
 
-Fabric version: Fabric-0.16.9
-Update overview: |
+Fabric version: 0.16.9
+Update overview:
   - Added 'Concurrent Chunk Management Engine' for faster chunk generation.
   - Updated mods & resource packs.
   - Re-added mods that have been updated to 1.21.4.
-
-
-Mods added: |
-  + 
-
-
-Resource Packs added: |
-  + 
-
-Shader Packs added: |
-  + 
-
-
-Mods readded: |
-  + Continuity
-  + Controlling
-  + Litematica
-  + MaLiLib
-  + MiniHUD
-  + ModernFix
-  + Remove Reloading Screen
-  + Server Country Flags
-
-
-Metadata changes: |
-  =  [CF --> MR]
-
-
-Mods removed: |
-  - 
-
-
-Mods temporarily removed: |
-  - 
-
-
-Resource Packs removed: |
-  - 
-
-
-Mods updated: |
-  > 
-
-
-
-
-Mod updates reverted: |
-  >  [2.3.12 -> 2.3.10], [Pinned]
-
-
-Resource Packs updated: |
-  > 
-
-Shader Packs updated: |
-  > 
 
 Config changes: |
   = : []
