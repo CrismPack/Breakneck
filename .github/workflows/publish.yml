@@ -5,9 +5,9 @@ on:
     types: [published]
 
 env:
-  MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
-  CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
-  GITHUB_TOKEN: ${{ secrets.PUBLISH_GITHUB_TOKEN }}
+  MODRINTH_TOKEN: ${{secrets.MODRINTH_TOKEN}}
+  CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
+  GITHUB_TOKEN: ${{secrets.PUBLISH_GITHUB_TOKEN}}
 
   MC_VERSION: 1.21.4
   RELEASE_TYPE: release
@@ -33,13 +33,12 @@ jobs:
         latest: true
         tarBall: false
         zipBall: false
-        preRelease: ${{ vars.PRERELEASE }}
+        preRelease: ${{env.PRE_RELEASE}}
 
     - name: Publish to CurseForge
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION
-          }}
+        name: Breakneck v${{steps.download-files.outputs.tag_name}} for ${{env.MC_VERSION}}
         changelog-file: CurseForge-Release.md
 
         curseforge-id: 579074
@@ -47,7 +46,7 @@ jobs:
         curseforge-files: '*.zip'
 
         loaders: fabric
-        game-versions: ${{ vars.MC_VERSION }}
+        game-versions: ${{env.MC_VERSION}}
 
 
   publish-to-modrinth:
@@ -67,13 +66,12 @@ jobs:
         latest: true
         tarBall: false
         zipBall: false
-        preRelease: ${{ vars.PRERELEASE }}
+        preRelease: ${{env.PRE_RELEASE}}
 
     - name: Publish to Modrinth
       uses: Kir-Antipov/mc-publish@v3.3
       with:
-        name: Breakneck v${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION
-          }}
+        name: Breakneck v${{steps.download-files.outputs.tag_name}} for ${{env.MC_VERSION}}
         changelog-file: Modrinth-Release.md
 
         modrinth-id: qPrWu8wn
@@ -82,4 +80,4 @@ jobs:
         modrinth-files: '*.mrpack'
 
         loaders: fabric
-        game-versions: ${{ vars.MC_VERSION }}
+        game-versions: ${{env.MC_VERSION}}
