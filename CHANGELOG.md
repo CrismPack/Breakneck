@@ -13,12 +13,31 @@
 
 ### Update Overview ⭐
 
+- Added 'BetterGrassify'.
 - Re-added 'Name Pain'.
 - Updated mods & resource packs.
 
 ### Added Mods ✅
 
+- BetterGrassify
 - Name Pain
+
+### Updated Mods 🔄
+
+- Balm
+- Controlling
+- Debugify
+- Fabric API
+- Inventory Profiles Next
+- ItemSwapper
+- Lithium
+- Polytone
+- Reese's Sodium Options
+- Resourcify
+
+### Updated Resource Packs 🔃
+
+- Slightly Improved Font
 
 ## v4.4.0 <a href='#v4.4.0' id='v4.4.0'></a>
 
@@ -41,6 +60,27 @@
 - ModernFix
 - Remove Reloading Screen
 - Server Country Flags
+
+### Updated Mods 🔄
+
+- Ambient Environment
+- Balm
+- Better Statistics Screen
+- Entity Texture Features -
+- Fabric API
+- Fzzy Config
+- Iris Shaders
+- ItemSwapper
+- libIPN
+- Mod Menu
+- More Culling
+- Not Enough Animations
+- oωo
+- Polytone
+- Reese's Sodium Options
+- ScalableLux
+- Searchables
+- Sodium
 
 ## v4.4.0-beta.1 <a href='#v4.4.0-beta.1' id='v4.4.0-beta.1'></a>
 
@@ -71,6 +111,59 @@ This is a pre-release. Here be dragons!
 - MiniHUD
 - Remove Reloading Screen
 - Server Country Flags
+
+### Updated Mods 🔄
+
+- 3D Skin Layers
+- Architectury API
+- Balm
+- Better Statistics Screen
+- Bobby
+- Capes
+- Chat Heads
+- CleanView
+- Client Tweaks
+- Cloth Config API
+- Collective
+- Controlify
+- Debugify
+- Entity Model Features
+- Entity Texture Features -
+- Fabric API
+- Falling Leaves
+- FerriteCore
+- Forge Config API Port
+- ImmediatelyFast
+- Inventory Profiles Next
+- Iris Shaders
+- ItemSwapper
+- Language Reload
+- Lithium
+- Mod Menu
+- More Culling
+- No Chat Reports
+- Noisium
+- Not Enough Animations
+- oωo
+- Paginated Advancements & Custom Frames
+- Persistent Inventory Search
+- Polytone
+- Reese's Sodium Options
+- Roughly Enough Items
+- Replanter Plus
+- Shulker Box Tooltip
+- Simple Voice Chat
+- Sodium Extra
+- Sodium
+- TCDCommons API
+- ViaFabric
+- Wavey Capes
+- Xaero's World Map
+- YetAnotherConfigLib
+
+### Updated Resource Packs 🔃
+
+- Fresh Animations
 
 ### Config Changes 📝
 

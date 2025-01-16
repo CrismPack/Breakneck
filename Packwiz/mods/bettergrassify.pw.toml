@@ -1,0 +1,13 @@
+name = "BetterGrassify"
+filename = "BetterGrassify-1.4.4+fabric.1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/UaflN0RW/BetterGrassify-1.4.4%2Bfabric.1.21.4.jar"
+hash-format = "sha1"
+hash = "d03b4a9af5b7e3bf4b087018b5955090732ef510"
+
+[update]
+[update.modrinth]
+mod-id = "m5T5xmUy"
+version = "UaflN0RW"

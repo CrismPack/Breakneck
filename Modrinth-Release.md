@@ -3,6 +3,7 @@
 
 
 
+- Added 'BetterGrassify'.
 - Re-added 'Name Pain'.
 - Updated mods & resource packs.
 

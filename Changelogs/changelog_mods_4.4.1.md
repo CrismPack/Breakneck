@@ -2,6 +2,7 @@
 
 ## Added
 
+- BetterGrassify
 - Name Pain
 ## Removed
 - None
