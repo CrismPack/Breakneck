@@ -1,13 +1,13 @@
 name = "Name Pain"
-filename = "namepain-1.5.3 fabric-1.20.5.jar"
-side = "client(disabled)"
+filename = "namepain-1.5.3 fabric-1.21.2.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cJk2qbxw/versions/si78JmGm/namepain-1.5.3%20fabric-1.20.5.jar"
+url = "https://cdn.modrinth.com/data/cJk2qbxw/versions/h6kIxX6P/namepain-1.5.3%20fabric-1.21.2.jar"
 hash-format = "sha1"
-hash = "c02c8a818ad671e22c9cb9e04a098bf223dcf5eb"
+hash = "0f7b47c4633cc08d274c97c7721432f4a43def29"
 
 [update]
 [update.modrinth]
 mod-id = "cJk2qbxw"
-version = "si78JmGm"
+version = "h6kIxX6P"

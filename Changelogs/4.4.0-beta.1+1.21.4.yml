@@ -7,5 +7,5 @@ Update overview:
   - Temporarily removed problematic mods.
   - Updated mods & resource packs.
 
-Config changes: |
-  = Force loaded 'ambientenvironment', 'searchables', 'breakneckmenu' & 'brandedlogs': [Fabric Loader]
+Config Changes: |
+  - Force loaded 'ambientenvironment', 'searchables', 'breakneckmenu' & 'brandedlogs': [Fabric Loader]

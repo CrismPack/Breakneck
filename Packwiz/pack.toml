@@ -1,15 +1,15 @@
 name = "Breakneck"
 author = "HaXr"
-version = "4.4.0"
+version = "4.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43961366debd6ad9a46c2c41d8201dc043e4054a87f945ce4544a6a63be9fa0a"
+hash = "4050b9a7b5694de3d189f8e8f088986143c94f875767fdab38b99f2ede1f6047"
 
 [versions]
-fabric = "0.16.9"
+fabric = "0.16.10"
 minecraft = "1.21.4"
 
 [options]

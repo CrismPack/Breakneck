@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "24acfd06c7f56efbfc70e1cde6f34177befbc9a5b101e19c7663b674430af2f1"
+hash = "94efa3fc1b2c2154cb0359ed69b9bdf4a856a7ccb0263e838b25b16b79a62936"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -166,7 +166,7 @@ hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "a1b24ef65c3542a203c5ef519eed607aababebd8616efadfe02924c9807a92fa"
+hash = "397801ee1b7d6c8eae24f096e417c6a98e930ef47cdd3f5f98bd965049769be3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "86c1f44baa55aaabd1fe3820267177ac46c8e2721efef87b33f501519aa2180e"
+hash = "d7bb34667debb38c6d947a7b3de1410c6be13af3f3bcbbdc3cc07e923c583d7b"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9c3d9cd35a0d15742727474fc57997c6af688e7af6cd57f1aa003d97342b0921"
+hash = "fbdedc9414b7cd3557eeffa0cb56b402c151d4ec2835b7348350c4b5f357bd08"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "b29157b97ddc91b9e027ee116121b851b86161a1dc3f50e7466729e6dc5d1abd"
+hash = "5c8570900a48b689ac3cccdc888598787b5fb6dd07cc11c96864c73e3f95ff9a"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b9ec27ce57c7e756dfbfe52cc0cdf9e67259a0297b353e1b2466d4e620684889"
+hash = "3df75385043a318f2d5cbf7c2574e3d02364cd9197c0f56d68b3d0bac68c1e4a"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4a6f44244e26d5e257d1c4fa9c8e0bdd0aa871bcf883cd2b66fb6cb0b05ca134"
+hash = "e73ac2eabce368496ed081fbf6e10f79cba115220fe061c7e9213dc850275366"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "03877f55a1d6075a71acfc8a2991c0cffe8882938666ae3d8e8d7a8681555d79"
+hash = "3a76d491eaac93eda65beac2f128223e0dd84bf8b75e7ea3a067e331e3c6921a"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cff6e6c4a38cb142eace20581bc715a975cd05a5390018afc5dbe89bd7ad392c"
+hash = "3eaab014e8d42511fbffcaa9b01eae300d84dfa5a018c5878e61d5cb673cbb1a"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "2e7b4e6b7e8f1f8ac0c46cd394d374bc7e58db4c6f70b7d5c5960592d3625b2d"
+hash = "59e39c89cf62a6f9e849dc5e1769e7f36f178fe56d6fc1745b9a4e482f03f860"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "91fb36dd041905a5c6e0766a38e45015e2fe5e7b46bbd71bc44fcc999b7560f8"
+hash = "406482593415051ba56fa109cf0d56a0928c621df96bf4a52e8e59e0a237e0bc"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "16b5e937379b10fc0c08f484c9706f8c540fee89f3b61092619c377282a022eb"
+hash = "c9c71b5a53c0eb65cf3948d48a27f30396312e7dae854fa61b5fd9ff33b0f733"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "a591bb3e73d75c2cd6515380f7048c3a3880ca475db6c277c1975beebf57850b"
+hash = "c20b337859f4f608251db77b6c539a35f8aa1b4767b5a1d1484d1a4680a6fbd1"
 metafile = true
 
 [[files]]
@@ -797,12 +797,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
-hash = "22d9e276d3c7117b1cf8816539f252941cfea68f851ea3516076fefad3caf127"
+hash = "24f88d2084edf57326e5abf27ddc24c0658b8dae330d27fd4f60419d71be9e37"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a1b139e8099ddf4fd890271308ce61ee7d9eb5c282bf3dde4e180ed459a180b3"
+hash = "6f54121d5ba59b94f03c597eb01151bf489a26c6b44f2d8252bb53b7db73fc35"
 metafile = true
 
 [[files]]

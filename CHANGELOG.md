@@ -7,6 +7,19 @@
 
 # Changelog - 1.21.4
 
+## v4.4.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.4.1' id='v4.4.1'></a>
+
+*Fabric Loader 0.16.10* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.1.md)*
+
+### Update Overview ⭐
+
+- Re-added 'Name Pain'.
+- Updated mods & resource packs.
+
+### Added Mods ✅
+
+- Name Pain
+
 ## v4.4.0 <a href='#v4.4.0' id='v4.4.0'></a>
 
 *Fabric Loader 0.16.9* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.0.md)*
@@ -58,3 +71,7 @@ This is a pre-release. Here be dragons!
 - MiniHUD
 - Remove Reloading Screen
 - Server Country Flags
+
+### Config Changes 📝
+
+- Force loaded 'ambientenvironment', 'searchables', 'breakneckmenu' & 'brandedlogs': `Fabric Loader`
