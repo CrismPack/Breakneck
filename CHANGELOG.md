@@ -7,9 +7,9 @@
 
 # Changelog - 1.21.4
 
-## v4.4.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.4.1' id='v4.4.1'></a>
+## v4.4.1 <a href='#v4.4.1' id='v4.4.1'></a>
 
-*Fabric Loader 0.16.10* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.1.md)*
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.10'/><Badge type='info' text='2025-01-16'/>
 
 ### Update Overview ⭐
 
@@ -41,7 +41,7 @@
 
 ## v4.4.0 <a href='#v4.4.0' id='v4.4.0'></a>
 
-*Fabric Loader 0.16.9* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.0.md)*
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.9'/><Badge type='info' text='2025-01-07'/>
 
 ### Update Overview ⭐
 
@@ -84,7 +84,7 @@
 
 ## v4.4.0-beta.1 <a href='#v4.4.0-beta.1' id='v4.4.0-beta.1'></a>
 
-*Fabric Loader 0.16.9* | *[Mod Updates](https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.0-beta.1.md)*
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.9'/><Badge type='info' text='2024-12-20'/>
 
 ::: info
 Changes are in comparison to version [4.3.1](1.21.3.md#v4.3.1).
