@@ -23,10 +23,10 @@
 	#Image Keys
 	[[custom.variables]]
         name = "largeImageKey"
-        value = "https://github.com/CrismPack/CDN/blob/main/rpc/breakneck21.gif?raw=true"
+        value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/breakneck21.gif"
     [[custom.variables]]
         name = "smallImageKey"
-        value = "https://github.com/CrismPack/CDN/blob/main/rpc/crism.png?raw=true"
+        value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/crism.png"
 	
 	#Image Text:
     [[custom.variables]]
@@ -44,7 +44,7 @@
 	#Button url:
 	[[custom.variables]]
         name = "CF_Button_URL"
-        value = "https://wiki.crismpack.net/modpacks/breakneck-optimized"
+        value = "https://crismpack.net/breakneck/introduction.html"
 
 #The Game Loading event
 [init]
