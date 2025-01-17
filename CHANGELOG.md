@@ -7,6 +7,15 @@
 
 # Changelog - 1.21.4
 
+## v4.4.2 <Badge type='warning' text='Work in progress'/> <a href='#v4.4.2' id='v4.4.2'></a>
+
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.10'/>
+
+### Config Changes 📝
+
+- Changed button URL to use the new wiki format: `Simple Discord RPC`
+- Changed adsEnabled to "false": `Resourcify`
+
 ## v4.4.1 <a href='#v4.4.1' id='v4.4.1'></a>
 
 <a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.10'/><Badge type='info' text='2025-01-16'/>

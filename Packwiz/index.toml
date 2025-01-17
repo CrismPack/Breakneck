@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "94efa3fc1b2c2154cb0359ed69b9bdf4a856a7ccb0263e838b25b16b79a62936"
+hash = "eb79daa71758c28489cc36332497f7f4d50b7986c7cb39955829e70e50edb6d6"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -69,6 +69,10 @@ file = "config/resourcepackoverrides.json"
 hash = "a4eefb30232137b5cfaa4ef023fdfc1a67df44916b9e28eb69d044ea45f95a0b"
 
 [[files]]
+file = "config/resourcify.json"
+hash = "526136b08c3736cc3fb89cdeaa6efcf1247b7c829838268cbd87cc9fd39063b7"
+
+[[files]]
 file = "config/sdrp-common.json"
 hash = "8ca74be55902a100d490ac92a2667751b0e43a90525b642fd5a112e08ef82cf7"
 
@@ -78,7 +82,7 @@ hash = "e95580d3f3c68be011c7022021dd7ae0d7075601694b7f3b0f2a55071ae3e2ed"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "c93f1ccb5a96dccbdaf38496671deef0d9721299674a144ddf3a93a5476471ff"
+hash = "a74793490d3a92b5f26fba065571a08b4a103e2d955c7db481bedfad6c6119dd"
 
 [[files]]
 file = "config/threadtweak.json"

@@ -1,0 +1,10 @@
+version: 4.4.2
+mc_version: 1.21.4
+
+Fabric version: 0.16.10
+Update overview:
+  # - Updated mods & resource packs.
+
+Config Changes: |
+  - Changed button URL to use the new wiki format: [Simple Discord RPC]
+  - Changed adsEnabled to "false": [Resourcify]
