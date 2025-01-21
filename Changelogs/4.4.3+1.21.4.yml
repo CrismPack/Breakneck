@@ -1,0 +1,11 @@
+version: 4.4.3
+mc_version: 1.21.4
+
+Fabric version: 0.16.10
+Update overview:
+  # - Added 'Crash Assistant' mod, to simplify crash reporting.
+  # - Updated mods & resource packs.
+  # - Re-added some mods that have become available for 1.21.4.
+
+Config Changes: |
+  - Changed count_libraries, count_children and update_checker to "false": [Mod Menu]

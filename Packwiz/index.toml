@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "eb79daa71758c28489cc36332497f7f4d50b7986c7cb39955829e70e50edb6d6"
+hash = "9c25b720799de8cf9416ea4dbc69ae2ad73145a8872d6c31daec1e5220fb677b"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -62,7 +62,7 @@ hash = "732e68dc519020cd251211ba6552a86e139c3430d490852cb9d910b38a0f5b66"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "6d4b1f875b384327b92015c452fe4a567c4c773f1a3ac0df1c0944cb1ae97b83"
+hash = "98b90bb39883b0414b59bebdbca40a8445d6230eb8a02808fb41f8143172bfd0"
 
 [[files]]
 file = "config/puzzle.json"
