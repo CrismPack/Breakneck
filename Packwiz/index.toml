@@ -30,7 +30,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "dabcb48905895131e514a4befc38bfaf0c5070f2fa0caee4990707b8793f34d2"
+hash = "34954b51f1239482000cf7e43a7a8ae4db3387ddda4108618088b4f78af788a8"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
