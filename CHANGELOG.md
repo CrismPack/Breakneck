@@ -26,6 +26,7 @@
 
 ### Updated Mods 🔄
 
+- Concurrent Chunk Management Engine
 - Chat Heads
 - Controlify
 - Fzzy Config

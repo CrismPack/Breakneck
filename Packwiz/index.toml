@@ -30,7 +30,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "ccc5e8e15df79edfbc5707349127bcc76a5216d4838e45cdaf5d20604f8215fb"
+hash = "27d3bb0b5c472480684bac3ba2538ba35cd687b7313f285d08662e183d01f42c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3051d016d1b7ce5008a07e730db982d8ac0822ac67d5b43cfed5aecec1952ac6"
+hash = "22697c3e64b4e4730d38e7d9e15f3da0aa39b620f1c5d789b62f484248c106c8"
 metafile = true
 
 [[files]]

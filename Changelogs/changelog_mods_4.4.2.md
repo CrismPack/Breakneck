@@ -10,6 +10,7 @@
 - None
 ## Modified
 
+- **Concurrent Chunk Management Engine**: Changed from `c2me-fabric-mc1.21.4-0.3.1.1+rc.1.0.jar` to `c2me-fabric-mc1.21.4-0.3.1.1.0.jar`
 - **Chat Heads**: Changed from `chat_heads-0.13.8-fabric-1.21.4.jar` to `chat_heads-0.13.10-fabric-1.21.4.jar`
 - **Controlify**: Changed from `Controlify-2.0.0-beta.21+1.21.4-fabric.jar` to `controlify-2.0.0+1.21.4-fabric.jar`
 - **Fzzy Config**: Changed from `fzzy_config-0.6.0+1.21.3.jar` to `fzzy_config-0.6.2+1.21.3.jar`
