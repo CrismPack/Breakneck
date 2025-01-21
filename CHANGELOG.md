@@ -24,6 +24,10 @@
 - Map Tooltip
 - Particle Core
 
+### Removed Mods ❌
+
+- oωo
+
 ### Updated Mods 🔄
 
 - Concurrent Chunk Management Engine

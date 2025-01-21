@@ -30,7 +30,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "27d3bb0b5c472480684bac3ba2538ba35cd687b7313f285d08662e183d01f42c"
+hash = "6c1f43534d7da9bea463a3cce9e8c6123a25c1d699b9c4782d16f8c8c89caaf9"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -593,11 +593,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "ef3da08e8f4943ac77ab5d7e999ec61c2c5a009052c1bbc2345f00328222243e"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "bc4dd2f48a95390d08a863311f37ce0607765eadb48adfc1225df9e889c70783"
 metafile = true
 
 [[files]]

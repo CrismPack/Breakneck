@@ -7,7 +7,8 @@
 - Map Tooltip
 - Particle Core
 ## Removed
-- None
+
+- oωo
 ## Modified
 
 - **Concurrent Chunk Management Engine**: Changed from `c2me-fabric-mc1.21.4-0.3.1.1+rc.1.0.jar` to `c2me-fabric-mc1.21.4-0.3.1.1.0.jar`
