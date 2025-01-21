@@ -7,7 +7,7 @@
 
 # Changelog - 1.21.4
 
-## v4.4.2 <Badge type='warning' text='Work in progress'/> <a href='#v4.4.2' id='v4.4.2'></a>
+## v4.4.2 <a href='#v4.4.2' id='v4.4.2'></a>
 
 <a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.10'/>
 
