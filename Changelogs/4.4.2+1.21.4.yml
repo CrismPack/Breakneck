@@ -3,7 +3,7 @@ mc_version: 1.21.4
 
 Fabric version: 0.16.10
 Update overview:
-  - Added 'Crash Assistant' mod.
+  - Added 'Crash Assistant' mod, to simplify crash reporting.
   # - Updated mods & resource packs.
 
 Config Changes: |

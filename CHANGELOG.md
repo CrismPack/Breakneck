@@ -13,7 +13,7 @@
 
 ### Update Overview ⭐
 
-- Added 'Crash Assistant' mod.
+- Added 'Crash Assistant' mod, to simplify crash reporting.
 
 ### Added Mods ✅
 
