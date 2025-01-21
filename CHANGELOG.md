@@ -11,10 +11,19 @@
 
 <a href='https://github.com/CrismPack/Breakneck/blob/1.21.4/Changelogs/changelog_mods_4.4.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.10'/>
 
+### Update Overview ⭐
+
+- Added 'Crash Assistant' mod.
+
+### Added Mods ✅
+
+- Crash Assistant
+
 ### Config Changes 📝
 
 - Changed button URL to use the new wiki format: `Simple Discord RPC`
 - Changed adsEnabled to "false": `Resourcify`
+- Configured mod to use our Discord server and BCC config values: `Crash Assistant`
 
 ## v4.4.1 <a href='#v4.4.1' id='v4.4.1'></a>
 

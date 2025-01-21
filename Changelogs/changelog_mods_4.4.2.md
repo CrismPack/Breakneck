@@ -1,7 +1,8 @@
 # Breakneck 4.4.1 -> 4.4.2
 
 ## Added
-- None
+
+- Crash Assistant
 ## Removed
 - None
 ## Modified

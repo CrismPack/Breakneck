@@ -25,6 +25,14 @@ file = "config/brb.toml"
 hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "dabcb48905895131e514a4befc38bfaf0c5070f2fa0caee4990707b8793f34d2"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "6338279deb9bf78bc45d8ebc0481870172243a39425786a9855b4a0ac556dda9"
 
@@ -315,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "fbdedc9414b7cd3557eeffa0cb56b402c151d4ec2835b7348350c4b5f357bd08"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "360be0a0073fb512d86bbc892e4bd4c93fc0a58b4dbd4a4e1f51b875bf087595"
 metafile = true
 
 [[files]]

@@ -3,8 +3,10 @@ mc_version: 1.21.4
 
 Fabric version: 0.16.10
 Update overview:
+  - Added 'Crash Assistant' mod.
   # - Updated mods & resource packs.
 
 Config Changes: |
   - Changed button URL to use the new wiki format: [Simple Discord RPC]
   - Changed adsEnabled to "false": [Resourcify]
+  - Configured mod to use our Discord server and BCC config values: [Crash Assistant]
