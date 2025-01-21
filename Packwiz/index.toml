@@ -30,7 +30,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "34954b51f1239482000cf7e43a7a8ae4db3387ddda4108618088b4f78af788a8"
+hash = "ccc5e8e15df79edfbc5707349127bcc76a5216d4838e45cdaf5d20604f8215fb"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "1ad748ea975e540eecde83f3e8346aa8bcc0ea3ea07a55e7c6110957d4c47ed6"
+hash = "ad21b7aafff1302f8dbd6626691090d8fce2ea94ef7575bcce94de66a226a7e8"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "8dca1eea665a379f79075cf95316973d6c61f26307364220e29ee84a7d766711"
+hash = "0bdc02af54905a3996cb9914e58248a5b8bba8b71d59b315a80f9a264ced2b1b"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedblockentities.pw.toml"
-hash = "6322847a0b83e13994cce40579195cf00497418916f2fabc548a47c1dc375a3f"
+hash = "1c184a74c8bc5b9f3b3e24209f3b205f697a1537ff70e43568e1872854b39293"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f50fe92402827b0abfc0795629a1bc4f01e1531b54ba022c2a6893a250e656ec"
+hash = "6efb2f375465fa9c2dd26523663a9804694fda27481b4f73fb8a2680907487ca"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3eaab014e8d42511fbffcaa9b01eae300d84dfa5a018c5878e61d5cb673cbb1a"
+hash = "1f003ab8994ed2efeb404103ed9e12964ee37191b3278bf675c4ece865626381"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-tooltip.pw.toml"
-hash = "17325ec3db686fa0c561660c000ee2ed4fad07971ad765d3a5ef280f8b6b3189"
+hash = "0b402bb03b822b24440ae259299cbaec8fa89b59829d02782fd8d0180ddb8c8d"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f32acfd33cc0d0173e19f69d5aa73f2e1e45d198d62ca2b2eb91b8aa723ae32f"
+hash = "c0f80070f3bed878d56dab05a53377285a9ace2889656a4232d64dafbc2d0168"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "5bb5835decf482b34c0ccc0b1c1458cd847f08b73d111aeeed5be94281cef6d0"
+hash = "0d1c7fa714249df2bfcb65fbfb0966ef06ef656e839606273ba80772f89aceaf"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "406482593415051ba56fa109cf0d56a0928c621df96bf4a52e8e59e0a237e0bc"
+hash = "087cf8bebc1203a7fd08554241736f6d2cbe93dd380e3ce245ec73aa8b8fe1d4"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "c20b337859f4f608251db77b6c539a35f8aa1b4767b5a1d1484d1a4680a6fbd1"
+hash = "2490c8aef3bc397aa75c84d946a0cb15e07dd2ad0d9c2a526ef7954c487fcd9e"
 metafile = true
 
 [[files]]
@@ -757,12 +757,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "3b55c8ea67700177664600df0c3a8161108d9cf870375fc5298603121aee5bf4"
+hash = "f6319ba1e54f7cc2bedd4387f3ff68ef1d8e97d969a2a762b80e36d67ddc09ea"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "cc9c8c98792eb20a7e4596fc36796535f4b9a0f40ebf8c12747b3177a664bf03"
+hash = "06dd06793c2f0f734652490236bae89e088ab12e082dcd0dc0c019aef41e6dfb"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "265ebd55a7829e33c81bd6762ff4440511c757889d95e0b227ba9598a4fe6136"
+hash = "ebb33a73c8418371b1021f23a02e6e1bc7d1031cea12cc3bf778bf9da63adb33"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6f54121d5ba59b94f03c597eb01151bf489a26c6b44f2d8252bb53b7db73fc35"
+hash = "6effbff84316b98c66af890a49632f87f4a54d67c846ddc4fc9c28442c7f2395"
 metafile = true
 
 [[files]]

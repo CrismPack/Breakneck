@@ -14,10 +14,27 @@
 ### Update Overview ⭐
 
 - Added 'Crash Assistant' mod, to simplify crash reporting.
+- Updated mods & resource packs.
+- Re-added some mods that have become available for 1.21.4.
 
 ### Added Mods ✅
 
 - Crash Assistant
+- Enhanced Block Entities
+- Map Tooltip
+- Particle Core
+
+### Updated Mods 🔄
+
+- Chat Heads
+- Controlify
+- Fzzy Config
+- Lithium
+- Not Enough Animations
+- Polytone
+- Resourcify
+- ViaFabric
+- Wavey Capes
 
 ### Config Changes 📝
 
