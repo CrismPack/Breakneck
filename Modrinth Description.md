@@ -1,0 +1,310 @@
+<!--Modpack Banner-->
+<center><p>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-banner.webp" alt="Breakneck"/>
+</p></center>
+
+
+<!--Link Buttons-->
+<center><p>
+	<a href="https://discord.gg/Kss5gBgeDA" rel="nofollow">
+		<img src="https://img.shields.io/discord/734879752866889788?label=&color=e66433&labelColor=672a14&style=for-the-badge&logo=discord&logoColor=white" height="28"
+		/></a>
+	<a href="https://crismpack.net/breakneck/changelogs/1.21/1.21.4.html">
+		<img src="https://img.shields.io/badge/-Changelogs-e66433?labelColor=672a14&style=for-the-badge&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADBElEQVRoge2YO2gVQRSGv9x7fYUoiiYqBGMUFDsFlaBWFoKFWoWIL7TQQkELK/EBYmcldtqIFgo24qOxsBJRERWCIIqP6yMRJJhEo0mMceQk58q47IbduzOJxXww3Lk7s3Pmn5055+wSCAQCgUAg8P9RY4xxPakFwEOgFpgMTAWGgQLwBegHijlt1Fj1ecCjUs4B4yjp4DaVic/2YE9oKHgauMJ6Xb2S/t72ZMf42FpTgBXAJOAp0Ge11QF3gNWObZZ9bK1B4EFC21EPIkbwISSJM8AhX4O7ErIW2AF8BuqBu8AVq73Npwg5f1nOyDHgFPAmcv0nMBeYFbn+AVip4uSe5pR23mkhpZuWhWvP8kTW6W/FtRotcrg/Ac+1LsKWaewQEdtTirgKHAdeZpjTX9I+kZKuzmAVNp6oFxuLzcDNKsb+Z4Jp+KXFZiOwC+iMud+o6KYUItryisgiJA7Zaltz2r+mWyo3eYRc11Xv0v+/NQjWWX0kGPZqanIQWBgZ46ILESPIGRnHctgY029GGTbGNLqyLbnWAcsD5S3nY57akKQQwH2N6r3a9t2q56aSqb5XY0kU1Z2+AHqAmcBSa2u+VmdwNnL/DO3TpKXFaqvV9m8uhIj7Lej+TsMqYLEGu3tWfwl8DcB0XZgBoBs4AiwfY9xNwC0XQkoZRKyxJi8vSCd0NWu0vqgK+ztdCcmSolxSw1/VO02z2gb0LETfb+IGl7fGDt1W4s22ADeqlzBKWiEy8fl6Pow+BTsP+p0w6YKmLD8i1yWVaQeW6L0b9D3Fu5A8NOtEO1WYPI39wJ7ImBc01+qYKCFF3S6VgYY0Ix3UAy+Z8atIoBwLST4/anuaV/E5wDMXweiyBrgeY0y31ruMMfVWn93GL+W8IloTpnc6pu85j1Le5t1aLRpXOqxUH3XTfTH9JUFszWMwgfJ4HPYoksbsdTxm2fd3rTj2Ads09jhjIoSgHyYkXzvpKNfK9PHBF0WNM1IkL2tUdz6cNOnIf3HvjydaRCAQCAQCAWcAfwCw0LMvknPtPgAAAABJRU5ErkJggg==" height="28"
+		/></a>
+	<a href="https://bisecthosting.com/CRISM">
+		<img src="https://img.shields.io/badge/-get%20a%20server-e66433?labelColor=672a14&style=for-the-badge&logo=image/png;base64,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" height="28"
+		/></a>
+	<a href="https://ko-fi.com/HaXr_dev" rel="nofollow">
+		<img src="https://img.shields.io/static/v1?label=&message=Support&color=e66433&labelColor=672a14&style=for-the-badge&logo=kofi&logoColor=white" height="28"
+		/></a>
+</p></center>
+
+
+<!--Summary Text-->
+<p>
+	Get ready to take your vanilla Minecraft experience to the next level with Breakneck: Optimized! This modpack not only improves your performance with higher framerates and improved visuals, but also adds exciting quality of life enhancements to make your playing sessions as enjoyable as possible. And the best part? It's all client-side, so you can use it on any server without any issues. Don't let lag hold you back – install Breakneck: Optimized and enjoy an upgraded gameplay experience.
+</p>
+
+&nbsp;
+
+<!--Features Banner-->
+<center><p>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-bannertext-features.webp" alt="Features"/>
+</p></center>
+
+<small></small><center>
+<!--Features Text-->
+<h2><strong>
+-[ Lag Begone, Boost Your FPS! 📈 ]-
+</strong></h2></p>
+
+<p>
+	Are you tired of struggling with low framerates and lag in your vanilla Minecraft game? This modpack is filled to the brim with performance optimizing mods that helps to vastly improve your FPS!
+</p>
+<p>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/Vanilla%20vs%20Breakneck%20FPS%202%20Tiny.png" width="600"/>
+</p>
+
+
+<h2><strong>
+	-[ Freshly Animated! 👀 ]-
+</strong></h2></p>
+
+<p>
+	Make your skin come alive with expressive eyes that blink and look around! See how to set it up for your skin here: <a href="https://github.com/IthanMendoza/Fresh-Moves/wiki#how-to-animate-the-eyes">[Link]</a>
+	<br /> The modpack also includes the <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations">Fresh Animations</a> resource pack, enhancing the animations of all the mobs too!
+</p>
+
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/justexpressions.webp" width="400"/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/fresh-animations.webp" width="400"/>
+</p>
+
+
+<h2><strong>
+-[ Visual Improvements 🌟 ]-
+</strong></h2></p>
+
+<p>
+	Leaves falling from trees!
+	<br />  Additional player animations!
+	<br />  Dark loading screen!
+	<br />  3D skin layers!
+	<br />  Wavey Capes!
+	<br />  Prettier item tooltips!
+</p>
+
+
+<h2><strong>
+-[ Quality Of Life! 🍷 ]-
+</strong></h2></p>
+
+<p>
+	See further than the servers render distance! <a href="https://www.curseforge.com/minecraft/mc-mods/bobby">[Link]</a>
+	<br />  Connect to any server on older versions! <a href="https://www.curseforge.com/minecraft/mc-mods/viafabric">[Link]</a>
+	<br />  Easily swap items without opening the inventory! <a href="https://www.curseforge.com/minecraft/mc-mods/itemswapper">[Link]</a>
+	<br />  Customizable Cape! <a href="https://minecraftcapes.net/">[Link]</a>
+	<br />  Inventory Sorting! <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">[Link]</a>
+	<br />  World Map! <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/screenshots">[Link]</a>
+	<br />  Improved mouse dragging mechanics! <a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">[Link]</a>
+	<br />  Hide shield from view when not used!
+	<br />  Better Third Person!
+	<br />  No pesky potion particles in first-person!
+	<br />  No Chat Reporting! <a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">[Link]</a>
+	<br />	Easy Harvesting & Replanting! <a href="https://www.curseforge.com/minecraft/mc-mods/replanter">[Link]</a>
+	<br />	Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough">[Link]</a>
+</p>
+
+
+<h2><strong>
+-[ OptiFine Features! ✅ ]-
+</strong></h2></p>
+
+<p>
+	Shader Pack Support! ✔
+	<br />  Connected Textures! ✔
+	<br />  Emissive Textures! ✔
+	<br />  Custom Entity Models! ✔
+	<br />  Random Entity Textures! ✔
+	<br />  Custom Item Textures! ✔
+	<br />  Custom Fog Color! ✔
+	<br />  Animated Textures! ✔
+	<br />  Custom GUI Textures! ✔
+	<br />  Zoom Button! ✔
+	<br />	Dynamic Lights! ✔
+</p></center>
+
+
+<details> <!--Spoiler Start-->
+
+<summary>Performance Comparison</summary>
+
+The screenshots for the performance comparison were captured playing on the same world looking towards the same spot. The screenshots roughly reflects the maximum performance that were seen on both sides.
+
+<p>
+Identical settings were used in both screenshots: 
+</p>
+<p>
+- Graphics: Fancy
+<br />- Resolution: 3840x1440
+<br />- Render Distance: 32
+<br />- Simulation Distance: 12
+<br />- Field of view: Normal
+</p>
+
+<p>Note that this is a slightly unfair scenario as the F3 menu greatly decreases the FPS in vanilla. This is why the comparison for the <i>Features</i> segment above actually uses the 'FPS Reducer' mod on both sides to display the FPS instead, in order to even the playingfield a bit.</p>
+
+<h4>Vanilla 1.20.4:</h4>
+<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/Performance%20Benchmark%20Vanilla.jpg"/>
+&nbsp;
+<h4>Breakneck 1.20.4 - v3.4.6:</h4>
+<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/Performance%20Benchmark%20Breakneck.jpg"/>
+
+
+</details> <!--Spoiler End-->
+
+
+<details><!--Spoiler Start-->
+	<summary>Example Screenshots</summary>
+<p style="text-align: left;"><strong>
+	Connected Textures Example: </strong>(Using 'Stay True' Resource Pack)
+	<br /><img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/LKZTNbI-tiny.jpg"/>
+</p>
+
+<p style="text-align: left;"><strong>
+	Random Entity and Emissive Textures Example: </strong>(Using 'Tissou's Zombie Pack' Resource Pack)
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/wBDkYHd-tiny.jpg"/>
+</p>
+</details> <!--Spoiler End-->
+
+
+<details> <!--Spoiler Start-->
+	<summary>Old Performance Comparison (1.19.3)</summary>
+<p>
+	The screenshots for the performance comparison were captured playing on the same world running Minecraft version 1.19.3 looking in the same direction. The screenshots roughly reflects the maximum performance that were seen in both scenarios.
+</p>
+<p>
+Following settings were used:
+<br />- Graphics: Fancy
+<br />- Resolution: 2560x1440
+<br />- Render Distance: 12
+<br />- Simulation Distance: 12
+<br />- Field of view: 90
+<br />- Biome Blend: 5x5
+</p>
+
+<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/JNFUkky-tiny.png" width="450"/>
+</details> <!--Spoiler End-->
+
+
+<p>&nbsp;</p>
+
+
+<!--Modlist Banner-->
+<center>
+<p>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-bannertext-modlist.webp" alt="Modlist"/>
+</p>
+</center>
+
+<!--Modlist Text-->
+<p>
+	Modlist: <a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
+</p>
+
+<details><!--Spoiler Start-->
+<summary>Modlist v4.4.2</summary>
+
+- Ambient Environment (by Jaredlll08)
+- AppleSkin (by squeek502)
+- Architectury API (by shedaniel)
+- Balm (Fabric Edition) (by BlayTheNinth)
+- BetterGrassify (by UltimatChamp)
+- Better Statistics Screen (by TheCSDev)
+- Better Third Person (by Socolio)
+- Bobby (by Johni0702)
+- Branded Logs (by HaXr)
+- Breakneck Menu (by HaXr)
+- Concurrent Chunk Management Engine (by ishlandmc)
+- Capes [Fabric/Forge] (by Cael)
+- Chat Heads (by dzwdz)
+- CleanView (Fabric) (by LainMI)
+- Client Tweaks (by BlayTheNinth)
+- Cloth Config API (Fabric/Forge/NeoForge) (by shedaniel)
+- Collective (by Serilum)
+- Continuity (by Pepper_Bell)
+- Controlify (by isXander)
+- Controlling (by Jaredlll08)
+- Crash Assistant (by KostromDan)
+- CraterLib (by HypherionSA)
+- Custom Window Title (by chylex)
+- Cubes Without Borders (by Kir_Antipov)
+- Debugify (by isXander)
+- Detail Armor Bar [Fabric] (by RedLime)
+- Dynamic FPS (by juliand665)
+- e4mc (by skyegreen)
+- Enhanced Block Entities (by FoundationGames)
+- [EMF] Entity Model Features [Fabric & Forge] (by Traben)
+- [ETF] Entity Texture Features - [Fabric & Forge] (by Traben)
+- Fabric API (by modmuss50)
+- Fabric Language Kotlin (by modmuss50)
+- Falling Leaves (Fabric) (by RandomMcSomethin)
+- FerriteCore (Fabric) (by malte0811)
+- Forge Config API Port (by Fuzs)
+- Fzzy Config (by fzzyhmstrs)
+- ImmediatelyFast (by RaphiMC)
+- Inventory Profiles Next (by mirinimi)
+- Iris Shaders (by coderbot)
+- ItemSwapper (by tr7zw)
+- Krypton (by tuxed)
+- Language Reload (by Jerozgen)
+- libIPN (by mirinimi)
+- Lithium (Fabric/NeoForge) (by JellySquid)
+- Map Tooltip (by VendoAU)
+- MixinTrace (by comp500)
+- Model Gap Fix (by MehVahdJukaar)
+- ModernFix (by embeddedt)
+- Mod Menu (by Prospector)
+- MoreCulling (by FX_PR0CESS)
+- Mouse Tweaks (by YaLTeR)
+- Name Pain (by naqaden)
+- No Chat Reports (by Aizistral)
+- Noisium (by Steveplays28)
+- Not Enough Animations (by tr7zw)
+- Numeral Ping (by TheKodeToad)
+- ObsidianUI (by TexTrue)
+- OptiGUI (by opekope2)
+- Paginated Advancements & Custom Frames (by DaFuqsy)
+- Particle Core (by fzzyhmstrs)
+- Persistent Inventory Search (by Serilum)
+- Polytone (by MehVahdJukaar)
+- Prickle (by DarkhaxDev)
+- Raised (by yurisuika)
+- Reese's Sodium Options (by FlashyReese)
+- Resource Pack Overrides [Forge & Fabric] (by Fuzs)
+- Resourcify (by DeDiamondPro)
+- Roughly Enough Items Fabric/Forge/NeoForge (REI) (by shedaniel)
+- Remove Reloading Screen (by dimadencep)
+- ScalableLux (by ishlandmc)
+- Screenshot to Clipboard (Fabric) (by comp500)
+- Searchables (by Jaredlll08)
+- Server Country Flags (by khajiitos)
+- Shulker Box Tooltip [Fabric/Forge/NeoForge] (by MisterPeModder)
+- Simple Discord RPC (by HypherionSA)
+- Skin Layers 3D (Fabric/Forge) (by tr7zw)
+- Sodium Extra (by FlashyReese)
+- Sodium (by JellySquid)
+- StackDeobfuscator (by booky)
+- Status Effect Bars (by Neecko5b84)
+- Suggestion Tweaker (by VelizarP)
+- TCDCommons API (by TheCSDev)
+- ViaFabric (by EnZaXD)
+- Simple Voice Chat (by henkelmax)
+- Wavey Capes (by tr7zw)
+- Xaero's World Map (by xaero96)
+- YetAnotherConfigLib (by isXander)
+- Your Options Shall Be Respected (YOSBR) (by shedaniel)
+- Zoomify (by isXander)
+- Chat Reporting Helper (by robotkoer)
+- Fresh Moves (by TrasTick)
+- Fresh Animations (by FreshLX)
+- Just Expressions (by Ithan)
+- Slightly Improved Font (32x) (by LatvianModder)
+- Translations for Sodium (by robotkoer)
+- Complementary Shaders - Reimagined (by EminGT)
+- Complementary Shaders - Unbound (by EminGT)
+</details><!--Spoiler End-->
+
+<center>
+<!--Crism Banner-->
+<p>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png"/>
+</p>
+
+<!--BisectHosting Banner-->
+<p style="text-align: center;">
+	<a href="https://bisecthosting.com/CRISM">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/bhbanner-tiny.png"/>
+</a></p>
+</center>
