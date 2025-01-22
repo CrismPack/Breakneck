@@ -296,15 +296,14 @@ Following settings were used:
 - Complementary Shaders - Unbound (by EminGT)
 </details><!--Spoiler End-->
 
-<center>
+
 <!--Crism Banner-->
-<p>
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png"/>
-</p>
+![CrismPack Spacer](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png)
+
+> ### Licencing Notice
+> This modpack is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed). Meaning that you may use it as a base to create your own modpack, as long as proper credit is given.
+
+<br>
 
 <!--BisectHosting Banner-->
-<p style="text-align: center;">
-	<a href="https://bisecthosting.com/CRISM">
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/bhbanner-tiny.png"/>
-</a></p>
-</center>
+[![BisectHosting - Save 25% with code "CRISM"](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/bhbanner-tiny.png)](https://bisecthosting.com/CRISM)
