@@ -1,6 +1,6 @@
 name = "Screenshot to Clipboard"
 filename = "screenshot-to-clipboard-fabric-1.0.10.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/DHUI24N7/screenshot-to-clipboard-fabric-1.0.10.jar"

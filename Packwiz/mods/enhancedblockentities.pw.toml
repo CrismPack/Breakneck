@@ -1,6 +1,6 @@
 name = "Enhanced Block Entities"
 filename = "enhancedblockentities-0.11.3+1.21.4.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar"

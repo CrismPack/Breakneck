@@ -1,6 +1,6 @@
 name = "Detail Armor Bar"
 filename = "DetailArmorBar-2.6.3+1.21.3-fabric.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/hAt6ty93/versions/LXTkh6x1/DetailArmorBar-2.6.3%2B1.21.3-fabric.jar"

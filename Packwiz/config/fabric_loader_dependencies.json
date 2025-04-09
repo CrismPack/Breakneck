@@ -32,6 +32,11 @@
                 "minecraft": ""
             }
         },
+        "crash_assistant": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
         "breakneckmenu": {
             "-depends": {
                 "minecraft": ""

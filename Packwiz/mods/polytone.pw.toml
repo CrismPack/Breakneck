@@ -1,6 +1,6 @@
 name = "Polytone"
 filename = "polytone-1.21.4-3.3.8-fabric.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/hbK2N94g/polytone-1.21.4-3.3.8-fabric.jar"

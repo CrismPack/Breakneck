@@ -25,6 +25,23 @@ This is a pre-release. Here be dragons!
 - Temporarily removed problematic mods.
 - Updated mods & resource packs.
 
+### Removed Mods ❌
+
+- Better Third Person
+- Continuity
+- Detail Armor Bar
+- Enhanced Block Entities
+- Litematica
+- MaLiLib
+- MiniHUD
+- ModernFix
+- Noisium
+- Polytone
+- Roughly Enough Items
+- Screenshot to Clipboard
+- Xaero's World Map
+- Zoomify
+
 ### Updated Mods 🔄
 
 - 3D Skin Layers
@@ -64,12 +81,8 @@ This is a pre-release. Here be dragons!
 - Krypton
 - Language Reload
 - libIPN
-- Litematica
 - Lithium
-- MaLiLib
-- MiniHUD
 - Model Gap Fix
-- ModernFix
 - Mod Menu
 - More Culling
 - Name Pain
@@ -79,9 +92,7 @@ This is a pre-release. Here be dragons!
 - OptiGUI
 - Paginated Advancements & Custom Frames
 - Persistent Inventory Search
-- Polytone
 - Raised
-- Roughly Enough Items
 - Resource Pack Overrides
 - Resourcify
 - Remove Reloading Screen
@@ -97,7 +108,6 @@ This is a pre-release. Here be dragons!
 - TCDCommons API
 - ViaFabric
 - Wavey Capes
-- Xaero's World Map
 - YetAnotherConfigLib
 
 ### Config Changes 📝

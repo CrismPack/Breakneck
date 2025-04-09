@@ -1,6 +1,6 @@
 name = "MiniHUD"
 filename = "minihud-fabric-1.21.4-0.34.4.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/UMxybHE8/versions/ICpV7cCW/minihud-fabric-1.21.4-0.34.4.jar"

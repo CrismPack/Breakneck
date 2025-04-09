@@ -3,7 +3,21 @@
 ## Added
 - None
 ## Removed
-- None
+
+- Better Third Person
+- Continuity
+- Detail Armor Bar
+- Enhanced Block Entities
+- Litematica
+- MaLiLib
+- MiniHUD
+- ModernFix
+- Noisium
+- Polytone
+- Roughly Enough Items
+- Screenshot to Clipboard
+- Xaero's World Map
+- Zoomify
 ## Modified
 
 - **3D Skin Layers**: Changed from `skinlayers3d-fabric-1.7.4-mc1.21.4.jar` to `skinlayers3d-fabric-1.7.5-mc1.21.5.jar`
@@ -43,12 +57,8 @@
 - **Krypton**: Changed from `krypton-0.2.8.jar` to `krypton-0.2.9.jar`
 - **Language Reload**: Changed from `language-reload-1.7.2+1.21.4.jar` to `language-reload-1.7.3+1.21.5.jar`
 - **libIPN**: Changed from `libIPN-fabric-1.21.3-6.2.1.jar` to `libIPN-fabric-1.21.5-6.4.0.jar`
-- **Litematica**: Changed from `litematica-fabric-1.21.4-0.21.1.jar` to `litematica-fabric-1.21.4-0.21.2.jar`
 - **Lithium**: Changed from `lithium-fabric-0.14.7+mc1.21.4.jar` to `lithium-fabric-0.16.2+mc1.21.5.jar`
-- **MaLiLib**: Changed from `malilib-fabric-1.21.4-0.23.1.jar` to `malilib-fabric-1.21.4-0.23.2.jar`
-- **MiniHUD**: Changed from `minihud-fabric-1.21.4-0.34.3.jar` to `minihud-fabric-1.21.4-0.34.4.jar`
 - **Model Gap Fix**: Changed from `modelfix-1.21.3-1.10-fabric.jar` to `modelfix-1.21.5-1.12-fabric.jar`
-- **ModernFix**: Changed from `modernfix-fabric-5.20.1+mc1.21.4.jar` to `modernfix-fabric-5.20.3+mc1.21.4.jar`
 - **Mod Menu**: Changed from `modmenu-13.0.0.jar` to `modmenu-14.0.0-rc.2.jar`
 - **More Culling**: Changed from `moreculling-fabric-1.21.4-1.2.3.jar` to `moreculling-fabric-1.21.5-1.3.0.jar`
 - **Name Pain**: Changed from `namepain-1.5.3 fabric-1.21.2.jar` to `namepain-1.5.4 fabric-1.21.5.jar`
@@ -58,9 +68,7 @@
 - **OptiGUI**: Changed from `optigui-2.3.0-beta.7+1.21.2.jar` to `optigui-2.3.0-beta.7+1.21.5.jar`
 - **Paginated Advancements & Custom Frames**: Changed from `paginatedadvancements-2.6.1+1.21.4.jar` to `paginatedadvancements-2.7.0+1.21.5.jar`
 - **Persistent Inventory Search**: Changed from `persistentinventorysearch-1.21.4-1.5.jar` to `persistentinventorysearch-1.21.5-1.5.jar`
-- **Polytone**: Changed from `polytone-1.21.4-3.2.7-fabric.jar` to `polytone-1.21.4-3.3.8-fabric.jar`
 - **Raised**: Changed from `raised-fabric-1.21.3-4.0.1.jar` to `raised-fabric-1.21.5-4.0.1.jar`
-- **Roughly Enough Items**: Changed from `RoughlyEnoughItems-18.0.796-fabric.jar` to `RoughlyEnoughItems-18.0.800-fabric.jar`
 - **Resource Pack Overrides**: Changed from `ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar` to `ResourcePackOverrides-v21.4.0-1.21.4-Fabric.jar`
 - **Resourcify**: Changed from `Resourcify (1.21.3-4-fabric)-1.7.0.jar` to `Resourcify (1.21.5-fabric)-1.7.1.jar`
 - **Remove Reloading Screen**: Changed from `rrls-5.1.0+mc1.21.4-fabric.jar` to `rrls-5.1.4+mc1.21.5-fabric.jar`
@@ -74,7 +82,6 @@
 - **StackDeobfuscator**: Changed from `StackDeobfuscatorFabric-1.4.3+08e71cc.jar` to `StackDeobfuscatorFabric-1.4.1+03a1fe4.jar`
 - **Status Effect Bars**: Changed from `status-effect-bars-1.0.7.jar` to `status-effect-bars-1.0.8.jar`
 - **TCDCommons API**: Changed from `tcdcommons-3.12.5+fabric-1.21.4.jar` to `tcdcommons-3.12.7+fabric-1.21.5.jar`
-- **ViaFabric**: Changed from `ViaFabric-0.4.17+100-main.jar` to `ViaFabric-0.4.18+107-main.jar`
+- **ViaFabric**: Changed from `ViaFabric-0.4.17+100-main.jar` to `ViaFabric-0.4.18+104-main.jar`
 - **Wavey Capes**: Changed from `waveycapes-fabric-1.5.0-mc1.21.4.jar` to `waveycapes-fabric-1.5.2-mc1.21.5.jar`
-- **Xaero's World Map**: Changed from `XaerosWorldMap_1.39.2_Fabric_1.21.4.jar` to `XaerosWorldMap_1.39.4_Fabric_1.21.4.jar`
 - **YetAnotherConfigLib**: Changed from `YetAnotherConfigLib-3.6.2+1.21.4-fabric.jar` to `yet_another_config_lib_v3-3.6.6+1.21.5-fabric.jar`
