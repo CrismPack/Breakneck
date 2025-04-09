@@ -1,14 +1,14 @@
 name = "Concurrent Chunk Management Engine (Fabric)"
-filename = "c2me-fabric-mc1.21.4-0.3.1.1.0.jar"
+filename = "c2me-fabric-mc1.21.5-0.3.2+beta.1.0.jar"
 side = "both"
 pin = true  # Pinned to use stable version of the mod. Be sure to update this mod manually in the future.
 
 [download]
-url = "https://cdn.modrinth.com/data/VSNURh3q/versions/yGX4O0YU/c2me-fabric-mc1.21.4-0.3.1.1.0.jar"
+url = "https://cdn.modrinth.com/data/VSNURh3q/versions/Wh5CxZTp/c2me-fabric-mc1.21.5-0.3.2%2Bbeta.1.0.jar"
 hash-format = "sha1"
-hash = "cc03a748b46ea549335010ce0954c3eb47e5650a"
+hash = "bbf8fef2fc0c8207f7e02252c34d3b1eed232e22"
 
 [update]
 [update.modrinth]
 mod-id = "VSNURh3q"
-version = "yGX4O0YU"
+version = "Wh5CxZTp"
