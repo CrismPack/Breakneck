@@ -37,7 +37,6 @@ This is a pre-release. Here be dragons!
 - ModernFix
 - Noisium
 - Polytone
-- Roughly Enough Items
 - Screenshot to Clipboard
 - Xaero's World Map
 - Zoomify
@@ -93,6 +92,7 @@ This is a pre-release. Here be dragons!
 - Paginated Advancements & Custom Frames
 - Persistent Inventory Search
 - Raised
+- Roughly Enough Items
 - Resource Pack Overrides
 - Resourcify
 - Remove Reloading Screen
@@ -103,7 +103,6 @@ This is a pre-release. Here be dragons!
 - Simple Voice Chat
 - Sodium Extra
 - Sodium
-- StackDeobfuscator
 - Status Effect Bars
 - TCDCommons API
 - ViaFabric

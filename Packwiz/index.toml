@@ -30,7 +30,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "455f6dcef8c2c6ce4dc37bafcbff21d2a5b6b70dbfd32d739f770a22042f7cca"
+hash = "94c5544986ace434423536d3944ca35b91847682bb1979685752d68d89da8abe"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e47735eebf79da39b650c5072dc4b1b6d61ce43cc472d816effa419f3302da42"
+hash = "777633dc1beb41da2bac9d7607036730c2bdcd9c4610a45addc90826eeacf4ae"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "68d968beb2170f6feec0a8d670ccca533566e9e1fbae36594460b6e5872306c0"
+hash = "af13a16fb71c7cbef384f70a911b2823697ea8c8d6297bccf68fa0e1c488232f"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "755a9413a8336d4b135d940dc9af233b5c5bc76a21aefc1483cd6005a10bd89a"
+hash = "8dcc3a4cb056e4859778f303ef2c07f35cea73dcd528a0c36105392ac274c503"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3d28d8d41cb67647fee1f6b60af5ffdf189fecd95e7cd33b5d06dbb8f2d1d0a4"
+hash = "7e60be91ab343cab32c1c7c6da01a2c010ab12c02534f07ec8754fc84168a4a5"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "34ec0ea56f954614ef8b94782304fa9626a8e3671a9d8283e02d4898f7e47f23"
+hash = "67e5f6f774500edbcdd9cd25a3a7c9513eb262af20e4d4436789d64211704f15"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]

@@ -14,7 +14,6 @@
 - ModernFix
 - Noisium
 - Polytone
-- Roughly Enough Items
 - Screenshot to Clipboard
 - Xaero's World Map
 - Zoomify
@@ -23,7 +22,7 @@
 - **3D Skin Layers**: Changed from `skinlayers3d-fabric-1.7.4-mc1.21.4.jar` to `skinlayers3d-fabric-1.7.5-mc1.21.5.jar`
 - **Ambient Environment**: Changed from `AmbientEnvironment-fabric-1.21.4-21.0.0.1.jar` to `AmbientEnvironment-fabric-1.21.5-22.0.0.2.jar`
 - **AppleSkin**: Changed from `appleskin-fabric-mc1.21.3-3.0.6.jar` to `appleskin-fabric-mc1.21.5-3.0.6.jar`
-- **Architectury API**: Changed from `architectury-15.0.1-fabric.jar` to `architectury-16.0.3-fabric.jar`
+- **Architectury API**: Changed from `architectury-15.0.1-fabric.jar` to `architectury-16.1.4-fabric.jar`
 - **Better Statistics Screen**: Changed from `betterstats-3.13.6+fabric-1.21.4.jar` to `betterstats-3.13.9+fabric-1.21.5.jar`
 - **BetterGrassify**: Changed from `BetterGrassify-1.4.4+fabric.1.21.4.jar` to `BetterGrassify-1.6.0+fabric.1.21.5.jar`
 - **Bobby**: Changed from `bobby-5.2.6+mc1.21.4.jar` to `bobby-5.2.7+mc1.21.5.jar`
@@ -49,14 +48,14 @@
 - **Falling Leaves**: Changed from `fallingleaves-1.16.6+1.21.4.jar` to `fallingleaves-2.0.0+1.21.5.jar`
 - **FerriteCore**: Changed from `ferritecore-7.1.1-fabric.jar` to `ferritecore-8.0.0-fabric.jar`
 - **Forge Config API Port**: Changed from `ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar` to `ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar`
-- **Fzzy Config**: Changed from `fzzy_config-0.6.2+1.21.3.jar` to `fzzy_config-0.6.8+1.21.5.jar`
+- **Fzzy Config**: Changed from `fzzy_config-0.6.2+1.21.3.jar` to `fzzy_config-0.6.9+1.21.5.jar`
 - **ImmediatelyFast**: Changed from `ImmediatelyFast-Fabric-1.3.3+1.21.4.jar` to `ImmediatelyFast-Fabric-1.9.3+1.21.5.jar`
-- **Inventory Profiles Next**: Changed from `InventoryProfilesNext-fabric-1.21.4-2.1.2.jar` to `InventoryProfilesNext-fabric-1.21.5-2.1.6.jar`
+- **Inventory Profiles Next**: Changed from `InventoryProfilesNext-fabric-1.21.4-2.1.2.jar` to `InventoryProfilesNext-fabric-1.21.5-2.1.7.jar`
 - **Iris Shaders**: Changed from `iris-fabric-1.8.5+mc1.21.4.jar` to `iris-fabric-1.8.11+mc1.21.5.jar`
 - **ItemSwapper**: Changed from `itemswapper-fabric-0.7.6-mc1.21.4.jar` to `itemswapper-fabric-0.7.8.1-mc1.21.5.jar`
 - **Krypton**: Changed from `krypton-0.2.8.jar` to `krypton-0.2.9.jar`
 - **Language Reload**: Changed from `language-reload-1.7.2+1.21.4.jar` to `language-reload-1.7.3+1.21.5.jar`
-- **libIPN**: Changed from `libIPN-fabric-1.21.3-6.2.1.jar` to `libIPN-fabric-1.21.5-6.4.0.jar`
+- **libIPN**: Changed from `libIPN-fabric-1.21.3-6.2.1.jar` to `libIPN-fabric-1.21.5-6.5.0.jar`
 - **Lithium**: Changed from `lithium-fabric-0.14.7+mc1.21.4.jar` to `lithium-fabric-0.16.2+mc1.21.5.jar`
 - **Model Gap Fix**: Changed from `modelfix-1.21.3-1.10-fabric.jar` to `modelfix-1.21.5-1.12-fabric.jar`
 - **Mod Menu**: Changed from `modmenu-13.0.0.jar` to `modmenu-14.0.0-rc.2.jar`
@@ -69,6 +68,7 @@
 - **Paginated Advancements & Custom Frames**: Changed from `paginatedadvancements-2.6.1+1.21.4.jar` to `paginatedadvancements-2.7.0+1.21.5.jar`
 - **Persistent Inventory Search**: Changed from `persistentinventorysearch-1.21.4-1.5.jar` to `persistentinventorysearch-1.21.5-1.5.jar`
 - **Raised**: Changed from `raised-fabric-1.21.3-4.0.1.jar` to `raised-fabric-1.21.5-4.0.1.jar`
+- **Roughly Enough Items**: Changed from `RoughlyEnoughItems-18.0.796-fabric.jar` to `RoughlyEnoughItems-19.0.805-fabric.jar`
 - **Resource Pack Overrides**: Changed from `ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar` to `ResourcePackOverrides-v21.4.0-1.21.4-Fabric.jar`
 - **Resourcify**: Changed from `Resourcify (1.21.3-4-fabric)-1.7.0.jar` to `Resourcify (1.21.5-fabric)-1.7.1.jar`
 - **Remove Reloading Screen**: Changed from `rrls-5.1.0+mc1.21.4-fabric.jar` to `rrls-5.1.4+mc1.21.5-fabric.jar`
@@ -79,7 +79,6 @@
 - **Simple Voice Chat**: Changed from `voicechat-fabric-1.21.4-2.5.27.jar` to `voicechat-fabric-1.21.5-2.5.29.jar`
 - **Sodium Extra**: Changed from `sodium-extra-fabric-0.6.1+mc1.21.4.jar` to `sodium-extra-fabric-0.6.3+mc1.21.5.jar`
 - **Sodium**: Changed from `sodium-fabric-0.6.6+mc1.21.4.jar` to `sodium-fabric-0.6.13+mc1.21.5.jar`
-- **StackDeobfuscator**: Changed from `StackDeobfuscatorFabric-1.4.3+08e71cc.jar` to `StackDeobfuscatorFabric-1.4.1+03a1fe4.jar`
 - **Status Effect Bars**: Changed from `status-effect-bars-1.0.7.jar` to `status-effect-bars-1.0.8.jar`
 - **TCDCommons API**: Changed from `tcdcommons-3.12.5+fabric-1.21.4.jar` to `tcdcommons-3.12.7+fabric-1.21.5.jar`
 - **ViaFabric**: Changed from `ViaFabric-0.4.17+100-main.jar` to `ViaFabric-0.4.18+104-main.jar`
