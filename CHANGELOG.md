@@ -9,7 +9,7 @@
 
 ## v4.5.0-beta.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.5.0-beta.1' id='v4.5.0-beta.1'></a>
 
-<a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.5.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.13'/>
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.5.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.14'/>
 
 ::: info
 Changes are in comparison to version [4.4.2](1.21.4.md#v4.4.2).
@@ -25,6 +25,10 @@ This is a pre-release. Here be dragons!
 - Temporarily removed problematic mods.
 - Updated mods & resource packs.
 
+### Added Mods ✅
+
+- LambDynamicLights
+
 ### Removed Mods ❌
 
 - Better Third Person
@@ -37,8 +41,9 @@ This is a pre-release. Here be dragons!
 - ModernFix
 - Noisium
 - Polytone
+- Prickle
 - Screenshot to Clipboard
-- Xaero's World Map
+- Server Country Flags
 - Zoomify
 
 ### Updated Mods 🔄
@@ -110,8 +115,11 @@ This is a pre-release. Here be dragons!
 - ThreadTweak
 - ViaFabric
 - Wavey Capes
+- Xaero's World Map
 - YetAnotherConfigLib
 
 ### Config Changes 📝
 
 - Changed count_libraries, count_children and update_checker to "false": `Mod Menu`
+- Changed shown_greeting to "true": `Crash Assistant`
+- Changed auto_update to "false": `Crash Assistant`

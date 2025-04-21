@@ -17,26 +17,6 @@
                 "minecraft": ""
             }
         },
-        "prickle": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "ambientenvironment": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "searchables": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
-        "crash_assistant": {
-            "-depends": {
-                "minecraft": ""
-            }
-        },
         "breakneckmenu": {
             "-depends": {
                 "minecraft": ""

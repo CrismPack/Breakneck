@@ -26,11 +26,11 @@ hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
+hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e3288791a4a3a8b7c1a089ad40e6da6a80604005d0c0018c1d281ac3ed15efc9"
+hash = "125af5b21afccf36ed97ec099c0ad3190460ba2181ca0ffc8fdef96056a2bca2"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -54,7 +54,7 @@ hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bf269e1d81376a2aa5d2109f2623a0e3e2626829cfe0481654f6127200c6b55c"
+hash = "3bc0199965e9b716731c7bb77863d457d5c9747e2529cfd50a7636aecdb278a2"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -178,7 +178,7 @@ hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "a5706678f4cd6b79f0bca86a627b9fba39e0ce71f15ee9ba270ebc16ea501143"
+hash = "5ccc0d504705a1306e80b5d422742397b4a4f211ae9524b77b4f9e8b7dcd6e3c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "17401aef8bc238b849742797fe200a7adaceff18d6944fea24809b4f35743d0a"
+hash = "38a64f28c4647deace165da6678bcb8fbccd18f85e70ae6232d1c6c43c248fab"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8c40bb9d3cc90854334fa0501864e4986bafe89524e9debbbc3749d2de9bc3fa"
+hash = "ab14d72d2382949a8d812e8dc8412622042eba32fe3c8e60a06edfb6bd2d4300"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "d3685551cab3fce50df1f9228692c08f32d5b787745fa2cee1693ac65d6fd950"
+hash = "72a5fe716c49b4882d5fdf93ae544c2723744738a1d3c4fc3d79cb1e4952557a"
 metafile = true
 
 [[files]]
@@ -353,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "be6b769843a0d9a2d74ee155ba20b317e4758ec13f655d17bc7055689ce43a0a"
-metafile = true
-
-[[files]]
-file = "mods/dripsounds-fabric.pw.toml"
-hash = "cffb9daa89dd67bc95256c163e856ca3f68a0720374445c21a1e3ab082b4adfb"
 metafile = true
 
 [[files]]
@@ -407,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a519f6756788faa2c1e904a2b2c28cb8228927c23eea6c223da9a7272721317"
+hash = "883b3310f0cc4c3915957eda03ccf516b042f916c1494960ee849d2c9e91908b"
 metafile = true
 
 [[files]]
@@ -478,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "91ed92cfe978fb0f4e217b428ee12a71252e4089d996391aab4e18ca916201c6"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "4f423457c5c825645bd10e3e84d4c6b5440c07a091913ccb5f3a06f983193624"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "493f0689a91464119f311b39525d4e5aca48ac242a6a7ff659271862be79a84c"
+hash = "444d372ea434c511b3fdaf1ef61bc0782e3ee9868ec33a2f7e54d408afd5b737"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "48e8b2eed1812442b8e0168bdc2d1143f6fdc395c14a42a651bf01e1c8b7e572"
+hash = "8e8923bfbb9e68ce6eaab550a0c5e8599f3e1dd6dc8d77dfa33862afca6a6bf3"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bda5542e1bb861539f9b0b054ed5c0bb6acab58db302242d8f8c3681a6ffb623"
+hash = "a425b33161fc59992101f7b385286be87abf3c848b15f6240d80ff619d0ba8c0"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0440940bcf1cab4c6bd94bfc280b671ffbba0550ed7d28c26be224eb6abf1145"
+hash = "735eff25c80e12b8fa7deb58f8b27ea29f82dd8aafea975375d9eb1f4b9919e4"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ff74f22eba3134764dbb4fa69dbe9400d51da590dc2a8554478bfa6c22a8837f"
+hash = "702d39041b19c93eb8acbf8361e07d1460eba28882909e276f52344c4291e150"
 metafile = true
 
 [[files]]

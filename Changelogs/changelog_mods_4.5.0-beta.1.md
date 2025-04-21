@@ -1,7 +1,8 @@
 # Breakneck 4.4.2 -> 4.5.0-beta.1
 
 ## Added
-- None
+
+- LambDynamicLights
 ## Removed
 
 - Better Third Person
@@ -14,8 +15,9 @@
 - ModernFix
 - Noisium
 - Polytone
+- Prickle
 - Screenshot to Clipboard
-- Xaero's World Map
+- Server Country Flags
 - Zoomify
 ## Modified
 
@@ -26,7 +28,7 @@
 - **Better Statistics Screen**: Changed from `betterstats-3.13.6+fabric-1.21.4.jar` to `betterstats-3.13.9+fabric-1.21.5.jar`
 - **BetterGrassify**: Changed from `BetterGrassify-1.4.4+fabric.1.21.4.jar` to `BetterGrassify-1.6.0+fabric.1.21.5.jar`
 - **Bobby**: Changed from `bobby-5.2.6+mc1.21.4.jar` to `bobby-5.2.7+mc1.21.5.jar`
-- **Concurrent Chunk Management Engine**: Changed from `c2me-fabric-mc1.21.4-0.3.1.1.0.jar` to `c2me-fabric-mc1.21.5-0.3.2+beta.1.0.jar`
+- **Concurrent Chunk Management Engine**: Changed from `c2me-fabric-mc1.21.4-0.3.1.1.0.jar` to `c2me-fabric-mc1.21.5-0.3.2+rc.1.0.jar`
 - **Capes**: Changed from `capes-1.5.4+1.21.4-fabric.jar` to `capes-1.5.5+1.21.5-fabric.jar`
 - **Chat Heads**: Changed from `chat_heads-0.13.10-fabric-1.21.4.jar` to `chat_heads-0.13.15-fabric-1.21.5.jar`
 - **Client Tweaks**: Changed from `clienttweaks-fabric-1.21.4-21.4.1.jar` to `clienttweaks-fabric-1.21.5-21.5.1.jar`
@@ -34,7 +36,7 @@
 - **Collective**: Changed from `collective-1.21.4-7.89.jar` to `collective-1.21.5-8.3.jar`
 - **Controlify**: Changed from `controlify-2.0.0+1.21.4-fabric.jar` to `controlify-2.1.1+1.21.5-fabric.jar`
 - **Controlling**: Changed from `Controlling-fabric-1.21.4-22.0.3.jar` to `Controlling-fabric-1.21.5-23.0.2.jar`
-- **Crash Assistant**: Changed from `crash_assistant-fabric-1.2.18.jar` to `crash_assistant-fabric-1.21.5-1.7.6.jar`
+- **Crash Assistant**: Changed from `crash_assistant-fabric-1.2.18.jar` to `crash_assistant-fabric-1.21.5-1.7.9.jar`
 - **CraterLib**: Changed from `CraterLib-Fabric-1.21.3-2.1.2.jar` to `CraterLib-Fabric-1.21.5-2.1.4.jar`
 - **Cubes Without Borders**: Changed from `cwb-fabric-3.0.0+mc1.21.3.jar` to `cwb-fabric-3.0.0+mc1.21.5.jar`
 - **Custom Window Title**: Changed from `CustomWindowTitle-1.21+v1.4.0.jar` to `CustomWindowTitle-1.21.4+v1.4.1.jar`
@@ -43,7 +45,7 @@
 - **e4mc**: Changed from `e4mc_minecraft-fabric-5.2.1.jar` to `e4mc_minecraft-fabric-5.3.1.jar`
 - **Entity Model Features**: Changed from `entity_model_features_fabric_1.21.4-2.4.1.jar` to `entity_model_features_fabric_1.21.5-2.4.3.jar`
 - **Entity Texture Features -**: Changed from `entity_texture_features_fabric_1.21.4-6.2.10.jar` to `entity_texture_features_fabric_1.21.5-6.2.13.jar`
-- **Fabric API**: Changed from `fabric-api-0.114.3+1.21.4.jar` to `fabric-api-0.120.0+1.21.5.jar`
+- **Fabric API**: Changed from `fabric-api-0.114.3+1.21.4.jar` to `fabric-api-0.121.0+1.21.5.jar`
 - **Fabric Language Kotlin**: Changed from `fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar` to `fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar`
 - **Falling Leaves**: Changed from `fallingleaves-1.16.6+1.21.4.jar` to `fallingleaves-2.0.0+1.21.5.jar`
 - **FerriteCore**: Changed from `ferritecore-7.1.1-fabric.jar` to `ferritecore-8.0.0-fabric.jar`
@@ -78,7 +80,7 @@
 - **Searchables**: Changed from `Searchables-fabric-1.21.4-1.0.2.jar` to `Searchables-fabric-1.21.5-1.0.2.jar`
 - **Shulker Box Tooltip**: Changed from `shulkerboxtooltip-fabric-5.2.2+1.21.4.jar` to `shulkerboxtooltip-fabric-5.2.5+1.21.5.jar`
 - **Simple Discord RPC**: Changed from `SimpleRPC-Universal-3.3.3.jar` to `SimpleRPC-Universal-4.0.1.jar`
-- **Simple Voice Chat**: Changed from `voicechat-fabric-1.21.4-2.5.27.jar` to `voicechat-fabric-1.21.5-2.5.29.jar`
+- **Simple Voice Chat**: Changed from `voicechat-fabric-1.21.4-2.5.27.jar` to `voicechat-fabric-1.21.5-2.5.30.jar`
 - **Sodium Extra**: Changed from `sodium-extra-fabric-0.6.1+mc1.21.4.jar` to `sodium-extra-fabric-0.6.3+mc1.21.5.jar`
 - **Sodium**: Changed from `sodium-fabric-0.6.6+mc1.21.4.jar` to `sodium-fabric-0.6.13+mc1.21.5.jar`
 - **Status Effect Bars**: Changed from `status-effect-bars-1.0.7.jar` to `status-effect-bars-1.0.8.jar`
@@ -86,4 +88,5 @@
 - **ThreadTweak**: Changed from `threadtweak-fabric-0.1.5+mc1.21.3.jar` to `threadtweak-fabric-0.1.7+mc1.21.5.jar`
 - **ViaFabric**: Changed from `ViaFabric-0.4.17+100-main.jar` to `ViaFabric-0.4.18+104-main.jar`
 - **Wavey Capes**: Changed from `waveycapes-fabric-1.5.0-mc1.21.4.jar` to `waveycapes-fabric-1.5.2-mc1.21.5.jar`
+- **Xaero's World Map**: Changed from `XaerosWorldMap_1.39.2_Fabric_1.21.4.jar` to `XaerosWorldMap_1.39.6_Fabric_1.21.5.jar`
 - **YetAnotherConfigLib**: Changed from `YetAnotherConfigLib-3.6.2+1.21.4-fabric.jar` to `yet_another_config_lib_v3-3.6.6+1.21.5-fabric.jar`

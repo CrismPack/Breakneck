@@ -1,6 +1,6 @@
 name = "Prickle"
 filename = "prickle-fabric-1.21.1-21.1.5.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/VX5BOYQ8/prickle-fabric-1.21.1-21.1.5.jar"
