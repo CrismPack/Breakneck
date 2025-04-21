@@ -30,7 +30,7 @@ hash = "d72628b853da466af9e4061c6ba8a80b2eb59674d86845c611a6045946fd31ae"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "94c5544986ace434423536d3944ca35b91847682bb1979685752d68d89da8abe"
+hash = "e3288791a4a3a8b7c1a089ad40e6da6a80604005d0c0018c1d281ac3ed15efc9"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "06a9fcbda58ac4a246c5089c4de30313acb1f727f67dcbacb0ba56a6f3d9f780"
+hash = "3d21e9ab66a640b28d4cd9337834a430426391a5df736721f7a6ae40926a143b"
 metafile = true
 
 [[files]]
@@ -322,12 +322,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "5aa978a00946b7eed179bcddd610105d67834c5c9fdb4a286c7d06e36421c323"
+hash = "32665531173c83c301ebe71c001f017bd5ad1c45946a4a4a2c2e8e9195712b85"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "280adb7857ad29635e5193e0a1187e4e1698eaeaf92ac1349f4d31e45573a3f0"
+hash = "d3685551cab3fce50df1f9228692c08f32d5b787745fa2cee1693ac65d6fd950"
 metafile = true
 
 [[files]]
@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "7db2c10a8ac4708a02609897daa3efb607bf6994a4c8b9cd1644491d5b5e7af7"
+hash = "5fa17f4b22712eee960d1e90ba972a4fd329825ca4ddb6dd502a99ecc9126669"
 metafile = true
 
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
-hash = "fae1545c9ef4cd6be8431dede5b2283323710d2e3ddfb2d77ef6dd9f6aebb47a"
+hash = "f6da6284ac6f36fdfc2632ae1371c58b97004df27b6350591061574d4ef80201"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "78411f2227f06fc916f8f725638f4e7a3e3a277c8e3b893bccc03c003f605c5c"
+hash = "6a519f6756788faa2c1e904a2b2c28cb8228927c23eea6c223da9a7272721317"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-hash = "73fa4416aa0652195230fa05184e2bd3dd84d9ac239c2ea0781792b1b57c2867"
+hash = "f2d92bc7ee970f58c7268c6b6a5b749576064ec3b1a6a8affcdda9d75538258b"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "0d1c7fa714249df2bfcb65fbfb0966ef06ef656e839606273ba80772f89aceaf"
+hash = "018b00597de8171570099194967e238de0656b4c99d7cf2dca51714ca55b588a"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "67e5f6f774500edbcdd9cd25a3a7c9513eb262af20e4d4436789d64211704f15"
+hash = "38aa8c3065f4ca116b089e8b9da323ea68b125221fb4bd695c307a646b75055e"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "19180b0c2884863552dcfdefd6fe30deb9ca8afbc699edcac95580ef051fb4a1"
+hash = "3c6d3c1ffb9c49c506e635aa95c08ad550b328287c27daa287109d16555ddbd8"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "6da19bba61847d89bf16c885cb66b60e5d24a25b39e1a72ab37cc8e8b971584c"
+hash = "a5f029be446551bf7b7529da67ea2dece0ed3a06385431db32abf0fcffe337fa"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "b51f90510827d96628156a4e9abc851164bba27749ab60681856a6adbb1fab0d"
+hash = "bfed1c77cb74b24711e724f220045029bef93c1a67e3531210cd373770709c8e"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ae863693c173fe1fa2750a8840acb1614d834b43c4f25dae82038fe727f250d2"
+hash = "ff74f22eba3134764dbb4fa69dbe9400d51da590dc2a8554478bfa6c22a8837f"
 metafile = true
 
 [[files]]

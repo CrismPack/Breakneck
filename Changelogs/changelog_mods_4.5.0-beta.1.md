@@ -31,19 +31,19 @@
 - **Chat Heads**: Changed from `chat_heads-0.13.10-fabric-1.21.4.jar` to `chat_heads-0.13.15-fabric-1.21.5.jar`
 - **Client Tweaks**: Changed from `clienttweaks-fabric-1.21.4-21.4.1.jar` to `clienttweaks-fabric-1.21.5-21.5.1.jar`
 - **Cloth Config API**: Changed from `cloth-config-17.0.144-fabric.jar` to `cloth-config-18.0.145-fabric.jar`
-- **Collective**: Changed from `collective-1.21.4-7.89.jar` to `collective-1.21.5-8.2.jar`
+- **Collective**: Changed from `collective-1.21.4-7.89.jar` to `collective-1.21.5-8.3.jar`
 - **Controlify**: Changed from `controlify-2.0.0+1.21.4-fabric.jar` to `controlify-2.1.1+1.21.5-fabric.jar`
-- **Controlling**: Changed from `Controlling-fabric-1.21.4-22.0.3.jar` to `Controlling-fabric-1.21.5-23.0.1.jar`
-- **Crash Assistant**: Changed from `crash_assistant-fabric-1.2.18.jar` to `crash_assistant-fabric-1.6.2.jar`
+- **Controlling**: Changed from `Controlling-fabric-1.21.4-22.0.3.jar` to `Controlling-fabric-1.21.5-23.0.2.jar`
+- **Crash Assistant**: Changed from `crash_assistant-fabric-1.2.18.jar` to `crash_assistant-fabric-1.21.5-1.7.6.jar`
 - **CraterLib**: Changed from `CraterLib-Fabric-1.21.3-2.1.2.jar` to `CraterLib-Fabric-1.21.5-2.1.4.jar`
 - **Cubes Without Borders**: Changed from `cwb-fabric-3.0.0+mc1.21.3.jar` to `cwb-fabric-3.0.0+mc1.21.5.jar`
 - **Custom Window Title**: Changed from `CustomWindowTitle-1.21+v1.4.0.jar` to `CustomWindowTitle-1.21.4+v1.4.1.jar`
 - **Debugify**: Changed from `Debugify-1.21.4+1.1.jar` to `Debugify-1.21.5+1.0.jar`
-- **Dynamic FPS**: Changed from `dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar` to `dynamic-fps-3.9.2+minecraft-1.21.5-fabric.jar`
-- **e4mc**: Changed from `e4mc_minecraft-fabric-5.2.1.jar` to `e4mc_minecraft-fabric-5.3.0.jar`
+- **Dynamic FPS**: Changed from `dynamic-fps-3.7.7+minecraft-1.21.2-fabric.jar` to `dynamic-fps-3.9.3+minecraft-1.21.5-fabric.jar`
+- **e4mc**: Changed from `e4mc_minecraft-fabric-5.2.1.jar` to `e4mc_minecraft-fabric-5.3.1.jar`
 - **Entity Model Features**: Changed from `entity_model_features_fabric_1.21.4-2.4.1.jar` to `entity_model_features_fabric_1.21.5-2.4.3.jar`
 - **Entity Texture Features -**: Changed from `entity_texture_features_fabric_1.21.4-6.2.10.jar` to `entity_texture_features_fabric_1.21.5-6.2.13.jar`
-- **Fabric API**: Changed from `fabric-api-0.114.3+1.21.4.jar` to `fabric-api-0.119.9+1.21.5.jar`
+- **Fabric API**: Changed from `fabric-api-0.114.3+1.21.4.jar` to `fabric-api-0.120.0+1.21.5.jar`
 - **Fabric Language Kotlin**: Changed from `fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar` to `fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar`
 - **Falling Leaves**: Changed from `fallingleaves-1.16.6+1.21.4.jar` to `fallingleaves-2.0.0+1.21.5.jar`
 - **FerriteCore**: Changed from `ferritecore-7.1.1-fabric.jar` to `ferritecore-8.0.0-fabric.jar`
@@ -63,15 +63,17 @@
 - **Name Pain**: Changed from `namepain-1.5.3 fabric-1.21.2.jar` to `namepain-1.5.4 fabric-1.21.5.jar`
 - **No Chat Reports**: Changed from `NoChatReports-FABRIC-1.21.4-v2.11.0.jar` to `NoChatReports-FABRIC-1.21.5-v2.12.0.jar`
 - **Not Enough Animations**: Changed from `notenoughanimations-fabric-1.9.1-mc1.21.4.jar` to `notenoughanimations-fabric-1.9.3-mc1.21.5.jar`
+- **Numeral Ping**: Changed from `numeralping-1.2.5.jar` to `numeralping-1.2.6.jar`
 - **ObsidianUI**: Changed from `ObsidianUI-fabric-0.2.10+mc1.21.3.jar` to `ObsidianUI-fabric-0.2.11+mc1.21.5.jar`
 - **OptiGUI**: Changed from `optigui-2.3.0-beta.7+1.21.2.jar` to `optigui-2.3.0-beta.7+1.21.5.jar`
 - **Paginated Advancements & Custom Frames**: Changed from `paginatedadvancements-2.6.1+1.21.4.jar` to `paginatedadvancements-2.7.0+1.21.5.jar`
+- **Particle Core**: Changed from `particle_core-0.2.5+1.21.4.jar` to `particle_core-0.2.6+1.21.5.jar`
 - **Persistent Inventory Search**: Changed from `persistentinventorysearch-1.21.4-1.5.jar` to `persistentinventorysearch-1.21.5-1.5.jar`
 - **Raised**: Changed from `raised-fabric-1.21.3-4.0.1.jar` to `raised-fabric-1.21.5-4.0.1.jar`
-- **Roughly Enough Items**: Changed from `RoughlyEnoughItems-18.0.796-fabric.jar` to `RoughlyEnoughItems-19.0.805-fabric.jar`
-- **Resource Pack Overrides**: Changed from `ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar` to `ResourcePackOverrides-v21.4.0-1.21.4-Fabric.jar`
+- **Roughly Enough Items**: Changed from `RoughlyEnoughItems-18.0.796-fabric.jar` to `RoughlyEnoughItems-19.0.806-fabric.jar`
+- **Resource Pack Overrides**: Changed from `ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar` to `ResourcePackOverrides-v21.5.0-1.21.5-Fabric.jar`
 - **Resourcify**: Changed from `Resourcify (1.21.3-4-fabric)-1.7.0.jar` to `Resourcify (1.21.5-fabric)-1.7.1.jar`
-- **Remove Reloading Screen**: Changed from `rrls-5.1.0+mc1.21.4-fabric.jar` to `rrls-5.1.4+mc1.21.5-fabric.jar`
+- **Remove Reloading Screen**: Changed from `rrls-5.1.0+mc1.21.4-fabric.jar` to `rrls-5.1.5+mc1.21.5-fabric.jar`
 - **ScalableLux**: Changed from `ScalableLux-0.1.2+beta.1+fabric.6d46f24-all.jar` to `ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar`
 - **Searchables**: Changed from `Searchables-fabric-1.21.4-1.0.2.jar` to `Searchables-fabric-1.21.5-1.0.2.jar`
 - **Shulker Box Tooltip**: Changed from `shulkerboxtooltip-fabric-5.2.2+1.21.4.jar` to `shulkerboxtooltip-fabric-5.2.5+1.21.5.jar`
@@ -81,6 +83,7 @@
 - **Sodium**: Changed from `sodium-fabric-0.6.6+mc1.21.4.jar` to `sodium-fabric-0.6.13+mc1.21.5.jar`
 - **Status Effect Bars**: Changed from `status-effect-bars-1.0.7.jar` to `status-effect-bars-1.0.8.jar`
 - **TCDCommons API**: Changed from `tcdcommons-3.12.5+fabric-1.21.4.jar` to `tcdcommons-3.12.7+fabric-1.21.5.jar`
+- **ThreadTweak**: Changed from `threadtweak-fabric-0.1.5+mc1.21.3.jar` to `threadtweak-fabric-0.1.7+mc1.21.5.jar`
 - **ViaFabric**: Changed from `ViaFabric-0.4.17+100-main.jar` to `ViaFabric-0.4.18+104-main.jar`
 - **Wavey Capes**: Changed from `waveycapes-fabric-1.5.0-mc1.21.4.jar` to `waveycapes-fabric-1.5.2-mc1.21.5.jar`
 - **YetAnotherConfigLib**: Changed from `YetAnotherConfigLib-3.6.2+1.21.4-fabric.jar` to `yet_another_config_lib_v3-3.6.6+1.21.5-fabric.jar`

@@ -1,13 +1,13 @@
 name = "ThreadTweak"
-filename = "threadtweak-fabric-0.1.5+mc1.21.3.jar"
+filename = "threadtweak-fabric-0.1.7+mc1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/HV6EY0h3/threadtweak-fabric-0.1.5%2Bmc1.21.3.jar"
+url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/IvtlnXcT/threadtweak-fabric-0.1.7%2Bmc1.21.5.jar"
 hash-format = "sha1"
-hash = "fab25cc8e836f06eac27b1dea7c12e0ac38e3cda"
+hash = "03161e283ee4942547e84dd643573a1d68e7a25b"
 
 [update]
 [update.modrinth]
 mod-id = "vSEH1ERy"
-version = "HV6EY0h3"
+version = "IvtlnXcT"

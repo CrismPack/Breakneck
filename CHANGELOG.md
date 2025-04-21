@@ -87,9 +87,11 @@ This is a pre-release. Here be dragons!
 - Name Pain
 - No Chat Reports
 - Not Enough Animations
+- Numeral Ping
 - ObsidianUI
 - OptiGUI
 - Paginated Advancements & Custom Frames
+- Particle Core
 - Persistent Inventory Search
 - Raised
 - Roughly Enough Items
@@ -105,6 +107,7 @@ This is a pre-release. Here be dragons!
 - Sodium
 - Status Effect Bars
 - TCDCommons API
+- ThreadTweak
 - ViaFabric
 - Wavey Capes
 - YetAnotherConfigLib
