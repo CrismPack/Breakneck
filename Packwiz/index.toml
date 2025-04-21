@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "e4870052fbf45199084dfd2f0083cd56232a30f606721c434dd3949eb766510d"
+hash = "1ae33fb25781cfa82b09f388d259379548e5d36e2df5fe33e5602e85cd2da55a"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "125af5b21afccf36ed97ec099c0ad3190460ba2181ca0ffc8fdef96056a2bca2"
+hash = "faff802a87d921eeb5d679e8ff604f12f8cdf6f2a2a4962552c85438b2736262"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -751,8 +751,8 @@ hash = "c4b6e11acb6f1f4c8adb4083bdb85b0e4dc616f9482ed8c1aa652279071ed645"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.pw.toml"
-hash = "c1285fc010409ffba34bf9bde4204445bf3945159be8935196d702238e3cd031"
+file = "mods/viafabricplus.pw.toml"
+hash = "6547a5019f956b4166798a7d5dc5eb14bb0f499be469afc8c9dd7c4126a92de8"
 metafile = true
 
 [[files]]

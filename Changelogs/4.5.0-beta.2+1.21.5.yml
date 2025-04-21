@@ -1,0 +1,8 @@
+version: 4.5.0-beta.2
+mc_version: 1.21.5
+
+Fabric version: 0.16.14
+Update overview:
+  - Replaced ViaFabric with ViaFabricPlus.
+
+Config Changes: |
