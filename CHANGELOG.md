@@ -7,9 +7,9 @@
 
 # Changelog - 1.21.5
 
-## v4.5.0-beta.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.5.0-beta.1' id='v4.5.0-beta.1'></a>
+## v4.5.0-beta.1 <a href='#v4.5.0-beta.1' id='v4.5.0-beta.1'></a>
 
-<a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.5.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.14'/>
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.5.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.16.14'/><Badge type='info' text='2025-04-21'/>
 
 ::: info
 Changes are in comparison to version [4.4.2](1.21.4.md#v4.4.2).
