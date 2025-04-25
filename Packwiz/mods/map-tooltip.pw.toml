@@ -1,6 +1,6 @@
 name = "Map Tooltip"
 filename = "maptooltip-fabric-1.21.4-4.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/GNtptqqU/versions/gkuxsXM0/maptooltip-fabric-1.21.4-4.1.jar"

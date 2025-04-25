@@ -17,7 +17,9 @@ This is a pre-release. Here be dragons!
 
 ### Update Overview ⭐
 
-- Replaced ViaFabric with ViaFabricPlus.
+- Replaced ViaFabric with ViaFabricPlus to fix server join issue.
+- Fixed crashing issue related to maps.
+- Updated some mods.
 
 ### Added Mods ✅
 
@@ -25,7 +27,15 @@ This is a pre-release. Here be dragons!
 
 ### Removed Mods ❌
 
+- Map Tooltip
 - ViaFabric
+
+### Updated Mods 🔄
+
+- Balm
+- Concurrent Chunk Management Engine
+- Crash Assistant
+- Xaero's World Map
 
 ## v4.5.0-beta.1 <a href='#v4.5.0-beta.1' id='v4.5.0-beta.1'></a>
 
