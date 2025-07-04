@@ -3,6 +3,7 @@ setlocal enabledelayedexpansion
 
 :: Define virtual environment directory outside the repo
 set VENV_DIR=venv
+set UPDATE_DEPS=0
 
 :: Check if Git is installed
 echo Checking for Git...
@@ -62,26 +63,32 @@ if exist %REPO_DIR% (
             echo Repository is outdated. Re-cloning...
             popd >nul
             rmdir /s /q %REPO_DIR%
+            set UPDATE_DEPS=1
         )
     ) else (
         echo Directory exists but is not a Git repository. Deleting...
         popd >nul
         rmdir /s /q %REPO_DIR%
+        set UPDATE_DEPS=1
+    )
+) else (
+    set UPDATE_DEPS=1
+)
+
+:: Clone the repository if needed
+if %UPDATE_DEPS%==1 (
+    echo Cloning repository...
+    git clone %REPO_URL%
+
+    if not exist %REPO_DIR% (
+        echo Repository clone failed. Exiting...
+        pause
+        exit /b 1
     )
 )
 
-:: Clone the repository
-echo Cloning repository...
-git clone %REPO_URL%
-
-if not exist %REPO_DIR% (
-    echo Repository clone failed. Exiting...
-    pause
-    exit /b 1
-)
-
 :SETUP_ENV
-:: Create virtual environment in the main directory
+:: Create virtual environment in the main directory if not exist
 if not exist %VENV_DIR% (
     echo Creating Python virtual environment in "%cd%\%VENV_DIR%"...
     python -m venv %VENV_DIR%
@@ -100,18 +107,22 @@ call %VENV_DIR%\Scripts\activate.bat
 :: Navigate into the cloned repo
 cd %REPO_DIR%
 
-:: Install dependencies from requirements.txt if it exists
-if exist requirements.txt (
-    echo Installing dependencies from requirements.txt...
-    python -m pip install --upgrade pip >nul
-    pip install -r requirements.txt
-    if %errorlevel% neq 0 (
-        echo Failed to install dependencies. Exiting...
-        pause
-        exit /b 1
+:: Install dependencies only if we just cloned (UPDATE_DEPS=1)
+if %UPDATE_DEPS%==1 (
+    if exist requirements.txt (
+        echo Installing dependencies from requirements.txt...
+        python -m pip install --upgrade pip --quiet >nul 2>&1
+        pip install -r requirements.txt
+        if %errorlevel% neq 0 (
+            echo Failed to install dependencies. Exiting...
+            pause
+            exit /b 1
+        )
+    ) else (
+        echo No requirements.txt found. Skipping dependency installation.
     )
 ) else (
-    echo No requirements.txt found. Skipping dependency installation.
+    echo Dependencies update not needed; skipping installation.
 )
 
 :: Run the Python script using the virtual environment
