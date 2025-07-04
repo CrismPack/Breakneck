@@ -1,13 +1,13 @@
 name = "Continuity"
-filename = "continuity-3.0.0+1.21.4.jar"
-side = "both(disabled)"
+filename = "continuity-3.0.1-test.4+1.21.5.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1IjD5062/versions/esC1Vejm/continuity-3.0.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/kravz06U/continuity-3.0.1-test.4%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "7b22feac8ca586a8c371324cb83abe5546b22d45"
+hash = "9965153e0acabbe3582aabe2ddb6a503508b6787"
 
 [update]
 [update.modrinth]
 mod-id = "1IjD5062"
-version = "esC1Vejm"
+version = "kravz06U"

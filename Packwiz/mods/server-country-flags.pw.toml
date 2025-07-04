@@ -1,13 +1,13 @@
 name = "Server Country Flags"
-filename = "servercountryflags-1.10.4-1.21.4-FABRIC.jar"
-side = "client(disabled)"
+filename = "servercountryflags-1.10.4-1.21.5-FABRIC.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/L6HW4EbG/versions/GKYfpDAY/servercountryflags-1.10.4-1.21.4-FABRIC.jar"
+url = "https://cdn.modrinth.com/data/L6HW4EbG/versions/DDK6btp7/servercountryflags-1.10.4-1.21.5-FABRIC.jar"
 hash-format = "sha1"
-hash = "c96b36a2b0e50693878f3368c266f0d80eb638b2"
+hash = "0761d8fdb3bbec23b1b1901fcba0cf3fc0ab655f"
 
 [update]
 [update.modrinth]
 mod-id = "L6HW4EbG"
-version = "GKYfpDAY"
+version = "DDK6btp7"

@@ -1,0 +1,94 @@
+# Breakneck 4.5.0-beta.2 -> 4.5.0
+
+## Added
+
+- 3D Skin Layers
+- Ambient Environment
+- Animatica
+- AppleSkin
+- Architectury API
+- Balm
+- Better Statistics Screen
+- BetterGrassify
+- Bobby
+- Branded Logs
+- Breakneck Menu
+- Concurrent Chunk Management Engine
+- Capes
+- Chat Heads
+- CleanView
+- Client Tweaks
+- Cloth Config API
+- Collective
+- Continuity
+- Controlify
+- Controlling
+- Crash Assistant
+- CraterLib
+- Cubes Without Borders
+- Custom Window Title
+- Debugify
+- Dynamic FPS
+- e4mc
+- Entity Model Features
+- Entity Texture Features -
+- Fabric API
+- Fabric Language Kotlin
+- Falling Leaves
+- FerriteCore
+- Forge Config API Port
+- Fzzy Config
+- ImmediatelyFast
+- Inventory Profiles Next
+- Iris Shaders
+- ItemSwapper
+- Krypton
+- LambDynamicLights
+- Language Reload
+- libIPN
+- Lithium
+- MixinTrace
+- Model Gap Fix
+- Mod Menu
+- More Culling
+- Mouse Tweaks
+- Name Pain
+- No Chat Reports
+- Noisium
+- Not Enough Animations
+- Numeral Ping
+- ObsidianUI
+- OptiGUI
+- Paginated Advancements & Custom Frames
+- Particle Core
+- Persistent Inventory Search
+- Polytone
+- Raised
+- Reese's Sodium Options
+- Roughly Enough Items
+- Replanter Plus
+- Resource Pack Overrides
+- Resourcify
+- Remove Reloading Screen
+- ScalableLux
+- Searchables
+- Server Country Flags
+- Shulker Box Tooltip
+- Simple Discord RPC
+- Simple Voice Chat
+- Sodium Extra
+- Sodium
+- StackDeobfuscator
+- Status Effect Bars
+- Suggestion Tweaker
+- TCDCommons API
+- ThreadTweak
+- ViaFabricPlus
+- Wavey Capes
+- Xaero's World Map
+- YetAnotherConfigLib
+- Your Options Shall Be Respected
+## Removed
+- None
+## Modified
+- None
