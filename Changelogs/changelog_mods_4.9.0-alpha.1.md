@@ -22,8 +22,10 @@
 - Language Reload
 - libIPN
 - Mouse Tweaks
+- Name Pain
 - No Chat Reports
 - Not Enough Animations
+- Numeral Ping
 - ObsidianUI
 - OptiGUI
 - Paginated Advancements & Custom Frames
@@ -31,6 +33,7 @@
 - Raised
 - Roughly Enough Items
 - Resource Pack Overrides
+- Remove Reloading Screen
 - Sodium Extra
 - TCDCommons API
 - ThreadTweak
@@ -61,12 +64,10 @@
 - **Lithium**: Changed from `lithium-fabric-0.16.2+mc1.21.5.jar` to `lithium-fabric-0.19.1+mc1.21.9.jar`
 - **Mod Menu**: Changed from `modmenu-14.0.0-rc.2.jar` to `modmenu-16.0.0-rc.1.jar`
 - **More Culling**: Changed from `moreculling-fabric-1.21.5-1.3.0.jar` to `moreculling-fabric-1.21.9-1.5.0-beta.2.jar`
-- **Name Pain**: Changed from `namepain-1.5.4 fabric-1.21.5.jar` to `namepain-1.5.4 fabric-1.21.6.jar`
 - **Persistent Inventory Search**: Changed from `persistentinventorysearch-1.21.5-1.5.jar` to `persistentinventorysearch-1.21.9-1.5.jar`
 - **Reese's Sodium Options**: Changed from `reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar` to `reeses-sodium-options-fabric-1.8.5+mc1.21.9.jar`
 - **Replanter Plus**: Changed from `replanter-plus-2.3.2.jar` to `replanter-plus-2.3.3.jar`
 - **Resourcify**: Changed from `Resourcify (1.21.5-fabric)-1.7.1.jar` to `Resourcify (1.21.9-fabric)-1.7.4.jar`
-- **Remove Reloading Screen**: Changed from `rrls-5.1.5+mc1.21.5-fabric.jar` to `rrls-5.1.11+mc1.21.9-fabric.jar`
 - **ScalableLux**: Changed from `ScalableLux-0.1.3+beta.1+fabric.4039a8d-all.jar` to `ScalableLux-0.1.6+fabric.c25518a-all.jar`
 - **Searchables**: Changed from `Searchables-fabric-1.21.5-1.0.2.jar` to `Searchables-fabric-1.21.9-1.0.2.jar`
 - **Shulker Box Tooltip**: Changed from `shulkerboxtooltip-fabric-5.2.5+1.21.5.jar` to `shulkerboxtooltip-fabric-5.2.9+1.21.9.jar`

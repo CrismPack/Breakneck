@@ -21,7 +21,8 @@ This is a pre-release. Here be dragons!
 
 ### Update Overview ⭐
 
-- Migrated to 1.21.9
+- Crude initial migration to 1.21.9
+- Temporarily removed a lot of problematic mods. So expect a lot of missing features.
 
 ### Removed Mods ❌
 
@@ -43,8 +44,10 @@ This is a pre-release. Here be dragons!
 - Language Reload
 - libIPN
 - Mouse Tweaks
+- Name Pain
 - No Chat Reports
 - Not Enough Animations
+- Numeral Ping
 - ObsidianUI
 - OptiGUI
 - Paginated Advancements & Custom Frames
@@ -52,6 +55,7 @@ This is a pre-release. Here be dragons!
 - Raised
 - Roughly Enough Items
 - Resource Pack Overrides
+- Remove Reloading Screen
 - Sodium Extra
 - TCDCommons API
 - ThreadTweak
@@ -83,12 +87,10 @@ This is a pre-release. Here be dragons!
 - Lithium
 - Mod Menu
 - More Culling
-- Name Pain
 - Persistent Inventory Search
 - Reese's Sodium Options
 - Replanter Plus
 - Resourcify
-- Remove Reloading Screen
 - ScalableLux
 - Searchables
 - Shulker Box Tooltip
@@ -104,3 +106,7 @@ This is a pre-release. Here be dragons!
 ### Updated Resource Packs 🔃
 
 - Fresh Animations
+
+### Config Changes 📝
+
+- Changed "coloredText" to false: `Breakneck Menu`

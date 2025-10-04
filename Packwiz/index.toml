@@ -25,12 +25,16 @@ file = "config/brb.toml"
 hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
 
 [[files]]
+file = "config/breakneckmenu.json5"
+hash = "73d5da6efd9d21f1e54903e70c6ba1582bfb5a68b60c010b409d4e190b08d80e"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b05519d98284fa80c125cb138fb707203bf254fc9344530edb97751af53a33e7"
+hash = "820d40e847c31fdf61b95101d66d1489e893b3cf0f3472e57d42e16687f26b5c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -542,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "f00551d243b06e20f74683deab32627adbb5883a17e80fba755ae1d219c0d050"
+hash = "f44c127303d2360e0616f073a7eb5e5b9c4db8f88062f9a5539d2ef82f5871fc"
 metafile = true
 
 [[files]]
@@ -562,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-hash = "f2d92bc7ee970f58c7268c6b6a5b749576064ec3b1a6a8affcdda9d75538258b"
+hash = "81dab31286865865a90302f9efa4fd3b2b316957fd94ea3c58e59f72b10dea56"
 metafile = true
 
 [[files]]
@@ -647,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "ec97f71bbec602b05180cbed149763344f6e4633884d9559859ef2e69c16e670"
+hash = "d442ca50a556a678bf88b5a99597047e8c877f625e7cf74e31623dcee39ef23b"
 metafile = true
 
 [[files]]
