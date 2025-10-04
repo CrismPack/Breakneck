@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "81807ce6c0c2e0e7be706bf5adb577bcd3e04894fe39a1bdb7da17f61586712a"
+hash = "e20d0fa233d898718ff68e27109ad6162c6fbf60ed8a79b1e414c3be537cd2bf"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6a8acbdc2f10b496abcbf794cdf833d143e922fd5544b5462b2d1f0aa171c776"
+hash = "ff65e1878eea7f576685b9893b8dd6652648f35c0760daa3f32f9fa63ee119c1"
 metafile = true
 
 [[files]]

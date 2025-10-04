@@ -3,11 +3,11 @@ filename = "sodium-fabric-0.7.0+mc1.21.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/AQpu5aS1/sodium-fabric-0.7.0%2Bmc1.21.9.jar"
 hash-format = "sha1"
-hash = "78facebc00d55562922ad70888b9933522c36806"
+hash = "b8b6d267adcc50b61162483b1c3083c723bee479"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "AANobbMI"
-version = "AQpu5aS1"
+[update.curseforge]
+file-id = 7048978
+project-id = 394468
