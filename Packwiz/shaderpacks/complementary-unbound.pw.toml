@@ -1,13 +1,13 @@
 name = "Complementary Shaders - Unbound"
-filename = "ComplementaryUnbound_r5.4.zip"
+filename = "ComplementaryUnbound_r5.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/Z1zqMzjh/ComplementaryUnbound_r5.4.zip"
+url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/5jNdWYgl/ComplementaryUnbound_r5.6.zip"
 hash-format = "sha1"
-hash = "239542849d064ab0ac9758a3e6278c310ace0a04"
+hash = "b3507d28d70eeb0549b10edd1076d45146885032"
 
 [update]
 [update.modrinth]
 mod-id = "R6NEzAwj"
-version = "Z1zqMzjh"
+version = "5jNdWYgl"

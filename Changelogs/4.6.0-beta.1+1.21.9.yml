@@ -1,0 +1,8 @@
+version: 4.6.0-beta.1
+mc_version: 1.21.9
+
+Fabric version: 0.17.2
+Update overview:
+  - Migrated to 1.21.9
+
+Config Changes: |

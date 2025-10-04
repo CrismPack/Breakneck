@@ -1,13 +1,13 @@
 name = "CraterLib"
-filename = "CraterLib-Fabric-1.21.5-2.1.4.jar"
+filename = "CraterLib-Fabric-1.21.9-2.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/iT7V02Tu/CraterLib-Fabric-1.21.5-2.1.4.jar"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/8vFjssBM/CraterLib-Fabric-1.21.9-2.1.5.jar"
 hash-format = "sha1"
-hash = "bd6f85a8878e630ffd789bdd3da51846c43edb17"
+hash = "86e94b62ef43a749cf1c2864f528a06ff52598c5"
 
 [update]
 [update.modrinth]
 mod-id = "Nn8Wasaq"
-version = "iT7V02Tu"
+version = "8vFjssBM"

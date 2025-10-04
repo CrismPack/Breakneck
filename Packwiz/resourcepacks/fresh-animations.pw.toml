@@ -1,13 +1,13 @@
 name = "Fresh Animations"
-filename = "FreshAnimations_v1.9.3.zip"
+filename = "FreshAnimations_v1.10.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/50dA9Sha/versions/hPLOoHUN/FreshAnimations_v1.9.3.zip"
+url = "https://cdn.modrinth.com/data/50dA9Sha/versions/EkWu7smn/FreshAnimations_v1.10.1.zip"
 hash-format = "sha1"
-hash = "a7a9f528a5f6e7c7b14ad70b514ecba89b982cde"
+hash = "7747988f7cd47f5e46dbec54474126223ec95a47"
 
 [update]
 [update.modrinth]
 mod-id = "50dA9Sha"
-version = "hPLOoHUN"
+version = "EkWu7smn"

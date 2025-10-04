@@ -11,7 +11,7 @@ create_release_notes: True
 server_mods_remove_list: []
 print_path_debug: True
 update_publish_workflow: True
-download_compare_files: True
+download_comparison_files: True
 generate_primary_changelog: True
 generate_mods_changelog: True
 update_crash_assistant_modlist: True
