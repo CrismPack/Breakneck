@@ -1,6 +1,6 @@
 name = "libIPN"
 filename = "libIPN-fabric-1.21.6-6.5.1.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/onSQdWhM/versions/ZEMiaisv/libIPN-fabric-1.21.6-6.5.1.jar"

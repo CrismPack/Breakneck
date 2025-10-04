@@ -1,6 +1,6 @@
 name = "Sodium Extra"
 filename = "sodium-extra-fabric-0.7.0+mc1.21.8.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Of25zuEG/sodium-extra-fabric-0.7.0%2Bmc1.21.8.jar"

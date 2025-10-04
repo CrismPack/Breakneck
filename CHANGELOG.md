@@ -11,6 +11,10 @@
 
 <a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.6.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.17.2'/>
 
+::: info
+Changes are in comparison to version [4.5.0-beta.2](1.21.5.md#v4.5.0-beta.2).
+:::
+
 ::: warning
 This is a pre-release. Here be dragons!
 :::
@@ -25,61 +29,66 @@ This is a pre-release. Here be dragons!
 
 ### Removed Mods ❌
 
+- 3D Skin Layers
+- AppleSkin
+- Better Statistics Screen
 - BetterGrassify
+- Concurrent Chunk Management Engine
+- Controlling
+- Debugify
+- Entity Model Features
+- Entity Texture Features -
+- Fzzy Config
+- Inventory Profiles Next
+- ItemSwapper
+- Krypton
+- Language Reload
+- libIPN
+- No Chat Reports
+- Not Enough Animations
 - ObsidianUI
+- OptiGUI
+- Paginated Advancements & Custom Frames
+- Particle Core
+- Raised
+- Roughly Enough Items
+- Resource Pack Overrides
+- Sodium Extra
+- TCDCommons API
+- ThreadTweak
+- Wavey Capes
 
 ### Updated Mods 🔄
 
-- 3D Skin Layers
 - Ambient Environment
-- AppleSkin
 - Architectury API
 - Balm
-- Better Statistics Screen
 - Bobby
-- Concurrent Chunk Management Engine
 - Capes
 - Chat Heads
 - Client Tweaks
 - Cloth Config API
 - Collective
 - Controlify
-- Controlling
 - Crash Assistant
 - CraterLib
 - Custom Window Title
-- Debugify
 - Dynamic FPS
-- Entity Model Features
-- Entity Texture Features -
 - Fabric API
 - Fabric Language Kotlin
 - Falling Leaves
 - Forge Config API Port
-- Fzzy Config
 - ImmediatelyFast
-- Inventory Profiles Next
 - Iris Shaders
-- ItemSwapper
 - LambDynamicLights
-- Language Reload
-- libIPN
 - Lithium
 - Mod Menu
 - More Culling
 - Mouse Tweaks
 - Name Pain
-- No Chat Reports
-- Not Enough Animations
-- OptiGUI
-- Paginated Advancements & Custom Frames
-- Particle Core
 - Persistent Inventory Search
-- Raised
 - Reese's Sodium Options
-- Roughly Enough Items
 - Replanter Plus
-- Resource Pack Overrides
 - Resourcify
 - Remove Reloading Screen
 - ScalableLux
@@ -87,13 +96,10 @@ This is a pre-release. Here be dragons!
 - Shulker Box Tooltip
 - Simple Discord RPC
 - Simple Voice Chat
-- Sodium Extra
 - Sodium
 - Status Effect Bars
 - Suggestion Tweaker
-- TCDCommons API
 - ViaFabricPlus
-- Wavey Capes
 - Xaero's World Map
 - YetAnotherConfigLib
 

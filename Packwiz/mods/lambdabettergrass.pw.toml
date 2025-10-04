@@ -1,6 +1,6 @@
 name = "LambdaBetterGrass"
 filename = "lambdabettergrass-2.4.0+1.21.9.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/S3Imk5hD/lambdabettergrass-2.4.0%2B1.21.9.jar"

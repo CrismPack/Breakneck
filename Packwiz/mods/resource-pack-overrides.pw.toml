@@ -1,6 +1,6 @@
 name = "Resource Pack Overrides"
 filename = "ResourcePackOverrides-v21.8.0-1.21.8-Fabric.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/YsFycamt/versions/ZNTlUzvx/ResourcePackOverrides-v21.8.0-1.21.8-Fabric.jar"
