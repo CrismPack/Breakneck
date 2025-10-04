@@ -26,6 +26,16 @@
             "-depends": {
                 "minecraft": ""
             }
+        },
+        "controlling": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "raised": {
+            "-depends": {
+                "minecraft": ""
+            }
         }
     }
 }

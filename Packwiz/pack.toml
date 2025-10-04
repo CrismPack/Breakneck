@@ -13,4 +13,4 @@ fabric = "0.17.2"
 minecraft = "1.21.9"
 
 [options]
-acceptable-game-versions = ["1.21.8"]
+acceptable-game-versions = []

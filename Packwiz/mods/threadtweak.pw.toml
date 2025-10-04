@@ -1,6 +1,6 @@
 name = "ThreadTweak"
 filename = "threadtweak-fabric-0.1.7+mc1.21.5.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/vSEH1ERy/versions/IvtlnXcT/threadtweak-fabric-0.1.7%2Bmc1.21.5.jar"

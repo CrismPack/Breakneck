@@ -1,6 +1,6 @@
 name = "Inventory Profiles Next"
 filename = "InventoryProfilesNext-fabric-1.21.6-2.1.11.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/ShdHGoFT/InventoryProfilesNext-fabric-1.21.6-2.1.11.jar"
