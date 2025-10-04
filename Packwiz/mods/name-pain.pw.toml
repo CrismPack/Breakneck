@@ -1,6 +1,6 @@
 name = "Name Pain"
 filename = "namepain-1.5.4 fabric-1.21.6.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/cJk2qbxw/versions/7fbmqs9S/namepain-1.5.4%20fabric-1.21.6.jar"

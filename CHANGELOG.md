@@ -7,9 +7,9 @@
 
 # Changelog - 1.21.9
 
-## v4.6.0-beta.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.6.0-beta.1' id='v4.6.0-beta.1'></a>
+## v4.9.0-alpha.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.9.0-alpha.1' id='v4.9.0-alpha.1'></a>
 
-<a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.6.0-beta.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.17.2'/>
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.5/Changelogs/changelog_mods_4.9.0-alpha.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.17.2'/>
 
 ::: info
 Changes are in comparison to version [4.5.0-beta.2](1.21.5.md#v4.5.0-beta.2).
@@ -23,10 +23,6 @@ This is a pre-release. Here be dragons!
 
 - Migrated to 1.21.9
 
-### Added Mods ✅
-
-- LambdaBetterGrass
-
 ### Removed Mods ❌
 
 - 3D Skin Layers
@@ -34,8 +30,10 @@ This is a pre-release. Here be dragons!
 - Better Statistics Screen
 - BetterGrassify
 - Concurrent Chunk Management Engine
+- CleanView
 - Controlling
 - Debugify
+- e4mc
 - Entity Model Features
 - Entity Texture Features -
 - Fzzy Config
@@ -44,6 +42,7 @@ This is a pre-release. Here be dragons!
 - Krypton
 - Language Reload
 - libIPN
+- Mouse Tweaks
 - No Chat Reports
 - Not Enough Animations
 - ObsidianUI
@@ -84,7 +83,6 @@ This is a pre-release. Here be dragons!
 - Lithium
 - Mod Menu
 - More Culling
-- Mouse Tweaks
 - Name Pain
 - Persistent Inventory Search
 - Reese's Sodium Options

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c04de853c05c0aea6799e43d5940eb8407bae95c8cad086a8268bb83aa7a85c1"
+hash = "9fb251bed476e45e5f00f88b14c13b986c53bc26057e542e223cc96c3e218ead"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "1e5980733d6b64a93236076dabec60c298e744ce94357b6f85853980c6ad6bc3"
+hash = "b05519d98284fa80c125cb138fb707203bf254fc9344530edb97751af53a33e7"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleanview-fabric.pw.toml"
-hash = "b7b522b138fa7ed0e4bb5cde087611a8a56e89c05a2652969a7941cddb51ec98"
+hash = "86c416515d9aaa369d2856dda36b50c5e1b6d359c53021b45cad84c1a08a6139"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "61bc6fcbb24e73fc538e89bec44487438f820d53ade30d45342225a630b662da"
+hash = "a19639b4957e0760f7610a24f8559cd1a174c5802cca60b063641b899d7bf1d0"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "038a49205459fee3337393f73942d205a202aa26ffa54adffe0cbda443deff51"
+hash = "4934c1221ca79e106ec72bf7865e2d6c11dc4798cff2b415dcd2f4ba0327eb44"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "5f626c792f603b0b712a6fd66635fa9a79b9a61501df6377c18d868e385825cd"
+hash = "a37798efecc706bc4a0e824200610b9d233bc9d0fbee4265bce4bca706032ac6"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "f3e4481e1c9bd209afeb6afaa773e4cb9e3ab10a06eb12a0134aaf93d6b62f69"
+hash = "67bbc6f306200af958694f8511b16b568227cf4751225ad012776e2882379e00"
 metafile = true
 
 [[files]]

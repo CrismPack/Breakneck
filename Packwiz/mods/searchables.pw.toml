@@ -1,13 +1,13 @@
 name = "Searchables"
-filename = "Searchables-fabric-1.21.9-1.0.1.jar"
+filename = "Searchables-fabric-1.21.9-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/FuYthQPl/Searchables-fabric-1.21.9-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/WkSxSOMO/Searchables-fabric-1.21.9-1.0.2.jar"
 hash-format = "sha1"
-hash = "321713c41479e8946cfeb345dbae4ffbcaddedd3"
+hash = "710897a92ad415176502a2c04002ce7ece846e23"
 
 [update]
 [update.modrinth]
 mod-id = "fuuu3xnx"
-version = "FuYthQPl"
+version = "WkSxSOMO"
