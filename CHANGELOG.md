@@ -7,9 +7,9 @@
 
 # Changelog - 1.21.9
 
-## v4.9.0-alpha.2 <Badge type='warning' text='Work in progress'/> <a href='#v4.9.0-alpha.2' id='v4.9.0-alpha.2'></a>
+## v4.9.0-alpha.2 <a href='#v4.9.0-alpha.2' id='v4.9.0-alpha.2'></a>
 
-<a href='https://github.com/CrismPack/Breakneck/blob/1.21.9/Changelogs/changelog_mods_4.9.0-alpha.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.17.2'/>
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.9/Changelogs/changelog_mods_4.9.0-alpha.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric Loader 0.17.2'/><Badge type='info' text='2025-10-05'/>
 
 ::: warning
 This is a pre-release. Here be dragons!
