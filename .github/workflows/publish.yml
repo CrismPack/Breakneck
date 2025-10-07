@@ -9,8 +9,8 @@ env:
   CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
   GITHUB_TOKEN: ${{secrets.PUBLISH_GITHUB_TOKEN}}
 
-  MC_VERSION: 1.21.9
-  RELEASE_TYPE: alpha
+  MC_VERSION: 1.21.10
+  RELEASE_TYPE: beta
   PRE_RELEASE: true
 permissions:
   contents: write

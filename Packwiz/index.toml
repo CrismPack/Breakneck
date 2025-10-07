@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "e3a2ce7fbe6e72000f4ef3efb8524c4711911f3ac3c4774d5d8933eb9363d4c7"
+hash = "f87cb067b99f06e63077b4775c5adc2d744262f9ad7d9a3da10f72a8e7993de6"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -34,7 +34,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a1ad5a2574e0f148c1a8d4e2671b724ab93f846663a3b021de93c87b6d842661"
+hash = "1469b644a8a1db5cb64aae792bd96a6e37d307236f76a0e604440944a1f0ea9c"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -182,7 +182,7 @@ hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
 
 [[files]]
 file = "mmc-pack.json"
-hash = "6b2fdde82a7ce2ad8bfe9b486f5d144f110783b470f73962ce42622f79dc5b26"
+hash = "c13b7ab6541eec25b17a53f190273034e74736157cd2233f0ba33ea3bc5803e9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "293d0380442baa6845469006811af1026ad573a8add43e0b12d312ea81169445"
+hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "8f1b39ab3d8087cc7cae46aa70089abc59635f9c121acd5e6a77e501394ec975"
+hash = "639d1e087044f56c3d414841a577d00030e6f5c057540d9a33f4c1cde98e0437"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "081c7675a6b8a33144621905a9e16d106b9d2ce5a884f02b3adf1c88bb0a1b79"
+hash = "cc6214db776bf19e920ba42ff6add6a9e61ea1e37dc8445607d40af90525c8eb"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2d2571f496413634d64f2e7e0d03c8980f9586981a7635170fcd7abad05b667b"
+hash = "368b538e311c20808f1914e79813285259715b6cebee22484c53be233e1e8553"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "79715bfc2e9c856532cb5df2982d18fb17818ec8f3546c801b0bfd4dad514eb1"
+hash = "0508f8abfb543e3c2dfc5f48ffeb53beec055b79bf111e580ffbb11f244327cc"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "1ebb162e0bbd99ec3bc6b595bb0575377afa5329f0d988db260b5222c5941aeb"
+hash = "9bc75ee4ce5592cc6d40b33f6ce010a8b4731065dc6e64b1fd4c8025a1bdf0db"
 metafile = true
 
 [[files]]
@@ -381,12 +381,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "a597ea8f48123c3f08e2fc4f4d08dfe80ade2e02d3e7e704dcf404f9428c4b60"
+hash = "49f3320f5bf6cb12dc8280e62d8481379d8bb304c6dc3ddebb84aa0df19fe3d9"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "741280206f59e931e6cf73e66d304460b5f264372503ee9b7fbede56aec68f75"
+hash = "50646a95ec0335312d29e866ea61e956e585a97b43ee0e0fa862eb2e0e903f25"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "33ef54b98586efebf9f3afbbdb4789e9b384940a3c60b43c3cd7a3a05363b66f"
+hash = "f1d73d7f9dfe612183c92044578ec1a0a6823f4e940562992c0a103ba881f344"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c2164560ab5810fb751f78cdf3eb4c62a2200156e405736def2fcec25df70cf2"
+hash = "474e010e63368728a5db08c8f526f76960d9ca7acba3984b3373243d8d750b95"
 metafile = true
 
 [[files]]
@@ -451,17 +451,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "88e06cbaae71f1604288b598be1c654d252e27fbb818911f6f5f3f465544ac9c"
+hash = "a2f4e50269d83c5f1e34c0ebe9b6307e572ab54d678c0fa19f8bd0a2ff2da6f4"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "f24654e31f1057c931b3d54560f368fd112637f6634a42c2f76e4bed715d08be"
+hash = "cf2220acf2150dd1bd105c354ce93eeac513fd358e05105826550d73a5425afc"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ea111a9278989d1c18b7a825e822a0be3b85e563c5709e6f7d0540617216f11d"
+hash = "c983980bfb5cefc6f7ee5dbd6d6909bb2b37c543cd0fe05354e4f3f3ee2149f0"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "d9aaea799542fd31cfbdbcac41d8bc61759ebdf0e0e1c22c2d974ba890df4bb5"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "fcbc66bf8011a220104ddd8737aae7d2fae06669750bd032d1d18a7b1463cfb8"
+hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "a37798efecc706bc4a0e824200610b9d233bc9d0fbee4265bce4bca706032ac6"
+hash = "dc24a4cc0ad484d6593997c197ea602fac4d98c45dab0de6421e704c3851acd9"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f46b256d2ff088376ecf0b5f18895bef707bf4a6ee1980a1796f7e762306c480"
+hash = "c97f8bc166c5a24086a037ee2cc53a61a556d0d969662b7f1c91ae7d175a7d1b"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "6a43c09c842a2606ef38def55ae68066732713b6d543528abbe69ae3f3d9552d"
+hash = "e3afd549aeb88c91a2e5b245d960382dd12e94391d69d26eb108d54e7fe0fb9a"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "876b67bfae8417de863fc5aad97e33272a8612ab389abf0dd1a1152e1dbc9e0a"
+hash = "85c1b784c903510bfe0ee04c2ba98821caf3a24ef0a9316a85a5381db211a58b"
 metafile = true
 
 [[files]]
