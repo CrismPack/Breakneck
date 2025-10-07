@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
+hash = "4ea0e9acbc8f7b15eb2490049543d022793969f9c88f346cfadaec969daa94e7"
 metafile = true
 
 [[files]]
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+hash = "ff65e1878eea7f576685b9893b8dd6652648f35c0760daa3f32f9fa63ee119c1"
 metafile = true
 
 [[files]]
