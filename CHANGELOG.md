@@ -47,3 +47,7 @@ This is a pre-release. Here be dragons!
 - Iris Shaders
 - Shulker Box Tooltip
 - Simple Voice Chat
+
+### Config Changes 📝
+
+- Changed dependency override for lithium, viafabricplus, ambientenvironment & forgeconfigapiport: `Fabric Loader`

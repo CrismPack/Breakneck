@@ -27,12 +27,32 @@
                 "minecraft": ""
             }
         },
-        "controlling": {
+        "lithium": {
             "-depends": {
                 "minecraft": ""
             }
         },
-        "raised": {
+        "viafabricplus": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "searchables": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "ambientenvironment": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "forgeconfigapiport": {
+            "-depends": {
+                "minecraft": ""
+            }
+        },
+        "controlling": {
             "-depends": {
                 "minecraft": ""
             }

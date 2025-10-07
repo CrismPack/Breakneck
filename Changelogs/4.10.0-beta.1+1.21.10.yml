@@ -1,5 +1,5 @@
 version: 4.10.0-beta.1
-mc_version: 1.21.10 # Keep it at 1.21.9, due to it only being a bugfix update. This way it stays on the same changelog.
+mc_version: 1.21.10
 
 Fabric version: 0.17.2
 Update overview:
@@ -7,3 +7,4 @@ Update overview:
 - Updated and re-added some mods that have become available for 1.21.10.
 
 Config Changes: |
+  - Changed dependency override for lithium, viafabricplus, ambientenvironment & forgeconfigapiport: [Fabric Loader]
