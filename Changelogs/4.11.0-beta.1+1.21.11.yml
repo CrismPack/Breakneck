@@ -1,0 +1,8 @@
+version: 4.11.0-beta.1
+mc_version: 1.21.11
+
+Fabric version: 0.18.4
+Update overview:
+  - Updated to Minecraft 1.21.11.
+
+Config Changes: |

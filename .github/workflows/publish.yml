@@ -9,7 +9,7 @@ env:
   CURSEFORGE_TOKEN: ${{secrets.CURSEFORGE_TOKEN}}
   GITHUB_TOKEN: ${{secrets.PUBLISH_GITHUB_TOKEN}}
 
-  MC_VERSION: 1.21.10
+  MC_VERSION: 1.21.11
   RELEASE_TYPE: beta
   PRE_RELEASE: true
 permissions:
@@ -22,32 +22,32 @@ jobs:
     environment: github-actions
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-    - name: Download pack files
-      uses: robinraju/release-downloader@v1.11
-      id: download-files
-      with:
-        fileName: '*.zip'
-        latest: true
-        tarBall: false
-        zipBall: false
-        preRelease: ${{env.PRE_RELEASE}}
+      - name: Download pack files
+        uses: robinraju/release-downloader@v1.11
+        id: download-files
+        with:
+          fileName: '*.zip'
+          latest: true
+          tarBall: false
+          zipBall: false
+          preRelease: ${{env.PRE_RELEASE}}
 
-    - name: Publish to CurseForge
-      uses: Kir-Antipov/mc-publish@v3.3
-      with:
-        name: Breakneck v${{steps.download-files.outputs.tag_name}} for 
-          ${{env.MC_VERSION}}
-        changelog-file: CurseForge-Release.md
+      - name: Publish to CurseForge
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          name: Breakneck v${{steps.download-files.outputs.tag_name}} for 
+            ${{env.MC_VERSION}}
+          changelog-file: CurseForge-Release.md
 
-        curseforge-id: 579074
-        curseforge-token: ${{env.CURSEFORGE_TOKEN}}
-        curseforge-files: '*.zip'
+          curseforge-id: 579074
+          curseforge-token: ${{env.CURSEFORGE_TOKEN}}
+          curseforge-files: '*.zip'
 
-        loaders: fabric
-        game-versions: ${{env.MC_VERSION}}
+          loaders: fabric
+          game-versions: ${{env.MC_VERSION}}
 
 
   publish-to-modrinth:
@@ -56,30 +56,30 @@ jobs:
     environment: github-actions
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-    - name: Download pack files
-      uses: robinraju/release-downloader@v1.10
-      id: download-files
-      with:
-        fileName: '*.mrpack'
-        latest: true
-        tarBall: false
-        zipBall: false
-        preRelease: ${{env.PRE_RELEASE}}
+      - name: Download pack files
+        uses: robinraju/release-downloader@v1.10
+        id: download-files
+        with:
+          fileName: '*.mrpack'
+          latest: true
+          tarBall: false
+          zipBall: false
+          preRelease: ${{env.PRE_RELEASE}}
 
-    - name: Publish to Modrinth
-      uses: Kir-Antipov/mc-publish@v3.3
-      with:
-        name: Breakneck v${{steps.download-files.outputs.tag_name}} for 
-          ${{env.MC_VERSION}}
-        changelog-file: Modrinth-Release.md
+      - name: Publish to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          name: Breakneck v${{steps.download-files.outputs.tag_name}} for 
+            ${{env.MC_VERSION}}
+          changelog-file: Modrinth-Release.md
 
-        modrinth-id: qPrWu8wn
-        modrinth-featured: false
-        modrinth-token: ${{env.MODRINTH_TOKEN}}
-        modrinth-files: '*.mrpack'
+          modrinth-id: qPrWu8wn
+          modrinth-featured: false
+          modrinth-token: ${{env.MODRINTH_TOKEN}}
+          modrinth-files: '*.mrpack'
 
-        loaders: fabric
-        game-versions: ${{env.MC_VERSION}}
+          loaders: fabric
+          game-versions: ${{env.MC_VERSION}}
