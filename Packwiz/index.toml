@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2c607ce14494a35795532d9cf07c0bcba177e7b5756accf99e438ee2286c9e55"
+hash = "b50b0cd244c473886b4298c4c755e8992055e8cf5033d1a736eb6df39fb5fddc"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -34,7 +34,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "aaad30f49146091328e443b4d75c3e2c0b5591a76a8aa752032914415d1a2eed"
+hash = "37e995d09be10512b520d8bb9b794a78f93e4b825bc8693dc3708dc476b978b1"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -290,8 +290,8 @@ hash = "b730e525312bb6ca26585a24b11f32535aa9e2a8a5ff73d90468489f00b61804"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough2.0.pw.toml"
-hash = "6a3667c735d5eaecf1173d263f4e85ed78f97b8f9750d70d60c76744b718bfe9"
+file = "mods/clickthrough+.pw.toml"
+hash = "4bc421c9867393e643ec08d49e005071c70ec911d77adf39e89ba84439167437"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "74d4c94cff9b02f0149e9e96f8af1822de87ea1c0b05d0cf4ce9249637faa712"
+hash = "592f24780391d339238558cc8505e9bb965595b9f3b03166618b0da11db42325"
 metafile = true
 
 [[files]]

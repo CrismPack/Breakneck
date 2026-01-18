@@ -1,12 +1,12 @@
 name = "Breakneck"
 author = "HaXr"
-version = "4.11.0-beta.1"
+version = "4.11.0-beta.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c48c873ea560de2a879b2f6adff5f55ec211fe17e38d027366ff77beb1e3bf55"
+hash = "21e6ab25c1152548e8278745afba82ebe5f13d527476adbe65b05af23e0c12cb"
 
 [versions]
 fabric = "0.18.4"
