@@ -15,9 +15,33 @@
 This is a pre-release. Here be dragons!
 :::
 
+### Update Overview ⭐
+
+- Updated mods and resource packs.
+- Readded some mods that were temporarily removed.
+
 ### Added Mods ✅
 
+- 3D Skin Layers
+- Cherished Worlds
 - ClickThrough Plus
+- Continuity
+- Debugify
+- e4mc
+- FastQuit
+- Fzzy Config
+- ItemSwapper
+- Language Reload
+- No Chat Reports
+- Not Enough Animations
+- Numeral Ping
+- Paginated Advancements & Custom Frames
+- Particle Core
+- Polytone
+- Roughly Enough Items
+- Resource Pack Overrides
+- Wavey Capes
+- Zoomify
 
 ### Removed Mods ❌
 
