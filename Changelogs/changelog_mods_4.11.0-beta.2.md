@@ -20,10 +20,12 @@
 - Polytone
 - Roughly Enough Items
 - Resource Pack Overrides
+- voxy
 - Wavey Capes
 - Zoomify
 ## Removed
 
+- Bobby
 - Controlify
 ## Modified
 

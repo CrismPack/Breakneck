@@ -34,7 +34,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "958745bd5e14bb46af2fe5df6fb135f40ee73aad11e97b4c49d3cacb2a523d9a"
+hash = "92bb88e2773614bae5eea1017b7fcd6c41e037c8c203abc145f8924da08b8f83"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -222,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "45e242e68f04881a1d0b1279ceb117eabdccfe68e48a3a91fccd0ab00b330743"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "5e097f95b8818e0999b4e867351745441f90c9bcf2a9c68cd19d5d708da4a4a1"
 metafile = true
 
 [[files]]
@@ -732,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "26ef42ac859897c373a9b1556db154a0d227e2399a11cbcafde5e7ed8a7969b4"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "eccf0403881be365c1b79457210ddd0c07f605155c87d07a40739e06c537dd7e"
 metafile = true
 
 [[files]]

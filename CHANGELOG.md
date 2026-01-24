@@ -40,11 +40,13 @@ This is a pre-release. Here be dragons!
 - Polytone
 - Roughly Enough Items
 - Resource Pack Overrides
+- voxy
 - Wavey Capes
 - Zoomify
 
 ### Removed Mods ❌
 
+- Bobby
 - Controlify
 
 ## v4.11.0-beta.1 <a href='#v4.11.0-beta.1' id='v4.11.0-beta.1'></a>
