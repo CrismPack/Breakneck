@@ -28,6 +28,7 @@ This is a pre-release. Here be dragons!
 - Continuity
 - Debugify
 - e4mc
+- Enchantment Descriptions
 - FastQuit
 - Fzzy Config
 - ItemSwapper
@@ -38,8 +39,10 @@ This is a pre-release. Here be dragons!
 - Paginated Advancements & Custom Frames
 - Particle Core
 - Polytone
+- Prickle
 - Roughly Enough Items
 - Resource Pack Overrides
+- ThreadTweak
 - voxy
 - Wavey Capes
 - Zoomify
@@ -47,7 +50,6 @@ This is a pre-release. Here be dragons!
 ### Removed Mods ❌
 
 - Bobby
-- Controlify
 
 ## v4.11.0-beta.1 <a href='#v4.11.0-beta.1' id='v4.11.0-beta.1'></a>
 

@@ -1,13 +1,13 @@
 name = "Breakneck Menu"
-filename = "breakneckmenu-fabric-1.2.0+mc1.21.3.jar"
+filename = "breakneckmenu-1.3.0+mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eZlpOTxM/versions/PgiMmrRA/breakneckmenu-fabric-1.2.0%2Bmc1.21.3.jar"
-hash-format = "sha1"
-hash = "5db3c4f8eb0285d3aabc5a2bbcc82091b3c88144"
+url = "https://cdn.modrinth.com/data/eZlpOTxM/versions/4mszg0dE/breakneckmenu-1.3.0%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "a61a56e74923f4af0ba72f28b850116477628b9bae07855ab5a92656c5a58593e720f2ca2dea0409aa30009811ec74e30b9a22e6055f00d8e4d41e0bf42a8dd6"
 
 [update]
 [update.modrinth]
 mod-id = "eZlpOTxM"
-version = "PgiMmrRA"
+version = "4mszg0dE"
