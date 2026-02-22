@@ -47,6 +47,7 @@
 - **Persistent Inventory Search**: Changed from `persistentinventorysearch-1.21.9-1.6.jar` to `persistentinventorysearch-1.21.11-1.6.jar`
 - **Raised**: Changed from `raised-fabric-1.21.9-5.0.2.jar` to `raised-fabric-1.21.11-5.1.2.jar`
 - **Reese's Sodium Options**: Changed from `reeses-sodium-options-fabric-1.8.5+mc1.21.9.jar` to `reeses-sodium-options-fabric-2.0.2+mc1.21.11.jar`
+- **Replanter Plus**: Changed from `replanter-plus-2.3.3.jar (hash d4b91ead7424)` to `replanter-plus-2.3.3.jar (hash 1f9b34dc7e01)`
 - **Resourcify**: Changed from `Resourcify (1.21.9-fabric)-1.7.4.jar` to `Resourcify (1.21.11-fabric)-1.7.6.jar`
 - **Remove Reloading Screen**: Changed from `rrls-5.1.11+mc1.21.9-fabric.jar` to `rrlsFabric-5.1.14+mc.1.21.11.jar`
 - **Searchables**: Changed from `Searchables-fabric-1.21.9-1.0.2.jar` to `Searchables-fabric-1.21.11-1.0.2.jar`
