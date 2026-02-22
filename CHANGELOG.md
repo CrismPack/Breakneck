@@ -66,6 +66,7 @@ This is a pre-release. Here be dragons!
 
 ### Config Changes 📝
 
+- Removed config file breakneckmenu.json5: `Breakneck Menu`.
 - Removed config file entity_model_features.json: `Entity Model Features`.
 - Removed config file entity_texture_features.json: `Entity Texture Features`.
 - Added "file/FreshAnimations_v1.10.3.zip" to default_packs: `Resource Pack Overrides`

@@ -1,6 +1,6 @@
 {
 	"enableMod": true,
-	"coloredText": false,
+	"coloredText": true,
 	"buttonsEnabled": true,
 	"buttonMode": 2
 }

@@ -25,10 +25,6 @@ file = "config/brb.toml"
 hash = "318c79f21e7d96b630f57670edfb734110656a72a4a0c492f1b8865e7ab5510b"
 
 [[files]]
-file = "config/breakneckmenu.json5"
-hash = "73d5da6efd9d21f1e54903e70c6ba1582bfb5a68b60c010b409d4e190b08d80e"
-
-[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
@@ -95,6 +91,10 @@ hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
 [[files]]
 file = "config/yosbr/config/TrueDarknessRefabricated.json5"
 hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
+
+[[files]]
+file = "config/yosbr/config/breakneckmenu.json5"
+hash = "46c3121695f56e07d48d17e994ee858154f1b5d788041a7c6c1d8632931bfe63"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/assets/minecraft/lang/en_us.json"
-hash = "a00733cd844075b6f8c8c750e4f4d9d0430de6453c81a98cb165fa217a0fcc87"
+hash = "759a93356ad206da8702efec413ab7f933f16fdc8cbc73c1eafb6659d622d5a6"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.mcmeta"
