@@ -1,0 +1,121 @@
+# Mod List
+
+## Active Mods
+- 3D Skin Layers
+- Ambient Environment
+- AppleSkin
+- Architectury API
+- Balm
+- Branded Logs
+- Breakneck Menu
+- Concurrent Chunk Management Engine
+- Capes
+- Chat Heads
+- Cherished Worlds
+- ClickThrough Plus
+- Client Tweaks
+- Cloth Config API
+- Collective
+- Continuity
+- Controlify
+- Controlling
+- Crash Assistant
+- CraterLib
+- Cubes Without Borders
+- Custom Window Title
+- Debugify
+- Dynamic FPS
+- e4mc
+- Enchantment Descriptions
+- Entity Model Features
+- Entity Texture Features -
+- Fabric API
+- Fabric Language Kotlin
+- Falling Leaves
+- FastQuit
+- FerriteCore
+- Forge Config API Port
+- Fzzy Config
+- ImmediatelyFast
+- Inventory Profiles Next
+- Iris Shaders
+- ItemSwapper
+- LambdaBetterGrass
+- LambDynamicLights
+- Language Reload
+- libIPN
+- Lithium
+- MixinTrace
+- Mod Menu
+- More Culling
+- Mouse Tweaks
+- No Chat Reports
+- Not Enough Animations
+- Numeral Ping
+- OptiGUI
+- Paginated Advancements & Custom Frames
+- Particle Core
+- Persistent Inventory Search
+- Polytone
+- Prickle
+- Raised
+- Reese's Sodium Options
+- Roughly Enough Items
+- Replanter Plus
+- Resource Pack Overrides
+- Resourcify
+- ScalableLux
+- Searchables
+- Shulker Box Tooltip
+- Simple Discord RPC
+- Simple Voice Chat
+- Sodium Extra
+- Sodium
+- StackDeobfuscator
+- Status Effect Bars
+- Suggestion Tweaker
+- ThreadTweak
+- ViaFabricPlus
+- voxy
+- Wavey Capes
+- Xaero's World Map
+- YetAnotherConfigLib
+- Your Options Shall Be Respected
+- Zoomify
+
+## Inactive Mods
+- Animatica
+- Better Taskbar
+- Better Third Person
+- Bookshelf
+- Better Recipe Book
+- CIT Resewn
+- CleanView
+- ClearDespawn
+- Detail Armor Bar
+- Eating Animation
+- Enhanced Block Entities
+- Equipment Compare
+- Exordium
+- FabricSkyBoxes Interop
+- FabricSkyboxes
+- Iceberg
+- Krypton
+- Legendary Tooltips
+- Map Tooltip
+- Model Gap Fix
+- ModernFix
+- Modern KeyBinding
+- Name Pain
+- Noisium
+- Nvidium
+- ObsidianUI
+- Prism
+- Roughly Enough Professions
+- Remove Reloading Screen
+- RyoamicLights
+- Screenshot to Clipboard
+- Server Country Flags
+- Tool Stats
+- True Darkness Refabricated
+- Xaero's Minimap

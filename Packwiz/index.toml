@@ -34,7 +34,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6d2aca53f6daef494aa9867eb19d77a223666b699c17842984d33960ba43ff3a"
+hash = "811c2d780af091023de8f97edcacf83152ef3b4b6e0cc8c00189831b74b5903f"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -47,14 +47,6 @@ hash = "f115037f419e4a855097cea3926aac3f2fdabdf0b39548350adc983877144a55"
 [[files]]
 file = "config/debugify.json"
 hash = "9f265217978559e3b9e382bfadc173e35ff265f4ea5450c0f110e8cc57d21708"
-
-[[files]]
-file = "config/entity_model_features.json"
-hash = "392a955315c034ca833d8163ac8d525eda212c3454308e6c5cf52e3f6acb9f44"
-
-[[files]]
-file = "config/entity_texture_features.json"
-hash = "77ca3059e73ab40c271013ec3719328cb1c71139387a1986dcc452ebee0a5400"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -78,7 +70,7 @@ hash = "34b07e50bf423552d94c1714370f1cd6eb3b5c51d4f5010a2f2fe3dd985b4ccf"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a4eefb30232137b5cfaa4ef023fdfc1a67df44916b9e28eb69d044ea45f95a0b"
+hash = "e2e914f41a6c382571e3fd574d7897a876cfb2f8adcd4519b0200e355ea3db4a"
 
 [[files]]
 file = "config/resourcify.json"
@@ -246,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+hash = "fb57a30eb33e8207f665698fb3e1033fcd9b98057c0737c123b1c19b6abad202"
 metafile = true
 
 [[files]]
@@ -371,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "4a6764ad1c7492e40722fb6dbce7b0d48a57de1833e071cffccba6e6d0853c1a"
+hash = "2a1aa06027ce0a125972633129f9797803815d62c5c0d74028f0f0033feaf521"
 metafile = true
 
 [[files]]
@@ -591,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b30fc540be7e8d96d37209585e2cbf2459566b760d656c10712e0b3e2597f42f"
+hash = "59a0d75570f7ad8a2809ad6f9247b83deab41d82044945e2457b3c62b13443e2"
 metafile = true
 
 [[files]]
@@ -641,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "69a9d6b97f3c640ca5363d701deadf14781231e71dde3d62acbeee6245201f48"
+hash = "d4ca776d2477a7764acd8d3dba8f97428df4d6c957dd34527d896f9fc1be06e3"
 metafile = true
 
 [[files]]
@@ -777,8 +769,17 @@ file = "resourcepacks/Breakneck Lang/pack.png"
 hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
+file = "resourcepacks/FA+Player-vJE.zip"
+hash = "eb4dc993e8764b3762a1e56ec3e8714a295fd0061b815f99da2e1cd467456062"
+
+[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
 metafile = true
 
 [[files]]
@@ -799,11 +800,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "a16e99bb12aedc0c132a6c4093e045294d0be708711c4f0a92c9dd8c773c998e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "b6bc9b2b332e123f6aa9820b993b6b1097c068f9862a4081d71bc4f34c5d1a57"
 metafile = true
 
 [[files]]

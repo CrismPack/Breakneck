@@ -19,8 +19,10 @@ This is a pre-release. Here be dragons!
 
 - Added 'ClickThrough Plus' & 'voxy' mods.
 - Re-added some mods that have become available for 1.21.11.
-- Removed 'Bobby' mod.
+- Removed 'Bobby' & 'Remove Reloading Screen' mods.
 - Updated mods, resource packs, & shaderpacks.
+- Added 'Fresh Animations: Player Extension' resource pack.
+- Removed 'Fresh Moves' resource pack.
 
 ### Added Mods ✅
 
@@ -49,9 +51,26 @@ This is a pre-release. Here be dragons!
 - Wavey Capes
 - Zoomify
 
+### Added Resource Packs 📦
+
+- Fresh Animations: Player Extension
+
 ### Removed Mods ❌
 
 - Bobby
+- Remove Reloading Screen
+
+### Removed Resource Packs ❌
+
+- Fresh Moves
+
+### Config Changes 📝
+
+- Removed config file entity_model_features.json: `Entity Model Features`.
+- Removed config file entity_texture_features.json: `Entity Texture Features`.
+- Added "file/FreshAnimations_v1.10.3.zip" to default_packs: `Resource Pack Overrides`
+- Added "file/FA+Player-v1.0.zip" to default_packs: `Resource Pack Overrides`
+- Added "file/FA+Player-vJE.zip" to default_packs and pack_overrides.1: `Resource Pack Overrides`
 
 ## v4.11.0-beta.1 <a href='#v4.11.0-beta.1' id='v4.11.0-beta.1'></a>
 

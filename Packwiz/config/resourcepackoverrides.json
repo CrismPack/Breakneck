@@ -6,6 +6,9 @@
   "default_packs": [
     "minecraft:supporteatinganimation",
     "breakneckmenu:breakneckmenu",
+    "file/FreshAnimations_v1.10.3.zip",
+    "file/FA+Player-v1.0.zip",
+    "file/FA+Player-vJE.zip",
     "file/JustExpressions_v1.1.zip",
     "file/Chat Reporting Helper.zip",
     "file/SodiumTranslations.zip",
@@ -30,6 +33,7 @@
     },
     // Force Enabled
     "1": [
+      "file/FA+Player-vJE.zip",
       "file/JustExpressions_v1.1.zip",
       "file/Chat Reporting Helper.zip",
       "file/SodiumTranslations.zip",

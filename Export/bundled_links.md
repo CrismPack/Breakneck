@@ -1,6 +1,7 @@
 Sources for bundled mods:
 
-GitHub links
-* [Shulker Box Tooltip [Fabric/Forge/NeoForge]](https://github.com/MisterPeModder/ShulkerBoxTooltip)
+
+Other links
+* FA+Player-vJE (link unknown)
 
 Always check the licenses to see if they allow distribution!
