@@ -66,12 +66,13 @@ This is a pre-release. Here be dragons!
 
 ### Config Changes 📝
 
-- Removed config file breakneckmenu.json5: `Breakneck Menu`.
 - Removed config file entity_model_features.json: `Entity Model Features`.
 - Removed config file entity_texture_features.json: `Entity Texture Features`.
+- Moved breakneckmenu.json5 to be handled by YOSBR: `Breakneck Menu`
 - Added "file/FreshAnimations_v1.10.3.zip" to default_packs: `Resource Pack Overrides`
 - Added "file/FA+Player-v1.0.zip" to default_packs: `Resource Pack Overrides`
 - Added "file/FA+Player-vJE.zip" to default_packs and pack_overrides.1: `Resource Pack Overrides`
+- Changed default "coloredText" to true: `Breakneck Menu`
 
 ## v4.11.0-beta.1 <a href='#v4.11.0-beta.1' id='v4.11.0-beta.1'></a>
 
