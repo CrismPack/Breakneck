@@ -213,13 +213,19 @@ Following settings were used:
 
 <p>&nbsp;</p>
 
+
+
+<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
+<code>Licencing Notice: 
+This modpack is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed">[CC-BY 4.0]</a>. Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
+</code></p>
+
+<p>&nbsp;</p>
+
 <!--Crism Banner-->
 <p style="text-align: center;">
 	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png"/>
 </p>
-
-> ### Licencing Notice
-> This modpack is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed). Meaning that you may use it as a base to create your own modpack, as long as proper credit is given.
 
 
 <h1 style="text-align: center; font-size: 24px; font-family: 'impact'">

@@ -15,9 +15,6 @@
 	<a href="https://bisecthosting.com/CRISM">
 		<img src="https://img.shields.io/badge/-get%20a%20server-e66433?labelColor=672a14&style=for-the-badge&logo=image/png;base64,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" height="28"
 		/></a>
-	<a href="https://ko-fi.com/HaXr_dev" rel="nofollow">
-		<img src="https://img.shields.io/static/v1?label=&message=Support&color=e66433&labelColor=672a14&style=for-the-badge&logo=kofi&logoColor=white" height="28"
-		/></a>
 </p></center>
 
 
@@ -301,7 +298,7 @@ Following settings were used:
 ![CrismPack Spacer](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png)
 
 > ### Licencing Notice
-> This modpack is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed). Meaning that you may use it as a base to create your own modpack, as long as proper credit is given.
+> This modpack is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed). Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
 
 <br>
 
