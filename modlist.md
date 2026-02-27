@@ -17,7 +17,7 @@
 - Cloth Config API
 - Collective
 - Continuity
-- Controlify
+- Controllable
 - Controlling
 - Crash Assistant
 - CraterLib
@@ -35,6 +35,7 @@
 - FastQuit
 - FerriteCore
 - Forge Config API Port
+- Framework
 - Fzzy Config
 - ImmediatelyFast
 - Inventory Profiles Next

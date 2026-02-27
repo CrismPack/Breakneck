@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "811c2d780af091023de8f97edcacf83152ef3b4b6e0cc8c00189831b74b5903f"
+hash = "746ac826738f417272510c5aae0a80699ff3ae21207ddea781ef04c9dedfa06a"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -66,7 +66,7 @@ hash = "34b07e50bf423552d94c1714370f1cd6eb3b5c51d4f5010a2f2fe3dd985b4ccf"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e2e914f41a6c382571e3fd574d7897a876cfb2f8adcd4519b0200e355ea3db4a"
+hash = "5fda51715084fe8200d9672c9a569f94d7dc3caf2ee8b4a768da859f7f2c0663"
 
 [[files]]
 file = "config/resourcify.json"
@@ -103,6 +103,10 @@ hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
 [[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "9f0777b9c78d4461bc0d585d92ecb87a80f266ad6c0a5d5fac90b58b31d993b8"
+
+[[files]]
+file = "config/yosbr/config/controllable-client.toml"
+hash = "5b019d292bc4930d878582ceedc8d463224551a73ea0ee7383faaea1fd9a9292"
 
 [[files]]
 file = "config/yosbr/config/darkness.json5"
@@ -178,7 +182,7 @@ hash = "ca6869ae7dfb42476628d633e41c3749899fc1f7c3b16e11d693c517af64a322"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
+hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
 metafile = true
 
 [[files]]
@@ -297,8 +301,8 @@ hash = "3e08f5e14084922c7c54ac0a19403b3aefe1185bd3bd7ea6357914b5859acbf5"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "24680de995851d23acd91ab343bf74b51355bb719823c7c34a653f98e2c5b0d4"
+file = "mods/controllable.pw.toml"
+hash = "ac66bae9088b105ebc868f20296f3e3b2c99c50d8dab37cc157db1a0c96e3eaf"
 metafile = true
 
 [[files]]
@@ -422,6 +426,11 @@ hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "ca16eaf9e6d3694b518371d1b4f2ba2140b056d228a1b497b0c0401f88555526"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
@@ -443,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9534d4adc1b7a901ff0c28cfc61acbe42f7681ecffac1a0c8a3c78ee3b953348"
+hash = "0576b260fddc2723fdd15c046f043d2f43d756914d0c5cdcb6fc847d55ad301e"
 metafile = true
 
 [[files]]
@@ -583,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "59a0d75570f7ad8a2809ad6f9247b83deab41d82044945e2457b3c62b13443e2"
+hash = "44a47033d8f1e2d4ce103790ba8225c092be761030c1a422942fd464fbcc8f91"
 metafile = true
 
 [[files]]
@@ -683,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7fa050606a694a651d716188af044c4c0eb0519a51f08d4862da0fac597ab622"
+hash = "9a6072d78cb04d4abf2dc9e0a0d3e5545195f8eb68f21e514580c3eaa9745498"
 metafile = true
 
 [[files]]
@@ -723,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
+hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
 metafile = true
 
 [[files]]
@@ -784,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
