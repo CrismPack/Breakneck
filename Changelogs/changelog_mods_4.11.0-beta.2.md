@@ -54,5 +54,5 @@
 - **Shulker Box Tooltip**: Changed from `shulkerboxtooltip-fabric-5.2.14+1.21.11.jar` to `shulkerboxtooltip-fabric-5.2.15+1.21.11.jar`
 - **Simple Voice Chat**: Changed from `voicechat-fabric-1.21.11-2.6.11.jar` to `voicechat-fabric-1.21.11-2.6.12.jar`
 - **Sodium**: Changed from `sodium-fabric-0.8.2+mc1.21.11.jar` to `sodium-fabric-0.8.6+mc1.21.11.jar`
-- **ViaFabricPlus**: Changed from `ViaFabricPlus-4.4.2.jar` to `ViaFabricPlus-4.4.7.jar`
+- **ViaFabricPlus**: Changed from `ViaFabricPlus-4.4.2.jar` to `ViaFabricPlus-4.4.8.jar`
 - **Xaero's World Map**: Changed from `xaeroworldmap-fabric-1.21.11-1.40.6.jar` to `xaeroworldmap-fabric-1.21.11-1.40.11.jar`

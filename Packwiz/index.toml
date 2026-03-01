@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "746ac826738f417272510c5aae0a80699ff3ae21207ddea781ef04c9dedfa06a"
+hash = "660b0396bf388d8786d0cb0ed72cd0e13440e7a091f1f789adb16fbbf5e344de"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -66,7 +66,7 @@ hash = "34b07e50bf423552d94c1714370f1cd6eb3b5c51d4f5010a2f2fe3dd985b4ccf"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5fda51715084fe8200d9672c9a569f94d7dc3caf2ee8b4a768da859f7f2c0663"
+hash = "e2e914f41a6c382571e3fd574d7897a876cfb2f8adcd4519b0200e355ea3db4a"
 
 [[files]]
 file = "config/resourcify.json"
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "095c72f3e53174c217c4b6a8746e3e9ef51289ecb38ecb6e29db79800ff0c911"
+hash = "5e225351151fac68df34849dbe82b95f1c86e88d38acff0523246cff6cc7bd37"
 metafile = true
 
 [[files]]
@@ -808,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a16e99bb12aedc0c132a6c4093e045294d0be708711c4f0a92c9dd8c773c998e"
+hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
 metafile = true
 
 [[files]]

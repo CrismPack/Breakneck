@@ -71,15 +71,11 @@ This is a pre-release. Here be dragons!
 
 - Removed config file entity_model_features.json: `Entity Model Features`.
 - Removed config file entity_texture_features.json: `Entity Texture Features`.
-- Set "coloredText" to true for menu buttons: `Breakneck Menu`
+- Set "coloredText" to true for menu text: `Breakneck Menu`
 - Moved breakneckmenu.json5 to YOSBR so defaults are applied on first launch: `Breakneck Menu`
-- Updated default resource packs to include FreshAnimations and FA+Player: `Resource Pack Overrides`
-- Reordered force-enabled packs to prioritize FA+Player and JustExpressions: `Resource Pack Overrides`
-- Changed default pack list to include FreshAnimations_v1.10.3 and FA+Player variants: `Resource Pack Overrides`
-- Set "force_compatible" to true for all default pack overrides: `Resource Pack Overrides`
-- Removed "Chat Reporting Helper" from default packs and moved to force-enabled list: `Resource Pack Overrides`
-- Moved "file/JustExpressions_v1.1.zip" from default_packs to force-enabled list: `Resource Pack Overrides`
-- Adjusted pack order in force-enabled section to place FA+Player first: `Resource Pack Overrides`
+- Added FreshAnimations_v1.10.3 to default packs: `Resource Pack Overrides`
+- Added FA+Player-v1.0 to default packs: `Resource Pack Overrides`
+- Added FA+Player-vJE to default packs and pack_overrides.1: `Resource Pack Overrides`
 
 ## v4.11.0-beta.1 <a href='#v4.11.0-beta.1' id='v4.11.0-beta.1'></a>
 
