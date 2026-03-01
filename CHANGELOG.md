@@ -7,22 +7,20 @@
 
 # Changelog - 1.21.11
 
-## v4.11.0-beta.2 <Badge type='warning' text='Work in progress'/> <a href='#v4.11.0-beta.2' id='v4.11.0-beta.2'></a>
+## v4.11.0 <Badge type='warning' text='Work in progress'/> <a href='#v4.11.0' id='v4.11.0'></a>
 
-<a href='https://github.com/CrismPack/Breakneck/blob/1.21.11/Changelogs/changelog_mods_4.11.0-beta.2.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.18.4'/>
-
-::: warning
-This is a pre-release. Here be dragons!
-:::
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.11/Changelogs/changelog_mods_4.11.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.18.4'/>
 
 ### Update Overview ⭐
 
-- Added 'ClickThrough Plus', 'Controllable', 'Framework' & 'voxy' mods.
-- Re-added some mods that have become available for 1.21.11.
+- Added 'ClickThrough Plus', 'Controllable', 'Framework', 'Freecam', 'voxy' & 'Voxy WorldGen' mods.
+- Re-added some mods.
 - Removed 'Bobby', 'Controlify' & 'Remove Reloading Screen' mods.
-- Updated mods, resource packs, & shaderpacks.
+- Updated mods & resource packs.
 - Added 'Fresh Animations: Player Extension' resource pack.
 - Removed 'Fresh Moves' resource pack.
+- Added 'BSL Shaders', 'Glimmer', 'I Like Vanilla', 'Mellow', 'Photon Shaders', 'Reverie' & 'Solas Shader' shaderpacks.
+- Removed 'Complementary Shaders - Reimagined' & 'Complementary Shaders - Unbound' shaderpacks.
 
 ### Added Mods ✅
 
@@ -36,6 +34,7 @@ This is a pre-release. Here be dragons!
 - Enchantment Descriptions
 - FastQuit
 - Framework
+- Freecam
 - Fzzy Config
 - ItemSwapper
 - Language Reload
@@ -49,6 +48,7 @@ This is a pre-release. Here be dragons!
 - Roughly Enough Items
 - Resource Pack Overrides
 - ThreadTweak
+- Voxy WorldGen
 - voxy
 - Wavey Capes
 - Zoomify

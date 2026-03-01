@@ -36,6 +36,7 @@
 - FerriteCore
 - Forge Config API Port
 - Framework
+- Freecam
 - Fzzy Config
 - ImmediatelyFast
 - Inventory Profiles Next
@@ -77,6 +78,7 @@
 - Suggestion Tweaker
 - ThreadTweak
 - ViaFabricPlus
+- Voxy WorldGen
 - voxy
 - Wavey Capes
 - Xaero's World Map
@@ -87,7 +89,6 @@
 ## Inactive Mods
 - Animatica
 - Better Taskbar
-- Better Third Person
 - Bookshelf
 - Better Recipe Book
 - CIT Resewn
@@ -114,7 +115,6 @@
 - Prism
 - Roughly Enough Professions
 - Remove Reloading Screen
-- RyoamicLights
 - Screenshot to Clipboard
 - Server Country Flags
 - Tool Stats

@@ -1,14 +1,21 @@
-version: 4.11.0-beta.2
+version: 4.11.0
 mc_version: 1.21.11
 
+Mod loader: Fabric
+Mod loader version: 0.18.4
 Fabric version: 0.18.4
 Update overview:
-  - Added 'ClickThrough Plus', 'Controllable', 'Framework' & 'voxy' mods.
-  - Re-added some mods that have become available for 1.21.11.
+  - Added 'ClickThrough Plus', 'Controllable', 'Framework', 'Freecam', 'voxy' & 
+    'Voxy WorldGen' mods.
+  - Re-added some mods.
   - Removed 'Bobby', 'Controlify' & 'Remove Reloading Screen' mods.
-  - Updated mods, resource packs, & shaderpacks.
+  - Updated mods & resource packs.
   - Added 'Fresh Animations: Player Extension' resource pack.
   - Removed 'Fresh Moves' resource pack.
+  - Added 'BSL Shaders', 'Glimmer', 'I Like Vanilla', 'Mellow', 'Photon 
+    Shaders', 'Reverie' & 'Solas Shader' shaderpacks.
+  - Removed 'Complementary Shaders - Reimagined' & 'Complementary Shaders - 
+    Unbound' shaderpacks.
 Config Changes: |-
   - Removed config file entity_model_features.json: [Entity Model Features].
   - Removed config file entity_texture_features.json: [Entity Texture Features].
@@ -17,6 +24,3 @@ Config Changes: |-
   - Added FreshAnimations_v1.10.3 to default packs: [Resource Pack Overrides]
   - Added FA+Player-v1.0 to default packs: [Resource Pack Overrides]
   - Added FA+Player-vJE to default packs and pack_overrides.1: [Resource Pack Overrides]
-
-Mod loader: Fabric
-Mod loader version: 0.18.4

@@ -1,0 +1,7 @@
+{
+	"collision": {
+		"ignoreTransparent": true,
+		"ignoreOpenable": true,
+		"ignoreAll": false,
+	}
+}

@@ -6,5 +6,6 @@ GitHub links
 
 Other links
 * FA+Player-vJE (link unknown)
+* Photon-Shader-40adec3 (link unknown)
 
 Always check the licenses to see if they allow distribution!

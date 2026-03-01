@@ -1,0 +1,13 @@
+name = "Glimmer"
+filename = "Glimmer-v1.5.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PgdT4v4a/versions/1dD3KC4h/Glimmer-v1.5.2.zip"
+hash-format = "sha512"
+hash = "f6ed05514c3d2d2e380d1a891e4ed555cb41ccad61a80f041e10ccbf38928a64fce10a40cc5ea20518465a93cee888b7d680f5740ac3797500974d94bf3f2fa2"
+
+[update]
+[update.modrinth]
+mod-id = "PgdT4v4a"
+version = "1dD3KC4h"

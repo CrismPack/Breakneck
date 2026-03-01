@@ -3,13 +3,13 @@
 
 
 
-**This is a pre-release. Here be dragons!**
-
-- Added 'ClickThrough Plus', 'Controllable', 'Framework' & 'voxy' mods.
-- Re-added some mods that have become available for 1.21.11.
+- Added 'ClickThrough Plus', 'Controllable', 'Framework', 'Freecam', 'voxy' & 'Voxy WorldGen' mods.
+- Re-added some mods.
 - Removed 'Bobby', 'Controlify' & 'Remove Reloading Screen' mods.
-- Updated mods, resource packs, & shaderpacks.
+- Updated mods & resource packs.
 - Added 'Fresh Animations: Player Extension' resource pack.
 - Removed 'Fresh Moves' resource pack.
+- Added 'BSL Shaders', 'Glimmer', 'I Like Vanilla', 'Mellow', 'Photon Shaders', 'Reverie' & 'Solas Shader' shaderpacks.
+- Removed 'Complementary Shaders - Reimagined' & 'Complementary Shaders - Unbound' shaderpacks.
 
-**[[Full Changelog]](https://crismpack.net/breakneck/changelogs/1.21/1.21.11#v4.11.0-beta.2)**
+**[[Full Changelog]](https://crismpack.net/breakneck/changelogs/1.21/1.21.11#v4.11.0)**

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b50b0cd244c473886b4298c4c755e8992055e8cf5033d1a736eb6df39fb5fddc"
+hash = "7714793ee71a3c3ee550a638b1ec99343875094b3dc09e98d63927ac2d25646a"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "660b0396bf388d8786d0cb0ed72cd0e13440e7a091f1f789adb16fbbf5e344de"
+hash = "f7fccba2a62cf1903a197c1372ea1bf4f11bf3066f81ff6b73927d2cdee852fc"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -121,6 +121,10 @@ file = "config/yosbr/config/exordium.json"
 hash = "abcf55b8b8615b6b39cfec1fee7e51661629842f40f9929dd4027d650196890f"
 
 [[files]]
+file = "config/yosbr/config/freecam.json5"
+hash = "f763ff3f32f8fd2f6075f1edf5b8789939675a0534f0750a9f421bb81ac5fdb1"
+
+[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "9bcf335c32dad05406bfcb6a39d5f066a0e43f563db5f77c2a2df3d0dbb74c4b"
 
@@ -155,6 +159,10 @@ hash = "226ca89055d1fd168519eeeb45e326b8c955f446f73850a9e4db88ab50246d18"
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
+
+[[files]]
+file = "config/yosbr/config/voxyworldgenv2.json"
+hash = "00bc3b3e0b65484223c70311fee46b895be7bea99fbb96ab0b7746bf424e7fda"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -213,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/better-taskbar.pw.toml"
 hash = "6eb8df257259f5becf41444c126cfcdc98ce55f6dab0742d5ebbbc1db3222ae6"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "45e242e68f04881a1d0b1279ceb117eabdccfe68e48a3a91fccd0ab00b330743"
 metafile = true
 
 [[files]]
@@ -428,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "ca16eaf9e6d3694b518371d1b4f2ba2140b056d228a1b497b0c0401f88555526"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "11c608b6ef3ca111e9bccd9c4aeb8c47cf0b1f5db48054abc89d6a5f1a978aac"
 metafile = true
 
 [[files]]
@@ -646,11 +654,6 @@ hash = "d4ca776d2477a7764acd8d3dba8f97428df4d6c957dd34527d896f9fc1be06e3"
 metafile = true
 
 [[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "a63eb29ee0d4c0ca15d96b274be625fa6acb7dda02b404551c1d2517c2e3dae3"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "619b9c6bcaddcd4fe602a5f11614b53290c5217694b6dd3255217f62695d3d91"
 metafile = true
@@ -728,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "5e225351151fac68df34849dbe82b95f1c86e88d38acff0523246cff6cc7bd37"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "e7f29074af1c2c983b2658b79f2123184840e8a02868aa970a0c955b908452fb"
 metafile = true
 
 [[files]]
@@ -812,11 +820,40 @@ hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+file = "shaderpacks/Photon-Shaders-Voxy-40adec3.zip"
+hash = "8a0e0be7e959279a4b27cccc7fa5d3841a2d6401b0d0a889d01199d2d069f27e"
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+file = "shaderpacks/glimmer-shaders.pw.toml"
+hash = "84c1accef6768a316d35ea643f420a98183b01bd7948a314676315491b80ecbb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/i-like-vanilla.pw.toml"
+hash = "c358694da90bf770d9b4b83ffb4ce7a13d1b63db8d5a7e2715784646b9d96649"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "25368372c710a8a79626c472f38a659a70311b195798af97c14d68338d3c948c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "6dc1b6477a55d697de7e24e28d0456366ad3d6726d46a67a8fdffdf16d010a83"
+metafile = true
+
+[[files]]
+file = "shaderpacks/reverie_shader.pw.toml"
+hash = "2a1272baac67c447e5918960ef936e6c19ab53e777fb4a0fbe554f875bf0e497"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "4fc7f37b65f44ae8ba65a06c9031a9c654c0c1ad993ccbf6f7822d5b7ea98d37"
 metafile = true

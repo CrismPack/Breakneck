@@ -10,8 +10,8 @@ env:
   GITHUB_TOKEN: ${{secrets.PUBLISH_GITHUB_TOKEN}}
 
   MC_VERSION: 1.21.11
-  RELEASE_TYPE: beta
-  PRE_RELEASE: true
+  RELEASE_TYPE: release
+  PRE_RELEASE: false
 permissions:
   contents: write
 

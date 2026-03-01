@@ -1,4 +1,4 @@
-# Breakneck 4.11.0-beta.1 -> 4.11.0-beta.2
+# Breakneck 4.11.0-beta.1 -> 4.11.0
 
 ## Added
 
@@ -12,6 +12,7 @@
 - Enchantment Descriptions
 - FastQuit
 - Framework
+- Freecam
 - Fzzy Config
 - ItemSwapper
 - Language Reload
@@ -25,6 +26,7 @@
 - Roughly Enough Items
 - Resource Pack Overrides
 - ThreadTweak
+- Voxy WorldGen
 - voxy
 - Wavey Capes
 - Zoomify
