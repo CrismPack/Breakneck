@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "7714793ee71a3c3ee550a638b1ec99343875094b3dc09e98d63927ac2d25646a"
+hash = "a05e3ef75de2c9ccf3000eac4d10ead7e23d0d7d23017d8b13b8bb12118c7eee"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "f7fccba2a62cf1903a197c1372ea1bf4f11bf3066f81ff6b73927d2cdee852fc"
+hash = "0138c240d09b8e8b62ca9ccdd4f13df255d1dc1d8b1dfe9a081a810c054d0d31"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -162,7 +162,7 @@ hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
 
 [[files]]
 file = "config/yosbr/config/voxyworldgenv2.json"
-hash = "00bc3b3e0b65484223c70311fee46b895be7bea99fbb96ab0b7746bf424e7fda"
+hash = "aced67295604c32454cdf6190e284941dc193a1d58c9264869e2bf35894ede2f"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a4fa394020116893d1d6bbea9ef304fe3fea55348c81a7cd62de3ccba55adadd"
+hash = "a5f2425faf40b4a588130aa16045efc41afc81fa9cba91f368f2f66877a2bbfa"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "9cf3e91115c2a42282ccc3c6bebdb2f053d6cb4fc0d97656c7cf0c60e3d346f1"
+hash = "7f7300748ca8366c66baf15382875aab66cd8ee536b48557c79b3d988f02e92e"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "d85391fe5f1ecdd39469cefffdf5510b96dfb422da7efaddd83278f6aa04113e"
+hash = "0476ba50268b151cf4d91f61025a4ee5d6a849dfcd4ad2bcb21136bd555701f0"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a22ba7c148744fe8c1ed7580e95e9a285bd71b2b1c2f66ab9d89c5d43e1498f1"
+hash = "8fc579768f43217f0d9a300c29daacc71313254b26a29e22db90912b8d6e7a11"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "93b2f668a96e7ef60f6bd15150d6dfc3b40e2c1504f5bcd79dfead63f866edfa"
+hash = "e7102606aa92be8b1568b5b341cdb22330662e664eb26bbfe28cfefccd958279"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "fad38bc898e0d2843bf286c3f239b87969e92f1928d248a086cb9fcfc075c749"
+hash = "2809edbdcd8146760527616b8d9efe06c8ac5a1ee7cde3f189188c4cf784cad4"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a00e74bd9dd69a8c9c1238bec0ec915c3664c2798cc5b48a9eb7c71ed2a0d727"
+hash = "e349ae5def40e01a6ed8d700f7124bcd33b26577594eec26bfe9ae5fb6d6fafe"
 metafile = true
 
 [[files]]
@@ -519,8 +519,8 @@ hash = "33d56e92dab1ea91903ee7700399e41823683f0c04f212d74cd80237046c68bb"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "2f7015a7d67638f2b08b4784d70ccd02f04e39c230f8c99e02325d8157f416ed"
+file = "mods/modernfix-mvus.pw.toml"
+hash = "f13c7f723c3a50ea547a409d54065cc93322d700e260deeafb92d7bfd51f9ac1"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "3a800b7813ff7e996b3edc7110ab491a4a401bba126a2db0f8d579cc3743d472"
+hash = "d841748fb7085216ff092ac56947a14e2af3262f6b05609276a5f22afbf459f5"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "77f6ba8f063840c0d8a58bba2cedc2743d136c1d51cdd28d3506d19e167e08d5"
+hash = "d7f32cb2cdc345359db18c50734d6026809b32a8c14b4c0ab8cc58024798c3b7"
 metafile = true
 
 [[files]]
@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
+hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
-hash = "c358694da90bf770d9b4b83ffb4ce7a13d1b63db8d5a7e2715784646b9d96649"
+hash = "d8ab116c29a0e9cb25002058d90b11c78b126a88629c9fb20cd5ec26c64b7e5a"
 metafile = true
 
 [[files]]

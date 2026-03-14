@@ -7,6 +7,25 @@
 
 # Changelog - 1.21.11
 
+## v4.11.1 <Badge type='warning' text='Work in progress'/> <a href='#v4.11.1' id='v4.11.1'></a>
+
+<a href='https://github.com/CrismPack/Breakneck/blob/1.21.11/Changelogs/changelog_mods_4.11.1.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.18.4'/>
+
+### Update Overview ⭐
+
+- Added 'ModernFix-mVUS' mod.
+- Re-added some mods.
+- Updated mods, resource packs, & shaderpacks.
+
+### Added Mods ✅
+
+- ModernFix-mVUS
+- Roughly Enough Professions
+
+### Config Changes 📝
+
+- Reduced max active tasks from 5 to 2 in Voxy WorldGen: `Voxy WorldGen`
+
 ## v4.11.0 <a href='#v4.11.0' id='v4.11.0'></a>
 
 <a href='https://github.com/CrismPack/Breakneck/blob/1.21.11/Changelogs/changelog_mods_4.11.0.md'><Badge type='tip' text='Mod Updates'/></a><Badge type='info' text='Fabric 0.18.4'/><Badge type='info' text='2026-03-01'/>

@@ -1,0 +1,9 @@
+Mod loader: Fabric
+Mod loader version: 0.18.4
+Fabric version: 0.18.4
+Update overview:
+  - Added 'ModernFix-mVUS' mod.
+  - Re-added some mods.
+  - Updated mods, resource packs, & shaderpacks.
+Config Changes: |-
+  - Reduced max active tasks from 5 to 2 in Voxy WorldGen: [Voxy WorldGen]

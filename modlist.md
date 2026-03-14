@@ -48,6 +48,7 @@
 - libIPN
 - Lithium
 - MixinTrace
+- ModernFix-mVUS
 - Mod Menu
 - More Culling
 - Mouse Tweaks
@@ -66,6 +67,7 @@
 - Replanter Plus
 - Resource Pack Overrides
 - Resourcify
+- Roughly Enough Professions
 - ScalableLux
 - Searchables
 - Shulker Box Tooltip
@@ -106,14 +108,12 @@
 - Legendary Tooltips
 - Map Tooltip
 - Model Gap Fix
-- ModernFix
 - Modern KeyBinding
 - Name Pain
 - Noisium
 - Nvidium
 - ObsidianUI
 - Prism
-- Roughly Enough Professions
 - Remove Reloading Screen
 - Screenshot to Clipboard
 - Server Country Flags
