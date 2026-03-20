@@ -4,14 +4,14 @@ setlocal
 set "SCRIPT_DIR=%~dp0"
 set "REPO_DIR="
 
-if exist "%SCRIPT_DIR%Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%"
-if not defined REPO_DIR if exist "%SCRIPT_DIR%Modpack-CLI-Tool\Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%Modpack-CLI-Tool"
-if not defined REPO_DIR if exist "%SCRIPT_DIR%..\Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%.."
-if not defined REPO_DIR if exist "%SCRIPT_DIR%..\Modpack-CLI-Tool\Modpack-Export.py" set "REPO_DIR=%SCRIPT_DIR%..\Modpack-CLI-Tool"
+if exist "%SCRIPT_DIR%modpack_export.py" set "REPO_DIR=%SCRIPT_DIR%"
+if not defined REPO_DIR if exist "%SCRIPT_DIR%Modpack-CLI-Tool\modpack_export.py" set "REPO_DIR=%SCRIPT_DIR%Modpack-CLI-Tool"
+if not defined REPO_DIR if exist "%SCRIPT_DIR%..\modpack_export.py" set "REPO_DIR=%SCRIPT_DIR%.."
+if not defined REPO_DIR if exist "%SCRIPT_DIR%..\Modpack-CLI-Tool\modpack_export.py" set "REPO_DIR=%SCRIPT_DIR%..\Modpack-CLI-Tool"
 
 if not defined REPO_DIR (
     echo Could not locate Modpack-CLI-Tool directory.
-    echo Expected to find Modpack-Export.py near:
+    echo Expected to find modpack_export.py near:
     echo   %SCRIPT_DIR%
     pause
     exit /b 1
@@ -81,8 +81,8 @@ if exist "requirements.txt" (
     echo requirements.txt not found. Skipping dependency installation.
 )
 
-echo Running Modpack-Export.py...
-"%VENV_PY%" "%CD%\Modpack-Export.py"
+echo Running modpack_export.py...
+"%VENV_PY%" "%CD%\modpack_export.py"
 if %errorlevel% neq 0 (
     echo Python script failed.
     popd >nul
