@@ -43,7 +43,7 @@
 - Iris Shaders
 - ItemSwapper
 - LambdaBetterGrass
-- LambDynamicLights
+- LambDynamicLights - Dynamic Lights
 - Language Reload
 - libIPN
 - Lithium

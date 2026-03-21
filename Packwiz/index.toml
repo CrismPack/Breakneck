@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0138c240d09b8e8b62ca9ccdd4f13df255d1dc1d8b1dfe9a081a810c054d0d31"
+hash = "4a6e814dea1fa00024e28b9141e2752c5334a57273fa625ffa903d3fd99cdc59"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -87,10 +87,6 @@ hash = "a74793490d3a92b5f26fba065571a08b4a103e2d955c7db481bedfad6c6119dd"
 [[files]]
 file = "config/threadtweak.json"
 hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
-
-[[files]]
-file = "config/yosbr/config/TrueDarknessRefabricated.json5"
-hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 
 [[files]]
 file = "config/yosbr/config/breakneckmenu.json5"
@@ -155,6 +151,10 @@ hash = "812e0fd2979a18cc7ef7805c2a88d45d516718b3c0e9c79a6ad84e25d62e577c"
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "226ca89055d1fd168519eeeb45e326b8c955f446f73850a9e4db88ab50246d18"
+
+[[files]]
+file = "config/yosbr/config/TrueDarknessRefabricated.json5"
+hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "ff9af33704ca388bc255fa78515231e2a5c68c0be85cb86e68a764aa8768ef13"
+hash = "fc11272d33f2fde5f887f5586a1d6b2b052343f70b36d14b3c7bb6d14e086208"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "ac7523674324f29f8c2189bc2076a94bcde8442bea2e68fbf1a29245e3e7cf97"
+hash = "d998d6d720d7de2813d35f16d6b12f848df764e7a9b8e5b46a12488536fe2cf1"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-hash = "51e57377dc05dd708d94c7fc5dd59f2768fbbb2d120cc3c654736314e837d121"
+hash = "590c37d72474e5342381f849c998667a48128fd9e50e760a0636f1c445f2d1ff"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "d841748fb7085216ff092ac56947a14e2af3262f6b05609276a5f22afbf459f5"
+hash = "f19f5701f44a65e8b505e990716a199903a299c51b97f2b98d856fadc1dd5fc8"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "db7afc45c4f91c0b54aac906d11f1ba6d17a7671e02fc7415f0bf6d006df851d"
+hash = "4b663ce7ca18f202be4fe6c56e16d5c7d61459230823babdfed6c2fa197807de"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a6072d78cb04d4abf2dc9e0a0d3e5545195f8eb68f21e514580c3eaa9745498"
+hash = "3e4fdd691d6f0291dd2f7f447ec248f904f4cfd8c3a2d7fcdc98e040c832c8f0"
 metafile = true
 
 [[files]]
@@ -786,13 +786,13 @@ file = "resourcepacks/Breakneck Lang/pack.png"
 hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
-file = "resourcepacks/FA+Player-vJE.zip"
-hash = "eb4dc993e8764b3762a1e56ec3e8714a295fd0061b815f99da2e1cd467456062"
-
-[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
 metafile = true
+
+[[files]]
+file = "resourcepacks/FA+Player-vJE.zip"
+hash = "eb4dc993e8764b3762a1e56ec3e8714a295fd0061b815f99da2e1cd467456062"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
@@ -820,10 +820,6 @@ hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Photon-Shaders-Voxy-40adec3.zip"
-hash = "8a0e0be7e959279a4b27cccc7fa5d3841a2d6401b0d0a889d01199d2d069f27e"
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "015b33a9619d0a9ce18bc30b0a06dbb388b7d8ba0f24d63b4bc3db88bdb25101"
 metafile = true
@@ -847,6 +843,10 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "6dc1b6477a55d697de7e24e28d0456366ad3d6726d46a67a8fdffdf16d010a83"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Photon-Shaders-Voxy-40adec3.zip"
+hash = "8a0e0be7e959279a4b27cccc7fa5d3841a2d6401b0d0a889d01199d2d069f27e"
 
 [[files]]
 file = "shaderpacks/reverie_shader.pw.toml"

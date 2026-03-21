@@ -1,13 +1,13 @@
-name = "Shulker Box Tooltip [Fabric/Forge/NeoForge]"
-filename = "shulkerboxtooltip-fabric-5.2.15+1.21.11.jar"
+name = "Shulker Box Tooltip"
+filename = "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dfc3911da555fe6c0ca57b2fd4ab18deb3cd1b61"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2M01OLQq/versions/rZovgkWT/shulkerboxtooltip-fabric-5.2.16%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "98cd0950adafa086201d4595e558c15697ba1c9eda1b47c30803081ae48e2594e74cae5b743b3283990fa9d0da6caab87958bf2e97125bc3cb9107f6ab6f1882"
+file-size = 389259
 
-[update]
-[update.curseforge]
-file-id = 7537623
-project-id = 315811
+[update.modrinth]
+mod-id = "2M01OLQq"
+version = "rZovgkWT"
