@@ -1,8 +1,8 @@
 name: Sync Files
 on:
   push:
-    branches:
-      - 1.21.11
+    paths:
+      - 'Changelogs/data/**'
   workflow_dispatch:
 jobs:
   sync:

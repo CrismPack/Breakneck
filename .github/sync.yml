@@ -1,3 +1,5 @@
 CrismPack/Wiki:
-  - source: CHANGELOG.md
-    dest: docs/breakneck/changelogs/1.21/1.21.11.md
+  # Publish the presentation-free release data; the wiki renders the pages.
+  # Directory sync is MC-version agnostic, so migrations never touch this.
+  - source: Changelogs/data/
+    dest: docs/breakneck/data/
