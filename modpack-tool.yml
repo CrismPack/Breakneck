@@ -1,0 +1,30 @@
+# Settings for HaXr's Modpack Tool, one file per modpack project.
+# The tool keeps this file in the template's layout and preserves your values.
+
+# Packs that "Build release" creates: any of curseforge, modrinth, server.
+exports: [curseforge, modrinth]
+
+# Server pack: the folder copied into it (start scripts, server configs, extra jars in mods/)
+# and the mods to leave out (slug, name or jar filename).
+server_template: "Server Pack"
+server_exclude: []
+
+# Suggest "<minecraft>-<release>" versions such as 26.2-1.0 when bumping or migrating.
+mc_prefixed_versions: True
+
+# When an update lands on an alpha version: prompt, never (redirect or revert), or always (keep it).
+alpha_updates: "prompt"
+
+# Show `Client` / `Server` after mod names in changelogs and modlist.md.
+side_tags: False
+
+# "Full changelog" link in the release notes.
+# Placeholders: {mc_group} (content update, e.g. 26.2 or 1.21), {mc}, {version}, {anchor}.
+changelog_url: "https://crismpack.net/breakneck/changelogs/{mc_group}#{anchor}"
+
+# Markdown appended to the release notes, e.g. a sponsor banner.
+curseforge_notes_footer: |
+  <br>
+
+  [![BisectHosting Banner](https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/desc/breakneck/bh.png)](https://bisecthosting.com/CRISM)
+modrinth_notes_footer: ""
