@@ -824,10 +824,6 @@ hash = "6dd0d3d87c7de55c77375a9f781ef19d4b7d0e29720b506ed08780adcb27879b"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Photon-Shaders-Voxy-40adec3.zip"
-hash = "8a0e0be7e959279a4b27cccc7fa5d3841a2d6401b0d0a889d01199d2d069f27e"
-
-[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
 metafile = true
@@ -849,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
-hash = "6dc1b6477a55d697de7e24e28d0456366ad3d6726d46a67a8fdffdf16d010a83"
+hash = "4423dbe16bf1e947cf6d9b34cbdfdffdddb29d4d6a3336f55236811e651a092d"
 metafile = true
 
 [[files]]
