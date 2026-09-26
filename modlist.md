@@ -3,12 +3,16 @@
 ## Active Mods
 - 3D Skin Layers
 - Ambient Environment
+- Animatica Refabricated
 - AppleSkin
 - Architectury API
+- AsyncParticles
 - Balm
+- Better Block Entities
 - Capes
 - Chat Heads
 - Cherished Worlds
+- CIT Resewn Continuation
 - ClickThrough Plus
 - Client Tweaks
 - Cloth Config API
@@ -21,8 +25,10 @@
 - Cubes Without Borders
 - Debugify
 - Default Options
+- Detail Armor Bar Reconstructed
 - Dynamic FPS
 - e4mc
+- EclipseUI
 - Enchantment Descriptions
 - [EMF] Entity Model Features
 - [ETF] Entity Texture Features
@@ -33,7 +39,6 @@
 - FerriteCore
 - Forge Config API Port
 - Framework
-- Fzzy Config
 - ImmediatelyFast
 - Inventory Profiles Next
 - Iris Shaders
@@ -52,7 +57,6 @@
 - Numeral Ping
 - OptiGUI
 - Paginated Advancements & Custom Frames
-- Particle Core
 - Persistent Inventory Search
 - Polytone
 - Prickle
@@ -80,22 +84,14 @@
 - Zoomify
 
 ## Inactive Mods
-- Animatica
-- Better Taskbar
 - Bookshelf
 - Branded Logs
-- Better Recipe Book
 - Breakneck Menu
 - Concurrent Chunk Management Engine
-- CIT Resewn
-- CleanView
 - ClearDespawn
 - Custom Window Title
-- Detail Armor Bar
 - Eating Animation
-- Enhanced Block Entities
 - Equipment Compare
-- Exordium
 - FabricSkyBoxes Interop
 - FabricSkyboxes
 - Freecam
@@ -103,20 +99,11 @@
 - Krypton
 - Legendary Tooltips
 - Map Tooltip
-- MixinTrace
 - Model Gap Fix
-- Modern KeyBinding
-- Name Pain
-- Noisium
 - Nvidium
-- ObsidianUI
 - Prism
 - Replanter Plus
 - ScalableLux
-- Screenshot to Clipboard
 - Server Country Flags
-- StackDeobfuscator
 - Suggestion Tweaker
-- ThreadTweak
 - True Darkness Refabricated
-- Xaero's Minimap

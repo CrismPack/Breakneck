@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6fbb47571593b3509227541550e2704612e40c592dfdb4424a87f7f202c48006"
+hash = "e22ac0a2cde47b64f3f58e9e6af61a893dfb9b3294fc24078900d74d23e2f5af"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -191,11 +191,6 @@ hash = "3f1957512b30c38930c0c1972fb4e4649e0669b5f0cfdc5474be118ac23183bd"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "179ff5881013605adcfd00e9454a53f6af3a36e20560d4ee3878dc795ebf7ce3"
-metafile = true
-
-[[files]]
 file = "mods/animaticarefabricated.pw.toml"
 hash = "98f51845428b241d43adfa7da330b1a4b8a842ad708ca4382a3ce3ffc3d6fb23"
 metafile = true
@@ -208,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "85581651073884ebb1f7f3c53e044f4befe7b84425ae67b4781b6e9c15fbb952"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "0b5867a730cb74a16403b8ffbc2d3ec0b0acdc370f5fc8a1f539756b602b32d6"
 metafile = true
 
 [[files]]
@@ -258,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn-continuation.pw.toml"
 hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "fec3ea7c93a443d7d62e130354cdfed878f554df628889998a7c2587d7664835"
 metafile = true
 
 [[files]]
@@ -341,11 +336,6 @@ hash = "7bee001a6ff4f5c69d578eebf5768c6e6ac815bd8c9b52ca2129736a96969d4a"
 metafile = true
 
 [[files]]
-file = "mods/detail-armor-bar.pw.toml"
-hash = "be6b769843a0d9a2d74ee155ba20b317e4758ec13f655d17bc7055689ce43a0a"
-metafile = true
-
-[[files]]
 file = "mods/disabled/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -372,11 +362,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "e47b9ee2ae68ae89857a510f466eddabf92fe3e6ee9a4eb1622c589ce43a5a7f"
-metafile = true
-
-[[files]]
-file = "mods/enhancedblockentities.pw.toml"
-hash = "b3a94fe394623b80feee54268880dc1c0277cf5990b3db02b72c2c18076a3c5c"
 metafile = true
 
 [[files]]
@@ -442,11 +427,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "a92906a586d3571a286e7d89a998e25ceb14ab2ac2e39c6d2abea73040cb9fdc"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "d6d8aa0f220ddf366133ce02184e30c1d8204f7741da97040344ab53bb4b98ce"
 metafile = true
 
 [[files]]
@@ -545,11 +525,6 @@ hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "9590ef0a79fd430866146d14df2a521723b338a4da0e517548aa6dbbdd6250a1"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "00bb7b173be4ead135663449c2cc50036b1ff24ad1c164ba56fda9e3c3f60c8c"
 metafile = true
@@ -572,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "5c54f485a3d166cfa6a931c016f7e31150a34c128271b985ce3c3ceed62d1330"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "ee72eb8f39a3d98dd6693a01a460a50ff88843270d23478f80413b609d1ade87"
 metafile = true
 
 [[files]]
@@ -687,11 +657,6 @@ metafile = true
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "1c353f9e154205d183dd49f43e9ae0e477ba023f027eda8f3532733974335e7f"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e035d430d1c2ff1fa8a0c8b75212827bacf2a9d396f32425ec69c53ecc04ef95"
 metafile = true
 
 [[files]]
