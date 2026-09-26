@@ -9,6 +9,7 @@
 - AsyncParticles
 - Balm
 - Better Block Entities
+- Concurrent Chunk Management Engine
 - Capes
 - Chat Heads
 - Cherished Worlds
@@ -43,6 +44,7 @@
 - Inventory Profiles Next
 - Iris Shaders
 - ItemSwapper
+- Krypton
 - LambdaBetterGrass
 - LambDynamicLights - Dynamic Lights
 - Language Reload
@@ -63,6 +65,7 @@
 - Raised
 - Reese's Sodium Options
 - Roughly Enough Items
+- Replanter Forked
 - Resource Pack Overrides
 - Resourcify
 - Roughly Enough Professions
@@ -87,22 +90,17 @@
 - Bookshelf
 - Branded Logs
 - Breakneck Menu
-- Concurrent Chunk Management Engine
 - ClearDespawn
 - Custom Window Title
-- Eating Animation
 - Equipment Compare
 - FabricSkyBoxes Interop
 - FabricSkyboxes
 - Freecam
 - Iceberg
-- Krypton
 - Legendary Tooltips
 - Map Tooltip
 - Model Gap Fix
-- Nvidium
 - Prism
-- Replanter Plus
 - ScalableLux
 - Server Country Flags
 - Suggestion Tweaker

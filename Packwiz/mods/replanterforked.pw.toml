@@ -1,0 +1,13 @@
+name = "Replanter Forked"
+filename = "replanter-forked-2.3.4+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iomEG4Yp/versions/AdsTwCsG/replanter-forked-2.3.4%2B26.2.jar"
+hash-format = "sha512"
+hash = "5e8cc805f0a7ea01cfc2c958bec88417a1c438303487dacb42b88fd0494eb8700bf797173b232a4cd5d6012f405ec79205cb82caf96c88eef3209251189e9464"
+
+[update]
+[update.modrinth]
+mod-id = "iomEG4Yp"
+version = "AdsTwCsG"

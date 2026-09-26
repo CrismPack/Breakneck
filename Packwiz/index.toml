@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e22ac0a2cde47b64f3f58e9e6af61a893dfb9b3294fc24078900d74d23e2f5af"
+hash = "e927451204b834ff64899d0ee039f76cb3b35b6d5f811884f059d64fbb3ebe57"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f904e3c4ba70842c9dca91a4aec310de236858aa427bfe547c441bafeec0ae27"
+hash = "28eb18c27957ff822c1206d9b196c2b2736636947904b61ae23382110d895dbf"
 metafile = true
 
 [[files]]
@@ -350,11 +350,6 @@ hash = "89e01e31bfb003be8675d0682011cb1735d20325e7974e98e35950336f5036f2"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "e83b03fdf7c310d23a1c07ea7fcd1a1d207459d2472c0cab965ebc71d2aa18ea"
-metafile = true
-
-[[files]]
 file = "mods/eclipseui.pw.toml"
 hash = "33e329d962644c9083f1a4472075cc3ce3599bc27f337dcdb17e90c6b6cdf3c0"
 metafile = true
@@ -456,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "a0f45876f76dc8932139e43de4ea97d3c3375c07b456374a4d9de2cb869ea25f"
+hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
 metafile = true
 
 [[files]]
@@ -535,11 +530,6 @@ hash = "941b5eb559675aa0928001c8006d621af63c67abe3eb3026e6b8a2928c98736f"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "2b30d57e9547a9b1b8446dbfd535e84769a0b526ff9b55e4e838c65be1269239"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "14295613bad47c511a2d86a07ed6779e73d66ba3c56419fa4f0e8ce25ab761bf"
 metafile = true
@@ -585,8 +575,8 @@ hash = "96bf10f10521a56a27d70298661250f0ebd88a3567f3556457c5b77bc1ab5765"
 metafile = true
 
 [[files]]
-file = "mods/replanter-plus.pw.toml"
-hash = "43247f491eef53e5495e97bf5d30de4d9a8741fdbe8c1bd2d6aa13af9d4e9dec"
+file = "mods/replanterforked.pw.toml"
+hash = "482a57ac73cea38615dab1044c4fdf4d7b9f589683c8b57440d41669254bc22b"
 metafile = true
 
 [[files]]
@@ -762,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/i-like-vanilla.pw.toml"
-hash = "44f8c4b8b0933f0752618040bc8b33de035ebf5d1d1a0eace330b1608d509e77"
+hash = "88f3d3957313b1c9bd29ed6351685f25de0e5d8479174abd7f9ee22240ed5b08"
 metafile = true
 
 [[files]]

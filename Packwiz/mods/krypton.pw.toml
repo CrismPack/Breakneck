@@ -1,6 +1,6 @@
 name = "Krypton"
 filename = "krypton-0.3.1.jar"
-side = "both(disabled)"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/5WeL0Nkz/krypton-0.3.1.jar"
