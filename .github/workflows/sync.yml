@@ -1,6 +1,11 @@
 name: Sync Files
 on:
   push:
+    # Only main and maintenance branches (named after their Minecraft version,
+    # like 1.21.11) publish release data; other branches wait for their merge.
+    branches:
+      - main
+      - '[0-9]*'
     paths:
       - 'Changelogs/data/**'
   workflow_dispatch:
