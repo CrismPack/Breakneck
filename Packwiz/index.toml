@@ -73,10 +73,6 @@ file = "config/defaultoptions/extra/config/dynamic_fps.json"
 hash = "85b34676f21e81c21e6c0049610520ff3afabca6bc51f4bb80a9e5c8adb59748"
 
 [[files]]
-file = "config/defaultoptions/extra/config/exordium.json"
-hash = "abcf55b8b8615b6b39cfec1fee7e51661629842f40f9929dd4027d650196890f"
-
-[[files]]
 file = "config/defaultoptions/extra/config/freecam.json5"
 hash = "f763ff3f32f8fd2f6075f1edf5b8789939675a0534f0750a9f421bb81ac5fdb1"
 
@@ -119,10 +115,6 @@ hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
 [[files]]
 file = "config/defaultoptions/extra/config/voxyworldgenv2.json"
 hash = "aced67295604c32454cdf6190e284941dc193a1d58c9264869e2bf35894ede2f"
-
-[[files]]
-file = "config/defaultoptions/extra/config/xaerominimap.txt"
-hash = "16d7cbfc1d27090d2658085ae7574defe2f617c8943269806bd2090ce0d12784"
 
 [[files]]
 file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
@@ -204,6 +196,11 @@ hash = "179ff5881013605adcfd00e9454a53f6af3a36e20560d4ee3878dc795ebf7ce3"
 metafile = true
 
 [[files]]
+file = "mods/animaticarefabricated.pw.toml"
+hash = "98f51845428b241d43adfa7da330b1a4b8a842ad708ca4382a3ce3ffc3d6fb23"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
@@ -219,8 +216,8 @@ hash = "6cfa228e8694369f26432473e34fcc3f5736af9d97062995ba6fdfc51ddb6b2d"
 metafile = true
 
 [[files]]
-file = "mods/better-taskbar.pw.toml"
-hash = "6eb8df257259f5becf41444c126cfcdc98ce55f6dab0742d5ebbbc1db3222ae6"
+file = "mods/better-block-entities.pw.toml"
+hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
 metafile = true
 
 [[files]]
@@ -231,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/branded-logs.pw.toml"
 hash = "3f73c95ef83a7c2cd81352020fe32279b2a082ba5237ea1afb7944ee2235edae"
-metafile = true
-
-[[files]]
-file = "mods/brb.pw.toml"
-hash = "0bf9eb6516522bb335a288d44c4c6a0962ab9bf6e39ebf43b5bd54ef6637dbf5"
 metafile = true
 
 [[files]]
@@ -264,13 +256,13 @@ hash = "89b9af3f0f96e88b96a2bacf331ecc8e08b9cc915524135494241b368714c359"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "fec3ea7c93a443d7d62e130354cdfed878f554df628889998a7c2587d7664835"
+file = "mods/cit-resewn-continuation.pw.toml"
+hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
 metafile = true
 
 [[files]]
-file = "mods/cleanview-fabric.pw.toml"
-hash = "86c416515d9aaa369d2856dda36b50c5e1b6d359c53021b45cad84c1a08a6139"
+file = "mods/cit-resewn.pw.toml"
+hash = "fec3ea7c93a443d7d62e130354cdfed878f554df628889998a7c2587d7664835"
 metafile = true
 
 [[files]]
@@ -344,6 +336,11 @@ hash = "ee70cd3021d7f27e3ee7062589cff4a96fc72607121b6849b80cdd8c3717ee1f"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "7bee001a6ff4f5c69d578eebf5768c6e6ac815bd8c9b52ca2129736a96969d4a"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "be6b769843a0d9a2d74ee155ba20b317e4758ec13f655d17bc7055689ce43a0a"
 metafile = true
@@ -365,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "e83b03fdf7c310d23a1c07ea7fcd1a1d207459d2472c0cab965ebc71d2aa18ea"
+metafile = true
+
+[[files]]
+file = "mods/eclipseui.pw.toml"
+hash = "33e329d962644c9083f1a4472075cc3ce3599bc27f337dcdb17e90c6b6cdf3c0"
 metafile = true
 
 [[files]]
@@ -390,11 +392,6 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "6f9a2db0a5034e82a7376900137fad87dfeade9b84c9eb2bbfa99fadfa0ce6eb"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "a8bdc9732c75d3d2e589f7c75052523f113d2c06e8d548b6ce897921c998cdb5"
 metafile = true
 
 [[files]]
@@ -518,11 +515,6 @@ hash = "8d0181bf3dbb357f781b8683fa0e581dfb7fcc489e311d5ba9ec23e7629c3f2e"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "2b6625d19b552f408017dd1548af5a3c4437b90ee4219c16fc97ecf4836862b7"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "33d56e92dab1ea91903ee7700399e41823683f0c04f212d74cd80237046c68bb"
 metafile = true
@@ -530,11 +522,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "0ea4ca54ca588caf91a5223b5056e12359a532ec27fd4a22f4962e7d1ee6ce21"
-metafile = true
-
-[[files]]
-file = "mods/modernkeybinding.pw.toml"
-hash = "f92d3329e5e879ba543144c4d9125a34492207b7773eb85199c34dec0387223f"
 metafile = true
 
 [[files]]
@@ -550,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
-metafile = true
-
-[[files]]
-file = "mods/name-pain.pw.toml"
-hash = "f44c127303d2360e0616f073a7eb5e5b9c4db8f88062f9a5539d2ef82f5871fc"
 metafile = true
 
 [[files]]
@@ -580,11 +562,6 @@ metafile = true
 [[files]]
 file = "mods/nvidium.pw.toml"
 hash = "2b30d57e9547a9b1b8446dbfd535e84769a0b526ff9b55e4e838c65be1269239"
-metafile = true
-
-[[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "1376c7b2dcdac3386385423d4e1b7f560789c7dab56a37c21a8a71af458d8e77"
 metafile = true
 
 [[files]]
@@ -668,11 +645,6 @@ hash = "a684ba6f5ceb156a57d8410b0117d61e802ce310c883ce2e5ae960f2731f1844"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "61c8917d7cabfe123891d177380364751ba004816e0660a0ada0ae2f06f6e3a8"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "18d343982316153f5b40b9d2e0e6ac3884b873774eec756ff67e891a4d3c22b9"
 metafile = true
@@ -705,11 +677,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "f06c0b9150da9877b99cb265d037c067e509340d9bf347e02cef2043c110e963"
-metafile = true
-
-[[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "24de59a573127294242390ddf7eb7c8c92a431c42daf723c9e2ce1e135108665"
 metafile = true
 
 [[files]]
@@ -755,11 +722,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "460e7ada539c5bf05e4d59e4a7215a800b9418c7c04b2f9d7a8543e922fd3f11"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "c24d4718eb3f52beba5d56abc195dced497f78dfe2174307410ff4619591d515"
 metafile = true
 
 [[files]]
