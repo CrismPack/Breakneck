@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "48f0919dd85815ef8d574990f16037e05c7ea939843df4372ba193bb7f09cba3"
+hash = "c34f5af2141926db430f9f6eead55a62b150ae6b12d5d97423259b3374a2cb77"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"

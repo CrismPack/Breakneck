@@ -1,4 +1,4 @@
-# Bundled files in Breakneck 26.2-1.0-beta.1
+# Bundled files in Breakneck 5.0-beta.1
 
 These files are included in the packs instead of being downloaded from the platform.
 Check that each license allows redistribution.

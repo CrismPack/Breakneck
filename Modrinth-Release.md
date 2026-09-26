@@ -6,4 +6,4 @@
 - Updated mods, resource packs, & shaderpacks.
 - Pinned 'Sodium', 'Iris Shaders' & 'Reese's Sodium Options' to make shaders work with 'voxy'.
 
-**[[Full Changelog]](https://crismpack.net/breakneck/changelogs/26.2#26.2-1.0-beta.1)**
+**[[Full Changelog]](https://crismpack.net/breakneck/changelogs/26.2#v5.0-beta.1)**
