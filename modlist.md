@@ -20,11 +20,12 @@
 - CraterLib
 - Cubes Without Borders
 - Debugify
+- Default Options
 - Dynamic FPS
 - e4mc
 - Enchantment Descriptions
-- Entity Model Features
-- Entity Texture Features -
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
 - Fabric API
 - Fabric Language Kotlin
 - Falling Leaves
@@ -119,4 +120,3 @@
 - ThreadTweak
 - True Darkness Refabricated
 - Xaero's Minimap
-- Your Options Shall Be Respected

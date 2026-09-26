@@ -2,10 +2,11 @@
 # "Draft changelog" in the tool can fill 'Update overview' and 'Config Changes' for you.
 Update overview:
   - Updated to Minecraft 26.2.
-  - Re-added some mods.
-  - Temporarily removed incompatible mods.
+  - Changed default settings and configs to be handled by 'Default Options'.
+  - Temporarily removed some incompatible mods.
   - Updated mods, resource packs, & shaderpacks.
 Changes/Improvements:
 Bug Fixes:
 Script/Datapack changes:
-Config Changes:
+Config Changes: |-
+  - Moved the default options, keybinds & configs from YOSBR to Default Options: [Default Options]

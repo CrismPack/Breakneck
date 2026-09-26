@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "cdf7c982659300d21269be35853a0eb21743c3daab56867907959b14c7367449"
+hash = "3a8398e074466620a4353f82bb50b86559ffdd991ca18986b088a927c55326d9"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -43,6 +43,98 @@ hash = "f115037f419e4a855097cea3926aac3f2fdabdf0b39548350adc983877144a55"
 [[files]]
 file = "config/debugify.json"
 hash = "9f265217978559e3b9e382bfadc173e35ff265f4ea5450c0f110e8cc57d21708"
+
+[[files]]
+file = "config/defaultoptions/extra/config/TrueDarknessRefabricated.json5"
+hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
+
+[[files]]
+file = "config/defaultoptions/extra/config/breakneckmenu.json5"
+hash = "46c3121695f56e07d48d17e994ee858154f1b5d788041a7c6c1d8632931bfe63"
+
+[[files]]
+file = "config/defaultoptions/extra/config/capes.json5"
+hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
+
+[[files]]
+file = "config/defaultoptions/extra/config/controlify.json"
+hash = "9f0777b9c78d4461bc0d585d92ecb87a80f266ad6c0a5d5fac90b58b31d993b8"
+
+[[files]]
+file = "config/defaultoptions/extra/config/controllable-client.toml"
+hash = "5b019d292bc4930d878582ceedc8d463224551a73ea0ee7383faaea1fd9a9292"
+
+[[files]]
+file = "config/defaultoptions/extra/config/darkness.json5"
+hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
+
+[[files]]
+file = "config/defaultoptions/extra/config/dynamic_fps.json"
+hash = "85b34676f21e81c21e6c0049610520ff3afabca6bc51f4bb80a9e5c8adb59748"
+
+[[files]]
+file = "config/defaultoptions/extra/config/exordium.json"
+hash = "abcf55b8b8615b6b39cfec1fee7e51661629842f40f9929dd4027d650196890f"
+
+[[files]]
+file = "config/defaultoptions/extra/config/freecam.json5"
+hash = "f763ff3f32f8fd2f6075f1edf5b8789939675a0534f0750a9f421bb81ac5fdb1"
+
+[[files]]
+file = "config/defaultoptions/extra/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "9bcf335c32dad05406bfcb6a39d5f066a0e43f563db5f77c2a2df3d0dbb74c4b"
+
+[[files]]
+file = "config/defaultoptions/extra/config/lambdynlights.toml"
+hash = "a042d5b8dde8b2dd43085690d5a15025d78268fc6fdecaf452c4c229baeaaee9"
+
+[[files]]
+file = "config/defaultoptions/extra/config/litematica.json"
+hash = "53d973bb2b12bccfc41fd04a8d82c429283eb09a0857e608c9329654a290cb68"
+
+[[files]]
+file = "config/defaultoptions/extra/config/minihud.json"
+hash = "f90756eebe46acd7b1980d032ea790fdd12af7c7e1d110ff2b2a27149fb033d9"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
+hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
+
+[[files]]
+file = "config/defaultoptions/extra/config/ryoamiclights.toml"
+hash = "65c892067593a955dd74de8bfe3df56f9f6069f33abbbf004d899fecdc52b676"
+
+[[files]]
+file = "config/defaultoptions/extra/config/shulkerboxtooltip.json5"
+hash = "812e0fd2979a18cc7ef7805c2a88d45d516718b3c0e9c79a6ad84e25d62e577c"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-extra-options.json"
+hash = "226ca89055d1fd168519eeeb45e326b8c955f446f73850a9e4db88ab50246d18"
+
+[[files]]
+file = "config/defaultoptions/extra/config/voicechat/voicechat-client.properties"
+hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
+
+[[files]]
+file = "config/defaultoptions/extra/config/voxyworldgenv2.json"
+hash = "aced67295604c32454cdf6190e284941dc193a1d58c9264869e2bf35894ede2f"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap.txt"
+hash = "16d7cbfc1d27090d2658085ae7574defe2f617c8943269806bd2090ce0d12784"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
+hash = "b0443387e446f2f5b431f3247d7858a7148dce3e7afbf6523fa3e2d28c44becd"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "fbd6a3155e0c22a64970ebc48f3442570767a9eb214e33d05543cbfa186c55af"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "6bafeb4e20f20c43e8edf1b4cd8414e6e412f735878c2c5dbdb8130edfb60b46"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -87,94 +179,6 @@ hash = "a74793490d3a92b5f26fba065571a08b4a103e2d955c7db481bedfad6c6119dd"
 [[files]]
 file = "config/threadtweak.json"
 hash = "85cf12a999b7d7bfd309152bd39dd714fdcead5bcb04720663f549395fdcfbf4"
-
-[[files]]
-file = "config/yosbr/config/TrueDarknessRefabricated.json5"
-hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
-
-[[files]]
-file = "config/yosbr/config/breakneckmenu.json5"
-hash = "46c3121695f56e07d48d17e994ee858154f1b5d788041a7c6c1d8632931bfe63"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "52eb38c7429aab9337bdf04770c5d4b3ab0246ba6e464e771b3673b2b7bc4a02"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "9f0777b9c78d4461bc0d585d92ecb87a80f266ad6c0a5d5fac90b58b31d993b8"
-
-[[files]]
-file = "config/yosbr/config/controllable-client.toml"
-hash = "5b019d292bc4930d878582ceedc8d463224551a73ea0ee7383faaea1fd9a9292"
-
-[[files]]
-file = "config/yosbr/config/darkness.json5"
-hash = "0d5c289947efa560685785cfb6696a4de067ef11c20e5f53d8cab592497f4d94"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "85b34676f21e81c21e6c0049610520ff3afabca6bc51f4bb80a9e5c8adb59748"
-
-[[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "abcf55b8b8615b6b39cfec1fee7e51661629842f40f9929dd4027d650196890f"
-
-[[files]]
-file = "config/yosbr/config/freecam.json5"
-hash = "f763ff3f32f8fd2f6075f1edf5b8789939675a0534f0750a9f421bb81ac5fdb1"
-
-[[files]]
-file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "9bcf335c32dad05406bfcb6a39d5f066a0e43f563db5f77c2a2df3d0dbb74c4b"
-
-[[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "a042d5b8dde8b2dd43085690d5a15025d78268fc6fdecaf452c4c229baeaaee9"
-
-[[files]]
-file = "config/yosbr/config/litematica.json"
-hash = "53d973bb2b12bccfc41fd04a8d82c429283eb09a0857e608c9329654a290cb68"
-
-[[files]]
-file = "config/yosbr/config/minihud.json"
-hash = "f90756eebe46acd7b1980d032ea790fdd12af7c7e1d110ff2b2a27149fb033d9"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "f56dab1f19b2f20de8c3c49ed9444331cc0b7c453ec97807e022c6216f1641bd"
-
-[[files]]
-file = "config/yosbr/config/ryoamiclights.toml"
-hash = "65c892067593a955dd74de8bfe3df56f9f6069f33abbbf004d899fecdc52b676"
-
-[[files]]
-file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "812e0fd2979a18cc7ef7805c2a88d45d516718b3c0e9c79a6ad84e25d62e577c"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
-hash = "226ca89055d1fd168519eeeb45e326b8c955f446f73850a9e4db88ab50246d18"
-
-[[files]]
-file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "f00239f2feb9eeb5e3cfd3d8e47dc8be916ecf1945d8a311cddb8eb4ee70b8af"
-
-[[files]]
-file = "config/yosbr/config/voxyworldgenv2.json"
-hash = "aced67295604c32454cdf6190e284941dc193a1d58c9264869e2bf35894ede2f"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "16d7cbfc1d27090d2658085ae7574defe2f617c8943269806bd2090ce0d12784"
-
-[[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "b0443387e446f2f5b431f3247d7858a7148dce3e7afbf6523fa3e2d28c44becd"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "b211ab648f2216ec01904f18180c19525f6677f17306d3c63da247f91b547f6a"
 
 [[files]]
 file = "config/zoomify.json"
@@ -332,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7a4aabc6906981c5401fb54ab640f246eea94cd5214efeffe280e1f6130b1530"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "ee70cd3021d7f27e3ee7062589cff4a96fc72607121b6849b80cdd8c3717ee1f"
 metafile = true
 
 [[files]]
@@ -761,11 +770,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "01c795428c12fb2b53c4c44ab941b2a276775034a6a4f812f01e03fe3fff6719"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "ddd073b6b44c1c0d7916a60fd98870f5230998f42576fae420b34e3622e50751"
 metafile = true
 
 [[files]]
