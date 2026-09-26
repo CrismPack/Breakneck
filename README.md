@@ -23,3 +23,16 @@
 ### Get the modpack here:
 
 [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/breakneck) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/breakneck)
+
+---
+
+### Versioning
+
+Breakneck versions look like `5.0` or `5.3`. CurseForge and Modrinth list the Minecraft version of each release.
+
+- **The first number** goes up when Breakneck moves to a new Minecraft game drop, the releases that add content, like 26.2 and 26.3. Breakneck for 26.2 is 5.0, and the next drop it moves to becomes 6.0.
+- **The second number** goes up with every regular update: mods added, removed or updated, config changes, and Minecraft hotfixes such as 26.2.1, since those don't break anything.
+- **Pre-releases** end in `-beta.1` or `-alpha.1`, like `5.0-beta.1`. They may be less stable or feature complete than a full release.
+- **Backports** to an older Minecraft version take the version of the release they come from, plus that Minecraft version: 5.3 backported to 26.1 would be `5.3+26.1`.
+
+Versions up to 4.11.1 followed Minecraft's old numbering: the first number stood for the Minecraft version (4 for 1.21), the second for its patch (11 for 1.21.11), and the third for Breakneck's own updates.
