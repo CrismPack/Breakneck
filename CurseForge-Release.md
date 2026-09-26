@@ -1,13 +1,9 @@
-
-
-
-
-
-- Added 'ModernFix-mVUS' mod.
+- Updated to Minecraft 26.2.
 - Re-added some mods.
+- Temporarily removed incompatible mods.
 - Updated mods, resource packs, & shaderpacks.
 
-#### **[[Full Changelog]](https://crismpack.net/breakneck/changelogs/1.21/1.21.11#v4.11.1)**
+#### **[[Full Changelog]](https://crismpack.net/breakneck/changelogs/26.2#26.2-1.0)**
 
 <br>
 

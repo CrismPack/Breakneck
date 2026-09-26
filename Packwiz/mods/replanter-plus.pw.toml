@@ -1,6 +1,6 @@
 name = "Replanter Plus"
 filename = "replanter-plus-2.3.3.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/is7374ZC/versions/1vgkHi5b/replanter-plus-2.3.3.jar"

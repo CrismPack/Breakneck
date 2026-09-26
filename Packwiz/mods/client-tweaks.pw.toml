@@ -1,13 +1,13 @@
 name = "Client Tweaks"
-filename = "clienttweaks-fabric-1.21.11-21.11.5.jar"
+filename = "clienttweaks-fabric-26.2-26.2.0.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/K63NnMwc/clienttweaks-fabric-1.21.11-21.11.5.jar"
+url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/klm9mkyw/clienttweaks-fabric-26.2-26.2.0.6.jar"
 hash-format = "sha512"
-hash = "2ec9258d7b05d144b9d649bc14ceb897ed18d8daf001862e10f52ce87f1d4ef3a91d68a29f6d30a05a65a1315aa4a024c95449825230f565d4c993cd7c185eef"
+hash = "f3dfd18cb0b58a344dbb362201cb766e9a1408dec15171757014382ef8fcf7a08ca7a4ecdc8abecee56d618e68b742526c80811b35fc642563712d033c3e6215"
 
 [update]
 [update.modrinth]
 mod-id = "vPNqo58Q"
-version = "K63NnMwc"
+version = "klm9mkyw"

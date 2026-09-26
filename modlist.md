@@ -6,9 +6,6 @@
 - AppleSkin
 - Architectury API
 - Balm
-- Branded Logs
-- Breakneck Menu
-- Concurrent Chunk Management Engine
 - Capes
 - Chat Heads
 - Cherished Worlds
@@ -22,7 +19,6 @@
 - Crash Assistant
 - CraterLib
 - Cubes Without Borders
-- Custom Window Title
 - Debugify
 - Dynamic FPS
 - e4mc
@@ -36,7 +32,6 @@
 - FerriteCore
 - Forge Config API Port
 - Framework
-- Freecam
 - Fzzy Config
 - ImmediatelyFast
 - Inventory Profiles Next
@@ -47,7 +42,6 @@
 - Language Reload
 - libIPN
 - Lithium
-- MixinTrace
 - ModernFix-mVUS
 - Mod Menu
 - More Culling
@@ -64,38 +58,38 @@
 - Raised
 - Reese's Sodium Options
 - Roughly Enough Items
-- Replanter Plus
 - Resource Pack Overrides
 - Resourcify
 - Roughly Enough Professions
-- ScalableLux
+- Remove Reloading Screen
 - Searchables
 - Shulker Box Tooltip
 - Simple Discord RPC
 - Simple Voice Chat
 - Sodium Extra
 - Sodium
-- StackDeobfuscator
 - Status Effect Bars
-- Suggestion Tweaker
-- ThreadTweak
+- Tool Stats
 - ViaFabricPlus
 - Voxy WorldGen
 - voxy
 - Wavey Capes
 - Xaero's World Map
 - YetAnotherConfigLib
-- Your Options Shall Be Respected
 - Zoomify
 
 ## Inactive Mods
 - Animatica
 - Better Taskbar
 - Bookshelf
+- Branded Logs
 - Better Recipe Book
+- Breakneck Menu
+- Concurrent Chunk Management Engine
 - CIT Resewn
 - CleanView
 - ClearDespawn
+- Custom Window Title
 - Detail Armor Bar
 - Eating Animation
 - Enhanced Block Entities
@@ -103,10 +97,12 @@
 - Exordium
 - FabricSkyBoxes Interop
 - FabricSkyboxes
+- Freecam
 - Iceberg
 - Krypton
 - Legendary Tooltips
 - Map Tooltip
+- MixinTrace
 - Model Gap Fix
 - Modern KeyBinding
 - Name Pain
@@ -114,9 +110,13 @@
 - Nvidium
 - ObsidianUI
 - Prism
-- Remove Reloading Screen
+- Replanter Plus
+- ScalableLux
 - Screenshot to Clipboard
 - Server Country Flags
-- Tool Stats
+- StackDeobfuscator
+- Suggestion Tweaker
+- ThreadTweak
 - True Darkness Refabricated
 - Xaero's Minimap
+- Your Options Shall Be Respected

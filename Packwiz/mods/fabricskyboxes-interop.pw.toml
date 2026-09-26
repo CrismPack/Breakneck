@@ -1,13 +1,13 @@
 name = "FabricSkyBoxes Interop"
-filename = "fsb-interop-1.4.0+mc1.21-build.54.jar"
+filename = "nuit-interop-fabric-1.0.0-beta.5+mc26.2.jar"
 side = "client(disabled)"
 
 [download]
-url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0%2Bmc1.21-build.54.jar"
-hash-format = "sha1"
-hash = "ebd6d9f048b591cee8bbf90b23246f3369161868"
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/nkZhzwHm/nuit-interop-fabric-1.0.0-beta.5%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "43fdefa9528de317e5b4e4b6aa68572b881112d153dc7269933bba3ae926d391ddf237a2cd8af77a8a874609aea5d8284e466176e911df2185ed4b521b1df1c3"
 
 [update]
 [update.modrinth]
 mod-id = "HpdHOPOp"
-version = "A3n8pliV"
+version = "nkZhzwHm"

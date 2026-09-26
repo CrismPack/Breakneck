@@ -1,6 +1,6 @@
 name = "Custom Window Title"
 filename = "CustomWindowTitle-1.21.9+v1.4.3.jar"
-side = "client"
+side = "client(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/RGH5gtzF/versions/WDFi1QQd/CustomWindowTitle-1.21.9%2Bv1.4.3.jar"

@@ -1,6 +1,6 @@
 name = "Suggestion Tweaker"
 filename = "suggestion-tweaker-1.20.6-1.5.3-fabric.jar"
-side = "both"
+side = "both(disabled)"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBLj38R0/versions/FLqBdDsf/suggestion-tweaker-1.20.6-1.5.3-fabric.jar"

@@ -1,13 +1,13 @@
 name = "I Like Vanilla"
-filename = "I Like Vanilla v1.3.2.zip"
+filename = "I Like Vanilla v1.4.3c.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DoODk4HD/versions/dagbORN9/I%20Like%20Vanilla%20v1.3.2.zip"
+url = "https://cdn.modrinth.com/data/DoODk4HD/versions/gAzVMQPa/I%20Like%20Vanilla%20v1.4.3c.zip"
 hash-format = "sha512"
-hash = "aace7c0d214a6f6966a6b30d946b48512c5ab8bcfaa9c9e22cf10d04e2cc6572da4820c2256274a440f9a5bfef5af507c7e24e6085efae350023f838dfa6c05a"
+hash = "17196b03c638bcefa7a4ea7373245969472809adca3722323d2abd0b43cff834c65c80377a1c18b24e89fdf0b7e1c9f3eb1d022fb4f18e5c5f04107ea56d606c"
 
 [update]
 [update.modrinth]
 mod-id = "DoODk4HD"
-version = "dagbORN9"
+version = "gAzVMQPa"

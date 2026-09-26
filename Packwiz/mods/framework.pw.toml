@@ -1,13 +1,13 @@
 name = "Framework"
-filename = "framework-fabric-1.21.11-0.13.11.jar"
+filename = "framework-fabric-26.2-0.13.26.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5daa599fb6510ffb3d4d4b5e2569413dcff68ceb"
+hash = "e11e02bf58b3e8daa930f0936109198735fe92d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7530353
+file-id = 8403587
 project-id = 549225

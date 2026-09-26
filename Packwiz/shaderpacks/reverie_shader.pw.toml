@@ -1,13 +1,13 @@
 name = "Reverie"
-filename = "Reverie Beta 1.zip"
+filename = "Reverie Beta v0.9.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/frac8sks/versions/ufjBrCY2/Reverie%20Beta%201.zip"
+url = "https://cdn.modrinth.com/data/frac8sks/versions/rHSmG5ci/Reverie%20Beta%20v0.9.zip"
 hash-format = "sha512"
-hash = "7fe6762319bfaf415127666a7bac4cdf92cdc54453bfbb61d5f4c4e5cc2843cbb2d34d8711dbe6ba620d6c67a561032f6714c92d36b24de3d2c4b24e181dd741"
+hash = "66a3b520c555021b30d8ac2b17afbed05299b08a9149e0f28955cd498cdd708b7fe7eac2f654cab47ec7f1902884b95f9aaa59a156d45b046f26ab745737247b"
 
 [update]
 [update.modrinth]
 mod-id = "frac8sks"
-version = "ufjBrCY2"
+version = "rHSmG5ci"

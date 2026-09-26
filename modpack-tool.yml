@@ -12,6 +12,13 @@ server_exclude: []
 # Suggest "<minecraft>-<release>" versions such as 26.2-1.0 when bumping or migrating.
 mc_prefixed_versions: True
 
+# Pre-releases (versions such as 26.2-1.0-beta.1 or 2.2.0-alpha.1):
+#   standalone: releases like any other, marked as possibly less stable or feature complete.
+#     Every release lists what changed since the release before it.
+#   previews: previews of their full release, which covers them all. It's compared with the
+#     previous full release, and its changelog starts with their notes.
+prereleases: "standalone"
+
 # When an update lands on an alpha version: prompt, never (redirect or revert), or always (keep it).
 alpha_updates: "prompt"
 
