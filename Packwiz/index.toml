@@ -150,7 +150,7 @@ hash = "34b07e50bf423552d94c1714370f1cd6eb3b5c51d4f5010a2f2fe3dd985b4ccf"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "35d42f3982b66b83f08f5e8c8766f4b69fa4ff99b5fbd3a2ec3e3bae1419e98b"
+hash = "0d78bc32d0fe5a7f5dd2b6fc8256121b40bdc15d4e03078efdf6260300f03beb"
 
 [[files]]
 file = "config/resourcify.json"
@@ -705,10 +705,6 @@ hash = "02bfbb98bcc8e466e0f04b426c459ee2cca7d8902101f59c6f47ab9d63b46a46"
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.png"
 hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
-
-[[files]]
-file = "resourcepacks/FA+Player-vJE.zip"
-hash = "eb4dc993e8764b3762a1e56ec3e8714a295fd0061b815f99da2e1cd467456062"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
