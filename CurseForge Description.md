@@ -1,263 +1,290 @@
-<!--Modpack Banner-->
+<!--Hero-->
 <p style="text-align: center;">
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-banner.webp" alt="Breakneck"/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/hero.webp" alt="Breakneck Optimized: faster frames, farther views, and shaders that keep up. Shot with Photon and voxy."/>
 </p>
-
 
 <!--Link Buttons-->
-
 <p style="text-align: center;">
-	<a href="https://discord.gg/Kss5gBgeDA" rel="nofollow">
-		<img alt="Discord" src="https://img.shields.io/discord/734879752866889788?label=&color=e66433&labelColor=672a14&style=for-the-badge&logo=discord&logoColor=white" height="28"
-		/></a>
-	<a href="https://crismpack.net/breakneck/introduction.html">
-		<img alt="Changelogs" src="https://img.shields.io/badge/-Changelogs-e66433?labelColor=672a14&style=for-the-badge&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADBElEQVRoge2YO2gVQRSGv9x7fYUoiiYqBGMUFDsFlaBWFoKFWoWIL7TQQkELK/EBYmcldtqIFgo24qOxsBJRERWCIIqP6yMRJJhEo0mMceQk58q47IbduzOJxXww3Lk7s3Pmn5055+wSCAQCgUAg8P9RY4xxPakFwEOgFpgMTAWGgQLwBegHijlt1Fj1ecCjUs4B4yjp4DaVic/2YE9oKHgauMJ6Xb2S/t72ZMf42FpTgBXAJOAp0Ge11QF3gNWObZZ9bK1B4EFC21EPIkbwISSJM8AhX4O7ErIW2AF8BuqBu8AVq73Npwg5f1nOyDHgFPAmcv0nMBeYFbn+AVip4uSe5pR23mkhpZuWhWvP8kTW6W/FtRotcrg/Ac+1LsKWaewQEdtTirgKHAdeZpjTX9I+kZKuzmAVNp6oFxuLzcDNKsb+Z4Jp+KXFZiOwC+iMud+o6KYUItryisgiJA7Zaltz2r+mWyo3eYRc11Xv0v+/NQjWWX0kGPZqanIQWBgZ46ILESPIGRnHctgY029GGTbGNLqyLbnWAcsD5S3nY57akKQQwH2N6r3a9t2q56aSqb5XY0kU1Z2+AHqAmcBSa2u+VmdwNnL/DO3TpKXFaqvV9m8uhIj7Lej+TsMqYLEGu3tWfwl8DcB0XZgBoBs4AiwfY9xNwC0XQkoZRKyxJi8vSCd0NWu0vqgK+ztdCcmSolxSw1/VO02z2gb0LETfb+IGl7fGDt1W4s22ADeqlzBKWiEy8fl6Pow+BTsP+p0w6YKmLD8i1yWVaQeW6L0b9D3Fu5A8NOtEO1WYPI39wJ7ImBc01+qYKCFF3S6VgYY0Ix3UAy+Z8atIoBwLST4/anuaV/E5wDMXweiyBrgeY0y31ruMMfVWn93GL+W8IloTpnc6pu85j1Le5t1aLRpXOqxUH3XTfTH9JUFszWMwgfJ4HPYoksbsdTxm2fd3rTj2Ads09jhjIoSgHyYkXzvpKNfK9PHBF0WNM1IkL2tUdz6cNOnIf3HvjydaRCAQCAQCAWcAfwCw0LMvknPtPgAAAABJRU5ErkJggg==" height="28"
-		/></a>
-	<a href="https://bisecthosting.com/CRISM">
-		<img alt="Get a server" src="https://img.shields.io/badge/-get%20a%20server-e66433?labelColor=672a14&style=for-the-badge&logo=image/png;base64,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" height="28"
-		/></a>
+	<a href="https://discord.gg/Kss5gBgeDA" rel="nofollow"><img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/btn-discord.webp" alt="Discord: help and community" width="196"/></a>
+	<a href="https://crismpack.net/breakneck/introduction.html"><img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/btn-changelog.webp" alt="Changelog" width="196"/></a>
+	<a href="https://crismpack.net/breakneck/modlist.html"><img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/btn-modlist.webp" alt="Modlist" width="196"/></a>
+	<a href="https://bisecthosting.com/CRISM"><img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/btn-server.webp" alt="Get a server: save 25% with code CRISM" width="196"/></a>
+</p>
+
+<!--Intro-->
+<p style="font-size: 18px;">
+	<strong>Breakneck Optimized</strong> is vanilla Minecraft, tuned. The best performance mods raise and steady your framerate, and <a href="https://modrinth.com/mod/voxy">voxy</a> draws the world far past your render distance, even with shaders on: all eight included shader packs support it. On top of that you get support for OptiFine resource packs and the quality-of-life tweaks you'd install anyway. Every mod runs on your side only, so it works on any server and in singleplayer.
+</p>
+
+<!--Stats-->
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/stats.webp" alt="45% more FPS with voxy on and 16 times the view distance, against vanilla at its maximum of 32 chunks. 8 shader packs, all ready for voxy, including Photon, BSL and Complementary. 83% more FPS than vanilla at 32 chunks with voxy off, in our 26.2 benchmark. 100% client-side, works on any server."/>
 </p>
 
 
-
-<!--Summary Text-->
-<h5 style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-Get ready to take your vanilla Minecraft experience to the next level with Breakneck Optimized! This modpack not only improves your performance with higher framerates and improved visuals, but also adds some quality of life enhancements to make your playing sessions as enjoyable as possible. And the best part? It's all client-side, so you can use it on any server without issue. Don't let lag hold you back – install Breakneck Optimized and enjoy an upgraded gameplay experience.
-</h5>
 <p>&nbsp;</p>
 
-<!--Features Banner-->
+<!--voxy and Shaders-->
 <p style="text-align: center;">
-	<img alt="Features" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-bannertext-features.webp"/>
-</p>
-
-<!--Features Text-->
-<h1 style="text-align: center; font-size: 24px; font-family: 'impact'">
--[ Lag Begone, Boost Your FPS! 📈 ]-
-</h1>
-
-<p style="text-align: center; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-Are you tired of struggling with low framerates and lag in your vanilla Minecraft game? This modpack is filled to the brim with performance optimizing mods that helps to vastly improve your FPS!
-</p>
-<p style="text-align: center;">
-	<img alt="FPS comparison: 326 FPS in vanilla versus 983 FPS with Breakneck" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/Vanilla%20vs%20Breakneck%20FPS%202%20Tiny.png" width="450"/>
-</p>
-
-
-<pre>&nbsp;</pre>
-
-<h1 style="text-align: center; font-size: 24px; font-family: 'impact'">
-	-[ Freshly Animated! 👀 ]-
-	</h1>
-
-<p style="text-align: center; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-	Make your skin come alive with expressive eyes that blink and look around! See how to set it up for your skin here: <a href="https://github.com/IthanMendoza/Fresh-Moves/wiki#how-to-animate-the-eyes">[Link]</a>
-	<br /> The modpack also includes the <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations">Fresh Animations</a> resource pack, enhancing the animations of all the mobs too!
-	
-</p>
-
-<p style="text-align: center;">
-	<img alt="Player skin with animated eyes from Just Expressions" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/justexpressions.webp" width="400"/>
-	<img alt="Villagers animated by Fresh Animations" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/fresh-animations.webp" width="400"/>
-</p>
-
-<pre>&nbsp;</pre>
-
-
-<h1 style="text-align: center; font-size: 24px; font-family: 'impact'">
--[ Visual Improvements! 🌟 ]-
-</h1>
-
-<p style="text-align: center;"><span style="font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-Leaves falling from trees!
-<br />  Additional player animations!
-<br />  Dark loading screen!
-<br />  3D skin layers!
-<br />  Wavey Capes!
-<br />  Prettier item tooltips!
-</span></p>
-
-
-<pre>&nbsp;</pre>
-
-
-<h1 style="text-align: center; font-size: 24px; font-family: 'impact'">
--[ Quality Of Life! 🍷 ]-
-</h1>
-
-<p style="text-align: center;"><span style="font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-See further than the servers render distance! <a href="https://modrinth.com/mod/voxy">[Link]</a>
-<br />  Connect to any server on older versions! <a href="https://www.curseforge.com/minecraft/mc-mods/viafabricplus">[Link]</a>
-<br />  Easily swap items without opening the inventory! <a href="https://www.curseforge.com/minecraft/mc-mods/itemswapper">[Link]</a>
-<br />  Customizable Cape! <a href="https://minecraftcapes.net/">[Link]</a>
-<br />  Inventory Sorting! <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">[Link]</a>
-<br />  World Map! <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/screenshots">[Link]</a>
-<br />  Improved mouse dragging mechanics! <a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">[Link]</a>
-<br />  Hide shield from view when not used!
-<br />  Better Third Person!
-<br />  No pesky potion particles in first-person!
-<br />  No Chat Reporting! <a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">[Link]</a>
-<br />  Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
-<br />  Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough-plus">[Link]</a>
-</span></p>
-
-
-<pre>&nbsp;</pre>
-
-<h1 style="text-align: center; font-size: 24px; font-family: 'impact'">
--[ OptiFine Features! ✅ ]-
-</h1>
-
-<p style="text-align: center;"><span style="font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-Shader Pack Support! ✔
-<br />  Connected Textures! ✔
-<br />  Emissive Textures! ✔
-<br />  Custom Entity Models! ✔
-<br />  Random Entity Textures! ✔
-<br />  Custom Item Textures! ✔
-<br />  Custom Fog Color! ✔
-<br />  Animated Textures! ✔
-<br />  Custom GUI Textures! ✔
-<br />  Zoom Button! ✔
-<br />  Dynamic Lights! ✔
-</span></p>
-
-
-
-<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Performance Comparison</strong></p>
-<div class="spoiler"> <!--Spoiler Start-->
-
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
-The screenshots for the performance comparison were captured playing on the same world looking towards the same spot. The screenshots roughly reflects the maximum performance that were seen on both sides.
-</p>
-
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
-Identical settings were used in both screenshots: 
-</p>
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
-- Graphics: Fancy
-<br />- Resolution: 3840x1440
-<br />- Render Distance: 32
-<br />- Simulation Distance: 12
-<br />- Field of view: Normal
-</p>
-
-<p>Note that this is a slightly unfair scenario as the F3 menu greatly decreases the FPS in vanilla. This is why the comparison for the <i>Features</i> segment above actually uses the 'FPS Reducer' mod on both sides to display the FPS instead, in order to even the playingfield a bit.</p>
-
-<h4>Vanilla 1.20.4:</h4>
-<img alt="Vanilla 1.20.4 benchmark with the F3 screen open" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/Performance%20Benchmark%20Vanilla.jpg"/>
-&nbsp;
-<h4>Breakneck 1.20.4 - v3.4.6:</h4>
-<img alt="Breakneck 1.20.4 benchmark with the F3 screen open" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/Performance%20Benchmark%20Breakneck.jpg"/>
-
-
-</div> <!--Spoiler End-->
-
-<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Example Screenshots</strong></p>
-<div class="spoiler"> <!--Spoiler Start-->
-
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>
-	Connected Textures Example: </strong>(Using 'Stay True' Resource Pack)
-	<br /><img alt="Connected textures from the Stay True resource pack" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/LKZTNbI-tiny.jpg"/>
-</p>
-	
-<p>&nbsp;</p>
-
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>
-	Random Entity and Emissive Textures Example: </strong>(Using 'Tissou's Zombie Pack' Resource Pack)
-	<img alt="Zombie with glowing eyes from Tissou's Zombie Pack" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/wBDkYHd-tiny.jpg"/>
-</p>
-</div> <!--Spoiler End-->
-
-<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Old Performance Comparison (1.19.3)</strong></p>
-<div class="spoiler"> <!--Spoiler Start-->
-
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
-	The screenshots for the performance comparison were captured playing on the same world running Minecraft version 1.19.3 looking in the same direction. The screenshots roughly reflects the maximum performance that were seen in both scenarios.
-</p>
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
-Following settings were used:
-</p>
-<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
-- Graphics: Fancy
-<br />- Resolution: 2560x1440
-<br />- Render Distance: 12
-<br />- Simulation Distance: 12
-<br />- Field of view: 90
-<br />- Biome Blend: 5x5
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/h-voxy.webp" alt="voxy and shaders: see to the horizon, with shaders on"/>
 </p>
 
 <p>
-	<img alt="FPS comparison on 1.19.3: 498 FPS in vanilla versus 816 FPS with Breakneck" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/JNFUkky-tiny.png" width="450"/>
+	<a href="https://modrinth.com/mod/voxy">voxy</a> turns the terrain beyond your render distance into lightweight LODs, so mountains, coastlines and villages stay in view for miles. It builds them from the chunks you explore, on servers too.
 </p>
+<p>
+	Shaders need to support voxy to light that far terrain, so Breakneck keeps <a href="https://www.curseforge.com/minecraft/mc-mods/sodium">Sodium</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/irisshaders">Iris</a> on versions where voxy and shaders work together. All eight included shader packs support it:
+</p>
+<table style="width: 100%;">
+	<thead>
+		<tr><th>Shader pack</th><th>Look</th></tr>
+	</thead>
+	<tbody>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/photon-shader">Photon</a></td><td>Semi-realistic and made for playing</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/solas-shader">Solas</a></td><td>Fantasy style with colored lighting</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/reverie">Reverie</a></td><td>Foggy and warm</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/bsl-shaders">BSL</a></td><td>Bright and colorful</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/complementary-reimagined">Complementary Reimagined</a></td><td>Polished and true to Minecraft, with Unbound built in</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/glimmer-shaders">Glimmer</a></td><td>Natural and light on performance</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/mellow">Mellow</a></td><td>Painterly and easy on your computer</td></tr>
+		<tr><td><a href="https://www.curseforge.com/minecraft/shaders/i-like-vanilla">I Like Vanilla</a></td><td>Vanilla's style, only better</td></tr>
+	</tbody>
+</table>
+<p>
+	Turn one on in the video settings, or play without.
+</p>
+
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-aurora.webp" alt="An aurora over miles of terrain, with Photon and voxy"/>
+</p>
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-reverie.webp" alt="Sun rays over the far mountains, with Reverie and voxy"/>
+</p>
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-solas.webp" alt="A pink sky over a misty river, with Solas and voxy"/>
+</p>
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-bsl.webp" alt="Forests rolling down to a lake, with BSL and voxy"/>
+</p>
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-complementary.webp" alt="A savanna village among acacias, with Complementary Reimagined and voxy"/>
+</p>
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-glimmer.webp" alt="A meadow above a winding river, with Glimmer and voxy"/>
+</p>
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/gallery-i-like-vanilla.webp" alt="A village below the snowy peaks, with I Like Vanilla and voxy"/>
+</p>
+<p style="font-size: 14px;">
+	Each shot was taken in Breakneck with voxy and the shader pack named on it.
+</p>
+
+
+<p>&nbsp;</p>
+
+<!--Performance-->
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/h-performance.webp" alt="Performance: more frames, fewer stutters"/>
+</p>
+
+<p>
+	<a href="https://www.curseforge.com/minecraft/mc-mods/sodium">Sodium</a> rebuilds the renderer, <a href="https://www.curseforge.com/minecraft/mc-mods/lithium">Lithium</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/c2me">C2ME</a> speed up game logic and chunk loading, and <a href="https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric">FerriteCore</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/modernfix-mvus">ModernFix</a> cut memory use. <a href="https://www.curseforge.com/minecraft/mc-mods/immediatelyfast">ImmediatelyFast</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/moreculling">More Culling</a> and <a href="https://www.curseforge.com/minecraft/mc-mods/asyncparticles">AsyncParticles</a> trim what's left, and <a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-fps">Dynamic FPS</a> makes the game use fewer resources while it's in the background.
+</p>
+
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/benchmark.webp" alt="Benchmark in a world pregenerated hundreds of chunks out. With its default setup, 12 chunks and voxy, Breakneck gets 227 FPS against 157 FPS for vanilla at its maximum of 32 chunks, 45% more. At 12 chunks each, vanilla 372 FPS and Breakneck 460 FPS. At 32 chunks each, vanilla 157 FPS and Breakneck 287 FPS. Minecraft 26.2, Breakneck 5.0-beta.1, 1920x1009, shaders off, GTX 1660 Ti and i7-9750H."/>
+</p>
+<p style="font-size: 14px;">
+	Measured on Minecraft 26.2 with Breakneck 5.0-beta.1, in a world pregenerated hundreds of chunks out. With its default setup, 12 chunks and voxy, Breakneck shows far more of that world than vanilla at its maximum of 32 chunks, and still gets 45% more frames. The screenshots and settings are under <em>Benchmark details</em> at the bottom.
+</p>
+
+
+<p>&nbsp;</p>
+
+<!--Visuals-->
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/h-visuals.webp" alt="Visuals: animations and eye candy"/>
+</p>
+
+<p>
+	<a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations">Fresh Animations</a> brings the mobs to life, and <a href="https://www.curseforge.com/minecraft/texture-packs/just-expressions">Just Expressions</a> does the same for your skin once it's <a href="https://github.com/IthanMendoza/Fresh-Moves/wiki#how-to-animate-the-eyes">set up for it</a>.
+</p>
+
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/anim-eyes.webp" alt="Just Expressions: a player skin that blinks and looks around" width="408"/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/anim-mobs.webp" alt="Fresh Animations: villagers that move like in the trailers" width="408"/>
+</p>
+
+<p>
+	You also get:
+</p>
+<ul>
+	<li>Leaves that drift in the wind and shake loose when you hit them (<a href="https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric">Falling Leaves</a>)</li>
+	<li>3D skin layers and capes that sway and bend as you move (<a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">3D Skin Layers</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/waveycapes">Wavey Capes</a>)</li>
+	<li>First-person animations in third person (<a href="https://www.curseforge.com/minecraft/mc-mods/not-enough-animations">Not Enough Animations</a>)</li>
+	<li>Subtle color variation in grass, leaves and water, like on Bedrock (<a href="https://www.curseforge.com/minecraft/mc-mods/ambient-environment">Ambient Environment</a>)</li>
+	<li>An optional resource pack for a slightly sharper font (<a href="https://www.curseforge.com/minecraft/texture-packs/slightly-improved-font">Slightly Improved Font</a>)</li>
+</ul>
+
+
+<p>&nbsp;</p>
+
+<!--OptiFine Features-->
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/h-optifine.webp" alt="OptiFine features: the features you know, no OptiFine needed"/>
+</p>
+
+<p>
+	Resource packs made for OptiFine work as intended. Here's what handles each feature:
+</p>
+<table style="width: 100%;">
+	<thead>
+		<tr><th>OptiFine feature</th><th>Handled by</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>Shaders</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/irisshaders">Iris Shaders</a></td></tr>
+		<tr><td>Connected textures</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/continuity">Continuity</a></td></tr>
+		<tr><td>Custom entity models</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/entity-model-features">Entity Model Features</a></td></tr>
+		<tr><td>Random and emissive entity textures</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric">Entity Texture Features</a></td></tr>
+		<tr><td>Custom item textures</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/cit-resewn-continuation">CIT Resewn Continuation</a></td></tr>
+		<tr><td>Custom GUIs</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/optigui">OptiGUI</a></td></tr>
+		<tr><td>Animated textures</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/animatica-refabricated">Animatica Refabricated</a></td></tr>
+		<tr><td>Custom colors and fog</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/polytone">Polytone</a></td></tr>
+		<tr><td>Better grass and snow</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass">LambdaBetterGrass</a></td></tr>
+		<tr><td>Dynamic lights</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights">LambDynamicLights</a></td></tr>
+		<tr><td>Zoom</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/zoomify">Zoomify</a></td></tr>
+	</tbody>
+</table>
+
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/optifine-showcase.webp" alt="Connected textures from Continuity, and a zombie with glowing eyes from Entity Texture Features"/>
+</p>
+<p style="font-size: 14px;">
+	Shown with the Stay True and Tissou's Zombie Pack resource packs.
+</p>
+
+
+<p>&nbsp;</p>
+
+<!--Quality of Life-->
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/h-qol.webp" alt="Quality of life: the tweaks you would install anyway"/>
+</p>
+
+<table style="width: 100%;">
+	<thead>
+		<tr><th>What you get</th><th>Mod</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>Join servers on any version, from Classic to Bedrock</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/viafabricplus">ViaFabricPlus</a></td></tr>
+		<tr><td>A full-screen world map</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map">Xaero's World Map</a></td></tr>
+		<tr><td>Look up any item, recipe or villager trade</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items">Roughly Enough Items</a></td></tr>
+		<tr><td>Sort your inventory, lock slots and save gear sets</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">Inventory Profiles Next</a></td></tr>
+		<tr><td>Swap items without opening your inventory</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/itemswapper">ItemSwapper</a></td></tr>
+		<tr><td>Faster dragging and scrolling in inventories</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">Mouse Tweaks</a></td></tr>
+		<tr><td>Peek inside shulker boxes</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip">Shulker Box Tooltip</a></td></tr>
+		<tr><td>Hunger and saturation on your HUD</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/appleskin">AppleSkin</a></td></tr>
+		<tr><td>Know what every enchantment does</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions">Enchantment Descriptions</a></td></tr>
+		<tr><td>Harvest and replant crops with one click</td><td><a href="https://modrinth.com/mod/replanterforked">Replanter Forked</a></td></tr>
+		<tr><td>Open chests through signs and item frames</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough-plus">ClickThrough Plus</a></td></tr>
+		<tr><td>Proximity voice chat, on servers that have it</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat">Simple Voice Chat</a></td></tr>
+		<tr><td>Invite friends to your singleplayer world</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/e4mc">e4mc</a></td></tr>
+		<tr><td>Play with a controller</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/controllable">Controllable</a></td></tr>
+		<tr><td>Keep your chat unreportable</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">No Chat Reports</a></td></tr>
+		<tr><td>Browse resource packs and shaders in-game</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/resourcify">Resourcify</a></td></tr>
+		<tr><td>Hide your shield and your own potion particles</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/client-tweaks">Client Tweaks</a></td></tr>
+		<tr><td>Borderless fullscreen</td><td><a href="https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders">Cubes Without Borders</a></td></tr>
+	</tbody>
+</table>
+<p>
+	And plenty more. See every mod in the <a href="https://crismpack.net/breakneck/modlist.html">modlist</a>, or under <a href="https://www.curseforge.com/minecraft/modpacks/breakneck/relations/dependencies">Relations</a> here on CurseForge.
+</p>
+
+
+<p>&nbsp;</p>
+
+<!--Good to Know-->
+<p style="text-align: center;">
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/h-faq.webp" alt="Good to know: servers, voxy and setup"/>
+</p>
+
+<p>
+	<strong>Does it work on servers?</strong>
+	<br/>Yes. Every mod is client-side, so you can join any server that vanilla Minecraft can. Voice chat needs the server to run Simple Voice Chat too.
+</p>
+<p>
+	<strong>Does voxy work on servers?</strong>
+	<br/>Yes. It turns the chunks you explore into LODs, so the far view fills in as you travel.
+</p>
+<p>
+	<strong>What does voxy need?</strong>
+	<br/>A graphics card with OpenGL 4.6 support.
+</p>
+<p>
+	<strong>Can I join servers on other versions?</strong>
+	<br/>Yes. Pick the server's version with the ViaFabricPlus button on the multiplayer screen.
+</p>
+<p>
+	<strong>How do I give it more RAM?</strong>
+	<br/>Our <a href="https://crismpack.net/ram-allocation.html">RAM guide</a> shows how in each launcher.
+</p>
+<p>
+	<strong>Where is Voxy WorldGen?</strong>
+	<br/>Voxy WorldGen generates the terrain around you in singleplayer, so the far view is there from the start. Its license only allows downloading it from Modrinth, so the CurseForge version leaves it out. You can still get it from <a href="https://modrinth.com/mod/voxy-worldgen">Modrinth</a>.
+</p>
+
+<p><strong>Benchmark details</strong></p>
+<div class="spoiler"> <!--Spoiler Start-->
+<p>
+	All screenshots were taken in the same world, looking at the same spot, with the same settings apart from render distance and voxy: Minecraft 26.2, Breakneck 5.0-beta.1, a 1920×1009 window and no shaders. Vanilla defaults to 12 chunks and goes up to 32, while Breakneck defaults to 12 chunks with voxy. The world is fully pregenerated hundreds of chunks out, so voxy has real terrain to draw far past 32 chunks. The computer is a laptop with an Intel Core i7-9750H and a GeForce GTX 1660 Ti, and the game gets 6 GB of memory.
+</p>
+<p>
+	The framerate is the game's own counter, with the rest of the F3 screen hidden on both sides. Breakneck's shots also show the render distance, as D. The last two screenshots show the full F3 screen on each side.
+</p>
+<h4>Vanilla at 32 chunks, its maximum</h4>
+<img alt="Vanilla at its maximum of 32 chunks: 157 FPS" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-vanilla-32.webp"/>
+<h4>Breakneck's default setup: 12 chunks with voxy</h4>
+<img alt="Breakneck at its default 12 chunks with voxy: 227 FPS, showing terrain past 32 chunks" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-breakneck-12-voxy.webp"/>
+<h4>Vanilla at 12 chunks</h4>
+<img alt="Vanilla at 12 chunks: 372 FPS" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-vanilla-12.webp"/>
+<h4>Breakneck at 12 chunks</h4>
+<img alt="Breakneck at 12 chunks: 460 FPS" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-breakneck-12.webp"/>
+<h4>Breakneck at 32 chunks</h4>
+<img alt="Breakneck at 32 chunks: 287 FPS" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-breakneck-32.webp"/>
+<h4>The full F3 screen in vanilla</h4>
+<img alt="The full F3 screen in vanilla, listing Minecraft 26.2, Java and the hardware" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-specs-vanilla.webp"/>
+<h4>The full F3 screen in Breakneck</h4>
+<img alt="The full F3 screen in Breakneck with voxy on, listing Minecraft 26.2, the mods and the hardware" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/bench-specs-breakneck.webp"/>
 </div> <!--Spoiler End-->
 
 
-<p>&nbsp;</p>
-
-
-<!--Modlist Banner-->
+<!--Finish Line-->
 <p style="text-align: center;">
-	<a href="https://crismpack.net/breakneck/modlist.html">
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-bannertext-modlist.webp" alt="Modlist"/>
-</a></p>
-
-<!--Modlist Text-->
-<p style="text-align: center; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-	Modlist: <a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
-	<br />Or see the <a href="https://www.curseforge.com/minecraft/modpacks/breakneck/relations/dependencies">dependencies</a> here on CurseForge.
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/finish.webp" alt="Made by HaXr, CrismPack"/>
 </p>
 
-<p>&nbsp;</p>
-
-
-
-<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-<code>Licensing Notice: 
-This modpack is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed">[CC-BY 4.0]</a>. Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
-<br />Mods, resource packs and shaderpacks by other authors keep their own licenses. The Breakneck logo and imagery aren't covered and remain all rights reserved.
-</code></p>
-
-<p>&nbsp;</p>
-
-<!--Crism Banner-->
-<p style="text-align: center;">
-	<img alt="CrismPack" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png"/>
+<!--License-->
+<p style="font-size: 14px;">
+	<strong>License:</strong> Breakneck is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed">CC BY 4.0</a>, so you may use it as a base for your own modpacks, as long as you give proper credit. Mods, resource packs and shaderpacks by other authors keep their own licenses. The Breakneck logo and imagery aren't covered and remain all rights reserved.
 </p>
 
-
-<h1 style="text-align: center; font-size: 24px; font-family: 'impact'">
-	More from author:
-</h1>
-
-<!--Insomnia Banner-->
+<!--More From CrismPack-->
+<h3 style="text-align: center;">More from CrismPack</h3>
 <p style="text-align: center;">
-
-<a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore">
-	<img alt="Insomnia: Hardcore" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/6b38SRD-tiny.png"/>
-</a></p>
-
-<h5 style="text-align: center; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-	RPG | Skill Trees | Beautiful Worldgen | Bosses | Official Server | Shaders
-	<br />Prepare for an intense hardcore adventure!
-	<br /><a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore"><strong>>>> Insomnia: Hardcore <<<</strong></a>
-</h5>
-<p style="text-align: center;">
-	<a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore">
-		<img alt="Insomnia server status" src="https://api.mcstatus.io/v2/widget/java/insomnia.crismpack.net" width="500"/>
-	</a>
+	<a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore"><img alt="Insomnia: Hardcore" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/6b38SRD-tiny.png"/></a>
 </p>
-
 <p style="text-align: center;">
-	<iframe allowfullscreen="allowfullscreen" 
-	src="https://www.youtube.com/embed/i_DNgeFoW-o?si=Mh7EaGIuRgcYx35D&amp;start=41" 
-	height="405" width="720" frameborder="0">
-</iframe></p>
-
-<p>&nbsp;</p>
+	RPG, skill trees, beautiful worldgen, bosses, shaders and an official server.
+	<br/>Prepare for an intense hardcore adventure in <a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore"><strong>Insomnia: Hardcore</strong></a>.
+</p>
+<p style="text-align: center;">
+	<a href="https://www.curseforge.com/minecraft/modpacks/insomnia-hardcore"><img alt="Insomnia server status" src="https://api.mcstatus.io/v2/widget/java/insomnia.crismpack.net" width="500"/></a>
+</p>
+<p style="text-align: center;">
+	<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/i_DNgeFoW-o?si=Mh7EaGIuRgcYx35D&amp;start=41" height="405" width="720" frameborder="0"></iframe>
+</p>
 
 <!--BisectHosting Banner-->
 <p style="text-align: center;">
-	<a href="https://bisecthosting.com/CRISM">
-	<img alt="BisectHosting: save 25% with code CRISM" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/bhbanner-tiny.png"/>
-</a></p>
+	<a href="https://bisecthosting.com/CRISM"><img alt="BisectHosting: save 25% with code CRISM" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/bhbanner-tiny.png"/></a>
+</p>
