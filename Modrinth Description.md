@@ -30,11 +30,11 @@
 	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-bannertext-features.webp" alt="Features"/>
 </p></center>
 
-<small></small><center>
+<center>
 <!--Features Text-->
 <h2><strong>
 -[ Lag Begone, Boost Your FPS! 📈 ]-
-</strong></h2></p>
+</strong></h2>
 
 <p>
 	Are you tired of struggling with low framerates and lag in your vanilla Minecraft game? This modpack is filled to the brim with performance optimizing mods that helps to vastly improve your FPS!
@@ -46,22 +46,22 @@
 
 <h2><strong>
 	-[ Freshly Animated! 👀 ]-
-</strong></h2></p>
+</strong></h2>
 
 <p>
 	Make your skin come alive with expressive eyes that blink and look around! See how to set it up for your skin here: <a href="https://github.com/IthanMendoza/Fresh-Moves/wiki#how-to-animate-the-eyes">[Link]</a>
 	<br /> The modpack also includes the <a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a> resource pack, enhancing the animations of all the mobs too!
 </p>
 
-<p style="text-align: center;">
+<p>
 	<img alt="Player skin with animated eyes from Just Expressions" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/justexpressions.webp" width="400"/>
 	<img alt="Villagers animated by Fresh Animations" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/fresh-animations.webp" width="400"/>
 </p>
 
 
 <h2><strong>
--[ Visual Improvements 🌟 ]-
-</strong></h2></p>
+-[ Visual Improvements! 🌟 ]-
+</strong></h2>
 
 <p>
 	Leaves falling from trees!
@@ -75,7 +75,7 @@
 
 <h2><strong>
 -[ Quality Of Life! 🍷 ]-
-</strong></h2></p>
+</strong></h2>
 
 <p>
 	See further than the servers render distance! <a href="https://modrinth.com/mod/voxy">[Link]</a>
@@ -89,14 +89,14 @@
 	<br />  Better Third Person!
 	<br />  No pesky potion particles in first-person!
 	<br />  No Chat Reporting! <a href="https://modrinth.com/mod/no-chat-reports">[Link]</a>
-	<br />	Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
-	<br />	Click through signs and itemframes on containers! <a href="https://modrinth.com/mod/clickthrough%2B">[Link]</a>
+	<br />  Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
+	<br />  Click through signs and itemframes on containers! <a href="https://modrinth.com/mod/clickthrough%2B">[Link]</a>
 </p>
 
 
 <h2><strong>
 -[ OptiFine Features! ✅ ]-
-</strong></h2></p>
+</strong></h2>
 
 <p>
 	Shader Pack Support! ✔
@@ -109,7 +109,7 @@
 	<br />  Animated Textures! ✔
 	<br />  Custom GUI Textures! ✔
 	<br />  Zoom Button! ✔
-	<br />	Dynamic Lights! ✔
+	<br />  Dynamic Lights! ✔
 </p></center>
 
 
@@ -186,15 +186,17 @@ Following settings were used:
 </center>
 
 <!--Modlist Text-->
+<center>
 <p>
 	Modlist: <a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
 </p>
+</center>
 
 
 <!--Crism Banner-->
 ![CrismPack Spacer](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png)
 
-> ### Licencing Notice
+> ### Licensing Notice
 > This modpack is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed). Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
 >
 > Mods, resource packs and shaderpacks by other authors keep their own licenses. The Breakneck logo and imagery aren't covered and remain all rights reserved.

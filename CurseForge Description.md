@@ -75,7 +75,7 @@ Leaves falling from trees!
 <br />  3D skin layers!
 <br />  Wavey Capes!
 <br />  Prettier item tooltips!
-</span></h5></p>
+</span></p>
 
 
 <pre>&nbsp;</pre>
@@ -86,7 +86,7 @@ Leaves falling from trees!
 </h1>
 
 <p style="text-align: center;"><span style="font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-		See further than the servers render distance! <a href="https://modrinth.com/mod/voxy">[Link]</a>
+See further than the servers render distance! <a href="https://modrinth.com/mod/voxy">[Link]</a>
 <br />  Connect to any server on older versions! <a href="https://www.curseforge.com/minecraft/mc-mods/viafabricplus">[Link]</a>
 <br />  Easily swap items without opening the inventory! <a href="https://www.curseforge.com/minecraft/mc-mods/itemswapper">[Link]</a>
 <br />  Customizable Cape! <a href="https://minecraftcapes.net/">[Link]</a>
@@ -97,8 +97,8 @@ Leaves falling from trees!
 <br />  Better Third Person!
 <br />  No pesky potion particles in first-person!
 <br />  No Chat Reporting! <a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">[Link]</a>
-<br />	Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
-<br />	Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough-plus">[Link]</a>
+<br />  Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
+<br />  Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough-plus">[Link]</a>
 </span></p>
 
 
@@ -109,7 +109,7 @@ Leaves falling from trees!
 </h1>
 
 <p style="text-align: center;"><span style="font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-		Shader Pack Support! ✔
+Shader Pack Support! ✔
 <br />  Connected Textures! ✔
 <br />  Emissive Textures! ✔
 <br />  Custom Entity Models! ✔
@@ -119,16 +119,17 @@ Leaves falling from trees!
 <br />  Animated Textures! ✔
 <br />  Custom GUI Textures! ✔
 <br />  Zoom Button! ✔
-<br />	Dynamic Lights! ✔
+<br />  Dynamic Lights! ✔
 </span></p>
 
 
 
+<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Performance Comparison</strong></p>
 <div class="spoiler"> <!--Spoiler Start-->
 
-<h2>Performance Comparison:</h2>
-
+<p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
 The screenshots for the performance comparison were captured playing on the same world looking towards the same spot. The screenshots roughly reflects the maximum performance that were seen on both sides.
+</p>
 
 <p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
 Identical settings were used in both screenshots: 
@@ -152,9 +153,8 @@ Identical settings were used in both screenshots:
 
 </div> <!--Spoiler End-->
 
+<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Example Screenshots</strong></p>
 <div class="spoiler"> <!--Spoiler Start-->
-
-<h2>Example Screenshots:</h2>
 
 <p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>
 	Connected Textures Example: </strong>(Using 'Stay True' Resource Pack)
@@ -169,13 +169,12 @@ Identical settings were used in both screenshots:
 </p>
 </div> <!--Spoiler End-->
 
+<p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Old Performance Comparison (1.19.3)</strong></p>
 <div class="spoiler"> <!--Spoiler Start-->
-<h2>Old Performance Comparison (1.19.3):</h2>
 
 <p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
 	The screenshots for the performance comparison were captured playing on the same world running Minecraft version 1.19.3 looking in the same direction. The screenshots roughly reflects the maximum performance that were seen in both scenarios.
 </p>
-&nbsp;</p>
 <p style="text-align: left; font-family: 'trebuchet ms', geneva, sans-serif;">
 Following settings were used:
 </p>
@@ -188,9 +187,9 @@ Following settings were used:
 <br />- Biome Blend: 5x5
 </p>
 
-<a href="">
+<p>
 	<img alt="FPS comparison on 1.19.3: 498 FPS in vanilla versus 816 FPS with Breakneck" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/JNFUkky-tiny.png" width="450"/>
-</a>
+</p>
 </div> <!--Spoiler End-->
 
 
@@ -204,19 +203,17 @@ Following settings were used:
 </a></p>
 
 <!--Modlist Text-->
-<h5 style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-	See <a href="https://www.curseforge.com/minecraft/modpacks/breakneck/relations/dependencies">dependecies.</a>
-	<br />or...
-	<br /> Modlist: 
-	<a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
-</h5>
+<p style="text-align: center; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
+	Modlist: <a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
+	<br />Or see the <a href="https://www.curseforge.com/minecraft/modpacks/breakneck/relations/dependencies">dependencies</a> here on CurseForge.
+</p>
 
 <p>&nbsp;</p>
 
 
 
 <p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-<code>Licencing Notice: 
+<code>Licensing Notice: 
 This modpack is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed">[CC-BY 4.0]</a>. Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
 <br />Mods, resource packs and shaderpacks by other authors keep their own licenses. The Breakneck logo and imagery aren't covered and remain all rights reserved.
 </code></p>
@@ -264,5 +261,3 @@ This modpack is licensed under <a href="https://creativecommons.org/licenses/by/
 	<a href="https://bisecthosting.com/CRISM">
 	<img alt="BisectHosting: save 25% with code CRISM" src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/bhbanner-tiny.png"/>
 </a></p>
-
-</a>
