@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e927451204b834ff64899d0ee039f76cb3b35b6d5f811884f059d64fbb3ebe57"
+hash = "4869048d97ed496a88ac1f461626ec007bfc335194e44ffb8566cab6f1a3d3e7"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -439,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "3499c1c92a3e0f02c59dde528e5f89ca312d2e0aa1af8457586946579c17fe35"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
 metafile = true
 
 [[files]]

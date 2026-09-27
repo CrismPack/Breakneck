@@ -44,7 +44,6 @@
 - Inventory Profiles Next
 - Iris Shaders
 - ItemSwapper
-- Krypton
 - LambdaBetterGrass
 - LambDynamicLights - Dynamic Lights
 - Language Reload
