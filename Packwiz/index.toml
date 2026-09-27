@@ -126,7 +126,7 @@ hash = "fbd6a3155e0c22a64970ebc48f3442570767a9eb214e33d05543cbfa186c55af"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "6bafeb4e20f20c43e8edf1b4cd8414e6e412f735878c2c5dbdb8130edfb60b46"
+hash = "a4d593566e8c8ee26299d762a82ac73d57553efed99ef3c7c7b51b8c79ae16cf"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -150,7 +150,7 @@ hash = "34b07e50bf423552d94c1714370f1cd6eb3b5c51d4f5010a2f2fe3dd985b4ccf"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e2e914f41a6c382571e3fd574d7897a876cfb2f8adcd4519b0200e355ea3db4a"
+hash = "35d42f3982b66b83f08f5e8c8766f4b69fa4ff99b5fbd3a2ec3e3bae1419e98b"
 
 [[files]]
 file = "config/resourcify.json"

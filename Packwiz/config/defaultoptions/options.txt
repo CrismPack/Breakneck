@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","itemswapper:default","file/JustExpressions_v1.1.zip","file/Breakneck Lang","lambdabettergrass:default","breakneckmenu:ui"]
+resourcePacks:["vanilla","itemswapper:default","file/JustExpressions_v1.2.1.zip","file/Breakneck Lang","lambdabettergrass:default","breakneckmenu:ui"]
 incompatibleResourcePacks:[]
 lastServer:
 chatVisibility:0
