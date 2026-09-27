@@ -10,7 +10,7 @@
 	<a href="https://discord.gg/Kss5gBgeDA" rel="nofollow">
 		<img src="https://img.shields.io/discord/734879752866889788?label=&color=e66433&labelColor=672a14&style=for-the-badge&logo=discord&logoColor=white" height="28"
 		/></a>
-	<a href="https://wiki.crismpack.net/modpacks/breakneck-optimized/changelog">
+	<a href="https://crismpack.net/breakneck/introduction.html">
 		<img src="https://img.shields.io/badge/-Changelogs-e66433?labelColor=672a14&style=for-the-badge&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADBElEQVRoge2YO2gVQRSGv9x7fYUoiiYqBGMUFDsFlaBWFoKFWoWIL7TQQkELK/EBYmcldtqIFgo24qOxsBJRERWCIIqP6yMRJJhEo0mMceQk58q47IbduzOJxXww3Lk7s3Pmn5055+wSCAQCgUAg8P9RY4xxPakFwEOgFpgMTAWGgQLwBegHijlt1Fj1ecCjUs4B4yjp4DaVic/2YE9oKHgauMJ6Xb2S/t72ZMf42FpTgBXAJOAp0Ge11QF3gNWObZZ9bK1B4EFC21EPIkbwISSJM8AhX4O7ErIW2AF8BuqBu8AVq73Npwg5f1nOyDHgFPAmcv0nMBeYFbn+AVip4uSe5pR23mkhpZuWhWvP8kTW6W/FtRotcrg/Ac+1LsKWaewQEdtTirgKHAdeZpjTX9I+kZKuzmAVNp6oFxuLzcDNKsb+Z4Jp+KXFZiOwC+iMud+o6KYUItryisgiJA7Zaltz2r+mWyo3eYRc11Xv0v+/NQjWWX0kGPZqanIQWBgZ46ILESPIGRnHctgY029GGTbGNLqyLbnWAcsD5S3nY57akKQQwH2N6r3a9t2q56aSqb5XY0kU1Z2+AHqAmcBSa2u+VmdwNnL/DO3TpKXFaqvV9m8uhIj7Lej+TsMqYLEGu3tWfwl8DcB0XZgBoBs4AiwfY9xNwC0XQkoZRKyxJi8vSCd0NWu0vqgK+ztdCcmSolxSw1/VO02z2gb0LETfb+IGl7fGDt1W4s22ADeqlzBKWiEy8fl6Pow+BTsP+p0w6YKmLD8i1yWVaQeW6L0b9D3Fu5A8NOtEO1WYPI39wJ7ImBc01+qYKCFF3S6VgYY0Ix3UAy+Z8atIoBwLST4/anuaV/E5wDMXweiyBrgeY0y31ruMMfVWn93GL+W8IloTpnc6pu85j1Le5t1aLRpXOqxUH3XTfTH9JUFszWMwgfJ4HPYoksbsdTxm2fd3rTj2Ads09jhjIoSgHyYkXzvpKNfK9PHBF0WNM1IkL2tUdz6cNOnIf3HvjydaRCAQCAQCAWcAfwCw0LMvknPtPgAAAABJRU5ErkJggg==" height="28"
 		/></a>
 	<a href="https://bisecthosting.com/CRISM">
@@ -86,8 +86,8 @@ Leaves falling from trees!
 </h1>
 
 <p style="text-align: center;"><span style="font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
-		See further than the servers render distance! <a href="https://www.curseforge.com/minecraft/mc-mods/bobby">[Link]</a>
-<br />  Connect to any server on older versions! <a href="https://www.curseforge.com/minecraft/mc-mods/viafabric">[Link]</a>
+		See further than the servers render distance! <a href="https://modrinth.com/mod/voxy">[Link]</a>
+<br />  Connect to any server on older versions! <a href="https://www.curseforge.com/minecraft/mc-mods/viafabricplus">[Link]</a>
 <br />  Easily swap items without opening the inventory! <a href="https://www.curseforge.com/minecraft/mc-mods/itemswapper">[Link]</a>
 <br />  Customizable Cape! <a href="https://minecraftcapes.net/">[Link]</a>
 <br />  Inventory Sorting! <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">[Link]</a>
@@ -97,8 +97,8 @@ Leaves falling from trees!
 <br />  Better Third Person!
 <br />  No pesky potion particles in first-person!
 <br />  No Chat Reporting! <a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">[Link]</a>
-<br />	Easy Harvesting & Replanting! <a href="https://www.curseforge.com/minecraft/mc-mods/replanter">[Link]</a>
-<br />	Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough">[Link]</a>
+<br />	Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
+<br />	Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough-plus">[Link]</a>
 </span></p>
 
 
@@ -199,7 +199,7 @@ Following settings were used:
 
 <!--Modlist Banner-->
 <p style="text-align: center;">
-	<a href="https://wiki.crismpack.net/modpacks/breakneck-optimized/modlist">
+	<a href="https://crismpack.net/breakneck/modlist.html">
 	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/1.21/Breakneck-1.21-bannertext-modlist.webp" alt="Modlist"/>
 </a></p>
 
@@ -208,7 +208,7 @@ Following settings were used:
 	See <a href="https://www.curseforge.com/minecraft/modpacks/breakneck/relations/dependencies">dependecies.</a>
 	<br />or...
 	<br /> Modlist: 
-	<a href="https://wiki.crismpack.net/modpacks/breakneck-optimized/modlist">[Link]</a>
+	<a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
 </h5>
 
 <p>&nbsp;</p>
@@ -218,6 +218,7 @@ Following settings were used:
 <p style="text-align: left; font-size: 18px; font-family: 'trebuchet ms', geneva, sans-serif;">
 <code>Licencing Notice: 
 This modpack is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed">[CC-BY 4.0]</a>. Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
+<br />Mods, resource packs and shaderpacks by other authors keep their own licenses. The Breakneck logo and imagery aren't covered and remain all rights reserved.
 </code></p>
 
 <p>&nbsp;</p>

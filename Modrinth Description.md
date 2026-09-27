@@ -50,7 +50,7 @@
 
 <p>
 	Make your skin come alive with expressive eyes that blink and look around! See how to set it up for your skin here: <a href="https://github.com/IthanMendoza/Fresh-Moves/wiki#how-to-animate-the-eyes">[Link]</a>
-	<br /> The modpack also includes the <a href="https://www.curseforge.com/minecraft/texture-packs/fresh-animations">Fresh Animations</a> resource pack, enhancing the animations of all the mobs too!
+	<br /> The modpack also includes the <a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a> resource pack, enhancing the animations of all the mobs too!
 </p>
 
 <p style="text-align: center;">
@@ -78,19 +78,19 @@
 </strong></h2></p>
 
 <p>
-	See further than the servers render distance! <a href="https://www.curseforge.com/minecraft/mc-mods/bobby">[Link]</a>
-	<br />  Connect to any server on older versions! <a href="https://www.curseforge.com/minecraft/mc-mods/viafabric">[Link]</a>
-	<br />  Easily swap items without opening the inventory! <a href="https://www.curseforge.com/minecraft/mc-mods/itemswapper">[Link]</a>
+	See further than the servers render distance! <a href="https://modrinth.com/mod/voxy">[Link]</a>
+	<br />  Connect to any server on older versions! <a href="https://modrinth.com/mod/viafabricplus">[Link]</a>
+	<br />  Easily swap items without opening the inventory! <a href="https://modrinth.com/mod/itemswapper">[Link]</a>
 	<br />  Customizable Cape! <a href="https://minecraftcapes.net/">[Link]</a>
-	<br />  Inventory Sorting! <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next">[Link]</a>
-	<br />  World Map! <a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/screenshots">[Link]</a>
-	<br />  Improved mouse dragging mechanics! <a href="https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks">[Link]</a>
+	<br />  Inventory Sorting! <a href="https://modrinth.com/mod/inventory-profiles-next">[Link]</a>
+	<br />  World Map! <a href="https://modrinth.com/mod/xaeros-world-map">[Link]</a>
+	<br />  Improved mouse dragging mechanics! <a href="https://modrinth.com/mod/mouse-tweaks">[Link]</a>
 	<br />  Hide shield from view when not used!
 	<br />  Better Third Person!
 	<br />  No pesky potion particles in first-person!
-	<br />  No Chat Reporting! <a href="https://www.curseforge.com/minecraft/mc-mods/no-chat-reports">[Link]</a>
-	<br />	Easy Harvesting & Replanting! <a href="https://www.curseforge.com/minecraft/mc-mods/replanter">[Link]</a>
-	<br />	Click through signs and itemframes on containers! <a href="https://www.curseforge.com/minecraft/mc-mods/clickthrough">[Link]</a>
+	<br />  No Chat Reporting! <a href="https://modrinth.com/mod/no-chat-reports">[Link]</a>
+	<br />	Easy Harvesting & Replanting! <a href="https://modrinth.com/mod/replanterforked">[Link]</a>
+	<br />	Click through signs and itemframes on containers! <a href="https://modrinth.com/mod/clickthrough%2B">[Link]</a>
 </p>
 
 
@@ -190,115 +190,14 @@ Following settings were used:
 	Modlist: <a href="https://crismpack.net/breakneck/modlist.html">[Link]</a>
 </p>
 
-<details><!--Spoiler Start-->
-<summary>Modlist v4.4.2</summary>
-
-- Ambient Environment (by Jaredlll08)
-- AppleSkin (by squeek502)
-- Architectury API (by shedaniel)
-- Balm (Fabric Edition) (by BlayTheNinth)
-- BetterGrassify (by UltimatChamp)
-- Better Statistics Screen (by TheCSDev)
-- Better Third Person (by Socolio)
-- Bobby (by Johni0702)
-- Branded Logs (by HaXr)
-- Breakneck Menu (by HaXr)
-- Concurrent Chunk Management Engine (by ishlandmc)
-- Capes [Fabric/Forge] (by Cael)
-- Chat Heads (by dzwdz)
-- CleanView (Fabric) (by LainMI)
-- Client Tweaks (by BlayTheNinth)
-- Cloth Config API (Fabric/Forge/NeoForge) (by shedaniel)
-- Collective (by Serilum)
-- Continuity (by Pepper_Bell)
-- Controlify (by isXander)
-- Controlling (by Jaredlll08)
-- Crash Assistant (by KostromDan)
-- CraterLib (by HypherionSA)
-- Custom Window Title (by chylex)
-- Cubes Without Borders (by Kir_Antipov)
-- Debugify (by isXander)
-- Detail Armor Bar [Fabric] (by RedLime)
-- Dynamic FPS (by juliand665)
-- e4mc (by skyegreen)
-- Enhanced Block Entities (by FoundationGames)
-- [EMF] Entity Model Features [Fabric & Forge] (by Traben)
-- [ETF] Entity Texture Features - [Fabric & Forge] (by Traben)
-- Fabric API (by modmuss50)
-- Fabric Language Kotlin (by modmuss50)
-- Falling Leaves (Fabric) (by RandomMcSomethin)
-- FerriteCore (Fabric) (by malte0811)
-- Forge Config API Port (by Fuzs)
-- Fzzy Config (by fzzyhmstrs)
-- ImmediatelyFast (by RaphiMC)
-- Inventory Profiles Next (by mirinimi)
-- Iris Shaders (by coderbot)
-- ItemSwapper (by tr7zw)
-- Krypton (by tuxed)
-- Language Reload (by Jerozgen)
-- libIPN (by mirinimi)
-- Lithium (Fabric/NeoForge) (by JellySquid)
-- Map Tooltip (by VendoAU)
-- MixinTrace (by comp500)
-- Model Gap Fix (by MehVahdJukaar)
-- ModernFix (by embeddedt)
-- Mod Menu (by Prospector)
-- MoreCulling (by FX_PR0CESS)
-- Mouse Tweaks (by YaLTeR)
-- Name Pain (by naqaden)
-- No Chat Reports (by Aizistral)
-- Noisium (by Steveplays28)
-- Not Enough Animations (by tr7zw)
-- Numeral Ping (by TheKodeToad)
-- ObsidianUI (by TexTrue)
-- OptiGUI (by opekope2)
-- Paginated Advancements & Custom Frames (by DaFuqsy)
-- Particle Core (by fzzyhmstrs)
-- Persistent Inventory Search (by Serilum)
-- Polytone (by MehVahdJukaar)
-- Prickle (by DarkhaxDev)
-- Raised (by yurisuika)
-- Reese's Sodium Options (by FlashyReese)
-- Resource Pack Overrides [Forge & Fabric] (by Fuzs)
-- Resourcify (by DeDiamondPro)
-- Roughly Enough Items Fabric/Forge/NeoForge (REI) (by shedaniel)
-- Remove Reloading Screen (by dimadencep)
-- ScalableLux (by ishlandmc)
-- Screenshot to Clipboard (Fabric) (by comp500)
-- Searchables (by Jaredlll08)
-- Server Country Flags (by khajiitos)
-- Shulker Box Tooltip [Fabric/Forge/NeoForge] (by MisterPeModder)
-- Simple Discord RPC (by HypherionSA)
-- Skin Layers 3D (Fabric/Forge) (by tr7zw)
-- Sodium Extra (by FlashyReese)
-- Sodium (by JellySquid)
-- StackDeobfuscator (by booky)
-- Status Effect Bars (by Neecko5b84)
-- Suggestion Tweaker (by VelizarP)
-- TCDCommons API (by TheCSDev)
-- ViaFabric (by EnZaXD)
-- Simple Voice Chat (by henkelmax)
-- Wavey Capes (by tr7zw)
-- Xaero's World Map (by xaero96)
-- YetAnotherConfigLib (by isXander)
-- Your Options Shall Be Respected (YOSBR) (by shedaniel)
-- Zoomify (by isXander)
-- Chat Reporting Helper (by robotkoer)
-- Fresh Moves (by TrasTick)
-- Fresh Animations (by FreshLX)
-- Just Expressions (by Ithan)
-- Slightly Improved Font (32x) (by LatvianModder)
-- Translations for Sodium (by robotkoer)
-- Complementary Shaders - Reimagined (by EminGT)
-- Complementary Shaders - Unbound (by EminGT)
-</details><!--Spoiler End-->
-
 
 <!--Crism Banner-->
 ![CrismPack Spacer](https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/79ESzz1-tiny.png)
 
 > ### Licencing Notice
 > This modpack is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed). Meaning that you may use it as a base to create your own modpacks, as long as proper credit is given.
+>
+> Mods, resource packs and shaderpacks by other authors keep their own licenses. The Breakneck logo and imagery aren't covered and remain all rights reserved.
 
 <br>
 

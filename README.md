@@ -36,3 +36,14 @@ Breakneck versions look like `5.0` or `5.3`. CurseForge and Modrinth list the Mi
 - **Backports** to an older Minecraft version take the version of the release they come from, plus that Minecraft version: 5.3 backported to 26.1 would be `5.3+26.1`.
 
 Versions up to 4.11.1 followed Minecraft's old numbering: the first number stood for the Minecraft version (4 for 1.21), the second for its patch (11 for 1.21.11), and the third for Breakneck's own updates.
+
+---
+
+### License
+
+Breakneck © 2021 by HaXr (CrismPack) has been licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) since 22 January 2025. You may use it as a base for your own modpacks, as long as you give proper credit.
+
+The license doesn't cover:
+
+- **Mods, resource packs and shaderpacks by other authors**, including those bundled in the exported packs. They keep their own licenses.
+- **The Breakneck logo and imagery**, such as the banners and the Breakneck Lang pack icon. These remain © HaXr (CrismPack), all rights reserved.
