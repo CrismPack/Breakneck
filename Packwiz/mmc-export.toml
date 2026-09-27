@@ -1,7 +1,0 @@
-name = "Breakneck: Optimized"
-author = "CrismPack"
-description = "Level up your vanilla client with increased FPS, quality of life enhancements, visual improvements and shaders!"
-
-[[File]]
-name = "packwiz-installer.jar"
-action = "remove"

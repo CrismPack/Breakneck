@@ -177,10 +177,6 @@ file = "config/zoomify.json"
 hash = "c42e6aae37ec87bc4833fb5a4694eda3bea723fed65a4acacc3ef306a4d2f013"
 
 [[files]]
-file = "instance.cfg"
-hash = "5ea5c12434bb9302f977fe6822e7dc4e8971b6c8e33aea4d89b5a630fe4b421a"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d51e28413e05c52dd0fe42da5c3f5beccbd488fa30c214446e63f5d7deddb316"
 metafile = true
@@ -334,10 +330,6 @@ metafile = true
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "7bee001a6ff4f5c69d578eebf5768c6e6ac815bd8c9b52ca2129736a96969d4a"
 metafile = true
-
-[[files]]
-file = "mods/disabled/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
