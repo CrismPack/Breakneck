@@ -189,3 +189,6 @@ cython_debug/
 #.idea/
 # Modpack tool working data
 .modpack-tool/
+
+# Unreleased release records; Publish commits each one with its release.
+Changelogs/data/*.json
