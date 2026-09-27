@@ -4,6 +4,11 @@
 # Packs that "Build release" creates: any of curseforge, modrinth, server.
 exports: [curseforge, modrinth]
 
+# Mods to leave out of only the CurseForge or only the Modrinth pack (slug, name or filename).
+# For example, a mod that isn't on that platform and whose license doesn't allow bundling it.
+curseforge_exclude: [voxy-worldgen]
+modrinth_exclude: []
+
 # Server pack: the folder copied into it (start scripts, server configs, extra jars in mods/)
 # and the mods to leave out (slug, name or jar filename).
 server_template: "Server Pack"
