@@ -20,7 +20,7 @@
 
 <!--Summary Text-->
 <p>
-	Get ready to take your vanilla Minecraft experience to the next level with Breakneck: Optimized! This modpack not only improves your performance with higher framerates and improved visuals, but also adds some quality of life enhancements to make your playing sessions as enjoyable as possible. And the best part? It's all client-side, so you can use it on any server without issue. Don't let lag hold you back – install Breakneck: Optimized and enjoy an upgraded gameplay experience.
+	Get ready to take your vanilla Minecraft experience to the next level with Breakneck Optimized! This modpack not only improves your performance with higher framerates and improved visuals, but also adds some quality of life enhancements to make your playing sessions as enjoyable as possible. And the best part? It's all client-side, so you can use it on any server without issue. Don't let lag hold you back – install Breakneck Optimized and enjoy an upgraded gameplay experience.
 </p>
 
 &nbsp;

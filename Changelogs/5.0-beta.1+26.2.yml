@@ -12,3 +12,4 @@ Bug Fixes:
 Script/Datapack changes:
 Config Changes: |-
   - Moved the default options, keybinds & configs from YOSBR to Default Options: [Default Options]
+  - Updated the config to the mod's new format and added a status for the pause menu: [Simple Discord RPC]

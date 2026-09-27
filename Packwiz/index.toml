@@ -34,7 +34,7 @@ hash = "4869048d97ed496a88ac1f461626ec007bfc335194e44ffb8566cab6f1a3d3e7"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "6338279deb9bf78bc45d8ebc0481870172243a39425786a9855b4a0ac556dda9"
+hash = "6c9eda029c01282dbbb30d2176435650dc88b73b468547f2fceceb7f7c25f411"
 
 [[files]]
 file = "config/customwindowtitle/icon.png"
@@ -166,7 +166,7 @@ hash = "e95580d3f3c68be011c7022021dd7ae0d7075601694b7f3b0f2a55071ae3e2ed"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "a74793490d3a92b5f26fba065571a08b4a103e2d955c7db481bedfad6c6119dd"
+hash = "1c79f68a9ce93f701f797124b465dc73abff6200dc25e9199b41d13ed5f4aedc"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -683,11 +683,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/assets/minecraft/lang/en_us.json"
-hash = "759a93356ad206da8702efec413ab7f933f16fdc8cbc73c1eafb6659d622d5a6"
+hash = "9cfbe6bbfc2c3b4737adc54ae86cc693826e62874e250a3b01a494664687fd90"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.mcmeta"
-hash = "02bfbb98bcc8e466e0f04b426c459ee2cca7d8902101f59c6f47ab9d63b46a46"
+hash = "548b09bd6a457278b55037c4f09b4fb83748c31ec2ad7b3b5abc0637025752a4"
 
 [[files]]
 file = "resourcepacks/Breakneck Lang/pack.png"

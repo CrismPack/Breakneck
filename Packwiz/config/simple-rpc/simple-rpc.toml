@@ -1,280 +1,401 @@
 
-#General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
+#General Config Section. See https://srpc.fdd-docs.com/introduction/
 [general]
 	#The Application ID of the Discord App to use
-	applicationID = 864611964080095272
+	applicationID = "864611964080095272"
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
 	debugging = false
-	#Enable/Disable the in game config screen. ONLY AVAILABLE WHEN CLOTH CONFIG IS INSTALLED!
-	configScreen = false
-	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	#Enable the detection of certain compatible launchers, allowing you to use their name and icon in your config
 	launcherIntegration = false
+	#Allow using local image files, as RPC icons
+	rpcImageServer = false
+	#The URL of the RPC image server that will be used for local images. Restart required when changed
+	rpcImageServerUrl = "https://rpcavatar.firstdark.dev"
 	#Internal Version Number. NO TOUCHY!
-	version = 18
+	version = 27
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[init.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "'Breakneck Optimized' is loading"
+		#The second line of text under the app name
+		state = "Game Starting..."
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[init.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[main_menu.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Currently chilling"
+		#The second line of text under the app name
+		state = "Main Menu"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[main_menu.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[server_list.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Looking for a server"
+		#The second line of text under the app name
+		state = "Multiplayer Menu"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[server_list.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Realms Screen event
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[realms_list.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Looking for a Realm"
+		#The second line of text under the app name
+		state = "Realms Menu"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[realms_list.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[join_game.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Joining a game"
+		#The second line of text under the app name
+		state = "Loading..."
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[join_game.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[single_player.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "In {{world.name}}"
+		#The second line of text under the app name
+		state = "Playing Singleplayer"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[single_player.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[multi_player.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "In {{world.name}}"
+		#The second line of text under the app name
+		state = "Playing on '{{server.name}}' with {{server.players.count}} players"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[multi_player.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Realms Game Event
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[realms.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Playing on {{realm.name}}"
+		#The second line of text under the app name
+		state = "Playing on a Realm"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[realms.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#The Paused Event
+[paused]
+	#Enable/Disable the Pause Event
+	enabled = true
+
+	#List of RPCs that will be displayed at random
+	[[paused.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "In the Pause Menu"
+		#The second line of text under the app name
+		state = "Game Paused"
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[paused.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
+
+#Fallback event for disabled events
+[generic]
+
+	#List of RPCs that will be displayed at random
+	[[generic.presence]]
+		#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+		type = "PLAYING"
+		#The first line of text under the app name
+		description = "Playing Minecraft"
+		#The second line of text under the app name
+		state = ""
+		#The Asset ID or URLs of images to randomly use for the large image
+		largeImageKey = ["{{custom.largeImageKey}}"]
+		#The text to show when someone hovers over the largeImage
+		largeImageText = "{{custom.largeImageText}}"
+		#The Asset ID or URLs of images to randomly use for the small image
+		smallImageKey = ["{{custom.smallImageKey}}"]
+		#The text to show when someone hovers over the smallImage
+		smallImageText = "{{custom.smallImageText}}"
+		#The Twitch or Youtube URL to use when type is set to STREAMING
+		streamingActivityUrl = "https://twitch.tv/twitch"
+		#List of buttons (max 2) to show on the RPC
+		[[generic.presence.buttons]]
+			label = "{{custom.CF_Button_Label}}"
+			url = "{{custom.CF_Button_URL}}"
 
 #Custom Config Variables that you can use
 [custom]
 	#Must these variables be parsed along with other variables
 	enabled = true
 	#Your custom variables to add
-    
-	#Image Keys
 	[[custom.variables]]
-        name = "largeImageKey"
-        value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/breakneck21.gif"
-    [[custom.variables]]
-        name = "smallImageKey"
-        value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/crism.png"
-	
-	#Image Text:
-    [[custom.variables]]
-        name = "largeImageText"
-        value = "Breakneck: Optimized - Minecraft %mcver%"
+		name = "largeImageKey"
+		value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/breakneck21.gif"
 	[[custom.variables]]
-        name = "smallImageText"
-        value = "Crism Modpacks"
-	
-	#Button label:
+		name = "smallImageKey"
+		value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/crism.png"
 	[[custom.variables]]
-        name = "CF_Button_Label"
-        value = "Download 'Breakneck: Optimized'"
-
-	#Button url:
+		name = "largeImageText"
+		value = "Breakneck Optimized - Minecraft {{game.version}}"
 	[[custom.variables]]
-        name = "CF_Button_URL"
-        value = "https://crismpack.net/breakneck/introduction.html"
-
-#The Game Loading event
-[init]
-	#Enable/Disable the Game Loading Event
-	enabled = true
-	#The first line of text under the app name
-	description = "'Breakneck: Optimized' is loading"
-	#The second line of text under the app name
-	state = "Game Starting..."
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[init.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Main Menu event
-[main_menu]
-	#Enable/Disable the Main Menu Event
-	enabled = true
-	#The first line of text under the app name
-	description = "Currently chilling"
-	#The seconds line of text under the app name
-	state = "Main Menu"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[main_menu.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Server List event
-[server_list]
-	#Enable/Disable the Server List Event
-	enabled = true
-	#The first line of text under the app name
-	description = "Looking for a server"
-	#The second line of text under the app name
-	state = "Multiplayer Menu"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[server_list.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Realms Screen event
-[realms_list]
-	#Enable/Disable the Realms Screen Event
-	enabled = true
-	#The first line of text under the app name
-	description = "Looking for a Realm"
-	#The second line of text under the app name
-	state = "Realms Menu"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[realms_list.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Join Game Event
-[join_game]
-	#Enable/Disable the Join Game Event
-	enabled = true
-	#The first line of text under the app name
-	description = "Joining a game"
-	#The second line of text under the app name
-	state = "Loading..."
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[join_game.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Single Player Event
-[single_player]
-	#Enable/Disable the Single Player Event
-	enabled = true
-	#The first line of text under the app name
-	description = "In %world%"
-	#The second line of text under the app name
-	state = "Playing Singleplayer"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[single_player.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Multi Player Event
-[multi_player]
-	#Enable/Disable the Multi Player Event
-	enabled = true
-	#The first line of text under the app name
-	description = "In %world%"
-	#The second line of text under the app name
-	state = "Playing on '%servername%' with %players% players"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[multi_player.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#The Realms Game Event
-[realms]
-	#Enable/Disable the Realms Game Event
-	enabled = true
-	#The first line of text under the app name
-	description = "Playing on %realmname%"
-	#The second line of text under the app name
-	state = "Playing on a Realm"
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[realms.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
-
-#Fallback event for disabled events
-[generic]
-	#The first line of text under the app name
-	description = "Playing Minecraft"
-	#The second line of text under the app name
-	state = ""
-	#The Asset ID of the image to display as the large image
-	largeImageKey = ["%largeImageKey%"]
-	#The text that gets displayed when the large image is hovered
-	largeImageText = "%largeImageText%"
-	#The Asset ID of the image to display as the small image
-	smallImageKey = ["%smallImageKey%"]
-	#The text that gets displayed when the small image is hovered
-	smallImageText = "%smallImageText%"
-
-	#The buttons to display on Discord
-	[[generic.buttons]]
-		label = "%CF_Button_Label%"
-		url = "%CF_Button_URL%"
+		name = "smallImageText"
+		value = "Crism Modpacks"
+	[[custom.variables]]
+		name = "CF_Button_Label"
+		value = "Download 'Breakneck Optimized'"
+	[[custom.variables]]
+		name = "CF_Button_URL"
+		value = "https://crismpack.net/breakneck/introduction.html"
 
 #Dimension Information Overrides
 [dimension_overrides]
 	#Allows you to override the displayed values for dimensions
-	enabled = true
+	enabled = false
 
 	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
 		name = "overworld"
-		description = "In the Overworld"
-		state = ""
-		largeImageKey = [""]
-		largeImageText = ""
-		smallImageKey = [""]
-		smallImageText = ""
-		buttons = []
 
-#	[[dimension_overrides.dimensions]]
-#		name = "the_nether"
-#		description = "In the Nether"
-#		state = ""
-#		largeImageKey = [""]
-#		largeImageText = ""
-#		smallImageKey = ["mclogo"]
-#		smallImageText = "%smallImageText%"
-#		buttons = []
+		#List of RPCs that will be displayed at random
+		[[dimension_overrides.dimensions.presence]]
+			#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+			type = "PLAYING"
+			#The first line of text under the app name
+			description = "{{player.name}} is in The Overworld"
+			#The second line of text under the app name
+			state = ""
+			#The Asset ID or URLs of images to randomly use for the large image
+			largeImageKey = ["overworld"]
+			#The text to show when someone hovers over the largeImage
+			largeImageText = "In the Overworld"
+			#The Asset ID or URLs of images to randomly use for the small image
+			smallImageKey = ["mclogo"]
+			#The text to show when someone hovers over the smallImage
+			smallImageText = "{{game.mods}} mods installed"
+			#The Twitch or Youtube URL to use when type is set to STREAMING
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			#List of buttons (max 2) to show on the RPC
+			buttons = []
 
-#	[[dimension_overrides.dimensions]]
-#		name = "the_end"
-#		description = "In the End"
-#		state = ""
-#		largeImageKey = [""]
-#		largeImageText = ""
-#		smallImageKey = [""]
-#		smallImageText = ""
-#		buttons = []
+	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
+		name = "the_nether"
+
+		#List of RPCs that will be displayed at random
+		[[dimension_overrides.dimensions.presence]]
+			#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+			type = "PLAYING"
+			#The first line of text under the app name
+			description = "{{player.name}} is in The Nether"
+			#The second line of text under the app name
+			state = ""
+			#The Asset ID or URLs of images to randomly use for the large image
+			largeImageKey = ["nether"]
+			#The text to show when someone hovers over the largeImage
+			largeImageText = "In the Nether"
+			#The Asset ID or URLs of images to randomly use for the small image
+			smallImageKey = ["mclogo"]
+			#The text to show when someone hovers over the smallImage
+			smallImageText = "{{game.mods}} mods installed"
+			#The Twitch or Youtube URL to use when type is set to STREAMING
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			#List of buttons (max 2) to show on the RPC
+			buttons = []
+
+	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
+		name = "the_end"
+
+		#List of RPCs that will be displayed at random
+		[[dimension_overrides.dimensions.presence]]
+			#The Activity type to use for this RPC. Valid types are: PLAYING, STREAMING, LISTENING, WATCHING, CUSTOM, COMPETING
+			type = "PLAYING"
+			#The first line of text under the app name
+			description = "{{player.name}} is in The End"
+			#The second line of text under the app name
+			state = ""
+			#The Asset ID or URLs of images to randomly use for the large image
+			largeImageKey = ["end"]
+			#The text to show when someone hovers over the largeImage
+			largeImageText = "In the End"
+			#The Asset ID or URLs of images to randomly use for the small image
+			smallImageKey = ["mclogo"]
+			#The text to show when someone hovers over the smallImage
+			smallImageText = "{{game.mods}} mods installed"
+			#The Twitch or Youtube URL to use when type is set to STREAMING
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			#List of buttons (max 2) to show on the RPC
+			buttons = []
 
