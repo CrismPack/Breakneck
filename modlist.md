@@ -55,10 +55,10 @@
 - Mouse Tweaks
 - No Chat Reports
 - Not Enough Animations
-- Numeral Ping
 - OptiGUI
 - Paginated Advancements & Custom Frames
 - Persistent Inventory Search
+- Ping View
 - Polytone
 - Prickle
 - Raised
