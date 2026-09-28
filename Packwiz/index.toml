@@ -512,11 +512,6 @@ hash = "00bb7b173be4ead135663449c2cc50036b1ff24ad1c164ba56fda9e3c3f60c8c"
 metafile = true
 
 [[files]]
-file = "mods/numeral-ping.pw.toml"
-hash = "941b5eb559675aa0928001c8006d621af63c67abe3eb3026e6b8a2928c98736f"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "14295613bad47c511a2d86a07ed6779e73d66ba3c56419fa4f0e8ce25ab761bf"
 metafile = true
@@ -529,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "608b5d12773b47e70694b81f0eef375c68ef5c639ad37bb21e914640160a3556"
+metafile = true
+
+[[files]]
+file = "mods/ping-view.pw.toml"
+hash = "8b4bed2afc433588cfd479236120575d61e55e909f8104af89c7011419eb09ca"
 metafile = true
 
 [[files]]
