@@ -13,7 +13,7 @@
 
 <!--Intro-->
 <p style="font-size: 18px;">
-	<strong>Breakneck Optimized</strong> is vanilla Minecraft, tuned. The best performance mods raise and steady your framerate, and <a href="https://modrinth.com/mod/voxy">voxy</a> draws the world far past your render distance, even with shaders on: all eight included shader packs support it. On top of that you get support for OptiFine resource packs and the quality-of-life tweaks you'd install anyway. Every mod runs on your side only, so it works on any server and in singleplayer.
+	<strong>Breakneck Optimized</strong> is vanilla Minecraft, tuned. The best performance mods raise and steady your framerate, and <a href="https://modrinth.com/mod/voxy">voxy</a> draws the world far past your render distance, even with shaders on: all included shader packs support it. On top of that you get support for OptiFine resource packs and the quality-of-life tweaks you'd install anyway. Every mod runs on your side only, so it works on any server and in singleplayer.
 </p>
 
 <!--Stats-->
@@ -92,10 +92,10 @@
 </p>
 
 <p style="text-align: center;">
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/benchmark.webp" alt="Benchmark in a world pregenerated hundreds of chunks out. With its default setup, 12 chunks and voxy, Breakneck gets 227 FPS against 157 FPS for vanilla at its maximum of 32 chunks, 45% more. At 12 chunks each, vanilla 372 FPS and Breakneck 460 FPS. At 32 chunks each, vanilla 157 FPS and Breakneck 287 FPS. Minecraft 26.2, Breakneck 5.0-beta.1, 1920x1009, shaders off, GTX 1660 Ti and i7-9750H."/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/benchmark.webp" alt="Benchmark in a world pregenerated 512 chunks out. With its default setup, 12 chunks and voxy, Breakneck gets 227 FPS against 157 FPS for vanilla at its maximum of 32 chunks, 45% more. At 12 chunks each, vanilla 372 FPS and Breakneck 460 FPS. At 32 chunks each, vanilla 157 FPS and Breakneck 287 FPS. Minecraft 26.2, Breakneck 5.0-beta.1, 1920x1009, shaders off, GTX 1660 Ti and i7-9750H."/>
 </p>
 <p style="font-size: 14px;">
-	Measured on Minecraft 26.2 with Breakneck 5.0-beta.1, in a world pregenerated hundreds of chunks out. With its default setup, 12 chunks and voxy, Breakneck shows far more of that world than vanilla at its maximum of 32 chunks, and still gets 45% more frames. The screenshots and settings are under <em>Benchmark details</em> at the bottom.
+	Measured on Minecraft 26.2 with Breakneck 5.0-beta.1, in a world pregenerated 512 chunks out. With its default setup, 12 chunks and voxy, Breakneck shows far more of that world than vanilla at its maximum of 32 chunks, and still gets 45% more frames. The screenshots and settings are under <em>Benchmark details</em> at the bottom.
 </p>
 
 
@@ -236,7 +236,7 @@
 <p><strong>Benchmark details</strong></p>
 <div class="spoiler"> <!--Spoiler Start-->
 <p>
-	All screenshots were taken in the same world, looking at the same spot, with the same settings apart from render distance and voxy: Minecraft 26.2, Breakneck 5.0-beta.1, a 1920×1009 window and no shaders. Vanilla defaults to 12 chunks and goes up to 32, while Breakneck defaults to 12 chunks with voxy. The world is fully pregenerated hundreds of chunks out, so voxy has real terrain to draw far past 32 chunks. The computer is a laptop with an Intel Core i7-9750H and a GeForce GTX 1660 Ti, and the game gets 6 GB of memory.
+	All screenshots were taken in the same world, looking at the same spot, with the same settings apart from render distance and voxy: Minecraft 26.2, Breakneck 5.0-beta.1, a 1920×1009 window and no shaders. Vanilla defaults to 12 chunks and goes up to 32, while Breakneck defaults to 12 chunks with voxy. The world is fully pregenerated 512 chunks out, so voxy has real terrain to draw far past 32 chunks. The computer is a laptop with an Intel Core i7-9750H and a GeForce GTX 1660 Ti, and the game gets 6 GB of memory.
 </p>
 <p>
 	The framerate is the game's own counter, with the rest of the F3 screen hidden on both sides. Breakneck's shots also show the render distance, as D. The last two screenshots show the full F3 screen on each side.

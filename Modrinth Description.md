@@ -12,7 +12,7 @@
 </p>
 
 <!--Intro-->
-**Breakneck Optimized** is vanilla Minecraft, tuned. The best performance mods raise and steady your framerate, and [voxy](https://modrinth.com/mod/voxy) draws the world far past your render distance, even with shaders on: all eight included shader packs support it. On top of that you get support for OptiFine resource packs and the quality-of-life tweaks you'd install anyway. Every mod runs on your side only, so it works on any server and in singleplayer.
+**Breakneck Optimized** is vanilla Minecraft, tuned. The best performance mods raise and steady your framerate, and [voxy](https://modrinth.com/mod/voxy) draws the world far past your render distance, even with shaders on: all included shader packs support it. On top of that you get support for OptiFine resource packs and the quality-of-life tweaks you'd install anyway. Every mod runs on your side only, so it works on any server and in singleplayer.
 
 <!--Stats-->
 <p align="center">
@@ -85,10 +85,10 @@ Turn one on in the video settings, or play without.
 [Sodium](https://modrinth.com/mod/sodium) rebuilds the renderer, [Lithium](https://modrinth.com/mod/lithium) and [C2ME](https://modrinth.com/mod/c2me-fabric) speed up game logic and chunk loading, and [FerriteCore](https://modrinth.com/mod/ferrite-core) and [ModernFix](https://modrinth.com/mod/modernfix-mvus) cut memory use. [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast), [More Culling](https://modrinth.com/mod/moreculling) and [AsyncParticles](https://modrinth.com/mod/asyncparticles) trim what's left, and [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) makes the game use fewer resources while it's in the background.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/benchmark.webp" alt="Benchmark in a world pregenerated hundreds of chunks out. With its default setup, 12 chunks and voxy, Breakneck gets 227 FPS against 157 FPS for vanilla at its maximum of 32 chunks, 45% more. At 12 chunks each, vanilla 372 FPS and Breakneck 460 FPS. At 32 chunks each, vanilla 157 FPS and Breakneck 287 FPS. Minecraft 26.2, Breakneck 5.0-beta.1, 1920x1009, shaders off, GTX 1660 Ti and i7-9750H."/>
+	<img src="https://raw.githubusercontent.com/CrismPack/CDN/main/desc/breakneck/optimized/benchmark.webp" alt="Benchmark in a world pregenerated 512 chunks out. With its default setup, 12 chunks and voxy, Breakneck gets 227 FPS against 157 FPS for vanilla at its maximum of 32 chunks, 45% more. At 12 chunks each, vanilla 372 FPS and Breakneck 460 FPS. At 32 chunks each, vanilla 157 FPS and Breakneck 287 FPS. Minecraft 26.2, Breakneck 5.0-beta.1, 1920x1009, shaders off, GTX 1660 Ti and i7-9750H."/>
 </p>
 
-<small>Measured on Minecraft 26.2 with Breakneck 5.0-beta.1, in a world pregenerated hundreds of chunks out. With its default setup, 12 chunks and voxy, Breakneck shows far more of that world than vanilla at its maximum of 32 chunks, and still gets 45% more frames. The screenshots and settings are under <em>Benchmark details</em> at the bottom.</small>
+<small>Measured on Minecraft 26.2 with Breakneck 5.0-beta.1, in a world pregenerated 512 chunks out. With its default setup, 12 chunks and voxy, Breakneck shows far more of that world than vanilla at its maximum of 32 chunks, and still gets 45% more frames. The screenshots and settings are under <em>Benchmark details</em> at the bottom.</small>
 
 
 &nbsp;
@@ -200,7 +200,7 @@ Our [RAM guide](https://crismpack.net/ram-allocation.html) shows how in each lau
 <details> <!--Spoiler Start-->
 <summary>Benchmark details</summary>
 
-All screenshots were taken in the same world, looking at the same spot, with the same settings apart from render distance and voxy: Minecraft 26.2, Breakneck 5.0-beta.1, a 1920×1009 window and no shaders. Vanilla defaults to 12 chunks and goes up to 32, while Breakneck defaults to 12 chunks with voxy. The world is fully pregenerated hundreds of chunks out, so voxy has real terrain to draw far past 32 chunks. The computer is a laptop with an Intel Core i7-9750H and a GeForce GTX 1660 Ti, and the game gets 6 GB of memory.
+All screenshots were taken in the same world, looking at the same spot, with the same settings apart from render distance and voxy: Minecraft 26.2, Breakneck 5.0-beta.1, a 1920×1009 window and no shaders. Vanilla defaults to 12 chunks and goes up to 32, while Breakneck defaults to 12 chunks with voxy. The world is fully pregenerated 512 chunks out, so voxy has real terrain to draw far past 32 chunks. The computer is a laptop with an Intel Core i7-9750H and a GeForce GTX 1660 Ti, and the game gets 6 GB of memory.
 
 The framerate is the game's own counter, with the rest of the F3 screen hidden on both sides. Breakneck's shots also show the render distance, as D. The last two screenshots show the full F3 screen on each side.
 
