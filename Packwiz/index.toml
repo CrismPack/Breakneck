@@ -729,6 +729,11 @@ hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
 file = "shaderpacks/glimmer-shaders.pw.toml"
 hash = "84c1accef6768a316d35ea643f420a98183b01bd7948a314676315491b80ecbb"
 metafile = true
