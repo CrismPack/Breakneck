@@ -15,7 +15,7 @@ server_template: "Server Pack"
 server_exclude: []
 
 # Suggest "<minecraft>-<release>" versions such as 26.2-1.0 when bumping or migrating.
-mc_prefixed_versions: True
+mc_prefixed_versions: False
 
 # Pre-releases (versions such as 26.2-1.0-beta.1 or 2.2.0-alpha.1):
 #   standalone: releases like any other, marked as possibly less stable or feature complete.

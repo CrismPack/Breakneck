@@ -1,7 +1,6 @@
 name = "[EMF] Entity Model Features"
 filename = "entity_model_features-3.3.8-26.2-fabric.jar"
 side = "client"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/uqpavrXj/entity_model_features-3.3.8-26.2-fabric.jar"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c34f5af2141926db430f9f6eead55a62b150ae6b12d5d97423259b3374a2cb77"
+hash = "edca3ceea3fb7b70665032b49eb56e7dd0954e74041c14e8a1b026fabdc86502"
 
 [[files]]
 file = "config/bhmenu/bhmenu-general.properties"
@@ -30,7 +30,7 @@ hash = "2ce5881af1d07821d2037de53e57de6d032993510c24bc16da7278e2e5945073"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "570dedb3eaf68616493907b044bc6d7b607209b10dc8283b10c4e36063ccb2e2"
+hash = "11fc7d9fe069d25830d9600d8d664b4cb4d3d3b8833bc2ab7a617d23abb1b0f4"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "85581651073884ebb1f7f3c53e044f4befe7b84425ae67b4781b6e9c15fbb952"
+hash = "a517e43d056bd75dbbdf2a6052dfa75f3031eccab1ac38ef45f2036a3a7d550a"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2c7716d3ad04c2dc38771184e2ef23523bd6ed4c88c922b13ad43e01914ee60c"
+hash = "3c70120a9ea5ce86f807e5f97c286c076b3671532dcf20576fb3fd8ca30ac736"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "568b401e76de2dffd12f42b14e063d0ab82998493c9bb4c80952028e06ff354e"
+hash = "439557bee10aa5bd953b12827e2b900c95042aed7dda2b2eda7805e0b235f760"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "89e01e31bfb003be8675d0682011cb1735d20325e7974e98e35950336f5036f2"
+hash = "59f646cc54f1287f331e3156612908b5a45804762b09453522044e38f498ec3e"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "048f98b35ea0bf11d519e4cac2ce49d0132babe3652f5ea50116a9ebbbca5fac"
+hash = "1f86e76fc51b47591e1356c196c1f78c1c41dfa92b21610dda00febe0429c16d"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "df11f6be83941d907e151cae5ecc8df19d260d254da2606b42ac1577717f4027"
+hash = "810fe4980a530d12b707841396dbccce4f7a9001c05e73c989a4be1868839168"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "3499c1c92a3e0f02c59dde528e5f89ca312d2e0aa1af8457586946579c17fe35"
+hash = "dcb0a8113780867b62a54acca02dd3b7c937755137d5546bb1f31d54775d9a19"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "982903be2d5462ebd3c62d4c6ae20eb8c2a92df0d001add9dc66db47b387bfe6"
+hash = "433b0748e630c3b7fb138fa12e8669f2b90f5985cbd78ce61ac52ddd0956219e"
 metafile = true
 
 [[files]]
@@ -523,12 +523,12 @@ metafile = true
 
 [[files]]
 file = "mods/persistent-inventory-search.pw.toml"
-hash = "608b5d12773b47e70694b81f0eef375c68ef5c639ad37bb21e914640160a3556"
+hash = "054914e1e1af0f71a9df7191d5a76d0a3998afae0227ddc73220dce128373c53"
 metafile = true
 
 [[files]]
 file = "mods/ping-view.pw.toml"
-hash = "8b4bed2afc433588cfd479236120575d61e55e909f8104af89c7011419eb09ca"
+hash = "f54d6ff950b028670c7e9b4679b76a072fe67bf1423892e2fbfa3a368c7f1dde"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "50b09b15e5b107d3cec60f0dba323bb6ec61562bcaf64fb275c398ea6b845001"
+hash = "f991be5c32281b75f4b1c3de7753d61d3fb4ca4aaab6a2915d8fb357c15f306f"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ hash = "82f807777951dd7fa5e4e8122b5ca1bebcafd0b3a509068500a5fbec11681c30"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0a89e1a7050c8cabaa97d3a784dd9ba9e8874edfa4fa8a6aba1cb88486f9726e"
+hash = "ac584cf51fde6553df96f977450bf6dddf5495cb788f65f8594f6b3b00d7071f"
 metafile = true
 
 [[files]]
