@@ -301,7 +301,7 @@
 	#Your custom variables to add
 	[[custom.variables]]
 		name = "largeImageKey"
-		value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/breakneck21.gif"
+		value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/breakneck.webp"
 	[[custom.variables]]
 		name = "smallImageKey"
 		value = "https://raw.githubusercontent.com/CrismPack/CDN/refs/heads/main/rpc/crism.png"

@@ -166,7 +166,7 @@ hash = "e95580d3f3c68be011c7022021dd7ae0d7075601694b7f3b0f2a55071ae3e2ed"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "1c79f68a9ce93f701f797124b465dc73abff6200dc25e9199b41d13ed5f4aedc"
+hash = "51b7eb478de9b27d63b9c77e2767e1d78ae6c33a83f0ccff7698c28a147e57c5"
 
 [[files]]
 file = "config/threadtweak.json"
