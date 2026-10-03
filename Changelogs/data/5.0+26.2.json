@@ -1,0 +1,885 @@
+{
+  "pack": "Breakneck",
+  "version": "5.0",
+  "minecraft": "26.2",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.19.5"
+  },
+  "released": "2026-10-03",
+  "prerelease": false,
+  "comparedTo": {
+    "version": "5.0-beta.1",
+    "minecraft": "26.2"
+  },
+  "overview": [
+    "Moved out of beta, as 5.0-beta.1 has proven to be quite stable.",
+    "Updated mods & resource packs."
+  ],
+  "changes": [],
+  "bugfixes": [],
+  "scriptChanges": [],
+  "configChanges": [
+    "Changed largeImageKey to use the new pack icon: [Simple Discord RPC]"
+  ],
+  "mods": {
+    "added": [],
+    "removed": [],
+    "updated": [
+      {
+        "name": "Architectury API",
+        "from": "architectury-fabric-21.1.10.jar",
+        "to": "architectury-fabric-21.1.11.jar"
+      },
+      {
+        "name": "Chat Heads",
+        "from": "chat_heads-1.3.0-fabric-26.1.jar",
+        "to": "chat_heads-1.3.1-fabric-26.1.jar"
+      },
+      {
+        "name": "Collective",
+        "from": "collective-26.2.0-8.40.jar",
+        "to": "collective-26.2.0-8.41.jar"
+      },
+      {
+        "name": "e4mc",
+        "from": "e4mc-fabric-6.2.1-modern.jar",
+        "to": "e4mc-fabric-6.2.3-modern.jar"
+      },
+      {
+        "name": "Inventory Profiles Next",
+        "from": "InventoryProfilesNext-fabric-26.2-2.3.7.jar",
+        "to": "InventoryProfilesNext-fabric-26.2-2.3.8.jar"
+      },
+      {
+        "name": "ItemSwapper",
+        "from": "itemswapper-fabric-1.0.0-beta.2-mc26.2+git.518b04a.jar",
+        "to": "itemswapper-fabric-1.0.0-beta.3-mc26.2.jar"
+      },
+      {
+        "name": "libIPN",
+        "from": "libIPN-fabric-26.2-6.8.3.jar",
+        "to": "libIPN-fabric-26.2-6.9.0.jar"
+      },
+      {
+        "name": "Persistent Inventory Search",
+        "from": "persistentinventorysearch-26.2.0-1.6.jar",
+        "to": "persistentinventorysearch-26.2.0-1.7.jar"
+      },
+      {
+        "name": "Ping View",
+        "from": "pingview-fabric-1.6.jar",
+        "to": "pingview-fabric-1.7.jar"
+      },
+      {
+        "name": "Resourcify",
+        "from": "Resourcify (26.2-fabric)-1.8.6.jar",
+        "to": "Resourcify (26.2-fabric)-1.8.7.jar"
+      }
+    ]
+  },
+  "resourcepacks": {
+    "added": [],
+    "removed": [],
+    "updated": [
+      {
+        "name": "Chat Reporting Helper",
+        "from": "Chat Reporting Helper.zip (hash 95925c04f8b8)",
+        "to": "Chat Reporting Helper.zip (hash aa96f74c7838)"
+      }
+    ]
+  },
+  "shaderpacks": {
+    "added": [],
+    "removed": [],
+    "updated": []
+  },
+  "contents": {
+    "mods": [
+      {
+        "name": "3D Skin Layers",
+        "file": "skinlayers3d-fabric-1.11.3-mc26.2.jar",
+        "url": "https://modrinth.com/mod/3dskinlayers",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "Ambient Environment",
+        "file": "AmbientEnvironment-fabric-26.2-26.2.1.jar",
+        "url": "https://modrinth.com/mod/ambient-environment",
+        "authors": [
+          "jaredlll08"
+        ]
+      },
+      {
+        "name": "Animatica Refabricated",
+        "file": "animatica-0.6.3+26.2.jar",
+        "url": "https://modrinth.com/mod/animaticarefabricated",
+        "authors": [
+          "Coredex"
+        ]
+      },
+      {
+        "name": "AppleSkin",
+        "file": "appleskin-fabric-mc26.2-3.0.10.jar",
+        "url": "https://modrinth.com/mod/appleskin",
+        "authors": [
+          "squeek502"
+        ]
+      },
+      {
+        "name": "Architectury API",
+        "file": "architectury-fabric-21.1.11.jar",
+        "url": "https://modrinth.com/mod/architectury-api",
+        "authors": [
+          "MaxNeedsSnacks"
+        ]
+      },
+      {
+        "name": "AsyncParticles",
+        "file": "AsyncParticles-26.2.2.9+26.2.jar",
+        "url": "https://modrinth.com/mod/asyncparticles",
+        "authors": [
+          "Harvey_Husky"
+        ]
+      },
+      {
+        "name": "Balm",
+        "file": "balm-fabric-26.2-26.2.0.9.jar",
+        "url": "https://modrinth.com/mod/balm",
+        "authors": [
+          "BlayTheNinth"
+        ]
+      },
+      {
+        "name": "Better Block Entities",
+        "file": "bbe-fabric-1.3.8-beta.1+mc26.2.jar",
+        "url": "https://modrinth.com/mod/better-block-entities",
+        "authors": [
+          "cseden"
+        ]
+      },
+      {
+        "name": "Capes",
+        "file": "capes-1.5.11+26.2.jar",
+        "url": "https://modrinth.com/mod/capes",
+        "authors": [
+          "caelthecolher"
+        ]
+      },
+      {
+        "name": "Chat Heads",
+        "file": "chat_heads-1.3.1-fabric-26.1.jar",
+        "url": "https://modrinth.com/mod/chat-heads",
+        "authors": [
+          "dzwdz"
+        ]
+      },
+      {
+        "name": "Cherished Worlds",
+        "file": "cherishedworlds-fabric-17.0.0+26.2.jar",
+        "url": "https://modrinth.com/mod/cherished-worlds",
+        "authors": [
+          "TheIllusiveC4"
+        ]
+      },
+      {
+        "name": "CIT Resewn Continuation",
+        "file": "citresewn-continuation-1.2.2-fork.13+26.2.jar",
+        "url": "https://modrinth.com/mod/cit-resewn-continuation",
+        "authors": [
+          "Thickstick"
+        ]
+      },
+      {
+        "name": "ClickThrough Plus",
+        "file": "clickthrough-plus-3.6.5+26.1.2-fabric.jar",
+        "url": "https://modrinth.com/mod/clickthrough+",
+        "authors": [
+          "Cassian"
+        ]
+      },
+      {
+        "name": "Client Tweaks",
+        "file": "clienttweaks-fabric-26.2-26.2.0.6.jar",
+        "url": "https://modrinth.com/mod/client-tweaks",
+        "authors": [
+          "BlayTheNinth"
+        ]
+      },
+      {
+        "name": "Cloth Config API",
+        "file": "cloth-config-26.2.155.jar",
+        "url": "https://modrinth.com/mod/cloth-config",
+        "authors": [
+          "shedaniel"
+        ]
+      },
+      {
+        "name": "Collective",
+        "file": "collective-26.2.0-8.41.jar",
+        "url": "https://modrinth.com/mod/collective",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Concurrent Chunk Management Engine",
+        "file": "c2me-fabric-mc26.2-0.4.1-beta.1.0.jar",
+        "url": "https://modrinth.com/mod/c2me-fabric",
+        "authors": [
+          "ishland"
+        ]
+      },
+      {
+        "name": "Continuity",
+        "file": "continuity-3.0.1+26.2.jar",
+        "url": "https://modrinth.com/mod/continuity",
+        "authors": [
+          "Pepper_Bell"
+        ]
+      },
+      {
+        "name": "Controllable",
+        "file": "controllable-fabric-26.2-0.26.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/controllable",
+        "authors": [
+          "MrCrayfish"
+        ]
+      },
+      {
+        "name": "Controlling",
+        "file": "Controlling-fabric-26.2-26.2.4.jar",
+        "url": "https://modrinth.com/mod/controlling",
+        "authors": [
+          "jaredlll08"
+        ]
+      },
+      {
+        "name": "Crash Assistant",
+        "file": "CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
+        "url": "https://modrinth.com/mod/crash-assistant",
+        "authors": [
+          "KostromDan"
+        ]
+      },
+      {
+        "name": "CraterLib",
+        "file": "CraterLib-Fabric-26.2-3.1.3.jar",
+        "url": "https://modrinth.com/mod/craterlib",
+        "authors": [
+          "hypherionsa"
+        ]
+      },
+      {
+        "name": "Cubes Without Borders",
+        "file": "cwb-4.1.0+26.2.jar",
+        "url": "https://modrinth.com/mod/cubes-without-borders",
+        "authors": [
+          "Kira-NT"
+        ]
+      },
+      {
+        "name": "Debugify",
+        "file": "debugify-26.2.0.1.jar",
+        "url": "https://modrinth.com/mod/debugify",
+        "authors": [
+          "isxander"
+        ]
+      },
+      {
+        "name": "Default Options",
+        "file": "defaultoptions-fabric-26.2-26.2.0.3.jar",
+        "url": "https://modrinth.com/mod/default-options",
+        "authors": [
+          "BlayTheNinth"
+        ]
+      },
+      {
+        "name": "Detail Armor Bar Reconstructed",
+        "file": "DetailArmorBarReconstructed-5.3.2-26.2-fabric.jar",
+        "url": "https://modrinth.com/mod/detail-armor-bar-reconstructed",
+        "authors": [
+          "Coredex"
+        ]
+      },
+      {
+        "name": "Dynamic FPS",
+        "file": "dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+        "url": "https://modrinth.com/mod/dynamic-fps",
+        "authors": [
+          "juliand665"
+        ]
+      },
+      {
+        "name": "e4mc",
+        "file": "e4mc-fabric-6.2.3-modern.jar",
+        "url": "https://modrinth.com/mod/e4mc",
+        "authors": [
+          "vgskye"
+        ]
+      },
+      {
+        "name": "EclipseUI",
+        "file": "EclipseUI-fabric-1.0.5+mc26.2-rc-2.jar",
+        "url": "https://modrinth.com/mod/eclipseui",
+        "authors": [
+          "Coredex"
+        ]
+      },
+      {
+        "name": "[EMF] Entity Model Features",
+        "file": "entity_model_features-3.3.8-26.2-fabric.jar",
+        "url": "https://modrinth.com/mod/entity-model-features",
+        "authors": [
+          "Traben"
+        ]
+      },
+      {
+        "name": "Enchantment Descriptions",
+        "file": "EnchantmentDescriptions-fabric-MC26.2-26.2.0.2.jar",
+        "url": "https://modrinth.com/mod/enchantment-descriptions",
+        "authors": [
+          "Darkhax"
+        ]
+      },
+      {
+        "name": "[ETF] Entity Texture Features",
+        "file": "entity_texture_features-7.2.4-26.2-fabric.jar",
+        "url": "https://modrinth.com/mod/entitytexturefeatures",
+        "authors": [
+          "Traben"
+        ]
+      },
+      {
+        "name": "Fabric API",
+        "file": "fabric-api-0.161.0+26.2.jar",
+        "url": "https://modrinth.com/mod/fabric-api",
+        "authors": [
+          "modmuss50"
+        ]
+      },
+      {
+        "name": "Fabric Language Kotlin",
+        "file": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+        "url": "https://modrinth.com/mod/fabric-language-kotlin",
+        "authors": [
+          "modmuss50"
+        ]
+      },
+      {
+        "name": "Falling Leaves",
+        "file": "fallingleaves-2.0.7+26.1.jar",
+        "url": "https://modrinth.com/mod/fallingleaves",
+        "authors": [
+          "Fourmisain"
+        ]
+      },
+      {
+        "name": "FastQuit",
+        "file": "fastquit-3.1.5+mc26.2.jar",
+        "url": "https://modrinth.com/mod/fastquit",
+        "authors": [
+          "contaria"
+        ]
+      },
+      {
+        "name": "FerriteCore",
+        "file": "ferritecore-9.0.0-fabric.jar",
+        "url": "https://modrinth.com/mod/ferrite-core",
+        "authors": [
+          "malte0811"
+        ]
+      },
+      {
+        "name": "Forge Config API Port",
+        "file": "ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+        "url": "https://modrinth.com/mod/forge-config-api-port",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "Framework",
+        "file": "framework-fabric-26.2-0.13.26.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/framework",
+        "authors": [
+          "MrCrayfish"
+        ]
+      },
+      {
+        "name": "ImmediatelyFast",
+        "file": "ImmediatelyFast-Fabric-1.16.5+26.2.jar",
+        "url": "https://modrinth.com/mod/immediatelyfast",
+        "authors": [
+          "RaphiMC"
+        ]
+      },
+      {
+        "name": "Inventory Profiles Next",
+        "file": "InventoryProfilesNext-fabric-26.2-2.3.8.jar",
+        "url": "https://modrinth.com/mod/inventory-profiles-next",
+        "authors": [
+          "blackd"
+        ]
+      },
+      {
+        "name": "Iris Shaders",
+        "file": "iris-fabric-1.11.2+mc26.2.jar",
+        "url": "https://modrinth.com/mod/iris",
+        "authors": [
+          "coderbot"
+        ]
+      },
+      {
+        "name": "ItemSwapper",
+        "file": "itemswapper-fabric-1.0.0-beta.3-mc26.2.jar",
+        "url": "https://modrinth.com/mod/itemswapper",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "LambdaBetterGrass",
+        "file": "lambdabettergrass-2.8.1+26.2.jar",
+        "url": "https://modrinth.com/mod/lambdabettergrass",
+        "authors": [
+          "LambdAurora"
+        ]
+      },
+      {
+        "name": "LambDynamicLights - Dynamic Lights",
+        "file": "lambdynamiclights-4.12.4+26.2.jar",
+        "url": "https://modrinth.com/mod/lambdynamiclights",
+        "authors": [
+          "LambdAurora"
+        ]
+      },
+      {
+        "name": "Language Reload",
+        "file": "language-reload-1.7.7+26.2.jar",
+        "url": "https://modrinth.com/mod/language-reload",
+        "authors": [
+          "Jerozgen"
+        ]
+      },
+      {
+        "name": "libIPN",
+        "file": "libIPN-fabric-26.2-6.9.0.jar",
+        "url": "https://modrinth.com/mod/libipn",
+        "authors": [
+          "blackd"
+        ]
+      },
+      {
+        "name": "Lithium",
+        "file": "lithium-fabric-0.25.3+mc26.2.jar",
+        "url": "https://modrinth.com/mod/lithium",
+        "authors": [
+          "jellysquid3"
+        ]
+      },
+      {
+        "name": "Mod Menu",
+        "file": "modmenu-20.0.3.jar",
+        "url": "https://modrinth.com/mod/modmenu",
+        "authors": [
+          "gniftygnome"
+        ]
+      },
+      {
+        "name": "ModernFix-mVUS",
+        "file": "modernfix-5.27.19-build.2.jar",
+        "url": "https://modrinth.com/mod/modernfix-mvus",
+        "authors": [
+          "Coredex"
+        ]
+      },
+      {
+        "name": "More Culling",
+        "file": "moreculling-fabric-26.2-1.8.1.jar",
+        "url": "https://modrinth.com/mod/moreculling",
+        "authors": [
+          "FX"
+        ]
+      },
+      {
+        "name": "Mouse Tweaks",
+        "file": "MouseTweaks-fabric-mc26.2-2.31.jar",
+        "url": "https://modrinth.com/mod/mouse-tweaks",
+        "authors": [
+          "YaLTeR"
+        ]
+      },
+      {
+        "name": "No Chat Reports",
+        "file": "NoChatReports-FABRIC-26.2-v2.20.2.jar",
+        "url": "https://modrinth.com/mod/no-chat-reports",
+        "authors": [
+          "Aizistral"
+        ]
+      },
+      {
+        "name": "Not Enough Animations",
+        "file": "notenoughanimations-fabric-1.12.5-mc26.2.jar",
+        "url": "https://modrinth.com/mod/not-enough-animations",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "OptiGUI",
+        "file": "optigui-2.3.0-beta.10+26.2.jar",
+        "url": "https://modrinth.com/mod/optigui",
+        "authors": [
+          "opekope2"
+        ]
+      },
+      {
+        "name": "Paginated Advancements & Custom Frames",
+        "file": "paginatedadvancements-2.8.0+26.2.jar",
+        "url": "https://modrinth.com/mod/paginatedadvancements",
+        "authors": [
+          "DaFuqs"
+        ]
+      },
+      {
+        "name": "Persistent Inventory Search",
+        "file": "persistentinventorysearch-26.2.0-1.7.jar",
+        "url": "https://modrinth.com/mod/persistent-inventory-search",
+        "authors": [
+          "Serilum"
+        ]
+      },
+      {
+        "name": "Ping View",
+        "file": "pingview-fabric-1.7.jar",
+        "url": "https://modrinth.com/mod/ping-view",
+        "authors": [
+          "karlsson1000"
+        ]
+      },
+      {
+        "name": "Polytone",
+        "file": "polytone-26.2-6.8.2-fabric.jar",
+        "url": "https://modrinth.com/mod/polytone",
+        "authors": [
+          "MehVahdJukaar"
+        ]
+      },
+      {
+        "name": "Prickle",
+        "file": "PrickleMC-fabric-MC26.2-26.2.0.3.jar",
+        "url": "https://modrinth.com/mod/prickle",
+        "authors": [
+          "Darkhax"
+        ]
+      },
+      {
+        "name": "Raised",
+        "file": "raised-fabric-26.2-6.0.2.jar",
+        "url": "https://modrinth.com/mod/raised",
+        "authors": [
+          "yurisuika"
+        ]
+      },
+      {
+        "name": "Reese's Sodium Options",
+        "file": "reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+        "url": "https://modrinth.com/mod/reeses-sodium-options",
+        "authors": [
+          "FlashyReese"
+        ]
+      },
+      {
+        "name": "Remove Reloading Screen",
+        "file": "rrls-5.2.8+mc.26.2.jar",
+        "url": "https://modrinth.com/mod/rrls",
+        "authors": [
+          "dima_dencep"
+        ]
+      },
+      {
+        "name": "Replanter Forked",
+        "file": "replanter-forked-2.3.4+26.2.jar",
+        "url": "https://modrinth.com/mod/replanterforked",
+        "authors": [
+          "Golinth"
+        ]
+      },
+      {
+        "name": "Resource Pack Overrides",
+        "file": "ResourcePackOverrides-v26.2.0-mc26.2.x-Fabric.jar",
+        "url": "https://modrinth.com/mod/resource-pack-overrides",
+        "authors": [
+          "Fuzs"
+        ]
+      },
+      {
+        "name": "Resourcify",
+        "file": "Resourcify (26.2-fabric)-1.8.7.jar",
+        "url": "https://modrinth.com/mod/resourcify",
+        "authors": [
+          "DeDiamondPro"
+        ]
+      },
+      {
+        "name": "Roughly Enough Items",
+        "file": "RoughlyEnoughItems-26.2.820.jar",
+        "url": "https://modrinth.com/mod/rei",
+        "authors": [
+          "shedaniel"
+        ]
+      },
+      {
+        "name": "Roughly Enough Professions",
+        "file": "RoughlyEnoughProfessions-fabric-26.2-9.0.0.jar",
+        "url": "https://modrinth.com/mod/roughly-enough-professions-rep",
+        "authors": [
+          "Mrbysco"
+        ]
+      },
+      {
+        "name": "Searchables",
+        "file": "Searchables-fabric-26.2-1.0.1.jar",
+        "url": "https://modrinth.com/mod/searchables",
+        "authors": [
+          "jaredlll08"
+        ]
+      },
+      {
+        "name": "Shulker Box Tooltip",
+        "file": "shulkerboxtooltip-fabric-5.4.1+26.2.jar",
+        "url": "https://modrinth.com/mod/shulkerboxtooltip",
+        "authors": [
+          "MisterPeModder"
+        ]
+      },
+      {
+        "name": "Simple Discord RPC",
+        "file": "SimpleRPC-4.1.4.jar",
+        "url": "https://modrinth.com/mod/simple-discord-rpc",
+        "authors": [
+          "hypherionsa"
+        ]
+      },
+      {
+        "name": "Simple Voice Chat",
+        "file": "voicechat-fabric-2.6.24+26.2.jar",
+        "url": "https://modrinth.com/mod/simple-voice-chat",
+        "authors": [
+          "henkelmax"
+        ]
+      },
+      {
+        "name": "Sodium",
+        "file": "sodium-fabric-0.9.1+mc26.2.jar",
+        "url": "https://modrinth.com/mod/sodium",
+        "authors": [
+          "IMS"
+        ]
+      },
+      {
+        "name": "Sodium Extra",
+        "file": "sodium-extra-fabric-0.9.4+mc26.2.jar",
+        "url": "https://modrinth.com/mod/sodium-extra",
+        "authors": [
+          "FlashyReese"
+        ]
+      },
+      {
+        "name": "Status Effect Bars",
+        "file": "status-effect-bars-1.0.12.jar",
+        "url": "https://modrinth.com/mod/status-effect-bars",
+        "authors": [
+          "A5b84"
+        ]
+      },
+      {
+        "name": "Tool Stats",
+        "file": "ToolStats-fabric-MC26.2-26.2.0.1.jar",
+        "url": "https://modrinth.com/mod/tool-stats",
+        "authors": [
+          "Darkhax"
+        ]
+      },
+      {
+        "name": "ViaFabricPlus",
+        "file": "ViaFabricPlus-5.0.2.jar",
+        "url": "https://modrinth.com/mod/viafabricplus",
+        "authors": [
+          "florianreuth"
+        ]
+      },
+      {
+        "name": "voxy",
+        "file": "voxy-0.2.19-beta.jar",
+        "url": "https://modrinth.com/mod/voxy",
+        "authors": [
+          "cortex"
+        ]
+      },
+      {
+        "name": "Voxy WorldGen",
+        "file": "Voxy World Gen V2-fabric-26.2-2.4.3.jar",
+        "url": "https://modrinth.com/mod/voxy-worldgen",
+        "authors": [
+          "iseeethan"
+        ]
+      },
+      {
+        "name": "Wavey Capes",
+        "file": "waveycapes-fabric-1.11.2-mc26.2.jar",
+        "url": "https://modrinth.com/mod/wavey-capes",
+        "authors": [
+          "tr7zw"
+        ]
+      },
+      {
+        "name": "Xaero's World Map",
+        "file": "xaeroworldmap-fabric-26.2-1.46.1.jar",
+        "url": "https://modrinth.com/mod/xaeros-world-map",
+        "authors": [
+          "thexaero"
+        ]
+      },
+      {
+        "name": "YetAnotherConfigLib",
+        "file": "yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+        "url": "https://modrinth.com/mod/yacl",
+        "authors": [
+          "isxander"
+        ]
+      },
+      {
+        "name": "Zoomify",
+        "file": "zoomify-2.16.3+26.2.jar",
+        "url": "https://modrinth.com/mod/zoomify",
+        "authors": [
+          "isxander"
+        ]
+      }
+    ],
+    "resourcepacks": [
+      {
+        "name": "Breakneck Lang",
+        "file": "Breakneck Lang"
+      },
+      {
+        "name": "Chat Reporting Helper",
+        "file": "Chat Reporting Helper.zip",
+        "url": "https://modrinth.com/resourcepack/chat-reporting-helper",
+        "authors": [
+          "robotkoer"
+        ]
+      },
+      {
+        "name": "Fresh Animations",
+        "file": "FreshAnimations_v1.10.5.zip",
+        "url": "https://modrinth.com/resourcepack/fresh-animations",
+        "authors": [
+          "FreshLX"
+        ]
+      },
+      {
+        "name": "Fresh Animations: Player Extension",
+        "file": "FA+Player-v1.1.zip",
+        "url": "https://modrinth.com/resourcepack/fa-player-extension",
+        "authors": [
+          "FreshLX"
+        ]
+      },
+      {
+        "name": "Just Expressions",
+        "file": "JustExpressions_v1.2.1.zip",
+        "url": "https://modrinth.com/resourcepack/just-expressions",
+        "authors": [
+          "IthanMendoza"
+        ]
+      },
+      {
+        "name": "Slightly Improved Font",
+        "file": "Slightly-Improved-Font-1.1.5.zip",
+        "url": "https://modrinth.com/resourcepack/slightly-improved-font",
+        "authors": [
+          "Lat"
+        ]
+      },
+      {
+        "name": "Translations for Sodium",
+        "file": "SodiumTranslations.zip",
+        "url": "https://modrinth.com/resourcepack/translations-for-sodium",
+        "authors": [
+          "robotkoer"
+        ]
+      }
+    ],
+    "shaderpacks": [
+      {
+        "name": "BSL Shaders",
+        "file": "BSL_v10.1.8.zip",
+        "url": "https://modrinth.com/shader/bsl-shaders",
+        "authors": [
+          "CaptTatsu"
+        ]
+      },
+      {
+        "name": "Complementary Shaders - Reimagined",
+        "file": "ComplementaryReimagined_r5.9.3.zip",
+        "url": "https://modrinth.com/shader/complementary-reimagined",
+        "authors": [
+          "EminGT"
+        ]
+      },
+      {
+        "name": "Glimmer",
+        "file": "Glimmer-v1.5.2.zip",
+        "url": "https://modrinth.com/shader/glimmer-shaders",
+        "authors": [
+          "jbritain"
+        ]
+      },
+      {
+        "name": "I Like Vanilla",
+        "file": "I Like Vanilla v1.5.0.zip",
+        "url": "https://modrinth.com/shader/i-like-vanilla",
+        "authors": [
+          "What42"
+        ]
+      },
+      {
+        "name": "Mellow",
+        "file": "Mellow v3.4.1a.zip",
+        "url": "https://modrinth.com/shader/mellow",
+        "authors": [
+          "TheCMK"
+        ]
+      },
+      {
+        "name": "Photon Shaders",
+        "file": "photon_v1.3b.zip",
+        "url": "https://modrinth.com/shader/photon-shader",
+        "authors": [
+          "sixthsurge"
+        ]
+      },
+      {
+        "name": "Reverie",
+        "file": "Reverie Beta v0.9.zip",
+        "url": "https://modrinth.com/shader/reverie_shader",
+        "authors": [
+          "TheCMK"
+        ]
+      },
+      {
+        "name": "Solas Shader",
+        "file": "Solas Shader V3.7b.zip",
+        "url": "https://modrinth.com/shader/solas-shader",
+        "authors": [
+          "Septonious"
+        ]
+      }
+    ]
+  }
+}

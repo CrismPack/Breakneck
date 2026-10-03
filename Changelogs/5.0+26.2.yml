@@ -6,4 +6,5 @@ Update overview:
 Changes/Improvements:
 Bug Fixes:
 Script/Datapack changes:
-Config Changes:
+Config Changes: |-
+  - Changed largeImageKey to use the new pack icon: [Simple Discord RPC]
